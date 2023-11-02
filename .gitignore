@@ -9,6 +9,7 @@
 !*.csv
 !*.txt
 !.gitignore
+!srp.pac
 !README.md
 
 # Images
