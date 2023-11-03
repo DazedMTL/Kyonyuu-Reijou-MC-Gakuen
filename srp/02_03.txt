@@ -9,81 +9,81 @@
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あら……？　これは……何だったかしら……
+Arisa
+Oh...? What was that... I wonder...
 C01a02030001
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-アリサ、どうかなさいましたか
+Yuriko
+Arisa, what's the matter?
 C02a02030001
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-友里子……あなた、これに心当たりはない？
+Arisa
+Yuriko... Do you have any idea about this?
 C01a02030002
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい？　オルゴール……ですか？
+Yuriko
+Yes? An music box... is it?
 C02a02030002
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-机の中に入っていたの。何か大切なものだったような気がするのだけど……
+Arisa
+It was inside the desk. I have a feeling it was something\nimportant...
 C01a02030003
 
 00003000
-友里子
-机にですか……それは、確かに何か大切なものかも知れませんが
+Yuriko
+On the desk... That might indeed be something important.
 C02a02030003
 
 00003000
-アリサ
-……どうやら、心当たりはなさそうね
+Arisa
+...It seems like I have no idea.
 C01a02030004
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-お役に立てず、申し訳ありません
+Yuriko
+I apologize for not being of any help.
 C02a02030004
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-いえ、いいのよ。もしかしたら、また何か思い出すかも知れないし……でも、何か引っかかるような……
+Arisa
+No, it's fine. Maybe I'll remember something else... But\nthere's something bothering me...
 C01a02030005
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……調べてみましょうか
+Yuriko
+...Shall we investigate?
 C02a02030005
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-ああ、いえ、大丈夫。もし必要だと思ったら、改めてお願いするわ
+Arisa
+Ah, no, it's fine. If I think it's necessary, I'll ask again\nlater.
 C01a02030006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-心得ました
+Yuriko
+Understood.
 C02a02030006
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
@@ -93,32 +93,32 @@ C02a02030006
 0300000000000F2742474D3033
 
 00002000
-拓海
-…………へぇ……
+Takumi
+Hmmm...
 
 00000000
-放課後、理事長室で軽く一プレイと考えていた僕は、偶然二人のやり取りを覗き見て、部屋に入らずそっと入り口から離れていった。
+After school, I had planned to have a quick play session in\nthe principal's office, but by chance, I happened to\noverhear their conversation and quietly moved away from the\nentrance without entering the room.
 
 00002000
-拓海
-やっぱり、まだ記憶が完全に書き換わってる訳じゃないんだな……
+Takumi
+Looks like my memories haven't been completely rewritten\nafter all...
 
 00000000
-友里子の方は、そこまで違和感を持っていなかったようだけど、アリサの方はさすがに……という所か。
+It seems that Yuriko didn't feel much discomfort about it, \nbut Arisa, on the other hand, understandably...
 
 00002000
-拓海
-どうしよう……もう一度強く刷り込み直して……いや……
+Takumi
+What should I do... Should I try to forcefully overwrite my\nmemories again... No...
 
 00000000
-予め施しておいた保険を思い出し、僕は頭の中で軽くシミュレーションを巡らせる。
+I recall the insurance I had prepared in advance and\nmentally run a quick simulation in my head.
 
 00002000
-拓海
-そうだな……一度位なら、これ位は試してみても……
+Takumi
+Yeah... I guess I could try something like this once...
 
 00000000
-思い描いたイメージに情欲を燃やしながら、僕は教室へと戻っていった。
+With desire burning in my mind, I returned to the classroom.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -127,29 +127,29 @@ C02a02030006
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a02030007
 
 00002000
-拓海
-ああ、吉祥寺さん。ちょうどよかった。ちょっといいですか？
+Takumi
+Ah, Kisshouji-san. It's good timing. Can I talk to you for a\nmoment?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……何ですの？
+Arisa
+...What is it?
 C01a02030008
 
 00000000
-教室に戻ってきたアリサに気安い感じで話しかけると、案の定アリサは渋面で睨みつけてきた。
+When I casually approached Arisa, who had returned to the\nclassroom, she gave me a cold glare as expected.
 
 00000000
-その根底には、僕ごときが自分なんかに話しかけるなという選民思想が根強く残っている。
+At its core, there is a strong sense of elitism that tells\nme, someone like me, not to speak to myself or anyone like\nme.
 
 00000000
-改めて彼女に遠慮する必要はないなと確信しながら、僕はそっと手元のオルゴールを見せつけた。
+While reaffirming that I don't need to hold back with her, I\ngently showed her the music box in my hand.
 
 0300000000000F2742474D3036
 
@@ -158,266 +158,266 @@ C01a02030008
 0200E6000000090000000000000000006400640064006400E803E803F40166696C746572303031
 
 00002000
-拓海
-吉祥寺さん、このオルゴールに見覚えないかな？
+Takumi
+Kisshouji-san, do you recognize this music box?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-オルゴール……？　な……あ、あなたがどうしてそれを……んくっ……
+Arisa
+A music box...? Wha... Why do you have that... *gulp*
 C01a02030009
 
 00000000
-それは、理事長室で見たオルゴールとほぼ同じ形をしているオルゴール。
+It's a music box that has almost the same shape as the one I\nsaw in the principal's office.
 
 00000000
-僕の手のひらにあるそれを見つめ、眉間に手を押さえ、その正体を見極めようとした。
+I stared at it in the palm of my hand, furrowing my brows\nand trying to discern its true identity.
 
 02007F10
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00002000
-拓海
-ふふ……分からない？　ヒントは、そうだな……マインドコントロール……かな
+Takumi
+Hehe... You don't understand? Well, let me give you a\nhint... Mind control, perhaps?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-マインドコントロール……っ……！？
+Arisa
+Mind control...?!
 C01a02030010
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00000000
-その言葉を繰り返した次の瞬間、サッとアリサの表情が青ざめ、絶句したまま僕を見る。
+The next moment, after repeating those words, Arisa's\nexpression quickly paled, and she stared at me in silence.
 
 00002000
-拓海
-もしかしたら、思い出したかな？
+Takumi
+Maybe you remembered something?
 
 00003000
-アリサ
-まさか……そんな……いつっ、どこから……？　何で……そ、そんな筈はっ……！
+Arisa
+No way... something like that... when, from where...? Why...\nth-there's no way...!
 C01a02030011
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-っ！　あ、あなた……それじゃ、あれはっ……あ、あなたがっ……！
+Arisa
+*gasp* Y-You... then, that means... you...!
 C01a02030012
 
 00002000
-拓海
-あれはって……うーん、何のことだろうね。それだけじゃ、ちょっと心当たりがないかなぁ
+Takumi
+"That is... hmm, I wonder what you're referring to. Just\nthat alone, I don't really have any idea."
 
 00003000
-アリサ
-ウソよ……ありえないわ……け、けど……！
+Arisa
+That's a lie... It can't be true... B-but...!
 C01a02030013
 
 00000000
-白々しくとぼける僕だったが、頭の中では色々と心当たりが浮かぶんだろう。
+"I was pretending to be clueless, but various things come to\nmind in my head."
 
 00000000
-果たして、マインドコントロール中の記憶がどの程度残っていたか……どちらにしても次にアリサがすることと言えば。
+"I wonder how much of the memories from when she was under\nmind control still remain... In any case, the next thing\nArisa will do is."
 
 00003000
-アリサ
-い、今すぐそれを返しなさいっ！
+Arisa
+R-Return it right now!
 C01a02030014
 
 00000000
-案の定、必死になって僕からオルゴールを奪おうとするアリサだったが――
+As expected, it was Arisa who desperately tried to snatch\nthe music box from me--
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あっ……っくっ！？
+Arisa
+Ah... *gasp*!?
 C01a02030015
 
 00000000
-瞬間、ビクッとアリサの動きが止まり、そのまま棒立ちになってしまう。
+In an instant, Arisa's movement freezes and she becomes\ncompletely still.
 
 00003000
-アリサ
-なっ……こ、これは……一体……くっ……ぅぅっ……
+Arisa
+Wha... what is this... what on earth... *gasp*... ugh...
 C01a02030016
 
 00002000
-拓海
-うん、まぁね……もしかしたら、こんなこともあるんじゃないかと思ってさ。保険をかけておいたんだ
+Takumi
+Yeah, well... I thought that something like this might\nhappen, so I took precautions.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-かっ、からだ……がっ……っく……何で……
+Arisa
+M-My... body... *gasp*... why...
 C01a02030017
 
 00002000
-拓海
-無理だよ。だって、アリサは自分が操られていたって思い出しちゃったんでしょう？
+Takumi
+It's impossible. Because Arisa remembered that she was being\ncontrolled, right?
 
 00003000
-アリサ
-だったら……くっ、何がっ……
+Arisa
+If that's the case... *grunts* What...
 C01a02030018
 
 00002000
-拓海
-僕はね、このオルゴールを手に入れてから、自分なりに催眠やマインドコントロールの勉強をしたんだ
+Takumi
+You know, ever since I got my hands on this music box, I've\nbeen studying hypnosis and mind control in my own way.
 
 00002000
-拓海
-掛かりやすい人、掛かりにくい人。掛かりやすい内容、掛かりにくい内容
+Takumi
+People who are easily influenced, and people who are not.\nContent that is easy to be influenced by, and content that\nis difficult to be influenced by.
 
 00002000
-拓海
-例えば、意志が強い人間には、マインドコントロールでの刷り込みも万全じゃない。何かのきっかけに解けてしまうこともある
+Takumi
+For example, even with strong-willed individuals, the\nimprinting through mind control is not foolproof. There are\ntimes when it can be undone by some trigger.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a02030019
 
 00002000
-拓海
-じゃあ、どんなきっかけで解けるんだろうとか、逆に定着させるにはどうすればいいかとか、色々試してね
+Takumi
+Well then, try various things like figuring out what\ntriggers can undo it, or on the contrary, how to make it\nmore firmly established.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-な、何が言いたいの……っく……
+Arisa
+W-What are you trying to say... *gulp*...
 C01a02030020
 
 00002000
-拓海
-アリサは、ずっとこれで僕達を支配していた。その記憶は、簡単に上書きできるものじゃない
+Takumi
+Arisa has been controlling us all this time. Those memories\nare not something that can be easily overwritten.
 
 00002000
-拓海
-でも、それを逆手に取った刷り込みも出来る。例えば、自分が操られていることを理解したら首から下が動けなくなるとかね
+Takumi
+However, it's also possible to use that to our advantage and\ncreate reverse imprinting. For example, if someone\nunderstands that they are being controlled, they might\nbecome unable to move from the neck down.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-っ……だっ、誰か……あっ……っ
+Arisa
+*gasp*... Wh-who... ah...
 C01a02030021
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00000000
-大きく叫ぼうとしたアリサは、しかし、自分の声が急につっかえてしまうことに驚きの顔を浮かべる。
+Arisa, who tried to scream loudly, but her voice suddenly\nchoked, had a surprised expression on her face.
 
 00002000
-拓海
-今、助けを呼ぼうとしたでしょ。ごめんね、それも出来ないようにしてあるんだ
+Takumi
+You were trying to call for help just now, right? I'm sorry, \nbut I've made it so you can't do that either.
 
 00002000
-拓海
-本当は身体全部が動けないようにしてやる方が簡単なんだけど。でも、それだけじゃ、面白くないしね
+Takumi
+Actually, it would be easier to make your entire body unable\nto move. But, that alone wouldn't be interesting, you know.
 
 00000000
-アリサの意志の強さ、そしてオルゴールを扱っていた者としての危険さは十分に分かっていた。
+I fully understood Arisa's strong will and the danger of her\nbeing someone who handled the music box.
 
 00000000
-だからこそ、アリサには念には念をと、様々な保険となる刷り込みを施していた。
+That's why, in order to be extra cautious with Arisa, I had\nimplemented various forms of conditioning as insurance.
 
 00002000
-拓海
-今回、やっぱりきっかけになるモノが思い出す助けになるって分かったから、また違う刷り込みを施すことにするよ
+Takumi
+This time, I've realized that something that serves as a\ntrigger can help bring back memories, so I've decided to\napply a different form of imprinting.
 
 00002000
-拓海
-今度は余計なことを考えず、僕の精液さえ貰えれば十分幸せだと思えるように念入りにね
+Takumi
+This time, without thinking about unnecessary things, I will\nthoroughly make sure that you can feel happy as long as you\nreceive my semen.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-や……めなさっ……く……そんなこと許されると……
+Arisa
+N-no... don't... if something like that is allowed...
 C01a02030022
 
 00002000
-拓海
-許されないことを平気でしてたのはそっちでしょ？　今更やられる側になって文句をいうのは違わない？
+Takumi
+Weren't you the one who did unacceptable things without\nhesitation? It's not fair for you to complain now that\nyou're the one being done to, is it?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-っ……ぐっ……あっ……
+Arisa
+*gasp*... Guh... Ah...
 C01a02030023
 
 00002000
-生徒Ａ
-あれ？　吉祥寺さん、どうしたんです？
+Student A
+Huh? Kisshouji-san, what's wrong?
 
 00002000
-生徒Ｂ
-池ノ上と……珍しい組み合わせですね
+Student B
+Ikenoue and... what an unusual combination.
 
 00000000
-その時、教室に残っていた生徒が不思議そうに話しかけてきた。
+At that moment, a student who had stayed in the classroom\napproached us with a curious expression.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あ……なっ……
+Arisa
+Ah...na...
 C01a02030024
 
 00002000
-拓海
-ああ、ちょうど良かった。実はこれから、精液採取の為に吉祥寺さんが身体を提供してくれることになったんだけど
+Takumi
+Ah, thank goodness. Actually, from now on, Kisshouji-san has\nagreed to provide her body for semen collection.
 
 00003000
-アリサ
-…………っ！
+Arisa
+...!
 C01a02030025
 
 00002000
-拓海
-もし良かったら、君たちも残った精液を分けてあげようかなって思うんだけど、どうかな？
+Takumi
+If it's alright with you, I was thinking of sharing the\nremaining semen with all of you. What do you think?
 
 00002000
-生徒Ａ
-えっ、吉祥寺さん……いいんですか！？
+Student A
+Huh? Kisshouji-san... is that okay!?
 
 00002000
-生徒Ｂ
-私達も……貰っていいの？
+Student B
+Can we... receive it too?
 
 00002000
-拓海
-もちろん。但し、ちゃんと僕達のしてるとこを見るってことが条件だけど
+Takumi
+Of course. However, the condition is that you watch us while\nwe do it properly.
 
 00002000
-生徒Ａ
-そんなの、全然ＯＫでーす
+Student A
+That's totally okay!
 
 00002000
-生徒Ｂ
-見てれば……精液……貰えるんだ……
+Student B
+If you watch... you can receive... semen...
 
 00000000
-パッと表情を輝かせる女の子達を、アリサは信じられないような目で見ている。
+Arisa is looking at the girls whose expressions suddenly\nbrightened with an unbelievable look.
 
 00002000
-拓海
-と、言うわけだから。しっかり精液を絞りとれるよう、身体を使わせてもらうよ
+Takumi
+So, that's the plan. I'll make sure to use my body to\nextract semen properly.
 
 00000000
-ニヤリと笑いながら、僕は身動きの取れないアリサに近づいていった。
+With a smirk on my face, I approached the immobilized Arisa.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

@@ -15,249 +15,249 @@
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-こちらが報告書です。予算申請は問題ないものばかりでしたので、後は承認をいただければ手続きは完了です
+Yuriko
+Here is the report. There were no issues with the budget\nrequest, so once we receive approval, the process will be\ncomplete.
 C02a04040001
 
 00003000
-アリサ
-……ええ、分かったわ
+Arisa
+...Yes, I understand.
 C01a04040001
 
 00000000
-今日も、いつもの様に理事長室の席に座り、アリサと友里子の仕事ぶりに耳を傾ける。
+Today, as usual, I sit in the chairman's office and listen\nto Arisa and Yuriko's work performance.
 
 00000000
-流石にこれだけ毎日話を聞いていると、仕事の流れも徐々にだが掴めるようにはなって来た。
+"As expected, by listening to their conversations every day, \nI have gradually started to grasp the flow of their work."
 
 00000000
-まあ、それで僕が二人に口出しをするかと言えばもちろん否だ。
+Well, as for whether I would interfere with the two of them, \nof course not.
 
 00000000
-何となく今の学園の流れを把握しておいて、急に困るようなことがなければ、それでいいのだ。
+It's fine as long as I have a general understanding of the\ncurrent flow of the school and nothing suddenly becomes a\nproblem.
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-それから、本家の方についての出向の者からレポートが届いております。まだ、高尾家との問題が広がっている件で……
+Yuriko
+And also, we have received a report from the person who was\nsent to the main house. It's regarding the ongoing issue\nwith the Takao family...
 C02a04040002
 
 00000000
-更に友里子は、新たな吉祥寺家の動向についての報告を始めたのだが――
+Furthermore, Yuriko began her report on the latest\ndevelopments regarding the Kisshouji family...
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
+Arisa
 ………………
 C01a04040002
 
 00000000
-どうも心ここにあらずと言うべきか、アリサの表情がいつもより固い。
+It seems that Arisa's expression is unusually tense, as if\nher mind is elsewhere.
 
 00000000
-一応は耳を傾けてはいるようだが、自分が指示したことを忘れてしまったかのような雰囲気だ。
+It seems like she is listening, but there is an atmosphere\nas if she has forgotten the instructions I gave.
 
 00003000
-友里子
-報告は以上です
+Yuriko
+That's all for the report.
 C02a04040003
 
 00003000
-アリサ
+Arisa
 ………………
 C01a04040003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-アリサ……？
+Yuriko
+Arisa...?
 C02a04040004
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-え……？　あ、あぁ……ええ、ありがとう。ご苦労様でした
+Arisa
+Eh...? Ah, ah... Yes, thank you. Good work.
 C01a04040004
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-アリサ……大丈夫ですか？　顔色が優れないような……少し休まれた方がいいのでは……
+Yuriko
+Arisa... Are you okay? Your complexion doesn't look good...\nMaybe you should take a little break...
 C02a04040005
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-いえ……大丈夫よ。心配ないわ
+Arisa
+No... I'm fine. Don't worry about me.
 C01a04040005
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そうですか……それなら、いいのですが……
+Yuriko
+I see... If you say so, then it's fine...
 C02a04040006
 
 00000000
-心配そうな顔をする友里子に、アリサはふっと小さくため息をつく。
+Arisa let out a small sigh as Yuriko looked at her with a\nworried expression.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-……あなたは本当によく目が届くのね。とても優秀で……それこそ、私なんかよりずっと……
+Arisa
+...You really have a keen eye. You're very capable... much\nmore so than someone like me...
 C01a04040006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-え……？　な、何を言うんです、アリサ
+Yuriko
+Eh...? W-What are you saying, Arisa?
 C02a04040007
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-今まで、何も知らずに甘えてたけど……私……知らないうちに、随分迷惑を掛けていたのかもしれないわね……
+Arisa
+Until now, I've been relying on others without knowing\nanything... I might have caused a lot of trouble without\neven realizing it...
 C01a04040007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-アリサ……待ってください。私は全くそのようなことは……
+Yuriko
+Arisa... Please wait. I have never done anything like\nthat...
 C02a04040008
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-……そうね。何だかつまらないことを言ってしまったわね。ごめんなさい、友里子の言う通り疲れているのかもしれないわ
+Arisa
+...I see. I guess I said something boring. I'm sorry, maybe\nI am tired like Yuriko said.
 C01a04040008
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あ……でしたら、保健室に……
+Yuriko
+Ah... In that case, you should go to the infirmary...
 C02a04040009
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-大丈夫よ。一足先に、教室へ戻っているから。何かあったら、また連絡して頂戴
+Arisa
+It's okay. I'll go back to the classroom ahead of you. If\nanything happens, please let me know.
 C01a04040009
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-は、はい……
+Yuriko
+Y-Yes...
 C02a04040010
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00000000
-どこか近寄りがたいオーラを漂わせたまま、アリサはふらりと理事長室を出て行ってしまった。
+Arisa, with an aura that made her seem unapproachable, \ncasually left the principal's office.
 
 00002000
-拓海
-アリサにも一人になりたい時くらいあるさ。そっとしておいてあげたら？
+Takumi
+Arisa probably wants to be alone sometimes too. Shouldn't we\nleave her alone?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
+Yuriko
 ………………
 C02a04040011
 
 00000000
-お前に何が分かると言わんばかりの表情で睨まれてしまったが、友里子は反論もなく、自らも慌ただしく帰り支度を始める。
+Yuriko, with a look that seemed to say "What do you\nunderstand?", was glared at, but without any retort, she\nherself began hurriedly preparing to leave.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-お先に失礼します
+Yuriko
+Excuse me for leaving ahead of you.
 C02a04040012
 
 02008C00010000
 
 00000000
-一応それだけは言って、友里子も部屋を出て行く。
+Just to be clear, I'll also leave the room.
 
 00000000
-果たして、アリサを追いかけて行ったんだろうか。いや、友里子の性格上はそこまで踏み込むことはしなさそうだ。
+Did she really go after Arisa? No, considering Yuriko's\npersonality, she probably wouldn't go that far.
 
 0300000000000F2742474D3130
 
 00002000
-拓海
-ふふ……またモヤモヤが強くなってきたのかな
+Takumi
+Hehe... I wonder if that feeling of unease is getting\nstronger again.
 
 00000000
-この所、少しずつ学校内に広がっているアリサと友里子の噂が、微妙にアリサの意識を変え始めて来たのかも知れない。
+It's possible that the rumors about Arisa and Yuriko, which\nhave been gradually spreading throughout the school, are\nsubtly starting to affect Arisa's awareness.
 
 00002000
-拓海
-細かいことなんか気にしないで、もっと堂々としてれば僕もやり辛かったのにね
+Takumi
+If you didn't sweat the small stuff and carried yourself\nwith more confidence, it would have made it easier for me\ntoo.
 
 00000000
-実際のところ、アリサはそれこそドラマや小説でしか見たことがないような、所謂カリスマ性を備えた女帝だった。
+In reality, Arisa was like an empress with the kind of\ncharisma that you would only see in dramas or novels.
 
 00000000
-単に学業優秀、スポーツ万能といった成績の良さだけじゃない。
+It's not just about being academically excellent and\nathletically talented.
 
 00000000
-人の上に立つということの意味をよく知り、その自覚を持ち、実際に立った者としての自信に溢れている。
+They understand the meaning of standing above others, have\nthe awareness of it, and are filled with confidence as\nsomeone who has actually stood in that position.
 
 00000000
-それは、マインドコントロールされていた時はもちろん、そこから逃れた今であっても、十分に感じることが出来る要素だ。
+"That is an element that can be felt fully, not only when\nunder mind control, but even now, after escaping from it."
 
 00000000
-自分の能力の高さのみならず、人心掌握にも長けており、その扱いも上手い。
+Not only is she highly skilled, but she is also adept at\nmanipulating people's hearts and knows how to handle them\nwell.
 
 00000000
-僕の客観的な視線からも、友里子が出来ないような数々の出来事をアリサは行って来たと思う。
+From my objective perspective, I believe Arisa has\nexperienced numerous events that Yuriko couldn't handle.
 
 00000000
-だが、そんな実績があるにも関わらず、アリサは自分に持っていない友里子の優秀な面に嫉妬と羨望があるようだ。
+However, despite having such achievements, it seems that\nArisa feels jealous and envious of Yuriko's excellent\nqualities that she herself does not possess.
 
 00000000
-それは万能であれという帝王学の歪みによるものか、性格的なところによるものか。
+Is it due to the distortion of imperial studies that says\none must be all-powerful, or is it due to her personality?
 
 00000000
-いずれにしても、完璧主義であるが故に生まれるコンプレックスが、僕の目には分かりやすい付け入る隙に見えてしまう。
+In any case, because of her perfectionism, the complex that\narises is like an obvious vulnerability in my eyes.
 
 00006000
 拓海
 まぁ……今まで、そんな心配をするような状況にならなかったんだろうけど……これも若さって奴なのかな？
 
 00000000
-正直、僕程度の男に、こんな手玉に取られるようなら、遅かれ早かれ失脚はしていたのかも知れない。
+Honestly, if I, a man of my caliber, were to be manipulated\nlike this, it's possible that I would have fallen from grace\nsooner or later.
 
 00000000
-いや、それもオルゴールがあれば表に出ることはなかったのか。
+No, if it weren't for the music box, would she have never\ncome out into the open?
 
 00000000
-改めて、自分がオルゴールを手にした幸運になんとも胸がすく思いを感じてしまう。
+"Once again, I can't help but feel a fluttering sensation in\nmy chest at the fortunate opportunity of having the music\nbox in my hands."
 
 00000000
-また亀裂が入りかけている二人の仲……ここで放っておく手はない。
+"The relationship between the two, which is on the verge of\ncracking again... I can't just leave it alone here."
 
 00000000
-もっとそのヒビを大きくする為に、僕は改めて今日のターゲットを絞ることにする。
+"In order to widen that crack even further, I have decided\nto once again narrow down today's target."
 
 00000000
-さて、今日はどっちを利用してやろうか――
+Well, which one should I use today...
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

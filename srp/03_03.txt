@@ -9,509 +9,509 @@
 05008200D0070000
 
 00003000
-繋がれた生徒Ａ
-くっ……おぐっ、うぐぐっ、むうっ、んんっ、うううーっ！
+Bound Student A
+*groans*...ugh...mmph...nnn...uuuugh!
 C05i03030001
 
 00003000
-繋がれた生徒Ｂ
-むううううーっ！　ううっ、んぐうっ、もぐぐっ、ううううんっ……！
+Tied-up Student B
+Mmmmmph! Ugh, ngghh, mmph, uuuuugh...!
 c05j03030001
 
 00002000
-拓海
-いい鳴き声だ。いつの間にか君たちが逃げて動物と入れ替わったのかと思ったぐらいだよ
+Takumi
+What a nice moaning voice. I almost thought you had switched\nplaces with animals and escaped without me noticing.
 
 00002000
-拓海
-えーと……前之園さんと、菅山さんだったっけ？
+Takumi
+Um... Was it Maeshizono-san and Sugiyama-san?
 
 0300000000000F2742474D3130
 
 0200000001004247303930305F62
 
 00000000
-朝、廊下でメス奴隷たちに絶頂競争をさせることで意のままに学園が操れていると確信した。
+In the morning, I became convinced that I could control the\nschool as I pleased by making the female slaves compete in\norgasmic battles in the hallway.
 
 00000000
-その嬉しさのまま昼の休憩を利用して、この場所へとやってきていた。
+With that joy in mind, I took advantage of the lunch break\nand came to this place.
 
 00000000
-ここは学園内の馬小屋。
+This is the school's stable.
 
 00000000
-校舎裏を通ってたどり着けるこの場は名ばかりの共学になる以前の名門女学園時代に勢いがあった馬術部の名残として残っている。
+This place, which can be reached by passing through the back\nof the school building, is a remnant of the equestrian club\nthat used to have a strong presence during the prestigious\nall-girls school era before it became co-ed in name only.
 
 00000000
-今となっては馬の世話をする女子などがいなくなったせいか、綺麗な建造物としての遺物でしか無い。
+Now, there are no longer any girls taking care of the\nhorses, so it has become nothing more than a beautiful relic\nof a building.
 
 00000000
-だが、僕はアリサさんに頼んで、この建物を学園統治の道具として利用させてもらうことにしていた。
+However, I had asked Arisa-san to let me use this building\nas a tool for governing the school.
 
 00000000
-そして今、新しい藁まで敷き詰めたことで生活感を取り戻した馬小屋には、新しい生き物を繋いでいた。
+And now, in the stable that has regained a sense of\nliveliness with fresh straw spread all over, a new creature\nwas tied up.
 
 0300000000000F2742474D3035
 
 00002000
-拓海
-どう？　学園に新しく追加された校則に違反した罰は
+Takumi
+So, what is the punishment for violating the newly added\nschool rules?
 
 020000000100666D5F3033315F30303032
 
 00003000
-前之園
-むうううっ……！　うぐっ、もぐっ、うううっ、んんんーっ！
+Maeshinozono
+Mmmmm...! Ugh, muffled, mmmmm, nnngghh!
 C05i03030002
 
 00003000
-菅山
-うぐむうううーっ！　んんっ、ふぐっ、うああっ、あうううっ……！
+Sugiyama
+Ughhh...! Mmm, fuuugh, ughhh, ahhh...!
 c05j03030002
 
 00000000
-猿轡がされて喋ることができない二人だが、反抗心は未だ健在の様で、僕を睨む視線からは服従するような糸口は感じられなかった。
+The two who are gagged and unable to speak, but their\nrebellious spirit still seems to be alive, as I couldn't\nsense any hint of submission from the glare they gave me.
 
 00002000
-拓海
-聞き分けがないなー……
+Takumi
+They really don't listen, huh...
 
 00002000
-拓海
-自分の立場ってのがよく分からせてあげなきゃいけない？
+Takumi
+Do I have to make it clear what their position is?
 
 00000000
-僕の挑発めいた言葉によって、余計に彼女たちはこちらへと殺意を含むかのような睨みを利かせてきた。
+By my provocative words, they glared at me as if filled with\neven more murderous intent.
 
 00000000
-それでも僕が不敵に笑い、一歩彼女たちに踏み込むと、今の状況で怯えているのか二人はびくっと肩を跳ねさせる。
+Despite that, I laughed fearlessly and took a step towards\nthem, causing the two of them to flinch and tremble in fear\nin their current situation.
 
 00000000
-僕は決して自分の欲望を満たすだけの理由で彼女たちをここに繋いでいるわけじゃない。
+I'm not keeping them tied up here just to satisfy my own\ndesires.
 
 00000000
-この二人のほかにも校則として定めた僕の言うことを聞くという事に反した子たちが同様に繋がれている。
+In addition to these two, there are other children who have\nviolated the rule I established that they must listen to me, \nand they are also tied up.
 
 00000000
-さらには従来の校則違反者も収容していた。
+Furthermore, I had also detained the previous violators of\nthe school rules.
 
 00000000
-学園統治のため、よりよき僕の学園生活のためという大義名分のために。
+For the sake of governing the school and for the betterment\nof my own school life.
 
 020000000100666D5F3033315F30303031
 
 00003000
-菅山
-う、ううう……むううっ！　うぐっ、むううっ、ううっ、うううーっ！
+Sugiyama
+Ugh, ughh... Mmm, fuuugh, ughhh, ahhh...!
 c05j03030003
 
 00003000
-前之園
-ひぐううっ！　うぐあああっ！　むううっ、おぐっ、うぐうううーっ！
+Maeshinozono
+Higuu! Uguuaaah! Muuu, ogu, uguuuu!
 C05i03030003
 
 00000000
-しかし、僕がここを利用する最大の理由はまた違う。
+However, the biggest reason I use this place is different.
 
 00000000
-『マインドコントロールに陥りにくいもの』『刷り込みの異常性にいち早く気づいたもの』たちを隔離するため。
+"To isolate those who are less susceptible to mind control\nand those who quickly noticed abnormalities in\nbrainwashing."
 
 00000000
-もちろん単純に隔離するだけではない。
+"Of course, it's not just about isolating them simply."
 
 00000000
-今目の前に居る彼女らのように猿轡もはめることで事実を吹聴させず、本当の家畜のように世話することで心身ともに追い詰めることにしていた。
+I had decided to silence them by gagging them like the girls\nin front of me and taking care of them like true livestock, \npushing them to their limits both mentally and physically.
 
 00000000
-全寮制ということもありこの罰則体制は本当にうまくいっている。
+"Thanks to the fact that this is a boarding school, this\ndisciplinary system is really working well."
 
 00000000
-結果としてマインドコントロールに気づく教師や生徒も減ってきているからこそ効果は抜群なのだろう。
+"The effectiveness is outstanding precisely because the\nnumber of teachers and students who notice the mind control\nhas been decreasing as a result."
 
 00000000
-とは言え、完全にいなくなることが無い、それがこのオルゴールが不完全な証明に他ならない。
+However, it is undeniable that they will never completely\ndisappear, and this music box is nothing but proof of its\nimperfection.
 
 00000000
-気づいたものを気絶させる刷り込みを追加し、かたっぱしから学生達をここにつないでいるが、いつバレるかバレるか正直気が気ではないのも確かだ。
+"Adding the brainwashing that makes those who notice faint, \nI have been connecting all the students here, but it's true\nthat I'm constantly worried about when or if I will be\nexposed."
 
 00002000
-拓海
-権力者は気が休まらないな……
+Takumi
+Those in power can never rest easy...
 
 020000000100666D5F3033315F30303033
 
 00002000
-拓海
-さてと……今日一日で動物扱いされたことに懲りたかどうか、改めてその口で聞かせてもらうからね？
+Takumi
+Well then... I'll ask you again, whether you've learned your\nlesson from being treated like an animal all day today.
 
 00000000
-僕はそう言って、二人の猿轡を外し、彼女たちの従順具合を確かめようとした。
+I said that and removed the gags from the two of them, \ntrying to confirm how obedient they were.
 
 020000000100666D5F3033315F30303035
 
 03008C0000000F2753455F6130395F30303031
 
 00003000
-前之園
-げほっ、けほっ……この私になんて仕打ちをっ……！　あなたを必ず破滅させて差し上げますわっ！
+Maeshinozono
+*cough* *cough*... How dare you treat me like this...! I\nwill definitely bring about your downfall!
 C05i03030004
 
 00003000
-菅山
-ちくしょうっ、離せっ、離せって言ってんのっ……！　何が理事長だよっ、ふざけるのもいい加減にしろってばっ……！
+Sugiyama
+Damn it, let go, let go...! Who do you think you are, the\nchairman? Stop messing around already...!
 c05j03030004
 
 00002000
-拓海
-随分と威勢がいいね。本気で分からせないといけないようだけど、どっちからしてほしい？
+Takumi
+You're quite spirited, aren't you? It seems like I really\nneed to make you understand, but which way do you prefer?
 
 00003000
-前之園
-な、なんて、おぞましいっ……！　あなた様は狂っておりますわっ……！
+Maeshinozono
+H-How grotesque...! You are completely insane...!
 C05i03030005
 
 00003000
-菅山
-誰がクソみたいな男に好き勝手されなきゃいけないの！　マジでありえないからっ……！
+Sugiyama
+Who the hell has to put up with being treated like shit by\nsome guy?! This is seriously unbelievable...!
 c05j03030005
 
 00000000
-僕の挑発的な言葉に見事に二人は乗っかり、赤面して身悶えするようにしながら罵声と非難を矢継ぎ早にぶつけ続けてくる。
+In response to my provocative words, the two of them\nskillfully take the bait and continue to bombard me with a\nbarrage of insults and condemnation, blushing and squirming\nin embarrassment.
 
 00000000
-僕はその反応を予想していた。
+I had anticipated that reaction.
 
 00000000
-というより、そうなるように刷り込みを二度がけしなかったわけだが、いつも調教に使っているものを両手に取った。
+Instead, I didn't just brainwash them once, but I took the\ntools I always use for training in both hands.
 
 00002000
-拓海
-んー……バカだね君たち
+Takumi
+Hmm... You guys are idiots, aren't you?
 
 020000000100666D5F3033315F30303036
 
 00003000
-前之園
-一体何をされてますの……
+Maeshinozono
+What on earth are you doing to me...?
 C05i03030006
 
 00003000
-菅山
-ちょっとっ……見ないでよ……変態、ド変態やろう！
+Sugiyama
+Hey, don't look... You pervert, you damn pervert!
 c05j03030006
 
 020000000100666D5F3033315F30303037
 
 00003000
-前之園
-ひゃぁ……そ、そんなっ……そこ、触れるなんてっ……や、やめてくださいませ……！
+Maeshinozono
+Hyaa... D-Don't... don't touch me there... Please, stop...!
 C05i03030007
 
 00003000
-菅山
-なんでそんなものがここにあるのよっ……！　んっ、ダメっ……！
+Sugiyama
+Why is something like that here...?! Ngh, stop...!
 c05j03030007
 
 00000000
-僕はここに備え付けておいた電マをショーツ越しに二人の股間にあてがっていく。
+I take out the vibrator I had prepared here and press it\nagainst their crotches through their shorts.
 
 00000000
-僕は電源を入れれば彼女たちが大声で喘ぎ喚くことがわかりきっているだけにもうちょっと怯える姿を見たくて、電マで陰裂を縦になぞり続けていく。
+Since I already knew that once I turned on the power, they\nwould moan and scream loudly, I wanted to see them a little\nmore frightened, so I continued to trace their genitals\nvertically with a vibrator.
 
 020000000100666D5F3033315F30303038
 
 00003000
-前之園
-ふぁっ、やあっ、お、おやめくださいっ……！
+Maeshinozono
+Ahh, y-you, please stop...!
 C05i03030008
 
 020000000100666D5F3033315F30303037
 
 00003000
-前之園
-そこを触れることは……はしたない行為なのですよっ……
+Maeshinozono
+Touching me there... is an indecent act, you know...
 C05i03030009
 
 020000000100666D5F3033315F30303039
 
 00003000
-菅山
-や、やめろ……んんっ……ひぃ、んはぁ、あぁぁ……
+Sugiyama
+S-Stop... Nnn... Hii, nhaa, aahhh...
 c05j03030008
 
 00003000
-菅山
-ばかばかっ……！　まだ誰にも触られたことないのに……マジでキモいっ、死ねッ！
+Sugiyama
+You idiot...! I've never been touched by anyone before...\nSeriously disgusting, die!
 c05j03030009
 
 00000000
-僕はそんな彼女たちの抵抗の声すらも、反撃が一切不可能な今の状況では、愉快なものにしか聞こえず執拗に電マを縦筋に擦りつける。
+I persistently rub the vibrator against their genitals\nvertically, finding even their resistance voices amusing in\nthis current situation where any counterattack is completely\nimpossible.
 
 00000000
-だが、僕がひたすらにスイッチを入れないことに、菅山さんは余裕を感じたらしく、目尻を攻撃的に釣り上げた。
+However, it seems that Sugiyama felt at ease when I\ncontinued to refrain from turning on the switch, as he\nprovocatively raised the corner of his eye.
 
 00003000
-菅山
-そうやってビビらせて楽しむとか、普段女の子に相手にもされないクズが面白がりそうなシチュエーションだよねえ……
+Sugiyama
+It's a situation that seems amusing to pathetic losers who\naren't even acknowledged by girls in their daily lives, \nenjoying themselves by scaring others like this...
 c05j03030010
 
 00003000
-菅山
-エロ漫画とかエロビデオとかそういうのでしか女の子の身体が見れないからって、現実でもやってみたいとか思った口でしょ
+Sugiyama
+You're just saying that because you can only see girls'\nbodies in erotic manga or videos, and you want to try it in\nreal life, right?
 c05j03030011
 
 00000000
-僕はどうせやられるならと捨て鉢になったこの女の子の言葉に、無性にイライラさせられ、思わず胸がどろりとした嫌悪感で重くなったのを感じた。
+I felt an intense irritation and a heavy sense of disgust\nwell up in my chest as I listened to the words of this girl\nwho had resigned herself to being violated.
 
 020000000100666D5F3033315F30303130
 
 00003000
-前之園
-心優しい男性であれば、このような真似は絶対にされませんわ……！　あなた様は本当に汚らわしい！
+Maeshinozono
+A kind-hearted man would never do such a thing...! You are\ntruly filthy!
 C05i03030010
 
 00003000
-前之園
-手篭めにすることしか術がないあなた様は、既に落ちぶれてしまっております……
+Maeshinozono
+You, who only have the ability to capture others, have\nalready fallen into depravity...
 C05i03030011
 
 00000000
-便乗するように僕を戒めようとするこの前乃園さんも、至極まっとうなことを言っているだけに、無性に苛立ってくる。
+Maeshinozono-san, who is trying to caution me as if taking\nadvantage of the situation, is saying something very\nreasonable, which only serves to frustrate me even more.
 
 00006000
 拓海
 恵まれた女の子たちが、世間一般常識めいた道理を言ったって綺麗事にしか聞こえないんだよ……
 
 00000000
-僕は顔を引き攣らせるほどに怒りを覚えてしまったらしく、電マのグリップ部分がきしむほどに握力を入れる。
+I felt my anger well up to the point where my face\ncontorted, and I gripped the handle of the vibrator so\ntightly that it creaked.
 
 00000000
-それが、彼女たちをより調子づかせた。
+That, however, only excited them even more.
 
 00003000
-菅山
-クズでモテない男にへりくだって、精液がほしいとかどうとか……マジでみんなおかしいんじゃないのっ！？　そうでしょっ！？
+Sugiyama
+Are you seriously telling me that losers who can't get any\ngirls are begging for semen or something...? Seriously, \nisn't everyone messed up!? That's right, isn't it!?
 c05j03030012
 
 00003000
-前之園
-そうですわっ……！　こんな女性を手篭めにするような、はしたない行為は間違っておりますわっ！　皆様もそうお思いのはず！
+Maeshinozono
+That's right...! Engaging in such indecent acts as taking\nadvantage of women is absolutely wrong! I'm sure everyone\nhere agrees with that!
 C05i03030012
 
 00000000
-挙げ句の果てに二人は周囲に繋がれている女子に対して演説するように、僕とこの学園の異常性を伝え始めた。
+In the end, the two of them began to give speeches to the\ngirls who were bound around them, conveying the abnormality\nof me and this school.
 
 03008C0000000F2753455F6130395F30303031
 
 020000000100666D5F3033315F30303033
 
 00003000
-菅山
-むぐうっ！　むがああっ、むうううっ……！
+Sugiyama
+Mmmph! Ughhh, mmmmm...!
 c05j03030013
 
 00003000
-前之園
-うぐっ！　もがああっ、あぐっ、うぐううううっ！
+Maeshinozono
+Ugh! Mmmph, ugh, uggghhhhh!
 C05i03030013
 
 00000000
-周囲が少しざわめき始めたことに僕は彼女たちを放置するとさすがに面倒になりそうだと慌て、再び二人に猿轡をはめた。
+I panicked when I noticed the surrounding area starting to\nbuzz a little, thinking it would be troublesome to leave\nthem alone, so I quickly put gags back on the two of them.
 
 00000000
-そして、今までにいらだたせるほどに暴言を吐かれたお返しを今まさにするべく、僕は電マのスイッチをいきなり強めに入れていった。
+And now, in order to give them a taste of the frustration\nthey have caused me with their abusive words, I suddenly\nturned up the intensity of the vibrator.
 
 0300D21000000F275345485F545F323031
 
 020000000100666D5F3033315F30303131
 
 00003000
-菅山
-むぐうううっ、ふうううっ、ふあああっ、あぐあああっ……！
+Sugiyama
+Mmmph! Ughhh, mmmmm...!
 c05j03030014
 
 00003000
-前之園
-ひぐうううっ、ふぐあああっ、あふうううっ、ふああああっ……！
+Maeshinozono
+Ughhh, mmmph, uggghhh, fuuuhhhh...!
 C05i03030014
 
 00000000
-僕がスイッチを入れた途端、唾液が掻き混ぜられながら発せられたようなくぐもった嬌声が厩舎内に響き渡る。
+As soon as I turned on the switch, a muffled, moaning voice\nmixed with saliva echoed throughout the stable.
 
 00000000
-僕は最初は快感よりも容赦なく苦痛めいた刺激を与えようと、いきなりクリトリスに強烈に設定した振動を加えていった。
+At first, I abruptly added a strong vibration setting to the\nclitoris, aiming to give them a sensation of intense pain\nrather than pleasure.
 
 00003000
-菅山
-うぐあああっ！　あがあああっ！　ひぐあああんっ！
+Sugiyama
+Ughhhh! Ahhhhhh! Hiiiiiiii!
 c05j03030015
 
 00003000
-前之園
-きゃうううっ！　むぐうううっ！　んぐううううーっ！
+Maeshinozono
+Kyaaaaah! Muguuuu! Nguuuuuu!
 C05i03030015
 
 00003000
-菅山
-あがっ、うぐうあっ、はがあっ、あ、ああああ……
+Sugiyama
+Ahh, ugh, hagaa, ahh, aaaaaa...
 c05j03030016
 
 00003000
-菅山
-あひっ、ひうぁっ、はあ、あ、はああああ……ぐぶっ、うぐっ……
+Sugiyama
+Ahh, ugh, hagaa, ahh, aaaaaa... *gasp*, *grunt*...
 c05j03030017
 
 00003000
-前之園
-ひぐっ、むぐうっ、ふぐううっ、ふあああ、へああ……
+Maeshinozono
+Higgu, muguu, fuguuu, fuuaaa, heeaaa...
 C05i03030016
 
 00003000
-前之園
-あふっ、ふぐっ、うああっ、はぐっ、ふあああ、あぐっ、あああ……
+Maeshinozono
+Ahh, mmmph, ughhh, haguh, fuuuu, mmmph, aaaaah...
 C05i03030017
 
 00000000
-強すぎる振動から、急に弱すぎる刺激に切り替えられたことで、彼女たちは肩を釣り上げるようにして身悶えし始めた。
+The sudden switch from a too strong vibration to a too weak\nstimulation caused them to tense up and squirm in\ndiscomfort.
 
 020000000100666D5F3033315F30303132
 
 00003000
-菅山
-はううっ、ふっ、はあっ、ひ、ひああっ、あはあっ、あ、あああんっ……！
+Sugiyama
+Hauu, fuu, haa, hi, hiaa, ahah, a, aaann...!
 c05j03030018
 
 00003000
-前之園
-ふああっ、はうっ、ふうっ、くっ、ううっ、はあっ、あはっ、あ、あああ……！
+Maeshinozono
+Fuuahh, hauu, fuu, kuhh, uuhh, haa, ahah, a, aaaa...!
 C05i03030018
 
 00000000
-二人は脊椎を身体の内側からくすぐられるような焦れったい性感に襲われ、顔面全体を切なそうに引き攣らせながら、甘く上擦った声を漏らしていく。
+The two of them were attacked by a tantalizing sensation\nthat tickled their spines from the inside, causing their\nentire faces to contort in anguish as they let out sweet, \nbreathy voices.
 
 00002000
-拓海
-さっきまで随分と反抗的だったのに、物欲しそうな声に変わっちゃったね
+Takumi
+You were quite rebellious just a moment ago, but now your\nvoice sounds like you want something.
 
 00003000
-前之園
-うぐっ……そ、そんは、ほほっ……あるはへあひまへんわっ……！　あふっ、ふはっ、あああ……！
+Maeshinozono
+Ugh... Th-that's right, hoho... It feels... so good...! Ahh, \nfuhaa, aaaa...!
 C05i03030019
 
 00003000
-菅山
-うぐうっ……おまへなんはにっ……きもひよふなんてされはふなひっ……うぐっ、むうっ、うああっ、ああああ……！
+Sugiyama
+Ugh... My pussy... It's being stimulated so intensely...\nUgh, mmmph, aaaaah...!
 c05j03030019
 
 020000000100666D5F3033315F30303131
 
 00003000
-菅山
-うぐうっ……！　ふうっ、うううっ、う、うああっ、はあっ、あ、あああっ、んんんっ……！
+Sugiyama
+Ugh...! *sigh*... Uuuu, ugh, uaaaah, haaah, a, aaaah, \nnnnn...!
 c05j03030020
 
 00003000
-前之園
-はううっ……！　んんっ、ふあっ、は、あああっ、ひうっ、んぐうっ、、う、うううう……
+Maeshinozono
+Hauuu...! Nnn, fuahh, ha, aaaahh, hiu, nguuu... uuu, uuuu...
 C05i03030020
 
 00000000
-二人はあれだけ抵抗する態度を見せた以上、感じている姿を晒すまいと全身を硬直させ、目を見開いて必死に快感をこらえようとする。
+Since the two of them showed such a resistant attitude, they\nstiffened their entire bodies, opened their eyes wide, and\ndesperately tried to endure the pleasure without revealing\ntheir true feelings.
 
 00002000
-拓海
-強情だなあ……
+Takumi
+You're quite stubborn, aren't you...
 
 00000000
-僕は電マの振動を強めに設定して、秘裂に強く押し当てた。
+I increased the vibration of the electric massager and\npressed it firmly against her secret crevice.
 
 0300D21000000F275345485F545F323032
 
 020000000100666D5F3033315F30303131
 
 00003000
-菅山
-ひぐいいっ！？　ふぐあっ、ひうっ、ふあああっ、はあっ、あ、ああああーっ！
+Sugiyama
+Higuu! Fuguaa, hiu, fuuaaah, haa, a, aaaaahh!
 c05j03030021
 
 00003000
-前之園
-むぐううんっ！？　あぐうっ、ふうっ、ひあああっ、あはっ、はあああんっ！
+Maeshinozono
+Mmmguuun! Aguu, fuu, hiaaaah, ahah, haaaann!
 C05i03030021
 
 00000000
-二人は不意を突かれる形で押し寄せてきた凄まじい快感に対処する術を持たず、ひたすらに身悶えしながら、大きな嬌声を口から溢れさせていく。
+The two of them, caught off guard by the overwhelming\npleasure that came rushing in, had no way to cope and could\nonly writhe in agony, letting out loud cries.
 
 00000000
-刺激に慣れさせられてから弱すぎる焦れったい性感を味わわされていた事で、ただでさえ心地よい今の刺激が普段の何倍にも増幅して感じられていた。
+The already pleasurable stimulation felt amplified several\ntimes over due to being made to experience the frustratingly\nintense sensitivity after becoming accustomed to the\nstimulation.
 
 00002000
-拓海
-気持ちよさそうだね。どれだけ吠えても気持ちよさには抗えないって
+Takumi
+You look like you're feeling good. No matter how much you\nscream, you can't resist the pleasure.
 
 020000000100666D5F3033315F30303132
 
 00003000
-菅山
-うぐうっ……！　こ、これふらいれっ、きもひいいなんへ、いうわへないやんっ……ぐっ、ううっ、むうううっ……！
+Sugiyama
+Ugh...! Th-this is t-too much, I can't... it's unbearable...\nguh, ugh, muuuu...!
 c05j03030022
 
 00003000
-前之園
-あ、あううっ……も、もう、ゆるひへえっ……おはひふ、なっひゃいますうぅぅぅ……ふあああああ、ひぐううっ……
+Maeshinozono
+Ah, aauu... m-mou, yuruhiee... ohahifu, nahiyaimasuuu...\nfuaaaa, higuuuu...
 C05i03030022
 
 00000000
-菅山さんが、まだ負けじと反抗的に快楽を堪えきろうとする一方、前乃園さんは、これ以上我慢できなくなったらしく、泣き出しそうになっていた。
+Sugiyama-san, still defiantly trying to endure the pleasure, \nwhile Maeshinozono-san seemed to have reached her limit and\nwas on the verge of crying.
 
 00002000
-拓海
-別に気持ちのいいことを我慢する必要はないと僕は思うんだ
+Takumi
+I don't think there's a need to endure something that feels\ngood.
 
 00002000
-拓海
-素直になりそうな人から優しくしてあげないとね
+Takumi
+We should be kind to those who seem like they're about to be\nhonest.
 
 020000000100666D5F3033315F30303133
 
 00003000
-菅山
-ふぇ……？　な、なんろ、つもひよっ……
+Sugiyama
+Huh...? Wh-what's happening... it's too much...
 c05j03030023
 
 00000000
-僕はあえて菅山さんの股間に押し付けていた電マを離すが、彼女は唐突に刺激をなくされたことで股間が疼きだしたらしく、お尻を小さく振り出していく。
+I deliberately release the vibrator that I had pressed\nagainst Sugiyama-san's crotch, but it seems that she\nsuddenly lost the stimulation and her crotch started to\nthrob, causing her to slightly shake her butt.
 
 00002000
-拓海
-まあまあ、しばらくそのまま我慢してて
+Takumi
+Well, well, endure it for a little longer.
 
 00000000
-全身の触覚が強まってしまったらしく、必死に息を呑んで全身を駆け巡る焦れったさを堪える菅山さん。
+Sugiyama-san, who seems to have heightened sensitivity all\nover her body, is desperately holding her breath and\nenduring the frustrating sensation that runs through her\nentire body.
 
 00000000
-僕はそんな彼女を尻目に、前乃園さんの股間に押し付けている電マの振動をやや強めにし、快楽を心地よく感じられるよう縦筋に沿って動かした。
+Ignoring her, I pressed the vibrator against Maeshinozono-\nsan's crotch, slightly increasing the intensity of the\nvibrations and moving it along the length to make her feel\nthe pleasure more comfortably.
 
 020000000100666D5F3033315F30303134
 
 00003000
-前之園
-ひうううっ、ふあっ、はああっ、あ、あああんっ……！　あふっ、ふうっ、ふいいっ、ひああっ、あ、ああああ……！
+Maeshinozono
+Hiiuuu, fuahh, haaaah, a-aannn...! Afu, fuu, fuii, hiaaah, \na-aaaa...!
 C05i03030023
 
 00000000
-彼女は性感をここまで抱いたことというのが今までにないらしく、未知の恐怖に怯えるかのように、お尻を突き上げて目を見開きながら震えていく。
+She seems to have never experienced such intense pleasure\nbefore, and she trembles in fear of the unknown, raising her\nbutt and widening her eyes.
 
 00003000
-前之園
-ひっ、ううっ、ふああっ、はっ、あ、あああっ、はああんっ……！　な、なんらひゃうっ……こわひっ、こわひですっ……！
+Maeshinozono
+H-hi, uuuh, fuahh, haaah, a-aahhh, haaaannn...! W-what...\nwhat is this... it's scary... it's really scary...!
 C05i03030024
 
 020000000100666D5F3033315F30303133
 
 00003000
-前之園
-ひういいいいんっ！？　ふああっ、ひううっ、あはあっ、はああっ、うあああっ、ああああああーっ！
+Maeshinozono
+Hiiiiiiiiin!? Fuuuaaaah, hiuuuuu, ahahaaa, haaaaah, \nuaaaaaaaah, aaaaaaaaaah!
 C05i03030025
 
 0100200002026566666563742C656666656374207A6563686F75
@@ -519,41 +519,41 @@ C05i03030025
 020000000100666D5F3033315F30303133
 
 00000000
-猿轡をハメられていることにより、くぐもりながらも甲高い嬌声が厩舎全体へと響き渡り、ぴくぴくと全身を痙攣させながら前乃園さんは絶頂に至った。
+Due to being gagged, Maeshinozono-san's high-pitched moans\nechoed throughout the entire stable, muffled but filled with\npleasure, as she convulsed and reached climax.
 
 00000000
-愛液で濡れきったショーツは、電マを離すとクロッチから透明な糸が引くほどであり、彼女が演技でなく純粋に達したことを如実に証明していた。
+The panties, soaked with love juices, clearly demonstrated\nthat she had genuinely reached climax, as a transparent\nthread was pulled from the crotch when the vibrator was\nremoved, showing that it was not an act.
 
 00002000
-拓海
-気持ちよかった？　初めてだったみたいだけど、こういうの悪くないでしょ？
+Takumi
+Did it feel good? It seemed like your first time, but this\nkind of thing isn't so bad, right?
 
 020000000100666D5F3033315F30303134
 
 00003000
-前之園
-は、はひっ……わらくひがまひがっておりまひたっ……あ、はあっ、あうんっ、はあああ……
+Maeshinozono
+H-Hi... I-I'm trembling... It's... it's ticklish... Ah, \nhaaah, a-ahh...
 C05i03030026
 
 00000000
-喋りにくい状態でありながらも、彼女は素直に快感を受け入れ、自分から腰を突き出してもう一度電マでの刺激を求めようとしていった。
+Despite being in a difficult state to speak, she willingly\naccepts the pleasure and thrusts her hips forward, seeking\nthe stimulation from the vibrator once again.
 
 00002000
-拓海
-うん！　学園にふさわしい生徒が増えたご褒美を君に上げないと
+Takumi
+Yeah! I have to give you a reward for bringing in more\nstudents suitable for the school.
 
 0300D21000000F275345485F545F323033
 
 020000000100666D5F3033315F30303133
 
 00003000
-前之園
-ひうああああんっ……！　それ、いいれふうっ……！　はあっ、あふっ、ふあああっ、ひゃあっ、ああああ……
+Maeshinozono
+Hiiuuu, aahhh...! That feels so good...! Haaah, afu, fuahh, \nhiyaaah, aaaaa...
 C05i03030027
 
 00003000
-前之園
-は、はあっ、ひうっ、ふっ、は、あああ……ま、また、きもひいいのがっ、きれまふのっ……！　ふああっ、ひゃうぁあっ、ふああああーっ！
+Maeshinozono
+H-haah, hiu, fuu, ha, aaaa... I-it's, it's scary... it's\nreally scary...! Fuuaah, hyaaah, fuuaaaaah!
 C05i03030028
 
 0100200002026566666563742C656666656374207A6563686F75
@@ -561,90 +561,90 @@ C05i03030028
 020000000100666D5F3033315F30303135
 
 00003000
-前之園
-はあっ、あ、あああ、ふああああ……とれも、よはったれすぅぅっ……はあ、ああああ……
+Maeshinozono
+Haa, a, aaaa, fuuaaaa... Toremo, yohattaresuuu... haa, \naaaaa...
 C05i03030029
 
 00003000
-菅山
-ひょっとおっ……なんれあんらまれっ、こんなやふにしははうのよおっ……あっ、ふっ、はあ、ああああ……
+Sugiyama
+Hyotto... What is this... in such a place... Ah, fuu, haa, \naaaa...
 c05j03030024
 
 00000000
-僕は彼女が心から快感に堕ちる姿勢を見せたことに満足し、もう一人の遊び慣れていそうな女子を改めて見やると、彼女は相当に顔が赤くなっている。
+I am satisfied to see her willingly embracing the pleasure, \nand as I look at another girl who seems experienced in\nplaying, she has become quite red-faced.
 
 00000000
-それどころか、放置されていたことで疼いているであろう股間をもじもじさせながら、必死に何かを訴えかけるような表情を見せていた。
+Moreover, while squirming with a crotch that must have been\nthrobbing from being neglected, she showed an expression as\nif desperately trying to convey something.
 
 00002000
-拓海
-なるほど、反抗したいんじゃなくて……ただ素行が悪いから素直になれないだけなんだね、菅山さんは
+Takumi
+I see, it's not that you want to rebel... It's just that\nyour behavior is bad, so you can't be obedient, right, \nSugiyama-san?
 
 00000000
-僕はそう悟って、屈服した前乃園さんを刺激するのをやめると、菅山さんへの股間に振動を相当に強めた電マの先端を押し付けた。
+After realizing that, I stopped stimulating the submissive\nMaeshinozono-san and pressed the tip of the vibrator, which\nhad been significantly intensified, against Sugiyama-san's\ncrotch.
 
 0300D21000000F275345485F545F323032
 
 020000000100666D5F3033315F30303136
 
 00003000
-菅山
-ひううううっ！？　ふっ、はあっ、あああっ、ひゃあっ、あああんっ！　ら、らめえっ……こ、これっ……あ、ああっ！
+Sugiyama
+Hiiuuu! Fuu, haa, aaaa... Hiyaaah, aaaaan! S-s-stop... Th-\nthis... Aaah!
 c05j03030025
 
 020000000100666D5F3033315F30303137
 
 00003000
-菅山
-はあっ、あああっ、ふううっ、ふあああ、はあ、ああああ……ひうっ！？　くうっ、ふああっ、あああっ！
+Sugiyama
+Haa, aaaah, fuuuu, fuuaaaa, haa, aaaaa... Hiuu!? Kuuu, \nfuuaaah, aaaah!
 c05j03030026
 
 00000000
-僕が時間差で再び陰核に電マを押し付けると、不意に快楽に襲われた身体は無意識に動き、快感を受け入れるべく、自ら股間を僕に擦り寄らせようとする。
+When I pressed the vibrator against her clitoris again with\na time delay, her body, unexpectedly attacked by pleasure, \nmoved unconsciously and tried to rub her crotch against me\nin order to accept the pleasure.
 
 00002000
-拓海
-それが本音だよね。気持ちよくなりたくてしょうがないなら、強がっちゃダメだよ
+Takumi
+That's your true feelings, right? If you really want to feel\ngood, you shouldn't pretend to be strong.
 
 00003000
-菅山
-う、うううっ、はあっ、あ、ああああ……むううっ、うううう……
+Sugiyama
+U-uuu, haa, aaaa... Muuu, uuuu...
 c05j03030027
 
 00000000
-僕に決定的瞬間を抑えられて、猛烈な羞恥心に襲われた彼女はもう力任せに抵抗する意識を失い、呻きながら僕に屈してしまう姿勢を見せた。
+She, who was overwhelmed by intense shame after I captured\nher decisive moment, lost consciousness of resisting and\nshowed a posture of surrendering to me while moaning.
 
 00000000
-僕はここぞとばかりにモーターの振動を最大に設定し、彼女のクリトリスを責めて、完全に心を折ってしまうことにした。
+I decided to set the vibrator to its maximum intensity and\nrelentlessly stimulate her clitoris, completely breaking her\nspirit.
 
 00002000
-拓海
-菅山さんの感じている姿を僕に見せて
+Takumi
+Show me the way Sugiyama-san is feeling.
 
 00003000
-菅山
-ひうあああああああああっ、ああああああんっ！
+Sugiyama
+Hiiiiiiiiiiiiii! Aaaaaaaaah!
 c05j03030028
 
 0100200002026566666563742C656666656374207A6563686F75
 
 00000000
-彼女は大声を上げながら絶頂に達し、顎を地面に擦り付けるようにして、襲い来る快感に身悶えしている。
+She reaches climax while screaming loudly, and as if rubbing\nher chin against the ground, she writhes in pleasure that\nattacks her.
 
 00000000
-だが、一度達したことで、また抵抗できる気力の余裕を取り戻したのか、彼女は僕の追撃から必死に逃げるように身体を撓めていた。
+However, after reaching climax once, perhaps regaining the\nenergy to resist, she desperately contorted her body as if\ntrying to escape from my pursuit.
 
 020000000100666D5F3033315F30303033
 
 00002000
-拓海
-さてと、これで終わるつもりはないからね
+Takumi
+Well then, I don't intend to end it here, you know.
 
 020000000100666D5F3033315F30303034
 
 00003000
-菅山
-ひううううっ……！　むうっ、むああっ、ああっ、やあああーっ……！
+Sugiyama
+Hiiiiiiiiiiiiii! Muuu, muaaaa, aaaaah, yaaaaaaah...!
 c05j03030029
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
@@ -654,89 +654,89 @@ c05j03030029
 020000000100666D5F3033315F30303138
 
 00003000
-菅山
-はあ……あはっ、ふうっ、はああ、あ、あああああ……きもひ、いいよおっ……へあっ、あはあっ……
+Sugiyama
+Haa... Ahaha, fuu, haaa... Ah, aaaaaa... It feels... so\ngood... Hehe, ahaha...
 c05j03030030
 
 00000000
-あれから何度も絶頂を繰り返させることで、この女子も完全に快楽の虜となり、性衝動の織りなすままにさらなる刺激を求め始めていく。
+After that, by making her experience climax multiple times, \nthis girl has become completely captivated by pleasure and\nhas begun to seek further stimulation driven by her sexual\nimpulses.
 
 00000000
-だが、ここで絶頂での調教を止めるのはもったいないと思い、僕は二人の猿轡を外していくことにした。
+However, I think it would be a waste to stop the training at\nthe climax here, so I decided to remove both of their gags.
 
 00002000
-拓海
-君たちが校則に従うっていう姿勢をみんなに見せてあげてよ
+Takumi
+Show everyone your attitude of following the school rules.
 
 00002000
-拓海
-つまんない意地は張ってても苦痛なだけってことをね
+Takumi
+Even if you stubbornly hold onto your boring pride, it's\nonly going to bring you pain.
 
 00000000
-そう言って、僕は振動を強く設定した電マを両手に取り、僕に積極的に押し付けてくる二人の股間に押し当てていった。
+Saying that, I took the vibrator with a strong setting in\nboth hands and pressed it against the crotches of the two\nwho were actively pushing themselves against me.
 
 0300D21000000F275345485F545F323033
 
 020000000100666D5F3033315F30303139
 
 00003000
-前之園
-ひうああああっあああっ、ふあああんっ！　い、いいですぅぅぅっ……！
+Maeshinozono
+Hiiiiiiiiiiiiii! Fuuuuuuuuuh! I-it's... it's fineeee...!
 C05i03030030
 
 00003000
-前之園
-大事なところぶるぶるってされると、気持ちよくてたまりませんっ……！
+Maeshinozono
+When my sensitive areas are stimulated like that, it feels\nso good that I can't resist...!
 C05i03030031
 
 00003000
-前之園
-こんなに素晴らしいこと、なんで私……んぁあああ……存じ上げなかったのでしょう！
+Maeshinozono
+Why... didn't I know about something so wonderful like\nthis... Ahhh...!
 C05i03030032
 
 00003000
-菅山
-はああっ、ふううっ、ふあああっ、ああああんっ！
+Sugiyama
+Haaah, fuuuu, faaaaah, aaaaaaah!
 c05j03030031
 
 00003000
-菅山
-たまらないよおっ……！　こんなの覚えたら私、私ぃぃぃぃ！
+Sugiyama
+I can't take it anymore...! If I learn something like this, \nI, Iiiii!
 c05j03030032
 
 00003000
-菅山
-毎日してくださいっ！　お願いしますぅぅぅ！　これから私、あなただけの女になりましゅぅぅぅぅ！
+Sugiyama
+Please do it every day! I beg youuuu! From now on, I will\nbecome only your woman!
 c05j03030033
 
 00000000
-完全に快楽に落ちた状態のまま猿轡が外されたことで、遠慮のない大きな嬌声が馬小屋に響き渡り、ここに繋がれたすべての学生の耳に届いていく。
+In a state completely consumed by pleasure, the gags were\nremoved, and unrestrained cries echoed throughout the barn, \nreaching the ears of all the students bound here.
 
 00000000
-そう、これは未だに僕を中心とした校則に反抗心を持つ者たちへのデモンストレーションでもあるのだ。
+Yes, this is also a demonstration to those who still resist\nthe rules centered around me.
 
 00000000
-現に周りに繋がれている特定の者達は、この二人の姿に恐怖を覚えているようで、青ざめた表情が見て取れた。
+It seems that certain individuals who are currently bound\naround here are feeling fear at the sight of these two, as\ntheir pale expressions were evident.
 
 00002000
-拓海
-考えを改めてくれて僕は嬉しいよ
+Takumi
+I'm glad you've changed your mind.
 
 00002000
-拓海
-ちゃんとご褒美、あげないとね
+Takumi
+I have to give you a proper reward, don't I?
 
 00000000
-僕は、完全に快楽に浸りきり、アヘ顔まで晒している二人の膣口に振動を最大値にした電マを、挿入するような勢いで押し付け、とどめを刺していった。
+I pushed the vibrator, set to its maximum intensity, against\nthe two women's exposed pussies, who were completely\nimmersed in pleasure and had their ahegao faces on display, \nand delivered the final blow.
 
 00003000
-菅山
-ひゃあああああああっ、イクイクイクぅぅぅぅぅぅぅぅぅーっ！
+Sugiyama
+Hyaaaaaaaah, I'm coming, coming, comingggg!
 c05j03030034
 
 00003000
-前之園
-んぁぁぁぁぁぁっ！　んっ、はああああああああああああ！
+Maeshinozono
+Naaaaah! Nngh, haaaaaaaahhhhhhh!
 C05i03030033
 
 0100200002026566666563742C6566666563742073696F66756B69
@@ -744,26 +744,26 @@ C05i03030033
 020000000100666D5F3033315F30303230
 
 00000000
-締めくくるように二人は揃って絶頂し、快楽の極致に達した証拠である潮を勢い良く噴き出していった。
+As a conclusive act, the two of them reached climax\ntogether, forcefully squirting evidence of reaching the\npinnacle of pleasure.
 
 00000000
-排尿のように垂れ流されている潮が床に敷き詰められた藁に吸い込まれていき、その姿はさながら家畜そのものだった。
+The squirting, flowing like urine, was absorbed into the\nstraw covering the floor, giving the appearance of livestock\nitself.
 
 00003000
-菅山
-はあっ……あああっ……ああああんっ……こ、こんろはっ……おひんひん……ほひいのおっ……
+Sugiyama
+Haa... Aaaah... Aaaaan... M-my crotch... It's tingling... So\nsensitive...
 c05j03030035
 
 00003000
-前之園
-あぁぁ……んはぁ……せいえひぃっ……わたくしにもぉっ……くらさいまふぇんでひょうか……
+Maeshinozono
+Ahh... Nhaa... It feels so good... Please, treat me as\nwell... and enhance my senses...
 C05i03030034
 
 00000000
-呂律が回らないほどに乱れきった二人の姿に僕は満足感を覚えると、後の始末を世話役の生徒に任せて小屋を出ることにする。
+Feeling a sense of satisfaction at the sight of the two, \nwhose tongues were so tangled that they couldn't speak\nproperly, I decided to leave the cabin and leave the cleanup\nto the caretaker student.
 
 00000000
-顔に浴びせられた、尿に似た匂いをたてる潮の残り香を僕は嗅ぎながら、楽しい学園生活に充実感を覚えるのだった。
+As I sniffed the lingering scent of squirting, reminiscent\nof urine, that was splashed on their faces, I felt a sense\nof fulfillment in my enjoyable school life.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

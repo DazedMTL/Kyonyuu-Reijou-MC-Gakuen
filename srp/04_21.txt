@@ -5,8 +5,8 @@
 020000000100626C
 
 00002000
-拓海
-おはようございまーす……ん？
+Takumi
+Good morning... Huh?
 
 0300000000000F2742474D3036
 
@@ -15,30 +15,30 @@
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……ですから、何度も言っているように問題はありません！　調査でしたら、まずこちらで確認をしてから……！
+Arisa
+...As I've said multiple times, there is no problem! If it's\nabout the investigation, we should confirm it here first...!
 C01a04210001
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-証拠隠滅……？　馬鹿なことを仰らないで下さい！　私達を何だと思っているんですか！
+Arisa
+Destroying evidence...? Please don't say such foolish\nthings! What do you think of us?
 C01a04210002
 
 00000000
-理事長室に顔を出すと、先に来ていたアリサが電話口で何やら語気荒くまくしたてている真っ最中だった。
+When I showed up at the chairman's office, Arisa, who had\narrived earlier, was in the midst of a heated phone\nconversation, speaking loudly and passionately.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……分かりました。そこまで仰るなら、好きになさって下さい。但し、こちらでご協力は出来ませんからそのおつもりで
+Arisa
+...I understand. If you insist on doing that, please go\nahead. However, I cannot cooperate with you on that matter.
 C01a04210003
 
 00003000
-アリサ
-もちろん、あまり勝手な真似をするようでしたら、別途委員会に報告を出して、然るべき対応を取らせていただきますので
+Arisa
+Of course, if you continue to act on your own accord, I will\nreport it to the committee separately and take appropriate\naction.
 C01a04210004
 
 03001000
@@ -46,62 +46,62 @@ C01a04210004
 0200A9100002
 
 00000000
-最後は電話口の返答も待たず、アリサは一方的に電話を切ってしまった。
+Without waiting for a response on the other end of the\nphone, Arisa unilaterally hung up.
 
 0300000000000F2742474D3033
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-はぁっ……全く……どこまでも邪魔をしてっ……！
+Arisa
+Ugh... Seriously... Always getting in the way...!
 C01a04210005
 
 00002000
-拓海
-……随分と荒れてるね
+Takumi
+...You seem quite upset.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
+Yuriko
 ………………
 C02a04210001
 
 00000000
-傍らにいた友里子にそっと耳打ちするが、友里子も気が気じゃないという様子で返事はなかった。
+Takumi quietly whispered to Yuriko, who was by his side, but\nshe didn't respond, appearing uneasy as well.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あの……アリサ、大丈夫でしょうか……？
+Yuriko
+Um... Arisa, are you okay...?
 C02a04210002
 
 00003000
-アリサ
-別に貴方が心配することではないわ
+Arisa
+It's not something you need to worry about.
 C01a04210006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あ……す、すみません……
+Yuriko
+Ah... I-I'm sorry...
 C02a04210003
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-悪いけど、少し一人にさせてくれるかしら。ごめんなさい
+Arisa
+Sorry, but could you let me be alone for a bit? I'm sorry.
 C01a04210007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あっ……アリサ！
+Yuriko
+Ah... Arisa!
 C02a04210004
 
 03002000B80B
@@ -115,222 +115,222 @@ C02a04210004
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00000000
-友里子の呼びかけも虚しく、アリサは一人で部屋を出て行ってしまった。
+Yuriko's call was in vain, and Arisa left the room alone.
 
 00003000
-友里子
+Yuriko
 ………………
 C02a04210005
 
 00000000
-少しずつアリサの態度が余所余所しさを通り越し、冷ややかなものになってしまい、友里子は寂しそうに俯いてしまう。
+Yuriko couldn't help but feel lonely as Arisa's attitude\ngradually became more distant and cold, surpassing mere\nunease.
 
 00002000
-拓海
-やれやれ……何だか八つ当たりみたいになっちゃって。ちょっと余裕がないよねぇ
+Takumi
+Geez... It seems like she's taking it out on me. She's a bit\non edge, huh?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
+Yuriko
 ………………
 C02a04210006
 
 00002000
-拓海
-今は学校じゃすっかり立場が逆転しちゃってるもんね。アリサより友里子の方が何もかも優秀だってさ
+Takumi
+Right now, the roles have completely reversed at school.\nYuriko is more excellent than Arisa in every way.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-冗談じゃありませんっ！
+Yuriko
+This is no joke!
 C02a04210007
 
 00000000
-感情を爆発させた友里子に、さしもの僕も思わず押し黙る。
+Yuriko, who had exploded with emotions, left even me\nspeechless.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あ……すみません。つい、声を荒げて
+Yuriko
+Ah... I'm sorry. I unintentionally raised my voice.
 C02a04210008
 
 00002000
-拓海
-や……大丈夫だよ。でも、そういう話が広まってるってことでさ
+Takumi
+Y-... You're fine. But, it seems like that kind of rumor is\nspreading.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-アリサは……素晴らしい力の持ち主です。私など……比較にもなりません
+Yuriko
+Arisa... is a person with amazing abilities. Someone like\nme... can't even compare.
 C02a04210009
 
 00000000
-相変わらずアリサへの信頼……いや、信仰とさえ言えるような友里子の心持ちは揺るぎなかった。
+Yuriko's unwavering trust... no, I would even say her\ndevotion towards Arisa, remained steadfast.
 
 00000000
-これだけのマインドコントロールを施しても、友里子の中ではアリサこそが絶対であり、それを覆すことは出来ない。
+Despite exerting such strong mind control, in Yuriko's mind, \nArisa is still absolute and cannot be overturned.
 
 00000000
-僕の理事長という地位を認めているのも、アリサがそう認めているから受け入れているに過ぎないんだろう。
+I suppose it's because Arisa acknowledges and accepts my\nposition as the student council president that I am able to\naccept it as well.
 
 00002000
-拓海
-友里子がそんなに言うほど、アリサはすごく優秀なんだね……
+Takumi
+Yuriko, Arisa is really excellent, huh...
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-当たり前です。精液採取にしても、ちょっとした慣れの問題です。その気になれば、すぐに私など軽く凌駕するでしょう
+Yuriko
+Of course. Even when it comes to semen collection, it's just\na matter of getting used to it. If I set my mind to it, I\ncould easily surpass something like that.
 C02a04210010
 
 00002000
-拓海
-はは……そりゃ、また随分な入れ込みっぷりで……
+Takumi
+Haha... You're really into it, huh...
 
 00000000
-それだけ友里子はアリサのことを良く知っているんだろう。付き合いも長いみたいだし、一朝一夕で築いた関係とは訳が違うようだ。
+Yuriko must really know a lot about Arisa. It seems like\nthey have a long history together, so their relationship is\ndifferent from something built overnight.
 
 00002000
-拓海
-……そう言えば、友里子はアリサといつから一緒にいるの？
+Takumi
+By the way, Yuriko, how long have you been with Arisa?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-いつから……ですか？
+Yuriko
+Since when... have you been with her?
 C02a04210011
 
 00002000
-拓海
-いや、何となく気になったからさ。差し支えないなら教えてよ
+Takumi
+Well, I was just curious. If it's not too much trouble, \ncould you tell me?
 
 00003000
-友里子
-はぁ……まぁ、特別隠し立てすることでもありませんが……一応、初等部に上がる前からになります
+Yuriko
+Well... I guess it's not really something to keep a\nsecret... but, umm, it's been since before we entered\nelementary school, just so you know.
 C02a04210012
 
 00002000
-拓海
-それって、物心ついた時にはもう……って感じ？
+Takumi
+So, does that mean you've been together since you were kids?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい。アリサと、その母上様にお仕えしていたのが私の両親でして……私もお傍に置いてもらっていました
+Yuriko
+Yes. My parents were serving Arisa and her mother... and I\nwas also allowed to be by their side.
 C02a04210013
 
 00003000
-友里子
-年齢も同じということで、それこそ姉妹同然に私は可愛がって頂いたものです
+Yuriko
+Since we're the same age, I was treated like a sister by\nthem.
 C02a04210014
 
 00002000
-拓海
-なるほど……学校にいる間も、ずっと一緒のクラスみたいな？
+Takumi
+I see... So you've been in the same class together all this\ntime at school?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい。お傍に寄せて頂いていました
+Yuriko
+Yes. I was allowed to be by their side.
 C02a04210015
 
 00002000
-拓海
-ある意味、護衛みたいなことをしてたのかな。いかにもお嬢様らしい感じ
+Takumi
+In a way, I guess I was acting as her bodyguard. It really\ngives off that ladylike vibe.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そんな生易しい環境ではありません。本家筋ではない……予めそうレッテルを貼られたアリサがどんな扱いを受けてきたか……
+Yuriko
+It's not such an easy environment. Arisa, who was labeled as\nnot being from the main family, has received a certain\ntreatment... I wonder how she has been treated...
 C02a04210016
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-クラスの生徒達……教師もですが、差別でも何でも平然と行う……名門の女子校などろくなものではありません
+Yuriko
+The students in our class... and even the teachers, they\ncasually engage in discrimination and such... Prestigious\ngirls' schools like this are not worth much.
 C02a04210017
 
 00002000
-拓海
-そりゃまた……何だか生々しいね……
+Takumi
+Well, that's... quite vivid, isn't it...
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-それでもアリサはたゆまぬ努力を続け、自らの力によって周囲の喧騒を封じ込めて来ました
+Yuriko
+Nevertheless, Arisa continued to make relentless efforts and\nsealed off the surrounding commotion with her own power.
 C02a04210018
 
 00003000
-友里子
-家柄など関係ない……むしろ足かせにしている状態でも結果を残し、いよいよ本家もその力を侮れぬと感じるようになり――
+Yuriko
+It doesn't matter about our family background... In fact, \neven in a state where it could be seen as a hindrance, she\nachieved results and now the main family can no longer\nunderestimate her power--
 C02a04210019
 
 00003000
-友里子
-目の届く王京学園で役職を与えて、囲っておこうとした……それだけの力があるんです
+Yuriko
+They tried to give her a position and surround her at the\nprestigious Oukyo Academy... She has that much power.
 C02a04210020
 
 00002000
-拓海
+Takumi
 ………………
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-私とて、漫然と傍にいられた訳ではありません。後ろに控える為だけでも、常に日々の努力を重ねて来ました
+Yuriko
+I couldn't just passively stay by her side. Even just to\nsupport her from behind, I have always put in daily efforts.
 C02a04210021
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-今の一時の噂程度で、アリサがどうにかなってしまう筈はありません。私は彼女を信じています
+Yuriko
+There's no way Arisa would be affected by just a temporary\nrumor. I believe in her.
 C02a04210022
 
 00002000
-拓海
-なるほどね……生半可な気持ちじゃないんだね
+Takumi
+I see... You're not taking this lightly, huh?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-無論です。不遇な扱いを受けてきたアリサの幸せこそが、私のただ一つの望みなのですから……
+Yuriko
+Of course. Arisa's happiness, who has been treated unfairly, \nis my one and only wish...
 C02a04210023
 
 00000000
-最初は盲目的な信仰なのかとも思ったが、長く行動を共にした上での信頼と忠誠だということが伝わってくる。
+At first, I thought it was blind faith, but as we spent more\ntime together, it became clear that it was trust and\nloyalty.
 
 00006000
 拓海
 これは、友里子に翻意させるようなやり方じゃなくて正解だったな……
 
 00000000
-これだけ芯の強い意志があれば、僕を崇めるような刷り込みをしても、すぐに弾かれてしまっただろう。
+With such a strong determination, even if they tried to\nbrainwash me into worshiping them, I would have quickly\nresisted and rejected it.
 
 00000000
-ただ、これだけ聡明でありながら、どうしてもアリサのことになると甘さが見える。
+However, despite being so intelligent, there is a noticeable\nsoftness when it comes to Arisa.
 
 00000000
-ある意味、アリサが友里子に抱いているコンプレックスと同様に、友里子もアリサそのものが弱点になる……そんな隙が見て取れる。
+In a way, just like the complex that Arisa holds towards\nYuriko, Yuriko herself becomes a weakness for Arisa... Such\nvulnerabilities can be seen.
 
 00000000
-まともに向き合って何とか出来る相手じゃない。だから、どこまでも狡猾に、これからもことを進めていくしかない。
+I can't deal with them properly. That's why, I have no\nchoice but to continue moving forward, cunningly, no matter\nwhat.
 
 00000000
-僕の頭の中には、既に一つのビジョンが思い描かれようとしていた。
+A vision had already begun to form in my mind.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -339,165 +339,165 @@ C02a04210023
 0200000001004247303830305F62
 
 00002000
-拓海
-やあ、待ってたよ
+Takumi
+Hey, I've been waiting for you.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-何ですか、私に大事な話というのは
+Yuriko
+What is it? Do you have something important to tell me?
 C02a04210024
 
 00002000
-拓海
-そんな警戒しないでよ。友里子にとっていい話をしようと思ってさ
+Takumi
+Don't be so cautious. I want to tell you something good for\nYuriko's sake.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……そんな勿体のつけ方をしたいい話など、到底あるとは思えませんが
+Yuriko
+...I can't possibly imagine there being a good story that\nwould warrant such caution.
 C02a04210025
 
 00002000
-拓海
-そう？　アリサの誤解を解くための場を取り持とうかって話なんだけど
+Takumi
+Is that so? It's about creating an opportunity to clear up\nArisa's misunderstanding.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-っ……アリサと？　本当ですか
+Yuriko
+...Arisa? Is that true?
 C02a04210026
 
 00002000
-拓海
-嘘ついても仕方ないよ。僕もちょっと困ってたんだよね、二人がぎくしゃくしてると、理事長の仕事もしにくいしさ
+Takumi
+There's no point in lying. I was also a little troubled.\nWhen the two of you are at odds, it makes it difficult for\nthe chairman to do her job.
 
 00000000
-自分がぎくしゃくさせている張本人なことは完全に棚上げし、僕は白々しく肩をすくめた。
+I completely put aside the fact that I am the one causing\nthe tension and shrugged my shoulders in a futile manner.
 
 03002000B80B
 
 00002000
-拓海
-そもそもは、アリサが友里子に冷ややかになった原因……自分で気がついてる？
+Takumi
+First of all, do you realize the reason why Arisa became\ncold towards you, Yuriko?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-それは……私の方が精液採取に長けているからというデマがまことしやかに流れて……
+Yuriko
+Well... there's a rumor going around that I'm better at\ncollecting semen...
 C02a04210027
 
 00002000
-拓海
-まぁ、デマという訳でもないけどね。でも、それだけじゃない。君が僕と通じて精液を独占してる……そう疑ってるんだ
+Takumi
+Well, it's not exactly a rumor, but that's not all. She\nsuspects that you're monopolizing semen through me...
 
 0300000000000F2742474D3036
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そ、そんな……！　根も葉もない話をどこからっ……！
+Yuriko
+W-Wait...! Where did such baseless rumors come from...?!
 C02a04210028
 
 00002000
-拓海
-落ち着いて。確かに友里子には、お手本という形で協力してもらうことが多いけど、独占してる訳じゃない
+Takumi
+Calm down. While it's true that Yuriko often helps as a role\nmodel, it doesn't mean she's monopolizing anything.
 
 00002000
-拓海
-じゃあ、そうした噂を流して、僕たちを混乱させて得するのは……誰だと思う？
+Takumi
+So, who do you think benefits from spreading those rumors\nand causing confusion between us?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-誰って…………な……ま、まさか……
+Yuriko
+Who... who could it be...? No way...
 C02a04210029
 
 00002000
-拓海
-ま……絶対的な証拠はまだないけど。本家筋の話……この前、電話中のアリサは様子がおかしかったでしょう？
+Takumi
+W-Well... There's still no definitive evidence. But\naccording to the main source... Did you notice anything\nstrange about Arisa during our phone call the other day?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-え、えぇ……ですが、それなら……！
+Yuriko
+E-Excuse me... but if that's the case...!
 C02a04210030
 
 00002000
-拓海
-直接、話をすれば解決すると思う？　一度疑心暗鬼になった今、アリサはただ言葉だけで信じてくれる保証はないよ
+Takumi
+Do you think it will be resolved if we talk directly? Now\nthat Arisa has become suspicious, there's no guarantee that\nshe will believe just words alone.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そんな……だったらどうしたら……
+Yuriko
+If that's the case... then what should I do...
 C02a04210031
 
 00002000
-拓海
-だからさ、直接態度で示せばいい。友里子が採取した精液を、そのままアリサに提供するんだよ
+Takumi
+That's why, you should show it directly through your\nactions. Provide the semen that Yuriko collected directly to\nArisa.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30352F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-な……今更、そんなことでアリサが……
+Yuriko
+W-What... Now, Arisa is being suspicious because of\nsomething like this...
 C02a04210032
 
 00002000
-拓海
-でも、シンプルに自分が独占してる訳じゃないってことは証明出来るでしょ？
+Takumi
+But, can't you prove that it's not simply me monopolizing\neverything?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-それは……確かに、そうです……けど
+Yuriko
+That is... true... but...
 C02a04210033
 
 00002000
-拓海
-まぁ友里子がイヤだって言うなら仕方ないけど。それなら、この話はなかったことに……
+Takumi
+Well, if Yuriko doesn't like it, there's nothing we can do.\nIn that case, let's pretend this conversation never\nhappened...
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30352F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-ま、待って下さい。イヤだという訳じゃ……分かりました。貴方のやり方で結構ですから、話を進めて下さい
+Yuriko
+W-Wait, please. It's not that I don't want to... I\nunderstand. Since it's your way, please proceed with the\nconversation.
 C02a04210034
 
 00002000
-拓海
-そういうと思ってたよ。ここじゃ目につくからね、僕の部屋に来てくれる？
+Takumi
+I thought you might say that. It's noticeable here, so could\nyou come to my room?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-今から……ですか？
+Yuriko
+Starting from now...?
 C02a04210035
 
 00002000
-拓海
-うん、ほら早く
+Takumi
+Yeah, come on, hurry up.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30352F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あっ…………
+Yuriko
+Ah...
 C02a04210036
 
 00000000
-もう半ば有無を言わさず友里子の手を取り、僕は自室へと友里子を連れ込んだ。
+Without further ado, I took Yuriko's hand and led her to my\nroom.
 
 03002000B80B
 
@@ -508,77 +508,77 @@ C02a04210036
 0200000001004247313130305F64
 
 00002000
-拓海
-むさ苦しいところだけど遠慮なくどうぞ
+Takumi
+It might be a bit messy, but please feel free to come in.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-別に遠慮などしません。それより、アリサを早く……
+Yuriko
+I don't particularly mind. But, more importantly, hurry up\nand bring Arisa...
 C02a04210037
 
 03002000B80B
 
 00002000
-拓海
-分かってるよ。心配しなくても、ちゃんと準備はしてある
+Takumi
+I understand. Don't worry, I've made the necessary\npreparations.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-え……？
+Yuriko
+Huh...?
 C02a04210038
 
 0300000000000F2742474D3036
 
 00002000
-拓海
-ふふっ……こういうこと
+Takumi
+Hehe... This kind of thing...
 
 00000000
-戸惑う友里子に、僕はニヤリと笑いながらベッドの布団をずらす。
+With a smirk, I laugh at the bewildered Yuriko as I shift\nthe sheets on the bed.
 
 00003000
-アリサ
-んっ…………
+Arisa
+Mmm...
 C01a04210008
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-ア、アリサ……！？
+Yuriko
+A-Arisa...!?
 C02a04210039
 
 00000000
-そこには、両腕を拘束されたアリサが口も塞がれて横たわっていた。
+There, Arisa lay on her side, with both arms bound and her\nmouth gagged.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-何をしているんですっ！　こんな扱いをっ！
+Yuriko
+What are you doing?! Treating her like this!
 C02a04210040
 
 00002000
-拓海
-仕方ないよ、今のアリサは頑なだからね。こうでもしないと、受け入れてくれないのさ
+Takumi
+It can't be helped. Arisa is being stubborn right now. If I\ndon't do this, she won't accept it.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-だ、だからって……
+Yuriko
+E-Even so...
 C02a04210041
 
 00002000
-拓海
-友里子は、自分の役目を果たせばいい。それを、もう一度意識してみようか
+Takumi
+Yuriko, you just need to fulfill your role. Shall we try to\nbe conscious of that once again?
 
 00000000
-イヤホンから響く音楽が、いつもの様に高揚感を湧き上がらせる。
+The music playing from the earphones fills me with the usual\nsense of excitement.
 
 03008C0000000F2753455F6130385F30323034
 
@@ -589,7 +589,7 @@ C02a04210041
 02007F10
 
 00000000
-二人の動揺を感じ取りながら、僕はまたオルゴールを鳴らした。
+While sensing the unease of the two, I played the music box\nagain.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

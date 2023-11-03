@@ -11,199 +11,199 @@
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-開いているわ
+Arisa
+It's open.
 C01a00080001
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-失礼します
+Yuriko
+Excuse me.
 C02a00080001
 
 00003000
-アリサ
-あら……友里子。どうかしたのかしら
+Arisa
+Oh... Yuriko. Is something the matter?
 C01a00080002
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-いえ、少しお戻りが遅いと思いまして……様子を見に伺いました
+Yuriko
+No, I thought you were coming back a little late... so I\ncame to check on you.
 C02a00080002
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-あぁ……ちょっと急ぎで整理しておかなければならない書類のことを思い出したの
+Arisa
+Ah... I just remembered that I have some documents that need\nto be organized quickly.
 C01a00080003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そうでしたか。仰って頂ければ、私が対応しましたが……
+Yuriko
+I see. If you had told me, I would have taken care of it...
 C02a00080003
 
 00003000
-アリサ
-いいのよ、どうせ目を通さなければならないものだったし。ありがとう
+Arisa
+It's fine. After all, I have to go through them anyway.\nThank you.
 C01a00080004
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-いえ…………
+Yuriko
+Well...
 C02a00080004
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-……？　友里子、どうかした？
+Arisa
+...? Yuriko, is something the matter?
 C01a00080005
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あ……いえ、その……特に変わったことは……ありませんでしたね？
+Yuriko
+Ah... No, um... There was nothing... particularly unusual, \nright?
 C02a00080005
 
 00003000
-アリサ
-あら……あなたにしては、随分と持って回った言い方をするわね。どういう意味かしら？
+Arisa
+Oh... That's quite a roundabout way of saying it for you. I\nwonder what you mean by that?
 C01a00080006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-いえ……何でもないのなら、いいのです。私の考え過ぎでしょう
+Yuriko
+No... If it's nothing, then it's fine. It must have been my\nimagination.
 C02a00080006
 
 00003000
-アリサ
-考え過ぎということはないでしょう。少しでも気になることがあるなら、遠慮なく言いなさい
+Arisa
+There's no need to overthink. If there's something that\nbothers you even a little, don't hesitate to tell me.
 C01a00080007
 
 00003000
-友里子
-……気になるという程のこともないのですが……
+Yuriko
+...It's not something that bothers me to that extent, but...
 C02a00080007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そうですね、少しこれからのことについて用心した方がいいかもしれないと
+Yuriko
+Yes, you're right. Maybe it's better to be cautious about\nwhat lies ahead.
 C02a00080008
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-用心？
+Arisa
+Be cautious?
 C01a00080008
 
 00003000
-友里子
-はい。この先、計画を進めるにあたって、必ず障害となるものが現れると思います
+Yuriko
+Yes. I believe that obstacles will definitely arise as we\nproceed with the plan.
 C02a00080009
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-そうね……何もかも上手くいくなんて楽観的には考えられないでしょうね
+Arisa
+Yes... It's hard to be optimistic and think that everything\nwill go smoothly, isn't it?
 C01a00080009
 
 00003000
-友里子
-もちろん、邪魔立てするものは可能な限り排除いたします。しかし、理事長の身体はお一つなのですから……
+Yuriko
+Of course, I will do my best to eliminate any obstacles.\nHowever, the chairman only has one body...
 C02a00080010
 
 00003000
-アリサ
-つまり……咄嗟の時に身を守る手立てを持てと……そういうことかしら？
+Arisa
+So... you're saying that I should have a way to protect\nmyself in case of an emergency?
 C01a00080010
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-差し出がましい事かもしれませんが……
+Yuriko
+It may be presumptuous of me, but...
 C02a00080011
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-いいえ、まあ大抵の時は友里子がついてくれているから、心配はしていないけれど
+Arisa
+No, well, most of the time Yuriko is with me, so I'm not\nworried.
 C01a00080011
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい……
+Yuriko
+Yes...
 C02a00080012
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-けれど、そうね。大切な切り札は、常に肌身につけておく……その方がいいかもしれないわね
+Arisa
+However, you're right. It might be better to always keep our\nimportant trump card close at hand... that might be a good\nidea.
 C01a00080012
 
 00003000
-アリサ
-分かったわ。いざという時の為に、これからはこれを持ち歩くことにしましょう
+Arisa
+I understand. From now on, let's carry this with us just in\ncase.
 C01a00080013
 
 00003000
-友里子
-そうですね。しばらくのうちは、その方がいいかも知れません。お部屋にも金庫は……
+Yuriko
+Yes, you're right. It might be better for the time being. We\ncould have a safe in the room as well...
 C02a00080013
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-ちゃんとあるわ。だから、その点は大丈夫
+Arisa
+Don't worry, I've got it covered. So, that aspect is fine.
 C01a00080014
 
 00003000
-友里子
-では、お鞄を。日頃は私がお持ちする形でもよろしいですか？
+Yuriko
+Then, your bag. Would it be alright if I usually carry it\nfor you?
 C02a00080014
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-ええ、任せるわ。何かあればいつでも出せるようにしておいてちょうだい
+Arisa
+Yes, leave it to me. Please make sure I can always access it\nif something happens.
 C01a00080015
 
 00003000
-友里子
-かしこまりました
+Yuriko
+Understood.
 C02a00080015
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-さ……それじゃ、そろそろ行きましょうか
+Arisa
+Well... in that case, shall we go soon?
 C01a00080016
 
 00003000
-友里子
-はい
+Yuriko
+Yes.
 C02a00080016
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
@@ -217,60 +217,60 @@ C02a00080016
 0300000000000F2742474D3130
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-金庫から取り出していたオルゴールを持って二人が部屋を出た所を確かめて、僕はそっと物陰から這い出す。
+I quietly crawl out from behind the hiding spot, making sure\nto confirm that the two of them have left the room while\nholding the music box that was taken out from the safe.
 
 00002000
-拓海
-さて……この後、いざっていう時は来るのかな……？
+Takumi
+Well... I wonder if the time to act will come after this...?
 
 02006F100900
 
 0200E6000000090000000000000000006400640064006400E803E803F40166696C746572303031
 
 00000000
-ニヤリと頬を緩ませながら、僕は手元にあるアリサが持っていたものと寸分違わぬオルゴールをじっと見る。
+With a smirk on my face, I gaze intently at the music box in\nmy hands that is almost identical to the one Arisa had.
 
 00000000
-そう、これはいざオルゴールの秘密がバレた時、もしもの為に用意された同じデザインのダミー。
+Yes, this is a dummy with the same design that was prepared\njust in case the secret of the music box is revealed.
 
 00000000
-と――今のアリサは思い込んでいるが、この手元にあるモノこそが、本物の催眠オルゴールなのだ。
+And... although Arisa believes it, the thing in my hands\nright now is the real hypnotic music box.
 
 00000000
-エッチの後、マインドコントロール状態のアリサからその存在を聞き出した時、もう僕の次の動きは決まっていた。
+When I heard about its existence from Arisa, who was in a\nmind-controlled state after our intimate moment, my next\nmove had already been decided.
 
 00000000
-ダミーを本物であると認識させ、決定的な切り札はこれから僕が使っていくことにする。
+I will make them recognize the dummy as the real one, and\nfrom now on, I will be the one using the decisive trump\ncard.
 
 00000000
-一体どれだけの効果があるものなのか、そして、どこまで使いこなせるものなのか。
+I wonder just how effective it is, and how much I can master\nit.
 
 00000000
-まだ試してみなくちゃ分からないことは幾つもあるが、決してこの切り札を手放す訳にはいかない。
+There are still many things that I won't know until I try, \nbut I absolutely cannot let go of this trump card.
 
 02007F10
 
 02008C00010000
 
 00002000
-拓海
-これさえあれば……今まで僕がされて来たことも全部……お返ししてやれる……
+Takumi
+With this... I can repay everything that has been done to me\nuntil now...
 
 00000000
-自分がターゲットだったことを思えば、罪悪感などこれっぽっちも湧いては来ない。
+Considering that I was the target, not even a trace of guilt\narises.
 
 00000000
-直接突っかかってきた奴も、見て見ぬふりをし続けた奴も、もちろん全てを裏で操っていた黒幕も。
+The ones who directly confronted me, the ones who continued\nto turn a blind eye, and of course, the mastermind who\nmanipulated everything behind the scenes.
 
 00000000
-既に、最初の扉は開いた。後はこれから、どうしてやろうか……。
+The first door has already been opened. Now, what should I\ndo next...?
 
 00000000
-アリサの初めてを手にした僕は、暗い情念を煮え滾らせながら、こみ上げる笑みを堪え切れなかった。
+I couldn't contain the smile that welled up inside me as I\nheld Arisa's first time, my dark emotions boiling over.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

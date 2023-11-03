@@ -13,13 +13,13 @@
 020000000100626C
 
 00003000
-こはる
-理央さん、理央さん……今のうちに……えーと、ほら、あれっ……ひっひっふーっていうの、練習したほうがいいのかな
+Koharu
+Rio-san, Rio-san... Now is the time... Um, you know, that\nthing where you go "heeheehee"... Should I practice it?
 C04a11070001
 
 00003000
-理央
-あんなもん練習なんてする必要ねーだろ、そのなんとかってやつ
+Rio
+There's no need to practice that thing, whatever it is.
 C03a11070001
 
 0300000000000F2742474D3130
@@ -27,129 +27,129 @@ C03a11070001
 020000000100666D5F3039305F30303031
 
 00000000
-こはると理央は保健室のベッドの上で仲良く寝転びながら、自分たちが母親になることをお互いに茶化すような会話をしていた。
+Koharu and Rio were lying comfortably on the bed in the\ninfirmary, joking with each other about becoming mothers.
 
 00000000
-お腹も大きくなっており、もういつお産が始まってもおかしくないというのが伺えただけに、彼女たちを安心させようと、僕は近づいていった。
+I could tell that their bellies had grown bigger, and it\nwouldn't be strange for them to start giving birth at any\nmoment. In order to reassure them, I approached them.
 
 00002000
-拓海
-あのさ……それラマーズ法だよ。女の子なら知ってると思うんだけど
+Takumi
+Um... That's the Lamaze method, you know. I think girls are\nfamiliar with it.
 
 020000000100666D5F3039305F30303032
 
 00003000
-理央
-あっ、オマエ遅いんだよ。しかも、待ってたつーのにいきなり馬鹿にしてくるなんてなー
+Rio
+Ah, you're late. And on top of that, after making me wait, \nyou suddenly start making fun of me. Geez.
 C03a11070002
 
 00003000
-理央
-こちとら妊婦なんだぞ妊婦。もっと労らえコノヤロウ
+Rio
+I'm a pregnant woman here, a pregnant woman. Show me more\nconsideration, you bastard.
 C03a11070003
 
 00000000
-理央は逆ギレそのものの絡み方を唐突に僕へと差し向けてくるが、その顔は微笑んでおり、会えた嬉しさが一気に爆発したというのが正しいらしい。
+Rio suddenly directs her full-on reverse anger towards me, \nbut she has a smile on her face, and it seems that the joy\nof seeing me has exploded all at once.
 
 020000000100666D5F3039305F30303033
 
 00003000
-こはる
-もうっ……理央さんったら大声出したら余計お腹の子に悪いよ
+Koharu
+Geez... Rio-san, if you raise your voice like that, it's not\ngood for the baby in your belly.
 C04a11070002
 
 020000000100666D5F3039305F30303032
 
 00003000
-こはる
-それより……来てくれてありがとう
+Koharu
+Thank you for coming, more importantly...
 C04a11070003
 
 00000000
-この二人はアリサや友里子にもないどころか、学園中で誰も見せないような、心が温まるか陽気で優しい反応を僕に向けてくれる。
+These two not only show me heartwarming and cheerful\nreactions that no one else, not even Arisa or Yuriko, shows\nin the entire school, but they also direct them towards me.
 
 00002000
-拓海
-待たせてごめんね。ちょっと大事なことがあったから、それに時間を取られたんだ
+Takumi
+I'm sorry for making you wait. There was something important\nI had to take care of, and it took up my time.
 
 00003000
-理央
-ちょっとだ？　アタシたちに会うのが遅れるぐらい大事な理由つっても、どうせくだらないことだろ
+Rio
+What? Even if you say you had an important reason for being\nlate to meet us, it's probably something trivial anyway.
 C03a11070004
 
 020000000100666D5F3039305F30303033
 
 00003000
-こはる
-そうだそうだ。どうせ、いつもみたいに道草くってたに違いないでしょ
+Koharu
+That's right, that's right. You were probably just dawdling\nlike you always do, weren't you?
 C04a11070004
 
 00000000
-理央の冗談にこはるが笑顔で便乗するほど仲良くなっていというのを僕は見せられてさらに心を癒やされた。
+I was able to see how close Rio and Koharu have become, to\nthe point where Koharu joins in on Rio's jokes with a smile, \nand it further healed my heart.
 
 00002000
-拓海
-いやいやかなりの大事だったよ、あのアリサがついに僕を受け入れたっていうね
+Takumi
+No, no, it was quite a big deal. Arisa finally accepted me, \nyou know.
 
 00002000
-拓海
-その後、友里子と仲良くご出産
+Takumi
+After that, Yuriko and I will have a good childbirth\ntogether.
 
 020000000100666D5F3039305F30303031
 
 00003000
-理央
-おっ！　やったのか！
+Rio
+Oh! Did it happen?!
 C03a11070005
 
 00003000
-理央
-たくよー……アイツ、いつまで意地張ってんのか心配だったけど、ついに折れたか
+Rio
+Takumi... I was worried about how long he would stubbornly\nhold on, but it seems like he finally gave in.
 C03a11070006
 
 00003000
-こはる
-我慢は身体に毒だもんね……アリサさん、友里子さん……元気な赤ちゃんを産めたのかなぁ
+Koharu
+Holding back is poison for the body, right... Arisa-san, \nYuriko-san... I wonder if you were able to give birth to a\nhealthy baby.
 C04a11070005
 
 020000000100666D5F3039305F30303032
 
 00003000
-理央
-今度はアタシらの番だな！
+Rio
+Now it's our turn!
 C03a11070007
 
 00003000
-こはる
-うんっ！　ちゃんと私たちも幸せにしてね
+Koharu
+Yes! Make sure to make us happy too.
 C04a11070006
 
 00000000
-大きく開かれた股間から覗く膣口には、妊婦特有のねっとりとした粘度の高い愛液が滲み出ており、心地よいセックスが味わえることを予感させてくれる。
+From the widely opened crotch, the vaginal opening can be\nseen, oozing with the thick and sticky love juices unique to\npregnant women, giving a premonition of the pleasurable sex\nthat awaits.
 
 00002000
-拓海
-勿論だよ……まずは理央から……
+Takumi
+Of course... first is Rio...
 
 0300C21000000F275345485F495F303031
 
 020000000100666D5F3039305F30303034
 
 00003000
-理央
-あふうううっ、ふあああっ、あはあああんっ……
+Rio
+Ahhh, fuuuh, ahaaaan......
 C03a11070008
 
 00003000
-理央
-チンポっ……すっごくあったかくて、安心するっ……はああ……
+Rio
+Your dick... it's so warm, it puts me at ease... haaah...
 C03a11070009
 
 00000000
-理央の吐き出すような演技のない甘い声はＡＶ女優なんか目じゃないほどに色っぽく、すでにグラビアモデルをしていた時以上に彼女は魅力的になっていた。
+Rio's sweet voice, without any forced acting, was so\nseductive that it surpassed even AV actresses, and she had\nbecome even more attractive than when she was a gravure\nmodel.
 
 00000000
-そんな理央を孕ませ、自分だけに気持ちを向かせていると思うと、興奮できないわけがなく、僕は息を荒げて腰を勢いづかせていった。
+Thinking that I impregnated Rio and that she was directing\nher feelings only towards me, there was no way I couldn't\nget excited. I breathed heavily and thrust my hips with\nmomentum.
 
 020000000100666D5F3039305F30303035
 
@@ -158,103 +158,103 @@ C03a11070009
 0300D21000000F275345485F505F313032
 
 00003000
-理央
-こらこら、がっつき過ぎっ……アタシのマンコが気持ちいいってのは知ってるけどさ
+Rio
+Hey hey, don't be too greedy... I know my pussy feels good, \nbut still.
 C03a11070010
 
 00000000
-僕は序盤から飛ばすような勢いで、下腹部同士がぶつかり合う音を立てながら、粘度の高い愛液を膣内で存分に撹拌していった。
+With a momentum that made me go all out from the beginning, \nour lower abdomens collided with a sound, thoroughly mixing\nthe high viscosity love juices inside the vagina.
 
 020000000100666D5F3039305F30303036
 
 00003000
-こはる
-もうっ……また理央さんからなのっ……？
+Koharu
+Ugh... It's Rio-san again...?
 C04a11070007
 
 00000000
-こはるは燃え上がっている僕と理央を黙ってみているのが面白く無いらしく、可愛らしくも頬をふくらませながら僕に向けて不満の声を上げた。
+Koharu, who was burning with passion, seemed to find it\namusing that Rio and I were keeping quiet. Cutely puffing up\nher cheeks, she voiced her dissatisfaction towards me.
 
 00003000
-理央
-まあ、待ってなって……んっ……今日はアタシがさきに貰ってんだからさ……
+Rio
+Well, wait a sec... mmm... today, I'll be the one receiving\nfirst, so...
 C03a11070011
 
 00000000
-こはるも奥手ながらに独占欲があるようで、時々理央よりも自分を求めて欲しいと必死になる時がある。
+Koharu, despite being shy, also has possessive tendencies\nand sometimes becomes desperate to be desired by me even\nmore than Rio.
 
 00000000
-その度に理央はこはるをからかいながらなだめていたが、今日も例外なくその流れが繰り返されていた。
+Rio would tease and comfort Koharu every time, but today was\nno exception as that pattern repeated once again.
 
 00003000
-こはる
-ぶぅっ……ずるいっ……！
+Koharu
+Ugh... that's not fair...!
 C04a11070008
 
 00000000
-こはるは少しわざとらしく駄々をこねるようにしながら切なさたっぷりに喘ぎ、僕を誘惑しているつもりなのか腰をくねらせる。
+Koharu, while intentionally acting a bit spoiled, breathes\nheavily with a lot of longing, as if trying to seduce me, \nand wriggles her hips.
 
 00000000
-その膣内からは見るからに粘度の高い愛液がシーツに染みを作るまで垂れ流されており、彼女が本当に僕のペニスを欲しがっているのが見て取れた。
+The high viscosity love juices were dripping from her\nvagina, staining the sheets, making it clear that she really\nwanted my penis.
 
 020000000100666D5F3039305F30303037
 
 00003000
-理央
-なぁ、私達もそろそろ生まれそうだしよ、今日は一緒にこはるちゃんと気持ちよくしてくれないか？
+Rio
+Hey, since we're both feeling so good, how about we make\nKoharu-chan feel good together today?
 C03a11070012
 
 00000000
-僕は元々そのつもりでいたのだが、あの高圧的だった彼女から面と向かってお願いされると無性にこみ上げてくるものがある。
+I had originally intended to do so, but when she, who was so\nbossy, directly asked me, there is an irresistible feeling\nthat wells up inside me.
 
 00000000
-僕はその気持ちを噛み締めながらこはるの股間へと手を伸ばし、すでにびちょびちょに濡れきっている膣内へと指を差し入れていった。
+I reached out my hand towards Koharu's crotch, fully aware\nof those feelings, and inserted my fingers into her already\nsoaking wet vagina.
 
 020000000100666D5F3039305F30303038
 
 0300191000000F275345485F565F30385F4933325F41
 
 00003000
-こはる
-ひあっ、あああっ、はっ、あああんっ……！
+Koharu
+H-ahh, ahh, haa, aahhh...!
 C04a11070009
 
 00003000
-こはる
-指っ、入ってきてっ……オチンチンじゃないけど、気持ちいいぃぃぃっ……
+Koharu
+Your fingers... are entering... It's not a penis, but it\nfeels so gooooood...!
 C04a11070010
 
 00003000
-理央
-あふっ、くふっ、ふああっ、はっ、あああ……
+Rio
+Ahh, hehe, fuu, haa, ahhh...
 C03a11070013
 
 00000000
-理央の嬌声のみならず、こはるの心地よさそうに弾む喘ぎも交じり合って保健室にこだましていく。
+The moans of Rio, along with Koharu's delightful gasps, \nresonate in the infirmary.
 
 00000000
-僕は重なりあって耳朶に染み込み、興奮を誘ってくる彼女たちの声によって、催眠にかかったような気持ちよくぼんやりとした気持ちに包まれていった。
+I was enveloped in a pleasantly hazy feeling, as if under a\nhypnotic spell, by the voices of the girls that overlapped\nand seeped into my ears, enticing me and arousing me.
 
 00003000
-理央
-んっ、はあっ、あ、ああっ、んんんっ……こんな、ぼんやりした顔……あぁ、んっ……してるのに、固くて、腰の動きも激しくなってる……
+Rio
+Mmm, haa, ah, aahh, nnngg... Even though you have such a\ndazed expression... Ahh, mmm... You're so hard and your hips\nare moving so vigorously...
 C03a11070014
 
 00003000
-理央
-ふぁっ……あぁ……アタシは気持ちいいからな……あんまり無理すんなよな……
+Rio
+Ahh... I feel so good... Don't push yourself too hard, \nokay...
 C03a11070015
 
 00003000
-こはる
-あまり無理されると、私まで順番が回ってこないから適度にね
+Koharu
+If you push yourself too hard, I won't get my turn, so take\nit easy.
 C04a11070011
 
 0200EF10054563735F4E6176695F303035
 
 00002000
-拓海
-う、うんっ……任せて……！
+Takumi
+U-uhh... Leave it to me...!
 
 020000000100666D5F3039305F30303039
 
@@ -265,29 +265,29 @@ C04a11070011
 0200EF10054563735F4E6176695F303034
 
 00003000
-理央
-あはっ、んふっ、ひゃっ、ああ！　オマンコにずんずんって、こんなの堪らないっ……アタシのっ、弱いところ……！
+Rio
+Ahh, nfuh, hyaa, aah! Thrusting into my pussy like that, \nit's unbearable... My sensitive spot...!
 C03a11070016
 
 0200EF10054563735F4E6176695F303033
 
 00003000
-こはる
-んふぅっ……そこぉ、もっと強くしてぇ、指でそこ押されるのいいっ！
+Koharu
+Nfuhh... Right there... Harder, please... It feels so good\nwhen you press there with your fingers!
 C04a11070012
 
 0200EF10054563735F4E6176695F303032
 
 00003000
-理央
-んんっ、はうっ、ふああっ、ひゃあっ、はっ、あああ……！　マジ、すごいっ……！
+Rio
+Nnn, hau, fuaa, hyaa, ha, aaaa...! Seriously, it's\namazing...!
 C03a11070017
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-くっ……はあっ、あ、ああっ、んんんっ……！
+Takumi
+*Guh*... Haa, ah, aahh, nnngg...!
 
 0200EF10002D
 
@@ -296,41 +296,41 @@ C03a11070017
 020000000100666D5F3039305F30303130
 
 00003000
-理央
-き、きたああっ……！　うっ、ふぅぅ……！
+Rio
+H-Here it comes... Ugh, fuuu...!
 C03a11070018
 
 00000000
-僕は男根以外の五感が遠ざかり、射精感だけをより一層強く感じながら、理央の膣内に精液を洪水のごとく放っていった。
+I felt my senses other than my manhood fade away, while\nexperiencing an even stronger sensation of ejaculation, as I\nreleased my semen into Rio's vagina like a flood.
 
 00000000
-脈動に合わせて、僕は身体の自由が瞬間的に奪われ、どんどん前かがみになって理央にもたれかかってしまう。
+With each throb, my body's freedom is momentarily taken\naway, and I find myself leaning forward and relying on Rio\nmore and more.
 
 020000000100666D5F3039305F30303131
 
 00003000
-理央
-はぁ……はあぁぁ……もうっ……おーい、もう限界か？
+Rio
+Haa... Haaah... I can't take it anymore... Hey, are you at\nyour limit already?
 C03a11070019
 
 00002000
-拓海
-ちょっと、余韻がすごかっただけだよ
+Takumi
+It's just that the afterglow was intense.
 
 00000000
-こはるは僕が気持ちよく射精したことと、理央とのやり取りに微笑んでいる。
+Koharu is smiling at me after I had a satisfying ejaculation\nand my interaction with Rio.
 
 00002000
-拓海
-さてと……一度射精したチンポには、こはるの優しいマンコがいいかな
+Takumi
+Well then... I wonder if Koharu's gentle pussy would feel\ngood on my dick after ejaculating once.
 
 0300C21000000F275345485F495F323031
 
 020000000100666D5F3039305F30303132
 
 00003000
-こはる
-……二回目なのにすごいびっくびくしてる……やっと入れてもらえるっ……
+Koharu
+...Even though it's the second time, you're so nervous...\nFinally, I get to have you inside me...
 C04a11070013
 
 0300C21000000F275345485F495F303031
@@ -338,65 +338,65 @@ C04a11070013
 020000000100666D5F3039305F30303133
 
 00003000
-こはる
-んぅぅぅぅぅ！　はうっ、ふっ、ああ、はあんっ……！
+Koharu
+Nnnngh! Hau, fuu, aah, haaan...!
 C04a11070014
 
 00000000
-モデルとして身体を鍛えている理央とは違い、こはるの膣内は全体的に肉槍を優しく包み込んでいく上に、身体も柔らかくて抱き心地がとても良い。
+Unlike Rio, who trains her body as a model, Koharu's vagina\ngently envelops my entire meat spear and her body is soft, \nmaking her very comfortable to embrace.
 
 00000000
-強い刺激を与えられたら腰が引けてしまいそうなぐらい、竿肌の感度が高まっている状態で挿入しているだけに、こはるの身体は今、最高の形で味わえた。
+Koharu's body is currently in the best shape, as I insert\nmyself while my sensitivity is heightened to the point where\nmy waist would recoil if given a strong stimulus.
 
 00002000
-拓海
-理央でエンジンが掛かったからかな。さっきよりもギア上げていくよ
+Takumi
+Maybe it's because Rio got my engine running. I'll shift up\na gear from earlier.
 
 020000000100666D5F3039305F30303134
 
 00003000
-こはる
-やったっ……理央さんとの間、我慢しててよかった
+Koharu
+I'm so glad I endured between you and Rio-san.
 C04a11070015
 
 00003000
-理央
-おーいっ、ずるくねーっ……？　アタシは真打ちの前座ってやつか
+Rio
+Hey, that's not fair... Am I just a warm-up act?
 C03a11070020
 
 00000000
-こはるは最初に挿入してもらった理央に自分の優位性を軽く仕返しするように言葉に出して訴えながらも、その顔には嫌味らしさが全く無い。
+Koharu, while expressing her desire to lightly retaliate\nagainst Rio, who was the first to be inserted, does so\nwithout any hint of malice on her face.
 
 00000000
-理央も、漫才の受け答えのようにこはるの言葉に合わせて、自分の正直な気持ちを伝えるようにしながらも、僕をチラチラと物欲しそうに横目で見ていた。
+Rio, while matching Koharu's words like a comedy duo, subtly\nglanced at me with a longing look, as if trying to convey\nher honest feelings.
 
 00002000
-拓海
-ほら、理央……さっき自分から言ってたからね
+Takumi
+Hey, Rio... You said it yourself earlier, right?
 
 020000000100666D5F3039305F30303135
 
 0300191000000F275345485F565F30335F5830325F41
 
 00003000
-理央
-ふっ、はあっ、はあっ、あああっ……
+Rio
+Huh, haa, haa, aahhh...
 C03a11070021
 
 00003000
-理央
-ちゃんとわかってるじゃんっ……んっ、ふうっ、あふうんっ……
+Rio
+You understand perfectly... Nn, haa, fuu...
 C03a11070022
 
 00000000
-僕は最初こはるにしてあげたように、理央の膣内にも片手の指を差し入れ、中指と薬指を互い違いに動かすようにして中を少し激しくかき混ぜる。
+Just like I did for Koharu at first, I insert one finger\ninto Rio's vagina and move my middle and ring fingers in an\nalternating motion, stirring her insides a little more\nvigorously.
 
 00000000
-理央の膣内は絶頂に至らないまでも抽送を続けられていただけに、強い快感を求めているところがあり、これぐらいの激しい刺激でぴったりなようだった。
+Rio's vagina may not have reached climax, but since I was\nable to continue thrusting, there was a part of her that was\nseeking intense pleasure, and it seemed like this level of\nintense stimulation was just right.
 
 00002000
-拓海
-理央も満足したみたいだし、こはるのマンコ、しっかり味わわせて貰うからね
+Takumi
+Since Rio seems satisfied too, I'll make sure to thoroughly\ntaste Koharu's pussy.
 
 020000000100666D5F3039305F30303136
 
@@ -405,32 +405,32 @@ C03a11070022
 0300D21000000F275345485F505F313032
 
 00003000
-こはる
-はふっ、ふああっ、はあっ、あ、あああ……！　最初から激しいっ……でも、すごく気持ちいいっ……あふっ、はあんっ……
+Koharu
+Hah... Fuu... Haa... Ah... Ahhh...! It's intense right from\nthe start... But it feels so good... Hah... Haan...
 C04a11070016
 
 00000000
-僕は不器用なだけに、理央の膣内を弄る早い指先の動きに合わせて、こはるの膣内への抽送も自然にスピードが付いてしまうのを避けられなかった。
+Since I'm just clumsy, I couldn't help but match the quick\nmovements of my fingers playing inside Rio's vagina with the\nspeed of my thrusts into Koharu's vagina.
 
 00003000
-こはる
-んんっ、はあっ、あ、ああっ、はあんっ……！
+Koharu
+Nn, haa, a, aahh, haan...!
 C04a11070017
 
 00003000
-こはる
-ご、ごめん、なさいっ……私、感じすぎてっ……お腹に力が入っちゃうっ……あ、あああ……！
+Koharu
+S-Sorry... I'm feeling too much... My stomach is tensing\nup... Ah, ahhh...!
 C04a11070018
 
 00002000
-拓海
-こはるのマンコっ……僕の一番気持ちいいところに吸い付いてきてる
+Takumi
+Koharu's pussy... It's sucking onto the most pleasurable\nspot for me.
 
 020000000100666D5F3039305F30303135
 
 00003000
-こはる
-池ノ上くん……気持ちよさそう……そんな顔見てると、私、嬉しいっ……
+Koharu
+Takumi-kun... You look so pleasured... Seeing that\nexpression on your face makes me happy...
 C04a11070019
 
 020000000100666D5F3039305F30303136
@@ -440,30 +440,30 @@ C04a11070019
 0300D21000000F275345485F505F313033
 
 00003000
-こはる
-ふあああんっ！？　いきなりぃぃっ……そんなに動かれたらっ……ひあっ、ふっ、ふあああっ！
+Koharu
+Fuuaaann!? All of a sudden... if you move that much... hiaa, \nfuu, fuuaaahh!
 C04a11070020
 
 00003000
-こはる
-ひうっ、はあっ、あああんっ……！　ら、らめっ、わ、私っ、オマンコ気持ち良すぎてっ……身体中が痺れちゃうっ……！
+Koharu
+Hiuu, haa, aaann...! S-Stop, I-I... my pussy feels too\ngood... my whole body is tingling...!
 C04a11070021
 
 0300191000000F275345485F565F30385F4933335F42
 
 00003000
-理央
-あ、アタシもっ……こんなに動かすからっ……オマンコの中、引っ掻かれてっ…………あ、あああ……！
+Rio
+Ah, I-I'm also... because you're moving so much... my pussy\nis being scratched... ah, ahhh...!
 C03a11070023
 
 00000000
-僕が身体を前後させる動作によって腕も引っ張られ、理央の膣内に差し込んだ指も大きく動いてＧスポットを擦ってしまっていた。
+My arms were pulled along with the movement of my body, and\nthe fingers that I had inserted into Rio's vagina were\nmoving vigorously, unintentionally rubbing against her\nG-spot.
 
 0200EF10054563735F4E6176695F303035
 
 00003000
-理央
-はあっ、ああっ、う、ううっ、ふぅああああああああああっ……！
+Rio
+Haa, aah, u, uu, fuuaaaaaaaaahhhhh...!
 C03a11070024
 
 020000000100666D5F3039305F30303137
@@ -471,25 +471,25 @@ C03a11070024
 0200EF10054563735F4E6176695F303034
 
 00003000
-こはる
-はあっ、あ、ああっ……出してっ……私にもっ……精液出してぇぇぇぇぇぇぇ！
+Koharu
+Haa, a, aaah... Release it... Give me your semen too... I\nwant you to cum inside meeeeeee!
 C04a11070022
 
 0200EF10054563735F4E6176695F303033
 
 00000000
-僕は性衝動の勢いで喋ったことで、焦りに満ちた自分を晒してしまったが、こはるは子供の悪戯を仕方なく思う母親のように微笑んで射精を待ち受ける。
+I exposed my anxious self by speaking out of sexual impulse, \nbut Koharu smiled like a mother reluctantly accepting a\nchild's mischief, waiting for me to ejaculate.
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-陰嚢から亀頭へと優しく手で撫でられたような肉棒を膨張させる快感が走り、それに合わせるようにして精液が飛び出した。
+The pleasurable sensation of my penis being gently stroked\nfrom the scrotum to the glans caused it to swell, and in\nresponse, semen shot out.
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-お、おおっ……だ、出すよっ、こはる……！
+Takumi
+O-Oh... I'm, I'm going to cum, Koharu...!
 
 0200EF10002D
 
@@ -498,23 +498,23 @@ C04a11070022
 020000000100666D5F3039305F30303138
 
 00003000
-こはる
-ふあああああああああっ、ひゃあああんっ……！
+Koharu
+Fuuaaaahhh, hyaaaannn...!
 C04a11070023
 
 00003000
-こはる
-あ、ああっ……お、おっぱいっ……出ちゃったあっ……はあっ、あああ……
+Koharu
+Ah, ah... my, my breasts... they came out... haa, aaaaah...
 C04a11070024
 
 00003000
-理央
-ふうっ、あ、ああっ、あひいんっ……わ、私もっ……こはるちゃんが行くときのエッチな声聞いてたらっ……んんっ……！
+Rio
+Haa, aah, aaaaah... Ah, I-I'm also... when I heard Koharu-\nchan's sexy voice while she was going... nngh...!
 C03a11070025
 
 00003000
-理央
-イックぅぅぅぅぅうぅぅぅうううううう！
+Rio
+I-I'm cummingggggg!
 C03a11070026
 
 0100200002026566666563742C656666656374207379616E7975
@@ -522,39 +522,39 @@ C03a11070026
 020000000100666D5F3039305F30303230
 
 00003000
-理央
-んっ、はあっ、ああっ……い、イッちゃったあっ……オマンコもっ、おっぱいも気持ちいいのおっ……
+Rio
+Ngh, haa, aah... I-I came... My pussy and my breasts feel so\ngood...
 C03a11070027
 
 00000000
-母乳を溢れさせて絶頂を迎えたこはるに付き添うようにして、理央も僕の指で快感が極まったことで自分も達してしまっていた。
+Rio also reached climax as she accompanied Koharu, who was\noverflowing with breast milk and experiencing ecstasy, and\nfelt intense pleasure from my fingers.
 
 00000000
-荒い息を吐き出す二人の顔は、僕と結ばれていることの幸福を如実に物語っていると言えた。
+The faces of the two, exhaling rough breaths, clearly told\nthe story of the happiness that was being shared between\nthem and me.
 
 020000000100666D5F3039305F30303231
 
 00003000
-こはる
-理央さんも私と一緒……イッたらおっぱい出ちゃってる……
+Koharu
+Rio-san, you're also... when you cum, your breasts leak\nout...
 C04a11070025
 
 00003000
-理央
-仕方ねーだろう……あんなの見せられたら誰でもそうなるっつーの……
+Rio
+I guess there's no helping it... Anyone would react like\nthat if they were shown something like that...
 C03a11070028
 
 00000000
-絶頂を迎えたことで母乳が出たことをお互いに笑い合う彼女たちの姿は、セックスを重ねたことで自我を崩壊させてしまった友里子とは全く違っていた。
+The sight of them laughing together about the fact that\ntheir breasts leaked after reaching climax was completely\ndifferent from Yuriko, who had her sense of self shattered\nby the repeated sex.
 
 00000000
-その歓喜のせいなのか、未だに萎えない淫棒をこのままにしておくのが辛くなり、再び理央の股間に身を割り入らせていった。
+Because of that joy, I couldn't bear to leave my still erect\ncock untouched, so I once again thrust myself into Rio's\ncrotch.
 
 020000000100666D5F3039305F30303232
 
 00003000
-理央
-お？　まだ萎えないのかよ……ほらっ、もっと来いって
+Rio
+Oh? It's still not going soft... Come on, give me more.
 C03a11070029
 
 0300C21000000F275345485F495F303032
@@ -562,50 +562,50 @@ C03a11070029
 020000000100666D5F3039305F30303233
 
 00003000
-理央
-んふぅぅぅっ、あああああっ……！
+Rio
+Nnfuuhhh, aaaaahhhh...!
 C03a11070030
 
 0100200002026566666563742C656666656374207A6563686F75
 
 00000000
-理央は亀頭がＧスポットを通過した瞬間に二度目の絶頂に達し、母乳が放物線を描いて乳首から飛び出すほどに快感を上塗りしていく。
+Rio reached her second climax the moment the glans passed\nthrough her G-spot, intensifying the pleasure to the point\nwhere breast milk arched in a parabolic trajectory and shot\nout from her nipples.
 
 00000000
-こんなに感じやすくなっているのを我慢して僕を嗜めるようにして挿入を誘っていた理央の気持ちが嬉しくて、僕の肉槍は最初から激しく脈打ち始めた。
+Rio's desire to restrain herself and scold me while enduring\nsuch sensitivity, and her invitation for insertion, made me\nhappy. My meat spear began pulsating intensely from the very\nbeginning.
 
 0300191000000F275345485F565F30335F4930325F41
 
 0300D21000000F275345485F505F323032
 
 00003000
-理央
-ひいんっ、はっ、ああああっ……！　ありえないっ……イッたばかりなのに乱暴すぎぃぃぃぃぃいっ……！
+Rio
+Hiiin, haa, aaaaah...! This is unbelievable... Even though I\njust came, it's too rough...!
 C03a11070031
 
 00000000
-理央の喘ぎとともに、背中が冷えるかのような鋭い心地よさが僕の全身を満たしていく。
+With Rio's moans, a sharp sensation of pleasure that sent\nchills down my spine filled my entire body.
 
 020000000100666D5F3039305F30303234
 
 00003000
-理央
-ひいいんっ、ひああっ、ふっ、ふああっ、あ、ああああっ……！　はあっ、あ、ああっ、も、もっとっ
+Rio
+Hiiin, haa, aaaaah...! Haah, aah, aaaah...! More... more!
 C03a11070032
 
 00003000
-理央
-むちゃくちゃにする勢いでズポズポしてええええええええ……！
+Rio
+Thrust it in vigorously, relentlessly... Ahhhhhhhhhhh...!
 C03a11070033
 
 00000000
-理央はついに理性の一線を越えて性衝動に意識が支配されたらしく、腰を自分からも揺すりながら、上擦っているのを超えた裏返った声を上げる。
+Rio seemed to have finally crossed the line of reason and\nwas now being dominated by her sexual impulses. She raised\nher voice in a reversed tone, shaking her hips and rubbing\nagainst me on her own.
 
 0200EF10054563735F4E6176695F303035
 
 00002000
-拓海
-もう一度中に出すよっ……！
+Takumi
+I'm going to cum inside again!
 
 020000000100666D5F3039305F30303233
 
@@ -616,25 +616,25 @@ C03a11070033
 0200EF10054563735F4E6176695F303034
 
 00003000
-理央
-だして、だしてっ……！　はあっ、あひいっ、ひうあああんっ……！
+Rio
+Release it, release it...! Haa, ahi, hiuaaaaan...!
 C03a11070034
 
 0200EF10054563735F4E6176695F303033
 
 00000000
-くすぐったさと心地よさを同時に味わったことで、背筋に力を入れても射精を煽られ、腰を引いても尿道口がこそばゆくて精液が漏れだしそうになった。
+By experiencing both ticklishness and pleasure at the same\ntime, my spine tensed up and my ejaculation was provoked\neven when I put strength into it. Even when I pulled back my\nwaist, the opening of my urethra felt itchy and semen was on\nthe verge of leaking out.
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-頭痛を覚えながら目の前が白く染まり、それが急に暗転した。
+My head started to ache, and the world in front of me turned\nwhite, then suddenly went dark.
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-くっ、うううっ……！　理央、うっ……！
+Takumi
+Ugh, ugh...! Rio...!
 
 0200EF10002D
 
@@ -643,54 +643,54 @@ C03a11070034
 020000000100666D5F3039305F30303235
 
 00003000
-理央
-ひゃぁぁぁぁぁぁぁぁぁっ、子宮にぃぃぃぃぃいっ……！
+Rio
+Hyaaaaaaaah, deep inside my womb...!
 C03a11070035
 
 00000000
-熱い精液を膣内に撒き散らすように放っていくと、理央は絶頂に達し、顔の筋肉をこの上なく緩ませて失神してしまった。
+As I released my hot semen inside her vagina, Rio reached\nclimax and her facial muscles relaxed to the point of\nunconsciousness.
 
 00003000
-理央
-はぇ……はぁ……へへっ……きもちいぃ……ああ……んは……
+Rio
+Haa... haa... hehe... feels good... aah... mmm...
 C03a11070036
 
 020000000100666D5F3039305F30303236
 
 00003000
-こはる
-ああっ……理央さんずるい！　こんなに感じちゃうなんてっ、私だけ置いてけぼりにされた気分
+Koharu
+Ahh... Rio-san, that's not fair! I can't believe you're\nfeeling this much pleasure... I feel like I've been left\nbehind.
 C04a11070026
 
 00002000
-拓海
-こはるもすぐに理央みたいにしてあげるからね
+Takumi
+Koharu, I'll make you feel just like Rio soon enough.
 
 00003000
-こはる
-ちょっとっ……顔、怖いよっ……
+Koharu
+Hey... your face looks scary...
 C04a11070027
 
 020000000100666D5F3039305F30303235
 
 00003000
-こはる
-で、でもっ……私も理央さんみたいになりたい……だから、おもいっきり激しくして……
+Koharu
+B-But... I also want to be like Rio-san... So, please, be\nrough with me...
 C04a11070028
 
 00000000
-こはるが怯えながらも逆に嘆願してくるのがとてもいじらしくてたまらない。
+It's so heartwarming and irresistible to see Koharu, even\nthough she's scared, begging me in reverse.
 
 00000000
-最初からビクつくほどの激しい勃起をしている肉茎を携えて、僕はこはるの膣口にペニスを押し当てた。
+With a throbbing erection from the very beginning, I pressed\nmy penis against Koharu's vaginal opening.
 
 0300C21000000F275345485F495F303031
 
 020000000100666D5F3039305F30303237
 
 00003000
-こはる
-んんっ……はうっ、ああああっ……！
+Koharu
+Nnn... Hauu, aaaaah...!
 C04a11070029
 
 0300191000000F275345485F565F30345F4930325F41
@@ -700,22 +700,22 @@ C04a11070029
 020000000100666D5F3039305F30303238
 
 00003000
-こはる
-ふあああっ、ひゃうううっ、はああああんっ！　お腹から頭のてっぺんまでっ……気持ち良いのズシンズシンって何度もくるぅぅぅっ！
+Koharu
+Fuuaaaah, hyaaaauuuu, haaaaannn! From my stomach to the top\nof my head... it feels so good, pulsating over and over\nagain!
 C04a11070030
 
 00003000
-こはる
-んはぁっ、ああ、もっと私で気持ちよくなってっ……私をもっと感じさせておねがいっ！
+Koharu
+Nnhhaa, aah, make me feel even better... Please make me feel\nmore!
 C04a11070031
 
 00002000
-拓海
-こはるっ、無理に締め付け過ぎ、くううっ……！
+Takumi
+Koharu, don't tighten too much, ugh...!
 
 00003000
-こはる
-んっ、くふっ、むっ、んんっ……！
+Koharu
+Nn, kufu, mmm, nn...!
 C04a11070032
 
 020000000100666D5F3039305F30303237
@@ -725,42 +725,42 @@ C04a11070032
 0300D21000000F275345485F505F323033
 
 00003000
-こはる
-ひいっ、ひうううううううっ……すごいっ、いつもよりもっ……いっぱい擦れてっ……！
+Koharu
+Hii... Hiuuuuuuuu... It's amazing... It feels even better\nthan usual... Rubbing against me so much...!
 C04a11070033
 
 0200EF10054563735F4E6176695F303035
 
 00000000
-肉棒が押し出されそうなほど圧迫された膣内はストロークによる摩擦の強さも倍増されているようで、彼女は上半身を跳ねさせ快感に悶えた。
+The vagina, which was pressed so tightly that it felt like\nthe meat stick was about to be pushed out, seemed to have\ndoubled the strength of the friction from the strokes, \ncausing her to bounce her upper body and moan in pleasure.
 
 0200EF10054563735F4E6176695F303034
 
 00002000
-拓海
-こはるっ……キンタマに残ってる精液っ……全部出してあげるから！
+Takumi
+Koharu... I'll release all the semen that's left in my balls\nfor you!
 
 020000000100666D5F3039305F30303238
 
 0200EF10054563735F4E6176695F303033
 
 00003000
-こはる
-ほんとっ？　嬉しいっ……わ、私っ……んぁぁぁぁぁぁ！
+Koharu
+Really? I'm so happy... I, I... aahhhhh!
 C04a11070034
 
 0200EF10054563735F4E6176695F303032
 
 00003000
-こはる
-池ノ上くん……すき、すき……んっ、はぁ、ひゃっ、あっ！
+Koharu
+Takumi-kun... I love you, I love you... ngh, haa, hyaa, ah!
 C04a11070035
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-こはる、奥で受け止めて！
+Takumi
+Koharu, take it deep inside!
 
 0200EF10002D
 
@@ -769,34 +769,34 @@ C04a11070035
 020000000100666D5F3039305F30303239
 
 00003000
-こはる
-すきぃぃぃぃぃぃぃぃっ……！　んぁぁぁぁぁぁぁぁぁあ！
+Koharu
+I looooove youuuuuu...! Ahhhhhhh!
 C04a11070036
 
 00000000
-僕は会陰部が攣るような痛みを覚えるほどの勢いで精液を力強く体外へと押し出していき、こはるの膣口から溢れかえるほど射精した。
+I ejaculated with such force that it felt like my perineum\nwas cramping, forcefully pushing the semen out of my body, \noverflowing from Koharu's vaginal opening.
 
 00000000
-彼女も絶頂の快感を制御しきれず、理央と同じように、寝相の悪い姿を晒すように快感に満ちた顔で意識を失わせていくのだった。
+She, unable to control the pleasure of climax, like Rio, \nlost consciousness with a blissful expression on her face, \nexposing her restless sleeping posture.
 
 00002000
-拓海
-はあっ、あああ……これ以上、もう僕も出せないよ……
+Takumi
+Haa... Aaahhh... I can't release anymore...
 
 0300C21000000F275345485F455F303032
 
 020000000100666D5F3039305F30303330
 
 00000000
-僕は勃起する機能を失ったと証明するように垂れ下がった陰嚢を見て苦笑しながら、陰茎をこはるの膣内から引き抜いていく。
+I chuckled wryly as I looked at my sagging scrotum, as if to\nprove that I had lost the ability to get an erection, and\nslowly pulled my penis out of Koharu's vagina.
 
 0100200002026566666563742C6566666563742073696F66756B69
 
 020000000100666D5F3039305F30303331
 
 00003000
-こはる
-ふうううううっ、んんんんんーっ！
+Koharu
+Fuuuuuu, nnnnnn!
 C04a11070037
 
 0100200002026566666563742C6566666563742073696F66756B69
@@ -804,12 +804,12 @@ C04a11070037
 020000000100666D5F3039305F30303332
 
 00003000
-理央
-むうううううっ、んんんんんーっ！
+Rio
+Mmmmm, uhhhhhh!
 C03a11070037
 
 00000000
-二人の身体がビクンと一度跳ねて、横隔膜が圧迫されることで漏れる声とともに、膣口から破水した羊水が漏れた。
+The two bodies jumped with a twitch, and along with the\nsound escaping from the compressed diaphragm, amniotic fluid\ngushed out from the vaginal opening.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

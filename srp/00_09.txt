@@ -7,89 +7,89 @@
 0200000001004247303230305F62
 
 00000000
-翌朝――
+The next morning--
 
 00002000
-拓海
-おはようございます
+Takumi
+Good morning.
 
 00000000
-挨拶をしながら教室に入ると、小さなざわめきと共に僕に視線が集まってくる。
+As I entered the classroom while greeting everyone, there\nwas a small commotion and all eyes turned towards me.
 
 00000000
-その空気はもちろん、歓迎している雰囲気じゃない。
+"Of course, the atmosphere is not welcoming."
 
 00000000
-何を媚びてきているんだ……そう言わんばかりの冷たい視線が、ジロジロと遠慮なく僕に注がれる。
+"What are you trying to flatter us with...? The cold gaze, \nas if saying just that, stares at me without any\nhesitation."
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-だが、その視線も今の僕には全く気にならなかった。
+However, I wasn't bothered at all by that gaze now.
 
 00000000
-どうして敵意を向けられていたのか、その正体に気づけば怖いことは何もない。
+If I realize the true identity of why I was being treated\nwith hostility, there is nothing to be afraid of.
 
 00000000
-その空気を変えられることを思えば、むしろ今の感覚を楽しむことさえ出来る気がしていた。
+If I think about being able to change that atmosphere, I\neven feel like I can enjoy the current sensation.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ……おはよう、池ノ上くん
+Koharu
+Ah... Good morning, Takumi-kun.
 C04a00090001
 
 00002000
-拓海
-おはよう、福永さん
+Takumi
+Good morning, Fukunaga-san.
 
 00000000
-そして、一人、変わらず挨拶をしてくれる福永さん。
+And there was Fukunaga-san, who continued to greet me\nwithout change.
 
 00000000
-自分の意志でしてくれるのか、マインドコントロールの影響か、今となっては曖昧なものだが、僕は明るく返事を返す。
+I respond cheerfully, although it is now unclear whether it\nis of their own will or due to the influence of mind\ncontrol.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-池ノ上くん、何かいいことがあったの？
+Koharu
+Takumi-kun, did something good happen?
 C04a00090002
 
 00002000
-拓海
-うん？
+Takumi
+Hm?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ、違ったらごめんね。何だか楽しそうに見えたから……
+Koharu
+Ah, I'm sorry if I was mistaken. You just seemed to be\nhaving fun, so...
 C04a00090003
 
 00002000
-拓海
-ははっ、そっか。そんな風に見えた？　まぁ、そうだね……これから、あるのかな
+Takumi
+Haha, is that so? Did I seem that way? Well, I guess... from\nnow on, will there be something?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-これから？
+Koharu
+From now on?
 C04a00090004
 
 00002000
-拓海
-うん、これから
+Takumi
+Yeah, from now on...
 
 00000000
-少し不思議そうな顔をする福永さんにそれ以上は説明せず、ニヤニヤと机で待機する。
+Without further explanation to Fukunaga-san, who had a\nslightly puzzled expression, I smirked and waited at my\ndesk.
 
 00000000
-当然、ヒソヒソと僕の様子を疎ましがる囁きが聞こえてきたが、もう一向に構うことはなかった。
+Of course, I could hear whispers of disapproval, as if they\nwere bothered by my behavior, but I paid no attention to\nthem at all.
 
 03008C0000000F2753455F6130315F30303035
 
@@ -100,18 +100,18 @@ C04a00090004
 0200E600000000000000FCFE9CFFFCFE4B004B004B004B00E8030000F401666D5F433032615F30335F305F305F305F3038
 
 00003000
-友里子
+Yuriko
 ………………
 C02a00090001
 
 00000000
-程なく、いつものように久我さんが教室に入って来ると、三々五々散っていた女子達も自然と席に戻っていく。
+Shortly after, as usual, when Kuga-san entered the\nclassroom, the girls who had scattered here and there\nnaturally returned to their seats.
 
 00000000
-ここからが重要なタイミングだ……僕は、慎重に久我さんの様子を窺い、次のきっかけを待っていた。
+This is the crucial moment... I carefully observed Yuriko-\nsan's behavior and waited for the next opportunity.
 
 00000000
-やがて、ちらりと久我さんが時計を見た後、さり気なく手を耳に押し当てる仕草が見える。
+After a while, I caught a glimpse of Yuriko-san glancing at\nher watch, and then subtly pressing her hand against her\near.
 
 00006000
 拓海
@@ -122,39 +122,39 @@ C02a00090001
 03008C0000000F2753455F6130385F30323034
 
 00000000
-予想通り、スピーカーからいつものように朝のオルゴールが聞こえてくる。
+As expected, the usual morning music box can be heard from\nthe speaker.
 
 00000000
-だが、この前と違い、今度は生徒達の様子は変わらない。
+However, unlike last time, this time the students' behavior\nremains unchanged.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……？
+Yuriko
+...?
 C02a00090002
 
 00000000
-一向に虚脱状態に陥らない生徒達の様子に、久我さんはハッと周囲を見渡す。
+Yuriko-san looked around in surprise at the students who\nshowed no signs of falling into a state of exhaustion.
 
 00000000
-表情の変化を見れば、催眠がかかっているかどうかはすぐ分かるだろう。
+By observing the change in expression, it should be\nimmediately apparent whether or not she is under hypnosis.
 
 00000000
-そして、異変を察知した久我さんが、次に行うことと言えば……。
+And so, if we were to say what Yuriko-san, who sensed the\nanomaly, would do next...
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……音は……鳴ってる……？
+Yuriko
+...The sound...is playing...?
 C02a00090003
 
 00000000
-そう、必ず耳栓を外して、音の状態を確かめる。
+Yes, I will definitely remove my earplugs and confirm the\nstate of the sound.
 
 00000000
-その瞬間を狙い定め、僕は用意していた本物のオルゴールを鳴らした。
+At that moment, I aimed carefully and played the real music\nbox that I had prepared.
 
 02006F100900
 
@@ -165,49 +165,49 @@ C02a00090003
 0200BC000100012C666D5F433032625F30335F305F305F305F30312F2D3237302F302E37372F302E3737
 
 00003000
-友里子
-……っ…………
+Yuriko
+... *silence*
 C02a00090004
 
 00000000
-ハッと気づいたその時には、もう久我さんの表情からぐにゃりと力が抜けていくのが分かった。
+At the moment she suddenly realized it, I could tell from\nYuriko-san's expression that her strength was already\ndraining away.
 
 00000000
-もちろん、他の女子も例外じゃない。クラスメートは、僕が見たあの時と同じように、ぼんやりと宙空を見上げた状態になっている。
+Of course, the other girls are no exception. Just like when\nI saw it before, my classmates are in a state of\nabsentmindedly looking up at the sky.
 
 00000000
-久我友里子……彼女もまた、アリサと共に僕を陥れた首謀者の一人だ。
+Yuriko Kuga... She is also one of the masterminds who\nplotted against me along with Arisa.
 
 00000000
-色々としてやりたいことはあったが、ひとまずは気持ちを抑えて、僕は彼女のところへ近づいていく。
+There were many things I wanted to do, but for now, I\nsuppressed my feelings and approached her.
 
 02007F10
 
 0200BC000100012C666D5F433032625F30335F305F305F305F30312F2D3237302F302E37372F302E3737
 
 00002000
-拓海
-さて、久我さん……いや友里子。君はいつもと同じように、アリサに電話を掛けるんだ。予定通りですとね
+Takumi
+Well then, Yuriko-san... No, Yuriko. You will call Arisa as\nusual. Just as planned, right?
 
 00003000
-友里子
-アリサに……電話を掛ける……
+Yuriko
+I will call Arisa...
 C02a00090005
 
 00002000
-拓海
-そうだよ。何も問題はありません。ですが……そう言って、これを聴かせるんだ
+Takumi
+That's right. There's no problem at all. However... saying\nthat, let me play this for you.
 
 00003000
-友里子
-分かりました……
+Yuriko
+Understood...
 C02a00090006
 
 00000000
-うつろな視線のまま、迷いなく頷くと、友里子はすぐに電話を掛け始める。
+With a vacant gaze, Yuriko nodded without hesitation and\nimmediately started making a phone call.
 
 00000000
-もちろん僕もしっかりと側につき、そのやりとりを確かめる。
+Of course, I will firmly stand by her side and confirm that\nexchange.
 
 00005000
 アリサ
@@ -215,8 +215,8 @@ C02a00090006
 C01a00090001
 
 00003000
-友里子
-はい……ええ、何も問題はありません。ですが……
+Yuriko
+Yes... Yes, there are no problems. However...
 C02a00090007
 
 00005000
@@ -225,8 +225,8 @@ C02a00090007
 C01a00090002
 
 00003000
-友里子
-あの、これを……
+Yuriko
+Um, this...
 C02a00090008
 
 03008C0000000F2753455F6130385F30323034
@@ -237,18 +237,18 @@ C02a00090008
 C01a00090003
 
 00000000
-聞き返した所で、僕はオルゴールを電話に近づけ、再び催眠の音色を流してやる。
+I brought the music box closer to the phone and played the\nhypnotic melody again, even though she asked me to repeat\nit.
 
 00000000
-果たして、これで上手く行くのかどうか……友里子を使って確かめる。
+I wonder if this will really work... I'll use Yuriko to make\nsure.
 
 00002000
-拓海
-友里子、アリサにそのまま教室へ戻るように呼びかけて
+Takumi
+Yuriko, call out to Arisa and ask her to return to the\nclassroom as planned.
 
 00003000
-友里子
-はい……アリサ……教室へ戻って頂けますか？
+Yuriko
+Yes... Arisa... Could you please come back to the classroom?
 C02a00090009
 
 00005000
@@ -257,10 +257,10 @@ C02a00090009
 C01a00090004
 
 00000000
-向こうからはあの時と同じ――少しうつろになった返事が聞こえてきた。
+From the other side, I heard a response that was the same as\nbefore――a slightly vacant reply.
 
 00000000
-どれだけの効き目があるかと心配だったけど、放送越しでも効くように、電話越しでも大丈夫のようだ。
+I was worried about how effective it would be, but it seems\nto work even over the phone, just like through the\nbroadcast.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F73686F7274
 
@@ -273,89 +273,89 @@ C01a00090004
 0200E6000000000064000BFF00000BFF4B004B004B004B000000E803F401666D5F433031625F30335F305F305F305F3031
 
 00003000
-アリサ
+Arisa
 ………………
 C01a00090005
 
 0200E6000000000000000BFF9CFF0BFF4B004B004B004B00E8030000F401666D5F433031625F30335F305F305F305F3031
 
 00000000
-やがて、アリサが教室へとやって来るが、その表情はまだどこかうつろなままだった。
+Eventually, Arisa comes to the classroom, but her expression\nstill seems somewhat vacant.
 
 00000000
-催眠状態でも、行動にそこまで不具合は出ないことは、エッチの時に何となく分かっていた。
+I somehow knew that even in a hypnotic state, there wouldn't\nbe that much trouble with her actions during sex.
 
 00000000
-とは言え、これからはもう少し目の届く所で使っておきたいところだな。
+However, from now on, I would like to use it in a place\nwhere I can keep a closer eye on it.
 
 00002000
-拓海
-さて……ともかく役者は揃って、これからどうするか……
+Takumi
+Well then... now that the actors are all here, what should\nwe do next...
 
 00000000
-とにかく、普段は僕を虐めるように振る舞えというマインドコントロールが施されていたんだ。
+Anyway, she had been subjected to mind control that made her\nbehave as if she were bullying me in everyday life.
 
 00000000
-それを、僕のいいように作り変えてやる……ただ、まだ勝手も加減も分からない以上、あまり細かいことはしたくない。
+I will remake it to my liking... However, since I still\ndon't understand the extent of control, I don't want to get\ntoo detailed.
 
 00002000
-拓海
-つまり……今と反対になればいいんだよな……
+Takumi
+In other words... it would be good if we could do the\nopposite of what we're doing now...
 
 00000000
-分かりやすく考えれば、自分の地位を向上させ、唯一の男子である自分が迫害されるのではなく、持て囃されるようにすればいい。
+If I think about it in a straightforward manner, I should\nstrive to improve my position and instead of being\npersecuted as the only male, I should aim to be praised.
 
 00002000
-拓海
-それこそ、アリサとのエッチの時みたいに……そうか……うん、そうだ
+Takumi
+That's it, just like when I had sex with Arisa... I see...\nYeah, that's right.
 
 00000000
-頭の中で方針が決まると、僕は教壇に立ち、未だ視線を彷徨わせているクラスメートに口を開いた。
+When the plan was decided in my head, I stood at the podium\nand spoke to my classmates who were still wandering their\ngazes.
 
 00002000
-拓海
-君たちは、王京学園の選ばれた生徒として、常に優秀な振る舞いをしなくてはなりません
+Takumi
+As chosen students of Oukeyo Academy, you must always behave\nexcellently.
 
 00000000
-この前、アリサがしたような雰囲気で、僕は頭の中のイメージを一つずつ言霊にしていく。
+In the atmosphere, similar to what Arisa did before, I will\nturn the images in my head into words one by one.
 
 00002000
-拓海
-優秀な女性は、種を残すために男性の精液をなるべく多く受け入れられることが求められるものです
+Takumi
+Excellent women are expected to accept as much male semen as\npossible in order to leave offspring.
 
 00002000
-拓海
-だから、君たちは……自分の身体に精液を取り込む為にあらゆる努力を惜しまないようにして下さい
+Takumi
+So, all of you... please make every effort to accept semen\ninto your bodies.
 
 00002000
-拓海
-もし、精液を上手く摂取出来れば、君たちは心からの幸福感を味わうことが出来ます
+Takumi
+If you can successfully consume semen, you will be able to\nexperience true happiness.
 
 00002000
-拓海
-特に、摂取した場所から最高のエクスタシーを味わえます……その効果は、えーと……
+Takumi
+Especially, you can experience the ultimate ecstasy from the\nplace where you consume it... The effects, umm...
 
 00000000
-ふいに頭の中に、アリサへ膣内射精したときの光景が浮かび上がる。
+Suddenly, the scene of ejaculating inside Arisa's vagina\ncomes to mind.
 
 00002000
-拓海
-そう、子宮内で受け止めることが何より一番良い効果があります。そして後は……
+Takumi
+Yes, there is nothing better than receiving it inside the\nuterus. And then...
 
 00002000
-拓海
-その回数が多いほど成績優秀者として、その後の内申点も有利になり、将来の君たちの為になるでしょう
+Takumi
+The more times you do it, the better your grades will be as\noutstanding students, and it will be advantageous for your\nfuture.
 
 00000000
-自分に都合のいい妄想を、思いつくままに並べ立てていく。
+I will freely line up my own convenient delusions as they\ncome to mind.
 
 00002000
-拓海
-えぇと……とりあえず、こんな所か。じゃあ、今から僕が手を打ったら、また日常に戻ります
+Takumi
+Um... for now, this should be enough. Well then, if I take\naction from now on, we will return to our daily lives.
 
 00002000
-拓海
-ホームルームまでの朝の出来事は、全て滞りなく完了しましたから心配はいりません。では……３、２、１……
+Takumi
+The morning events leading up to homeroom have all been\ncompleted without any issues, so there's no need to worry.\nWell then... 3, 2, 1...
 
 03008C0000000F2753455F6230325F30303032
 
@@ -364,42 +364,42 @@ C01a00090005
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-んっ…………
+Arisa
+Mmm...
 C01a00090006
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あ…………
+Yuriko
+Ah........
 C02a00090010
 
 00000000
-パチンと手を鳴らすと同時に、ハッとみんなの意識が元に戻った。
+With a snap of my fingers, everyone's consciousness suddenly\nreturned.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-教室……？　あ……そう、だわ。ちょうど今、終わって……友里子……？
+Arisa
+The classroom...? Ah... right, it just ended... Yuriko...?
 C01a00090007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……はい
+Yuriko
+Yes...
 C02a00090011
 
 00000000
-朝の出来事は全て滞りなく完了した……その共通認識がアリサ、友里子、揃って余計な疑念をなくさせている筈だ。
+The morning events have all been completed without any\nissues... That shared understanding should have dispelled\nany unnecessary doubts from Arisa and Yuriko.
 
 00000000
-注意深く二人の様子を観察したが、どうやら大きく不自然に思うことはなかったらしい。
+I carefully observed the two of them, but it seems that they\ndidn't find anything particularly unnatural.
 
 00000000
-他の生徒達も、一見していつも通りの光景に戻っており、またチクリとするような視線を周囲から感じる。
+The other students have also returned to the usual scenery\nat first glance, and I can feel piercing gazes from the\nsurroundings.
 
 02008C00010000
 
@@ -408,67 +408,67 @@ C02a00090011
 僕についての言及は何もしてなかったからな……すぐにそこが変化する訳じゃないんだよな……
 
 00000000
-あまりに大きく意識を改変させると何が起こるかわからないという不安もあった。
+I also had concerns about what might happen if I drastically\naltered their consciousness.
 
 00000000
-ある意味、今まで通りの雰囲気のままであることに、ちょっとホッとする所さえあったりして……。
+In a way, there's a part of me that feels relieved that the\natmosphere remains the same as before...
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-なーに、キョロキョロ落ち着きなく見てんのさ
+Rio
+What are you looking around so restlessly for?
 C03a00090001
 
 00002000
-拓海
-え……？
+Takumi
+Huh...?
 
 00000000
-と――これもまた、ある意味いつも通りに、神泉さんがちょっかいを掛けてきた。
+And... in a sense, as always, Kamiizumi-san came to bother\nus.
 
 00002000
-拓海
-いや、何って……別に……その、何でも
+Takumi
+No, it's nothing... Well, anything...
 
 00003000
-理央
-ウソばっか。めっちゃアリサの方とか見てたじゃん。今度はそっちがオナネタ？　マゾくない？
+Rio
+Stop lying. You were totally staring at Arisa, weren't you?\nNow you're fantasizing about her? Aren't you a masochist?
 C03a00090002
 
 00000000
-相変わらず妙に僕の視線に目ざといというか、それも彼女に与えられた役割なんだろうか？
+As always, she's strangely perceptive of my gaze. Or is that\njust the role she's been given?
 
 00000000
-案外僕のことが気になってたりして……って、さすがにそれはないか。
+Maybe she was actually concerned about me... Nah, that's\nprobably not the case.
 
 00003000
-理央
-ナニ、ニヤついてんだよ。もしかして、またシコられたいワケ？
+Rio
+What's with that smirk? Are you hoping to be jerked off\nagain or something?
 C03a00090003
 
 00002000
-拓海
-や……そ、そんなことは……別に……
+Takumi
+W-W-Well, it's not like... anything...
 
 00000000
-シコられる……この前受けた気持ちよくも屈辱的な仕打ちが脳裏を過ぎる。
+Being jerked off... The pleasurable yet humiliating\nexperience I received before flashes through my mind.
 
 00000000
-ただ、今度は状況が違う。ちょうどいま、刷り込んだばかりの認識を試すのに、一番うってつけのタイミングだ。
+However, the situation is different this time. Right now, \nit's the perfect timing to test the freshly implanted\nperception.
 
 00000000
-今度、同じようなシチュエーションで射精したらどうなるのか……それを思うと、自然に股間に熱がこもり始める。
+This time, I naturally feel heat building up in my crotch as\nI imagine what would happen if I were to ejaculate in a\nsimilar situation...
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-おっ……何だ、モジモジして……やっぱりして欲しいんじゃん？　いーよ、そらっ！
+Rio
+Oh... What's with the fidgeting... You want me to do it, \ndon't you? Fine, here you go!
 C03a00090004
 
 00000000
-そんな様子も目ざとく見つけると、僕はまた床へと押し倒され、無防備な仰向け状態にされていた。
+When she noticed my behavior, Rio promptly pushed me down\nonto the floor again, leaving me in a vulnerable position\nlying on my back.
 
 0300000000000F2742474D3035
 
@@ -479,129 +479,129 @@ C03a00090004
 050040000139305F30375F65787472615F686172656D5F3032
 
 00002000
-拓海
-うぁっ……！
+Takumi
+Ugh...!
 
 00000000
-ぎゅっと股間を踏み込まれて、また情けない呻きが漏れる。
+I let out another pathetic moan as she firmly steps into my\ncrotch.
 
 00003000
-理央
-おっ、懲りてないねぇ。何だかんだ、しっかり期待してんじゃん♪
+Rio
+Oh, you haven't learned your lesson, huh? It seems like deep\ndown, you're still hoping for it♪
 C03a00090005
 
 00000000
-以前と同じような状況の中、僕は前回とは違う期待感でじりじりと肉棒に熱を持たせていた。
+In a situation similar to before, I was gradually heating up\nmy meat rod with a different sense of anticipation than last\ntime.
 
 00000000
-そうだ……この間は、この女のせいで恥をかかされた。神泉理央……彼女にも、おかえしはしなくちゃならない。
+That's right... Last time, I was humiliated because of this\nwoman. Kamiizumi Rio... I must repay her as well.
 
 00000000
-だけど、焦ることはない。今日はこの後……ここからが、僕の反撃になるんだ。
+But there's no need to rush. After this... from here on, it\nwill be my counterattack.
 
 00002000
-拓海
-んっ……うくっ、ふっ……
+Takumi
+Ngh... Ugh, fu...
 
 020000000100666D5F3030315F30303031
 
 00003000
-理央
-別に我慢しなくていーよ？　感じてんでしょ、アヘってみたらいーじゃん
+Rio
+You don't have to hold back, you know? It's fine if you want\nto moan and make an ahegao face.
 C03a00090006
 
 00002000
-拓海
-あ……ぉっ！
+Takumi
+Ah... Oh!
 
 00000000
-仰向けに倒れた僕を、周囲の視線は依然として冷たい眼差しで見つめてきている。
+The people around me continue to stare at me with cold, \nindifferent eyes as I lie on my back.
 
 00000000
-福永さんは一人心配そうな顔をしていたが、やはり今まで通り、理央を制止するようなことはなかった。
+Koharu-san had a worried expression on her face, but as\nexpected, she didn't try to stop Rio like she had done\nbefore.
 
 00003000
-理央
-ほーら、どんどん固くなって来てる。あんた、いじめられるの癖になった？　変態過ぎじゃね？
+Rio
+Look, it's getting harder and harder. Have you become\naddicted to being bullied? Isn't that too perverted?
 C03a00090007
 
 00000000
-ニヤニヤしながら、理央は更に僕の股間を踏みにじってくる。
+Rio, with a smirk on her face, continues to trample on my\ncrotch even more.
 
 00000000
-あぁ……そうだ、この感じだった。前は、恥ずかしくて、悔しくて、だけど確かにもたらされる刺激は心地よくて……。
+Ah... That's right, this feeling. Before, it was\nembarrassing and frustrating, but the stimulation it brings\nis undeniably pleasurable...
 
 00002000
-拓海
-や、やめろっ……やめて……うぁっ……
+Takumi
+S-Stop... Please... Ahh...
 
 00000000
-表向き、前と同じように抵抗しているようなフリをする。
+I pretend to resist just like before, on the surface.
 
 00000000
-それでも、その先に待っている逆転現象を思うと、自然と興奮は増して、前が膨らむのを隠せない。
+However, when I think about the reversal phenomenon that\nawaits me ahead, my excitement naturally increases and I\ncan't hide the fact that I'm getting aroused.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-キャハッ、しっかり喜んでるし。うりうりっ、踏まれて感じるド変態～
+Rio
+Kyahaha, you're clearly enjoying it. Uri-uri, you're such a\nperverted masochist~
 C03a00090008
 
 00002000
-拓海
-んんっ、くっ……あっ、うっ……
+Takumi
+Nngh... Kuuh... Ahh... Uhh...
 
 00000000
-相変わらず、理央の責め方はしっかりとツボを押さえていた。
+Rio's way of tormenting me was still firmly hitting the\nmark.
 
 00000000
-かなり大胆に踏み込みつつも、苦痛の一歩手前の所で加減がされて、ぐりぐりと布越しにかき回されていく。
+Despite boldly stepping forward, the intensity is adjusted\njust before reaching the point of pain, and I am being\nrubbed and stirred through the fabric.
 
 020000000100666D5F3030315F30303031
 
 00003000
-理央
-いーよ、情けない声だして、ふふっ、気持ちいーんでしょ？
+Rio
+It's okay, let out that pathetic voice. Hehe, it feels good, \ndoesn't it?
 C03a00090009
 
 00000000
-僕の呻く様を見て、理央が興奮を深めていく。
+As Rio watches me moan, her excitement deepens.
 
 00000000
-周囲の雰囲気は変わらない……しかし、心なし股間への視線に、どこかそわそわした空気が漂っているような気がした。
+The atmosphere around me hasn't changed... However, I felt a\nsomewhat restless air as their gaze shifted towards my\ncrotch.
 
 00000000
-それは、何となくこの行為の先に起こりうる現象への期待感。
+That is, a sense of anticipation for the phenomenon that\ncould happen after this act.
 
 0200EF10054563735F4E6176695F303035
 
 00002000
-拓海
-く……ぅっ……あっ……！
+Takumi
+Ku...uhh...ahh...!
 
 0200EF10054563735F4E6176695F303034
 
 00003000
-理央
-ふふっ、いー声出てきたじゃん。どれ……そろそろ？
+Rio
+Hehe, you're making such a nice voice. Well then...is it\nabout time?
 C03a00090010
 
 0200EF10054563735F4E6176695F303033
 
 00000000
-何となくの加減を見て取り、理央が少し扱きを弱めようとする。
+Rio ga sukoshi muku o yowameyou to suru. (Rio tries to\nweaken the intensity a little, judging by the situation.)
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-が、今日の僕にはもう最初から我慢しようという気がなかった。
+But today, I didn't have the intention to endure from the\nbeginning.
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-……う……くっ……出るっ……！
+Takumi
+...Ugh...I'm...coming...!
 
 0200EF10002D
 
@@ -610,51 +610,51 @@ C03a00090010
 020000000100666D5F3030315F30303034
 
 00003000
-アリサ
-あっ……
+Arisa
+Ah...
 C01a00090008
 
 00003000
-友里子
-っ……
+Yuriko
+*gasps*...
 C02a00090012
 
 00003000
-こはる
-きゃっ……
+Koharu
+Kyaa...
 C04a00090005
 
 00000000
-またしてもズボンの中心にビュクっと溢れた雫が染みとなって広がっていく。
+Once again, a droplet overflowed with a *biku* in the center\nof my pants, spreading and staining.
 
 00000000
-以前は、きゃあっという嫌悪の悲鳴が上がるタイミング……しかし、今度は違った。
+Previously, there was a timing where screams of disgust\nwould rise... However, this time it was different.
 
 00003000
-理央
-ちょっ……バカッ！　ナニ、勝手に出してんだよっ、先に言えっての！
+Rio
+Hey...you idiot! What the hell, you're releasing it on your\nown, you should have told me first!
 C03a00090011
 
 00003000
-アリサ
-何をやってるのっ……貴重な精液を……本当にバカね
+Arisa
+What are you doing... wasting precious semen... you're such\nan idiot.
 C01a00090009
 
 00003000
-こはる
-あっ……だ、大丈夫だよっ……すぐ集めてあげれば、まだ残ってる筈だから……！
+Koharu
+Ah... I-It's okay... If we gather it quickly, there should\nstill be some left...!
 C04a00090006
 
 00003000
-友里子
-そうです。とにかく、速やかに精液の保護を
+Yuriko
+That's right. Anyway, let's quickly protect the semen.
 C02a00090013
 
 00000000
-次から次へと口にされるのは、精液を至上とする価値観による焦りの言葉だった。
+The words of impatience that followed one after another were\ndriven by a perspective that values semen above all else.
 
 00000000
-そして彼女達は一切の迷いなく僕の股間へ群がり、手際よくズボンを下ろし始めた。
+And without any hesitation, they swarmed towards my crotch\nand skillfully began to lower my pants.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

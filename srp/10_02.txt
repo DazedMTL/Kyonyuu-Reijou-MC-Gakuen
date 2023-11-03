@@ -9,193 +9,193 @@
 0200000001004247303430305F62
 
 00002000
-女子学生
-今日も朝一番の精液採取のお相手を探してるんですか？
+Female student
+Are you looking for someone to be your partner for the first\nsemen collection of the day again today?
 
 00002000
-拓海
-そういうわけじゃないんだ。あ、でも……うまくいったら結果としてそうなるかも
+Takumi
+It's not like that. But... if things go well, it might end\nup that way as a result.
 
 00002000
-女子学生
-うーん……なんか嫉妬を感じるような展開が待ってそうですね……その、お幸せに
+Female student
+Hmm... It feels like there might be a development that makes\nme feel jealous... Well, I wish you happiness.
 
 00002000
-拓海
-あ、いやっ、そのっ……！　ちょっと深読みしすぎだってっ……ああ……行っちゃった……
+Takumi
+Ah, no...! That's, um... you're reading too much into it...\nAhh... I messed up...
 
 00000000
-僕はこはるに良い返事を聞けなかった時のために、女子に無難な応答をしようとするが、あっさりと本心が見ぬかれてしまった。
+I tried to give a safe response to the girls in case I\ndidn't get a positive answer from Koharu, but my true\nfeelings were easily seen through.
 
 00002000
-拓海
-なんで、あっさりとバレたんだろう……そんなに今の僕って思ってることが顔に出てる……？
+Takumi
+Why did it get exposed so easily...? Is it that obvious on\nmy face that I'm thinking that much about the current\nsituation...?
 
 00000000
-意識して顔を引き締めながら僕はこはるがここを通りかかるのを待つが、無理に平常心を装うほど胸の中には焦りの鼓動がひた走っていく。
+With a conscious effort, I tighten my face as I wait for\nKoharu to pass by here, but the pounding of anxiety runs\nrampant in my chest, making it impossible for me to feign\ncomposure.
 
 00000000
-時間も何倍にもゆっくりになったように感じられ、まだ数分も立っていないというのに、こはるが来るのを待つのが苦痛になってしょうがなかった。
+It felt like time had slowed down multiple times, and even\nthough it had only been a few minutes, waiting for Koharu to\narrive became unbearable.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-おっ、オマエなにしてんだよ、こんな朝っぱらから
+Rio
+Hey, what are you doing so early in the morning?
 C03a10020001
 
 00002000
-拓海
-あぁ……理央……ほら、ちょっと今日の女子はどういう子がいるのかなあって
+Takumi
+Ahh... Rio... You see, I was just wondering what kind of\ngirls there are today.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-ふーん……んで、どういった理由でそわそわしてんだ？　ほら、言ってみな
+Rio
+Hmmm... So, why are you so restless? Come on, tell me.
 C03a10020002
 
 00002000
-拓海
-い、言いがかりだよ……僕は至って、冷静
+Takumi
+I-It's a baseless accusation... I am perfectly calm.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-アタシの言葉に食って掛かってるって時点で相当怪しいけどな
+Rio
+The fact that you're getting defensive against my words is\nalready quite suspicious.
 C03a10020003
 
 00002000
-拓海
-いやー……それはその、そうだけど……僕がここに立ってるのがそんなにおかしい？
+Takumi
+Well... um, that's true but... is it really that strange for\nme to be standing here?
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-おかしいに決まってんだろ、アホか？
+Rio
+Obviously something's off, dumbass.
 C03a10020004
 
 00002000
-拓海
-い、いいじゃないか……！　理央がお目当てじゃないんだから、もういいでしょ
+Takumi
+I-It's fine, isn't it...! It's not like I'm interested in\nRio, so it's okay, right?
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-おーおー、言ってくれんなー
+Rio
+Oh, come on, don't hold back on me.
 C03a10020005
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-ま、アタシはお邪魔みたいだな……んじゃな
+Rio
+Well, it seems like I'm intruding... well then.
 C03a10020006
 
 0200E600000000000000F9FE0000F9FE4C004C004C004C00E8030000F401666D5F433033615F30335F305F305F305F3032
 
 00000000
-僕は一番見られていると厄介な理央が立ち去る気配を見せたことに安堵の息をつきつつも、出歯亀されないようにと彼女の足取りを視線で追う。
+While breathing a sigh of relief at the sight of Rio, who is\ntroublesome when she's watching me the most, showing signs\nof leaving, I follow her footsteps with my gaze, making sure\nnot to be noticed.
 
 00000000
-彼女はある程度歩いてからピタリと歩くのを止め、振り返りながらニンマリと笑った表情を僕に見せてくる。
+She walks for a while and then suddenly stops, turning\naround to show me a smirk while smiling.
 
 00000000
-全てを見ぬかれていたことに僕は赤面して、理央から慌てて目を逸らすがそこには―――
+I blush at the fact that she had seen everything, and\nhurriedly avert my gaze from Rio, but there--
 
 00002000
-拓海
-んっ……あれは……？
+Takumi
+Huh...that is...?
 
 0200E600010000000000E8FE0000E8FE4400440044004400E803E803F401666D5F433034615F30335F305F305F305F3035
 
 00000000
-今日は朝礼があるというのに、少し遅目の時間に僕の待ちわびたこはるがやってくる。
+Koharu, who I've been eagerly waiting for, arrives a little\nlate even though we have a morning assembly today.
 
 00000000
-少し惚けたようにぼーっとしつつ、頬も紅潮させている彼女の姿は、まさしく恋する乙女そのものだ。
+She looks a bit absent-minded, her cheeks flushed, truly the\nimage of a love-struck maiden.
 
 00000000
-僕が中庭のど真ん中に立っていることにすら気づいていないらしく、彼女は熱に浮かされた表情そのまま、ふらふらとした足取りで登校を続けていた。
+It seems like she hasn't even noticed that I'm standing\nright in the middle of the courtyard, as she continues her\nway to school with a dazed expression and unsteady steps, \ncompletely absorbed in her feverish thoughts.
 
 00002000
-拓海
-こはる、待ってたんだ……ちょっといいかな
+Takumi
+Koharu, I've been waiting for you... Can I talk to you for a\nmoment?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-ひああああんっ！？　え、えと、あのっ……池ノ上くんっ……おはようございまひゅっ……
+Koharu
+H-Hyaaaan!? U-Um, well... um... Ikenoue-kun... g-good\nmorning...
 C04a10020001
 
 00002000
-拓海
-相当惚けてるけど……大丈夫？
+Takumi
+You seem quite absent-minded... Are you okay?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-そそそ、そんなことないよっ……！
+Koharu
+N-n-no, it's not like that...!
 C04a10020002
 
 00000000
-こはるは大仰に、首と両手をブンブンと左右に振り回し、僕の言葉に否定の意味を示してくる。
+Koharu dramatically shakes her head and waves her hands back\nand forth, indicating a sense of denial to my words.
 
 00000000
-相当に恥ずかしいところに触れてしまったらしい。
+It seems like I touched upon a rather embarrassing topic.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30332F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-じゃ、じゃあ私急ぐからまたあとで！
+Koharu
+W-Well, then I'll hurry off for now!
 C04a10020003
 
 0200E600000000000000E8FE000060FF4400440055005500E803E803F401666D5F433034615F30335F305F305F305F3036
 
 00003000
-こはる
-んひゃああああ！
+Koharu
+Eeek!
 C04a10020004
 
 00000000
-慌てて逃げ出そうとするこはる。僕はそんなこはるの手を握り締めると、本日２度目の素っ頓狂な声を辺りに響かせた。
+Koharu tries to hurriedly run away. I grab her hand tightly\nand let out my second frantic voice of the day, which echoes\naround us.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-ど、どうしたの池ノ上くん……
+Koharu
+W-What's wrong, Ikenoue-kun...
 C04a10020005
 
 00002000
-拓海
-だから、待ってたって言ってるでしょ……
+Takumi
+I've been telling you that I've been waiting...
 
 00000000
-ぬくもりを感じる手を握り締める朱に染めたこはるの頬はさらに赤みを増していく。
+Koharu's cheeks, dyed crimson, grow even redder as she\ntightly grips the hand that makes her feel warmth.
 
 00000000
-それでも、こはるは遂には逃げ出そうという気持ちが薄れたのか大人しく、でも少ししゅんとしながら僕の二の句をまった。
+However, it seems that Koharu's desire to run away has\nfinally faded, and she obediently accepts my second\nconfession, albeit with a slightly downcast expression.
 
 00002000
-拓海
-それじゃ行くよ
+Takumi
+Well then, let's go.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-え、ええ？　行くってどこに？　今日って朝礼なんじゃ……
+Koharu
+E-eh? Go? Where to? Isn't it the morning assembly today...
 C04a10020006
 
 00000000
-僕は慌てながらも言うことを聞いて付いて来るこはるの手を引いて大講堂へと足を向けた。
+I hurriedly grabbed Koharu's hand and led her towards the\nmain auditorium.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -204,37 +204,37 @@ C04a10020006
 0200000001004247303730305F62
 
 00002000
-教頭
-教職員たちからの連絡は以上となります……
+Vice Principal
+That's all for the messages from the staff...
 
 00002000
-教頭
-最後に理事長から学園の皆へ大事な通達がございます、それではお願いします
+Vice Principal
+Finally, the chairman has an important announcement for\neveryone in the school. That's all, thank you.
 
 00000000
-本日の朝礼も終わりに近づき、締めとして僕からの挨拶の時間が用意される。
+As the morning assembly comes to a close today, it's time\nfor the closing remarks, which will be given by me.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
 0200000001004247303730305F62
 
 00002000
-拓海
-今日は、諸君に伝えたいことがある
+Takumi
+Today, there is something I want to tell all of you.
 
 00002000
-拓海
-この学園において最も精液を与えたい女性を選んだから、ここで紹介することにする
+Takumi
+I have chosen the woman in this school to whom I want to\ngive my semen the most, so I will introduce her here.
 
 00002000
-拓海
-ほら、こはる……おいでよ
+Takumi
+Come on, Koharu... come here.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-ふぇ！？
+Koharu
+Huh!?
 C04a10020007
 
 02008C00010000
@@ -242,36 +242,36 @@ C04a10020007
 03008C0000000F2753455F6230335F30303031
 
 00000000
-僕はこはるを手招きして壇上へと誘う。
+I beckon Koharu and invite her onto the stage.
 
 00000000
-なんで、どうしてと言った表情を学園全ての者が見せるが、勿論こはるも同じ表情。
+Everyone in the school, including Koharu, had the same\nexpression of surprise and confusion when I said, "Why?\nWhat's going on?"
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
+Koharu
 …………
 C04a10020008
 
 00000000
-いきなり呼び出されて恥ずかしいのか穴があったら入りたいという気持ちが手に取るように把握できた。
+I could clearly grasp the feeling of embarrassment and the\ndesire to disappear into a hole when she was suddenly called\nout.
 
 00000000
-そんなこはるを僕の横へと立たせる。
+I make Koharu stand next to me like that.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ、あのー……池ノ上くん？
+Koharu
+Umm... Ikenoue-kun?
 C04a10020009
 
 00000000
-少し僕も照れ始めていた。
+I was starting to feel a little embarrassed too.
 
 00000000
-これからすることに意気揚々としているが、性分としてこんなことをする肝じゃなかった僕はこれから大それたことをするのだ。
+I am feeling confident about what I am about to do, but as a\nperson, it's not in my nature to do something like this.\nHowever, I am going to do something extraordinary from now\non.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

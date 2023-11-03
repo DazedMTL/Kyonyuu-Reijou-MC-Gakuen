@@ -9,83 +9,83 @@
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ、あの……そろそろ、電子辞書を返して欲しいんだけどっ……私、英訳まだ終わってないし……
+Koharu
+U-um... I-I was wondering if you could return the electronic\ndictionary soon... I haven't finished translating it into\nEnglish yet...
 C04a02230001
 
 00002000
-女子学生Ａ
-はあ？　何言ってんの、そもそもこれって名前書いてないよね？　だったら福永さんのものだって証拠はないじゃーん。そうだよねー？
+Female Student A
+Huh? What are you talking about? There isn't even a name\nwritten on it, right? So there's no proof that it belongs to\nFukunaga-san. That's right, isn't it?
 
 00002000
-女子学生Ｂ
-うんうん、そうそう！　私も見てたけど福永さんのものじゃないことは確かだったよー
+Female Student B
+Yeah, yeah! I was also watching, and it was definitely\ncertain that it wasn't Fukunaga-san's belongings.
 
 00002000
-女子学生Ｃ
-うわー、信じられないっ！　人のものを自分のものだって言い出すなんて！　福永さんってそんなに意地汚い人だったんだ。サイテー
+Female Student C
+Wow, I can't believe it! Saying that someone else's things\nare your own! Fukunaga-san is such a dirty person. The\nworst.
 
 00003000
-こはる
-意地悪しないで返してよお……それがないと困るから……
+Koharu
+Please don't be mean and return it... I'll be in trouble\nwithout it...
 C04a02230002
 
 00002000
-女子学生Ａ
-なーに、泣き落とし？　まあ、そういうの慣れてそうだよね？　大きな胸をぎゅーって押し付けて泣いたら、普通の男は絶対落ちるし
+Female Student A
+What, trying to manipulate us with tears? Well, I guess\nyou're used to that kind of thing, right? If you press your\nbig breasts against someone and cry, any normal guy would\ndefinitely fall for it.
 
 00002000
-女子学生Ｂ
-あー、絶対やってそう！　私達が女の子で残念でしたー
+Female Student B
+Ah, she definitely did it! It's such a shame that we're\ngirls.
 
 00002000
-女子学生Ｃ
-そんな牛みたいに気持ち悪いおっぱいとか私に押し付けておねだりとかしないでよね？　ほらほら近寄らないであっちいってよ
+Female Student C
+Don't come near me with those disgusting cow-like breasts\nand beg me for things, okay? Come on, don't get close, go\nover there.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3238302F302E36382F302E3638
 
 00003000
-こはる
+Koharu
 ……
 C04a02230003
 
 02008C00010000
 
 00000000
-今日も今日とてこはるはクラス内で迫害を受け続けている。
+Koharu continues to be persecuted within the class day after\nday.
 
 00000000
-頭を下げられてこはるは電子辞書を貸してしまったが、貸さなければそれをネタに更にいじめられるというのがわかっての仕方ない行動だったのだろう。
+Koharu lent the electronic dictionary after being bowed down\nto, but it was an unavoidable action because she understood\nthat if she didn't lend it, she would be further bullied\nusing that as leverage.
 
 00006000
 拓海
 全く、よく飽きないもんだなあ……僕がオルゴールを手に入れる前もあんな感じだったし……
 
 00000000
-僕はちょっと前まであれぐらい周囲に冷たくされまくっていたというのに、今は暢気にその現場を眺めて締まっている自分に気づいていた。
+I realized that even though I was being treated coldly by\neveryone until just a little while ago, now I was calmly\nobserving the scene and feeling at ease.
 
 00000000
-周囲の女の子は今となっては、意のままに動く人形たちみたいなもので、僕が性欲を持て余して求めれば精液便所と成り果てる存在でしか無かった。
+The girls around me were like puppets, moving according to\nmy whims. They were nothing more than objects that would\nbecome semen receptacles if I had an excess of sexual desire\nand sought them out.
 
 00000000
-上位階級であり高嶺の花と認識していた女の子たちではあったが、何度もセックスしているうちに取るに足らない奴らと見下すようになるのも早かった。
+The girls, who were recognized as being of a higher class\nand out of reach, quickly began to look down on the\ninsignificant ones after having sex with them multiple\ntimes.
 
 00006000
 拓海
 女の子はグループ社会で動いてるとかヒエラルキー的な縦社会があるとは聞いてたけど……現実を見ると浅ましいにも程があるよ……
 
 00000000
-何かの目的を持って動いている会社のような組織と違い、感情的に快か不快か、自分にとって得か損かという行動基準が透けて見える。
+Unlike an organization that moves with a specific purpose, \nit is clear to see the criteria of actions based on whether\nthey are emotionally pleasing or displeasing, and whether\nthey are beneficial or detrimental to oneself.
 
 00000000
-とは言え、僕はそれを利用して、こはるを自分のものにしようとしているわけで、大口を叩けたものではないと改めて自覚し、ニヤけるように自嘲した。
+However, I realized once again that I am trying to make\nKoharu mine by using that, so I couldn't boast about it. I\nchuckled self-deprecatingly.
 
 00006000
 拓海
 さて……そろそろ本格的に動いてみようかな
 
 00000000
-そう思い、僕は今すぐにでもヒーローのようにこはるを助けて格好良い所を見せたくなるのを我慢し、彼女の心が完全に折れる放課後を待つのだった。
+And so, thinking that way, I resisted the urge to\nimmediately become a hero and show Koharu a cool side of me.\nInstead, I waited for the after-school period when her heart\nwould be completely broken.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F73686F7274
 
@@ -94,101 +94,101 @@ C04a02230003
 0200000001004247303130305F63
 
 00002000
-拓海
-ふうっ……今日もなかなかに面倒だったなあ……
+Takumi
+Phew... Today was quite troublesome, huh...
 
 00000000
-僕はいろんな生徒から精液回収をねだられたことで、逐一それに付き合っていた。
+I had been complying with various students' requests to\ncollect their semen one by one.
 
 00000000
-早くこはるに会いたいのはやまやまだったのだが、下手に女子学生を焦らさせることでこはるとの大切な時間に割り入られたのではたまったものではない。
+I was really eager to meet Koharu as soon as possible, but I\ndidn't want to interrupt our precious time together by\nmaking the female students impatient.
 
 00000000
-僕はこはるが見つからなくて途中で帰ることも考えて、バッグを取りに教室に戻ってきたのだが、ちょうど彼女は夕日の差し込む教室で一人座っていた。
+I considered going back midway because I couldn't find\nKoharu, so I returned to the classroom to get my bag.\nHowever, she was sitting alone in the classroom with the\nevening sun shining through.
 
 00000000
-まだこちらに気づいていないようなので、彼女がどれぐらいの心理状態にあるのか観察すべく、僕は扉の影で様子をうかがった。
+Since it seems like she still hasn't noticed me, I observed\nher from the shadows near the door to see what kind of\nemotional state she was in.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-はあっ……こんな胸のせいでみんなに冷たくされるなんて……私も普通の大きさで生まれてきたかった……
+Koharu
+Haa... To be treated coldly by everyone because of my\nchest... I wish I had been born with a normal size...
 C04a02230004
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-なんとか仲直りする方法って無いのかな……
+Koharu
+I wonder if there's any way to reconcile somehow...
 C04a02230005
 
 00000000
-こはるは理央とは違い、周囲に当たり散らすという考えがないらしく、女子たちではなく自分自身だけを呪うように恨み言を吐き出していた。
+Koharu, unlike Rio, doesn't seem to have the mindset of\nlashing out at those around her. Instead, she was venting\nher frustrations by cursing herself rather than the other\ngirls.
 
 00000000
-完全に自分を責めていて自信を喪失している。
+She is completely blaming herself and losing confidence.
 
 00000000
-僕はこはるの心理をそう見抜くと、そろそろ頃合いだと確信し、そっと彼女へと何食わぬ顔で近づいた。
+When I saw through Koharu's emotional state like that, I\nbecame convinced that it was about time, so I quietly\napproached her with an innocent face.
 
 00002000
-拓海
-どうしたの、まだ帰ってなかったの？
+Takumi
+What's wrong? You still haven't gone home?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あっ……もう帰るんだよねっ……また明日……
+Koharu
+Ah... You're going home already... See you tomorrow...
 C04a02230006
 
 00002000
-拓海
-ちょっと一緒に話さない
+Takumi
+Can we talk for a moment?
 
 00003000
-こはる
-えっ……そのっ、私、そんなに元気なさそうにしてたかな……？
+Koharu
+Huh... Um, did I seem that down?
 C04a02230007
 
 00002000
-拓海
-この間の校舎裏に比べたらよっぽどひどいかも
+Takumi
+Compared to behind the school building the other day, this\nmight be even worse.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-そう……なんだ……
+Koharu
+I see... What is it...
 C04a02230008
 
 00002000
-拓海
-もっと僕を頼ってよ……そりゃ頼りがないかもしれないけど
+Takumi
+Rely on me more... I may not be reliable, but...
 
 00003000
-こはる
+Koharu
 ……
 C04a02230009
 
 00002000
-拓海
-みんながどう思ってても、僕はずっとこはるの味方だからね
+Takumi
+No matter what everyone else thinks, I will always be on\nKoharu's side.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-池ノ上くん……本当にありがとう……う、ううっ、ひぐっ……
+Koharu
+Takumi-kun... Thank you so much... *sniff*... *sob*...
 C04a02230010
 
 00000000
-こはるは僕の犠牲を惜しまない一言に、見事なばかりに心を打たれたらしく、みるみるうちに涙ぐんでいく。
+Koharu, deeply moved by my selfless sacrifice, was quickly\novercome with tears.
 
 00002000
-拓海
-こはる……また、自信を与えてあげる
+Takumi
+Koharu... I'll give you confidence again.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

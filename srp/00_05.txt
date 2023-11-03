@@ -7,124 +7,124 @@
 0200000001004247303330305F63
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-放課後になり、僕は人目を忍んで、校舎の奥にある理事長室へと近づいていた。
+After school, I discreetly made my way towards the\nprincipal's office located at the back of the school\nbuilding.
 
 00000000
-耳元からは小さく、携帯プレイヤーから流れる音楽が聞こえてくる。
+I can faintly hear music playing from a portable player near\nmy ear.
 
 00000000
-どれ程の効果があるかは分からないが、念のためのオルゴール対策と、自分の気持ちを奮わせる為のものだ。
+I don't know how effective it will be, but it's a\nprecautionary measure and something to uplift my spirits.
 
 00002000
-拓海
-ここで……いいんだよな？
+Takumi
+Is it okay to be here...?
 
 00000000
-教室から離れた場所にある理事長室は、用事がない限り中々近くへ来る機会もない。
+The principal's office, located away from the classrooms, is\nnot a place I often come to unless I have business.
 
 00000000
-職員室とはそう離れていないが、教師の出入りも殆どなく、静かな佇まいを見せている。
+The staff room is not far away, but there is hardly any\ncoming and going of teachers, giving it a quiet atmosphere.
 
 00002000
-拓海
-どうしよう、何となくノープランでここまで来ちゃったけど……
+Takumi
+What should I do? I ended up coming here without any real\nplan...
 
 00000000
-前に面談を申し込もうとした時は、そもそも不在で門前払いを喰らったし、理事長室に行った所で何が出来るのか……。
+When I tried to request a meeting before, the principal was\nabsent and I was turned away at the gate. And even if I go\nto the principal's office, what can I really do...?
 
 00002000
-拓海
-いや……とにかく、じっとしてても始まらないんだ……何かちょっとの手がかりだけでも……
+Takumi
+No... Anyway, if I just stay still, nothing will happen... I\nneed to find some kind of clue, even just a small one...
 
 00000000
-自分に言い聞かせるようにしながら、理事長室の前で気配を窺う。
+While reminding myself, I cautiously observe the\nsurroundings in front of the principal's office.
 
 00002000
-拓海
-ん……？
+Takumi
+Huh...?
 
 00000000
-ふと扉に触れると、どうやら鍵が閉められていなかった。
+When I casually touched the door, it seems that the key was\nnot locked.
 
 00000000
-恐る恐る扉を開けて、そっと中を見るが、誰の気配もない。
+I timidly open the door and gently peek inside, but there is\nno sign of anyone.
 
 00002000
-拓海
-……チャンス……かな？
+Takumi
+...Is this... a chance?
 
 00000000
-僕はそっとイヤホンのボリュームを絞り、周囲を見渡しながらそっと理事長室の中に入った。
+I quietly lowered the volume of my earphones and cautiously\nentered the principal's office, looking around.
 
 03008C0000000F2753455F6130315F30303031
 
 0200000003004247303530305F63
 
 00000000
-幸いにして部屋の中は無人だったが、軽く周囲を見渡しても、特にめぼしいものは見つからなかった。
+Fortunately, the room was empty, but even after quickly\nlooking around, I couldn't find anything particularly\nnoteworthy.
 
 00000000
-何かないかと机の書類を見てみたりもするが、中身は全く関係なさそうな報告書ばかり。
+I try looking at the documents on the desk, hoping to find\nsomething, but they all seem to be unrelated reports.
 
 00000000
-応接用のソファはふかふかそうだったが、そんなことが分かった所で何の意味もない。
+The reception sofa looked soft and comfortable, but knowing\nthat doesn't really mean anything.
 
 00002000
-拓海
-引き出しは……同じようなものか……
+Takumi
+The drawers... are they similar...
 
 00000000
-何となく怪しいと決めつけて入ってみたが、そうそう上手いこと証拠が見つかる筈もなく、僕は小さくため息をついた。
+I entered with a vague suspicion, but as expected, I\ncouldn't find any convincing evidence. I let out a small\nsigh.
 
 00002000
-拓海
-仕方ない……もう少し何か考えて別の…………っ！？
+Takumi
+I guess there's no other choice... I need to think of\nsomething else a little longer... huh!?
 
 00000000
-と、外から何か人の声がこっちに向かって近づいてくる気配がした。
+And then, I felt the presence of someone's voice approaching\nfrom outside.
 
 00002000
-拓海
-ヤバい……見つかるっ……
+Takumi
+Oh no... I'll be found...
 
 00000000
-慌てて周囲を見渡し、苦し紛れに部屋の隅に広がるカーテンの影に身を潜める。
+I hurriedly looked around and, in desperation, hid myself in\nthe corner of the room behind the curtain.
 
 00000000
-直後、ギィっと扉が開き、声のボリュームは一気に大きくなった。
+Immediately after, the door creaked open and the volume of\nthe voice suddenly increased.
 
 03008C0000000F2753455F6130315F30303032
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-アリサ
-全く……あんな下らないことで、私の手を煩わせないで欲しいものだわ
+Arisa
+Honestly... I wish you wouldn't bother me with such trivial\nmatters.
 C01a00050001
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-申し訳ありません。どうしても、理事長との直接面談をということでしたので……
+Yuriko
+I apologize. It was because I insisted on having a direct\nmeeting with the chairman...
 C02a00050001
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-分かっているわ。別に友里子を責めているわけじゃないのだから、気にしないで
+Arisa
+I understand. I'm not blaming Yuriko, so don't worry about\nit.
 C01a00050002
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい。後程、対応は済ませておきますので……
+Yuriko
+Yes. I will take care of the response later, so...
 C02a00050002
 
 00006000
@@ -132,76 +132,76 @@ C02a00050002
 吉祥寺さんに……久我さん……？
 
 00000000
-何故か部屋に入ってきたのは、他ならぬクラスの二人だった。
+It was none other than the two classmates who entered the\nroom for some reason.
 
 00000000
-どうして彼女たちが……そんな戸惑いをよそに、吉祥寺さんは全く迷うことなく、部屋の奥にある立派な椅子に腰掛ける。
+Why are they... despite their confusion, Kisshouji-san\nconfidently sits down on the splendid chair at the back of\nthe room.
 
 00000000
-そして、久我さんもまた勝手知ったる様子で棚からファイルを取り出すと、パラパラとページをめくっていく。
+And then, Yuriko, with an air of familiarity, takes out a\nfile from the shelf and starts flipping through the pages.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-全く……二足のわらじ位、どうということもないと思っていたけど、ここまで瑣末な用事が多いとうんざりするわね
+Arisa
+Honestly... I thought it wouldn't be a big deal to juggle\nmultiple tasks, but I'm getting tired of these trivial\nmatters.
 C01a00050003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-近々、使えそうな人材を見繕って手配します。なるべくお手を煩わせないように致しますので
+Yuriko
+I will soon find and arrange capable personnel. I will do my\nbest to not trouble you too much.
 C02a00050003
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-そうしてもらえるとありがたいわね。もっとも、友里子ほどに任せられる子がそうそういるとも思えないけど
+Arisa
+It would be appreciated if you could do that. Although, I\ndon't think there are many people who can be entrusted as\nmuch as Yuriko.
 C01a00050004
 
 00003000
-友里子
-恐れ入ります。ですが、数名程は目星がついておりますので、後は直接ご判断して頂ければ
+Yuriko
+I apologize for the inconvenience. However, I have a few\npeople in mind, so if you could make the final decision\ndirectly...
 C02a00050004
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-友里子の目は信用しているわ。あなたが大丈夫だと言うのなら、心配はないでしょう。進めておいてちょうだい
+Arisa
+I trust Yuriko's judgment. If you say you'll be fine, then\nthere's no need to worry. Please proceed as planned.
 C01a00050005
 
 00003000
-友里子
-かしこまりました、理事長
+Yuriko
+Understood, Chairperson.
 C02a00050005
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-もう、友里子。二人きりの時に理事長はやめなさい
+Arisa
+Yuriko, please stop calling me Chairperson when we're alone\ntogether.
 C01a00050006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-申し訳ありません。ですが、一応は公的な場所ですので……
+Yuriko
+I apologize. However, since this is a public place for\nnow...
 C02a00050006
 
 00003000
-アリサ
-それでもよ。それでなくても、気が詰まる仕事なんだから……あなたまでわたくしを窒息させないで欲しいわ
+Arisa
+Even so. It's already a suffocating job... I don't want you\nto suffocate me as well.
 C01a00050007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……はい、留意します
+Yuriko
+...Yes, I will keep that in mind.
 C02a00050007
 
 00006000
@@ -211,99 +211,99 @@ C02a00050007
 0300000000000F2742474D3130
 
 00000000
-全く思いもよらないことを知らされて、ドクンと心臓が高鳴っていく。
+I was informed of something completely unexpected, and my\nheart starts pounding.
 
 00000000
-まさか、まだ一度も顔も見知らぬ理事長が、他でもない吉祥寺さんだった……？
+Could it be that the chairman I have never met before is\nnone other than Kisshouji-san from Kichijoji...?
 
 00000000
-一体どういうことなのか……僕は息を殺して、更に二人の様子を窺っていく。
+I hold my breath and continue to observe the two, wondering\nwhat on earth is going on.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-計画の方は、どうかしら
+Arisa
+How is the plan going?
 C01a00050008
 
 00003000
-友里子
-はい。何も滞りなく、順調に進んでいます
+Yuriko
+Yes. Everything is progressing smoothly without any delays.
 C02a00050008
 
 00003000
-友里子
-神泉理央を中心に、クラス内でも池ノ上拓海は直接的、間接的問わず、様々な迫害を与えられています
+Yuriko
+Ikenoue Takumi is being subjected to various forms of\npersecution, both directly and indirectly, within the class, \nwith Kamiizumi Rio at the center.
 C02a00050009
 
 00003000
-友里子
-彼女達にいじめの意識はなく、後ろめたさを伴わず、正当な権利としてそれを行っています
+Yuriko
+They don't have a sense of bullying, and they carry it out\nwithout guilt, as their rightful privilege.
 C02a00050010
 
 00003000
-友里子
-また、この事について、クラス内で池ノ上拓海を庇おうとする者もいません
+Yuriko
+Furthermore, there is no one in the class who tries to\nprotect Ikenoue Takumi regarding this matter.
 C02a00050011
 
 00003000
-友里子
-池ノ上本人の性格は内向的ではありますが、特別問題視するようなタイプでもありませんので……
+Yuriko
+Takumi Ikenoue himself has an introverted personality, but\nhe is not the type to be particularly concerned about it...
 C02a00050012
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-そういう雰囲気が出来ている……しっかりとマインドコントロールが浸透しているということね
+Arisa
+It seems that such an atmosphere has been created... It\nmeans that the mind control has firmly permeated.
 C01a00050009
 
 00003000
-友里子
-はい。彼自身も、その扱いにストレスは感じているようですが、自殺や退学を決意するような思考には至らぬようになっています
+Yuriko
+Yes. He himself seems to feel stressed by the treatment, but\nhe has not reached the point of contemplating suicide or\ndropping out of school.
 C02a00050013
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-福永こはる、だったわね……防波堤の役割は果たせているということかしら
+Arisa
+So it was Fukunaga Koharu... I wonder if she's fulfilling\nher role as the breakwater.
 C01a00050010
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そうですね。ですが、過度な接触は禁じていますし、彼女の力がどれだけ影響しているかは何とも判断しにくい所ですが
+Yuriko
+That's true. However, excessive contact is prohibited, so\nit's difficult to determine how much her influence is\naffecting the situation.
 C02a00050014
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-いいのよ。気休め程度でも、そういう駒なのだから、大きく動きを変える必要はないわ
+Arisa
+It's fine. Even if it's just for peace of mind, since he's\njust a pawn, there's no need to make big changes in our\nactions.
 C01a00050011
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい。いずれにしても、第一段階の浸透は十分ですし、遠からず第二段階への移行も可能になるでしょう
+Yuriko
+Yes. In any case, the first stage of infiltration is\nsufficient, and it won't be long before we can transition to\nthe second stage.
 C02a00050015
 
 00003000
-友里子
-そうなれば、我々にとって優秀な手駒を、ある程度揃えることは出来そうです
+Yuriko
+If that happens, it seems we will be able to gather a decent\nnumber of excellent pawns for us.
 C02a00050016
 
 00003000
-アリサ
-悪くないわね……けれど、くれぐれも油断はしないように
+Arisa
+Not bad... but let's make sure not to let our guard down.
 C01a00050012
 
 00003000
-友里子
-承知しています
+Yuriko
+Understood.
 C02a00050017
 
 00006000
@@ -311,54 +311,54 @@ C02a00050017
 な……何なんだこれ……
 
 00000000
-吉祥寺さんが理事長というだけでも驚くべきことなのに、続けて語られるやり取りに頭がクラクラとしてくる。
+Just the fact that Kisshouji-san is the chairman is already\nsurprising, but my head starts spinning from the subsequent\nconversation.
 
 00000000
-と、吉祥寺さんはおもむろに鞄から、何やら小さな箱のようなものを取り出した。
+And then, Kisshouji-san calmly took out something from her\nbag that looked like a small box.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-まだまだ、これには頑張ってもらわないといけないわね……
+Arisa
+We still have to work hard on this...
 C01a00050013
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい……お母上の力が宿られているオルゴール。これさえあれば、アリサの大願も必ず果たすことが出来ます
+Yuriko
+Yes... This music box contains the power of our mother. With\nthis, we can definitely fulfill Arisa's greatest wish.
 C02a00050018
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-ふふ……最初に話を聞かされた時は、半信半疑……いえ、殆ど信じていなかったのだけど……
+Arisa
+Hehe... When I first heard about it, I was skeptical... No, \nI didn't really believe it at all...
 C01a00050014
 
 00003000
-友里子
-エルバート家に代々伝わる、魔術の粋を集めて作られたものです。実際に使われてみれば、その効果はすぐ分かるでしょう
+Yuriko
+It is something that has been passed down through\ngenerations in the Elbert family, created by gathering the\nessence of magic. If we actually use it, its effects will\nbecome clear right away.
 C02a00050019
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-ええ……これだけの集団催眠が掛けられるなんて……大変なものを残してくれたものだわ
+Arisa
+Yes... To think that such a large-scale hypnosis could be\ncast... She left behind something incredible.
 C01a00050015
 
 00003000
-友里子
-ああ、それでちょうどご報告することが。先ほどレプリカが到着しまして……こちらになります
+Yuriko
+Ah, and I have something to report. The replica arrived\nearlier... Here it is.
 C02a00050020
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-あら……これね。へぇ……見事に同じデザインね。どれ……
+Arisa
+Oh... this is it. Wow... it's exactly the same design. Let's\nsee...
 C01a00050016
 
 02006F100900
@@ -370,15 +370,15 @@ C01a00050016
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-鳴るメロディーも、同じものです。もちろん、このオルゴールには何の力もありませんが
+Yuriko
+The melody it plays is also the same. Of course, this music\nbox doesn't possess any power.
 C02a00050021
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-まぁ、これも念のため……ということね。いつ、どこで誰が気づいても、これを証拠には出来ない……と
+Arisa
+Well, just in case... That's the idea. No matter when, \nwhere, or who notices it, we won't be able to use this as\nevidence...
 C01a00050017
 
 02007F10
@@ -388,146 +388,146 @@ C01a00050017
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい。一応、区別の仕方はこの細工の場所のラインが……お分かりですか？
+Yuriko
+Yes. For now, can you tell the difference by looking at the\nline of this craftsmanship... Do you understand?
 C02a00050022
 
 00003000
-アリサ
-なるほどね……いいわ、大丈夫。着々と、準備は進んでいる……ここまでは何も問題はないわ……
+Arisa
+I see... I understand. It's fine. We're steadily making\npreparations... There shouldn't be any problems up to this\npoint...
 C01a00050018
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-本家筋からは、特に何も……？
+Yuriko
+Has there been any particular news from the main family...?
 C02a00050023
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-ええ、私がすっかりこの学園生活を満喫していると、信じて疑ってないようだわ
+Arisa
+Yes, it seems like I wholeheartedly believe and enjoy this\nschool life.
 C01a00050019
 
 00000000
-小さく肩をすくめながら、吉祥寺さんは険しい表情をしてみせた。
+Arisa showed a stern expression while shrugging her\nshoulders slightly.
 
 00003000
-アリサ
-ただ女というだけで私を認めないどころか、保身に必死で、時代も読めず、徒に先祖の資産を浪費するあの無能ども……
+Arisa
+Those incompetent fools who not only refuse to acknowledge\nme just because I am a woman, but also desperately cling to\ntheir own self-interest, unable to grasp the times and\nwastefully squandering our ancestors' assets...
 C01a00050020
 
 00003000
-アリサ
-奴らは、私をこの学園に放り込んで体のいい厄介払いが出来たと喜んでいるでしょうけど……それも今のうちのことよ
+Arisa
+They're probably delighted that they were able to\nconveniently get rid of me by throwing me into this\nschool... but that's only for now.
 C01a00050021
 
 00003000
-アリサ
-命を生み出すという唯一無二の力を持つ女性こそが、この世界の頂点に立つべき存在……
+Arisa
+Women who possess the unique power to create life should\nstand at the pinnacle of this world...
 C01a00050022
 
 00003000
-アリサ
-この学園での実験の成果を活かして、より優れた女性上位の世界を作り上げる……私が果たすべき使命だわ
+Arisa
+It is my mission to utilize the results of this experiment\nin the school and create a superior world where women are in\na dominant position.
 C01a00050023
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい、アリサの崇高な目的は必ず果たされなくてはなりません
+Yuriko
+Yes, Arisa's noble purpose must be fulfilled without fail.
 C02a00050024
 
 00000000
-野望に満ちた言葉に、久我さんも全く疑いを持つことなく同意した。
+Yuriko-san agreed without any doubt to Arisa's ambitious\nwords.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-まぁ……暫くはまだ実験の日々ね。あの男にも、もう少し働いて貰わないといけないわね
+Arisa
+Well... for now, it's still days of experimentation. That\nman needs to work a little harder too.
 C01a00050024
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-池ノ上拓海のことですか
+Yuriko
+Are you talking about Ikenoue Takumi?
 C02a00050025
 
 00003000
-アリサ
-吉祥寺グループの関連会社から、使い捨てにしても問題なさそうな駒として選んでみたけれど……
+Arisa
+I chose someone from a subsidiary of the Kisshouji Group who\nseemed disposable without any issues...
 C01a00050025
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-所詮、男は男ね。凡庸で取るに足らないつまらない存在……だからこそ『奴隷』としては適当かもしれないけど
+Arisa
+After all, men are just men. They're mediocre and\ninsignificant... That's why they might be suitable as\n"slaves".
 C01a00050026
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-せいぜい与えられた役割を、上手くこなして役に立ってほしいものだわ
+Arisa
+I hope he can fulfill the role given to him and be useful.
 C01a00050027
 
 00000000
-傲慢極まりない一方的な言葉には、何の感情も込められていなかった。
+The arrogant and one-sided words were devoid of any emotion.
 
 00000000
-奴隷……彼女は確かにそう言った。集団催眠とやらによって、一体何を目指しているのか――
+"Slave... She certainly said that. Through some kind of\ngroup hypnosis, what exactly is she aiming for..."
 
 00000000
-一つ言えるのは、僕への迫害は、やはり彼女達に仕組まれてのものであり、そしてこれからもそれを続けようとしているということだ。
+One thing I can say is that the persecution towards me was\nindeed orchestrated by them, and it seems they intend to\ncontinue it in the future.
 
 00003000
-アリサ
-友里子、作業はどう？
+Arisa
+Yuriko, how is the work going?
 C01a00050028
 
 00003000
-友里子
-はい、リストアップは終わりました。後は、校長に提出して参りますので
+Yuriko
+Yes, I have finished making the list. I will submit it to\nthe principal.
 C02a00050026
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-よろしくね。じゃあ、出ましょうか
+Arisa
+Nice to meet you. Well then, shall we go?
 C01a00050029
 
 00000000
-席を立ちながら、吉祥寺さんは手にしたオルゴールを机についている金庫へとしまう。
+As she stood up from her seat, Kisshouji-san placed the\nmusic box she had in her hand into the safe on the desk.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-１２月８日……母さんの命日……それまでに、必ず無念は晴らしてみせるわ……
+Arisa
+December 8th... It's the anniversary of my mother's death...\nBy then, I will definitely settle any regrets...
 C01a00050030
 
 00003000
-友里子
+Yuriko
 ………………
 C02a00050027
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-……それじゃ、友里子は校長室ね。私は先に戻っているわ
+Arisa
+Well then, Yuriko, you go to the principal's office. I'll go\nback first.
 C01a00050031
 
 00003000
-友里子
-ええ、また後程
+Yuriko
+Yes, I'll be back later.
 C02a00050028
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
@@ -535,32 +535,32 @@ C02a00050028
 0200000001004247303530305F63
 
 00000000
-そのまま二人は揃って部屋を出て行き、一人僕が残された。
+They both left the room together, leaving me behind alone.
 
 0300000000000F2742474D3130
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-何だろう、この感覚は……ムカムカと胃の辺りが気持ち悪く、身体が無意識に震えている。
+What is this feeling... My stomach feels queasy and my body\nis trembling unconsciously.
 
 00000000
-そうだ……怒りだ。ずっと忘れていたこの感覚は、ずっと理不尽な思いを無意識に仕方ないことと受け入れて来た反動だった。
+That's right... it's anger. This feeling that I had long\nforgotten, it was a reaction to all the unjust feelings that\nI had unconsciously accepted as inevitable.
 
 00000000
-許せない……こんなことは絶対に許されない……暴れたくなるような衝動の中、不思議と身体は冷静に机へと向かっていた。
+Unforgivable... This is absolutely unforgivable... Amidst\nthe urge to go wild, strangely, my body calmly moved towards\nthe desk.
 
 00002000
-拓海
-確かここに……
+Takumi
+If I remember correctly, it should be here...
 
 00000000
-机に備え付けられた金庫へと近づき、４桁の暗証番号を前に考える。
+I approached the safe that was installed on the desk and\npondered in front of the four-digit passcode.
 
 00000000
-次の瞬間、僕の脳裏に導かれるような閃きが走った。
+In the next moment, a flash of inspiration ran through my\nmind as if guided.
 
 0100200002026566666563742C656666656374206B6169736F75
 
@@ -569,8 +569,8 @@ C02a00050028
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-１２月８日……母さんの命日……それまでに、必ず無念は晴らしてみせるわ……
+Arisa
+December 8th... Mother's death anniversary... By then, I\nwill definitely settle this regret...
 C01a00050030
 
 0100200002026566666563742C656666656374206B6169736F75
@@ -580,211 +580,211 @@ C01a00050030
 0200000001004247303530305F63
 
 00000000
-迷いなく１２０８という数字に合わせると、乾いた音をさせてあっけなく扉が開いた。
+Without hesitation, I aligned the numbers to 1208 and the\ndoor opened with a dry sound, surprisingly easily.
 
 02006F100900
 
 0200E6000000090000000000000000006400640064006400E803E803F40166696C746572303031
 
 00000000
-そして、僕の手元には自分を……いや、学校中を支配してきたとされるオルゴール。
+And then, in my hands... no, the music box that is said to\nhave dominated not only me, but the entire school.
 
 00002000
-拓海
-これが……
+Takumi
+This is...
 
 00000000
-何の変哲もなさそうな……しかし、ずっと自分の手に来ることを待っていたような……そんな不思議な感覚に包まれる。
+It looks ordinary... However, it's as if I've been waiting\nfor it to come into my hands for a long time... I'm\nenveloped in such a strange sensation.
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-思わず、言葉をなくしてじっとそのオルゴールに見とれていた時――
+When I was mesmerized by the music box, I couldn't help but\nbe speechless and gaze at it.
 
 02007F10
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-そこで何をしているの
+Arisa
+What are you doing there?
 C01a00050032
 
 00002000
-拓海
-…………っ……！
+Takumi
+......!
 
 00000000
-背後から声を掛けられて、僕はビクリと身を竦ませながら振り返る。
+Startled, I flinched and turned around as a voice called out\nfrom behind me.
 
 00003000
-アリサ
-驚いたわね……理事長室に一般生徒が勝手に侵入するなんて……どういうつもりかしら？
+Arisa
+Oh, you surprised me... What do you think you're doing, \nsneaking into the principal's office without permission as a\nregular student?
 C01a00050033
 
 00000000
-いつもと変わらない――いや、いつも以上に冷ややかな視線が僕を射抜く。
+The gaze that pierces through me is as cold as ever - no, \neven colder than usual.
 
 00000000
-すぐに僕の手元にあるオルゴールに気づくと、その目は一層キツく僕を睨みつけてきた。
+As soon as I noticed the music box in my hands, those eyes\nglared at me even more intensely.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-しかも窃盗罪のおまけ付き……一体、何を考えているのかしら
+Arisa
+And on top of that, with the added bonus of theft... What on\nearth are you thinking?
 C01a00050034
 
 00002000
-拓海
-そ……それは、こっちのセリフだっ！
+Takumi
+Th-That...that's my line!
 
 00003000
-アリサ
-……何？　クズが私に口答えをしようと言うの？
+Arisa
+...What? Are you trying to talk back to me, you piece of\ntrash?
 C01a00050035
 
 00000000
-僕の反論を全く取り合うつもりはないとばかりに、吉祥寺さんは依然として強気な表情を崩さない。
+With an expression that clearly shows no intention of\nentertaining my rebuttal, Kisshouji-san remains unyielding.
 
 00000000
-その迫力に、じわりと嫌な汗が浮いてくるが、ここで負ける訳には行かない。
+The intensity of her presence makes a cold sweat slowly\nform, but I can't afford to lose here.
 
 00002000
-拓海
-ぜ、全部聞いたんだよ……君たちの企み……この学校でしようとしていること……
+Takumi
+I-I heard everything... Your scheme... What you're trying to\ndo at this school...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a00050036
 
 00002000
-拓海
-クラスのみんなを洗脳して……僕を、奴隷のように認識させて、ストレスのはけ口にしてっ……！
+Takumi
+Brainwashing everyone in the class... Making me be\nrecognized as a slave and using me as an outlet for\nstress...!
 
 00002000
-拓海
-よくも、そんな非人道的なことを……勝手に……！
+Takumi
+How dare you... do such inhumane things... without my\nconsent...!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……はぁ……それが、どうしたというの？
+Arisa
+...Haah... So what if that's the case?
 C01a00050037
 
 00002000
-拓海
-な……っ……
+Takumi
+Ngh...
 
 00003000
-アリサ
-クズが少しでも世の中の役に立つ為には、奴隷ぐらいしかすることはないでしょう
+Arisa
+If a piece of trash like you wants to be of any use in this\nworld, being a slave is probably the only thing you're good\nfor.
 C01a00050038
 
 00003000
-アリサ
-私は、あなたにそんな役割を与えてあげたのよ。ただ無為に時間を過ごすより、その方がずっとマシでしょう？
+Arisa
+I gave you that role, you know. It's much better than just\nwasting your time doing nothing, isn't it?
 C01a00050039
 
 00002000
-拓海
-っ…………
+Takumi
+*silence*
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それを何？　奴隷のあなたが糾弾しようと？　笑わせないで欲しいわね
+Arisa
+What's that? You're trying to condemn me, a slave? Don't\nmake me laugh.
 C01a00050040
 
 00000000
-全く悪びれない堂々とした態度に、僕は完全に気圧されていた。
+I was completely overwhelmed by her unapologetic and\nconfident attitude.
 
 00000000
-追及に対して、何か言い逃れをするのかと思いきや、完全に開き直った態度で逆に僕を言い負かそうとする。
+I thought she would try to come up with some excuse when\nconfronted, but instead she completely turned the tables and\ntried to defeat me with a defiant attitude.
 
 00000000
-彼女の言っていることはメチャクチャだ。そう頭では理解できていても、何だか心のどこかで、それが正しいような気がしてしまう。
+What she's saying is absurd. Even though I can understand it\nlogically, somewhere deep in my heart, it feels like she\nmight be right.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-ふん……どうやら友里子がしくじったのかしらね……まあ、誰かが気づく可能性も計算していたけど、まさかあなたとはね……
+Arisa
+Hmph... It seems like Yuriko messed up, huh... Well, I had\ncalculated the possibility of someone noticing, but I never\nexpected it to be you...
 C01a00050041
 
 00003000
-アリサ
-分かったわ。その無鉄砲さに免じて、これからのあなたの扱いに関しては特別に便宜を図りましょう
+Arisa
+I understand. In light of your recklessness, I will make\nspecial arrangements for how you will be treated from now\non.
 C01a00050042
 
 00003000
-アリサ
-だから、とにかくそれを渡しなさい。それはあなたが持っていても、何の役にも立たないものよ
+Arisa
+So, just hand it over already. Even if you have it, it's\nsomething that won't be of any use to you.
 C01a00050043
 
 00000000
-ずいと一歩踏み出して、吉祥寺さんが手を伸ばしてくる。
+Taking a step forward, Kisshouji-san reaches out her hand.
 
 00000000
-便宜を図ってくれる……その甘い言葉が、一瞬心をぐらつかせる。
+Those sweet words of making special arrangements momentarily\nshake my heart.
 
 00000000
-そうすれば、もうあの教室の針のむしろ状態から開放される……？
+If I do that, will I finally be released from the state of\nbeing trapped in that classroom...?
 
 00000000
-いや……だけど、これを渡してしまったら、そんな口約束自体あっさり反故にされるに決まってる……。
+No... but if I hand this over, there's no doubt that such a\nverbal promise will be easily broken...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-もう一度言うわ。それは、あなたが持っていても何の役にも立たないものよ
+Arisa
+I'll say it again. Even if you have it, it's something that\nwon't be of any use to you.
 C01a00050044
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-魔術師の血を引かない凡夫が、過ぎた玩具を持った所でケガをするだけ……いいえ、命の保証もできないわ
+Arisa
+A mere mortal who does not possess the blood of a magician\nwill only get hurt by holding onto a discarded toy... No, I\ncan't even guarantee your life.
 C01a00050045
 
 00003000
-アリサ
-分かったら、観念してそれを渡しなさい
+Arisa
+If you understand, resign yourself and hand it over.
 C01a00050046
 
 00000000
-ずいと、吉祥寺さんが足を踏み出して僕へ近づこうとする。
+Kisshouji-san takes a step forward and approaches me.
 
 00000000
-そこには、僅かだが小さな焦りのようなものがある……無意識にそれを感じた。
+There is a small sense of unease there... I unconsciously\nfelt it.
 
 00006000
 拓海
 切り札は自分の手にあるんだ……後は一か八か……試すしかない……
 
 00000000
-ポケットの中のボタンを押して、イヤホンから流れる音楽のボリュームを上げていく。
+I press the button in my pocket and increase the volume of\nthe music flowing from my earphones.
 
 00000000
-そして、僕はじりっと後ろに下がりながら、何も言わずいきなりオルゴールの蓋を開けた。
+And then, I took a step back and without saying anything, \nsuddenly opened the lid of the music box.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-やめっ……！
+Arisa
+Stop...!
 C01a00050047
 
 00000000
-僕の動きに気が付き、吉祥寺さんはハッと耳を塞ごうとする。
+Arisa notices my movement and quickly covers her ears.
 
 02006F100900
 
@@ -793,16 +793,16 @@ C01a00050047
 03008C0000000F2753455F6130385F30323034
 
 00000000
-だが、それよりも一瞬だけオルゴールの音色が低く奏でられるのが先だった。
+However, before that, the music box played a brief moment\nwith a lower tone.
 
 00000000
-自分の耳にも僅かに聞こえる音が、ぐらりとめまいを起こさせる。
+I hear a faint sound in my own ears, causing me to feel\ndizzy.
 
 00000000
-しかし、大音量での音楽がそのめまいをかき消し、僕は意識を保つことに成功した。
+However, the loud music drowned out that dizziness, and I\nmanaged to maintain consciousness.
 
 00000000
-そして、吉祥寺さんの方は――
+And then, as for Kisshouji-san...
 
 02007F10
 
@@ -811,185 +811,185 @@ C01a00050047
 0300000000000F2742474D3036
 
 00003000
-アリサ
+Arisa
 ………………
 C01a00050048
 
 00002000
-拓海
-……か、掛かった……？
+Takumi
+...D-Did it...start playing...?
 
 00000000
-半ばヤケクソで使ってみたオルゴールだったが、見事にぼんやりと宙空を見上げる、あの時の姿になっていた。
+It was an organ I tried to use in a half-hearted manner, but\nit perfectly recreated the figure of that moment when I\nabsentmindedly looked up at the sky.
 
 00002000
-拓海
-魔術師の血はハッタリだったってことか……僕がイヤホンを付けていることに気づかなかったから……
+Takumi
+So, it turns out the magician's blood was just a bluff...\nbecause I didn't notice that I was wearing earphones...
 
 00000000
-左耳から聞こえてくる音楽が邪魔をしなければ、僕自身も同じ状態になったんだろうか。
+If the music playing in my left ear didn't interfere, would\nI have ended up in the same state as well?
 
 00000000
-何とも見境のない恐ろしい道具だが、とにかく、これで言うことを聞かせられるようになるんだろうか。
+It's a terrifying tool with no boundaries, but anyway, will\nI be able to make them listen with this?
 
 00000000
-僕は改めて吉祥寺さんの前に向き直り、早速試してみることにした。
+I turned back to Kisshouji-san and decided to try it out\nright away.
 
 00002000
-拓海
-えぇと……こ、これから吉祥寺さんは僕の言うことに一切、逆らわず……従うのは当然だと思うようになる……
+Takumi
+Um... From now on, Kisshouji-san will not oppose anything I\nsay... and naturally come to believe that obeying is the\nright thing to do...
 
 00003000
-アリサ
+Arisa
 ………………
 C01a00050049
 
 00002000
-拓海
-こ、こんな感じかな？　分かったら……一回、縦に頷くんだ
+Takumi
+I-Is this the right feeling? If you understand... nod once, \nvertically.
 
 0200BC000100012C666D5F433031625F30335F305F305F305F30342F2D3234352F302E37352F302E3735
 
 00003000
-アリサ
-……ん…………
+Arisa
+...Hmm...
 C01a00050050
 
 00000000
-吉祥寺さんは、何も迷うことなくこくんと縦に頷いてみせた。
+Kisshouji-san nodded firmly and vertically without any\nhesitation.
 
 00002000
-拓海
-今の……効いたって、こと……なのかな……
+Takumi
+Did that just... have an effect...?
 
 00000000
-まだ、実感は全く湧かない。が、吉祥寺さんが言う通りにしたのは確かだし、今も心ここにあらずという表情なのは間違いない。
+I still don't feel it at all. But it's true that I did as\nKisshouji-san said, and my expression right now is\ndefinitely absent-minded.
 
 00000000
-念のため少しだけ距離を取り、僕はオルゴールを閉じて吉祥寺さんの様子を窺う。
+As a precaution, I took a step back and closed the music\nbox, observing Kisshouji-san's condition.
 
 0300AC00
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30362F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-んっ……んんっ……あっ……
+Arisa
+Mmm... Mmm... Ah...
 C01a00050051
 
 00000000
-少しして、吉祥寺さんは小さく首を振って意識を取り戻すと、何事もなかったかのように、要求を重ねてくる。
+After a while, Kisshouji-san regained consciousness and\nshook her head slightly. Then, as if nothing had happened, \nshe began to make more demands.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-さあ、いい加減、私の手を煩わせないで。いいから早くそれを……
+Arisa
+Come on, stop bothering me. Just hurry up and...
 C01a00050052
 
 00002000
-拓海
-な、生意気な口を聞くなっ。はいと返事して、そこに気をつけだ！
+Takumi
+D-Don't speak with such an insolent mouth. Answer with "yes"\nand be careful there!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-はいっ！
+Arisa
+Yes!
 C01a00050053
 
 00000000
-咄嗟に、吉祥寺さんは直立不動の姿勢で勢いよく返事をした。
+In an instant, Kisshouji-san responded vigorously with an\nupright and immovable posture.
 
 00000000
-本来ならば、その時点で自分が一体何をしているのか……不本意であろう行動に疑問を抱いただろう。
+Originally, at that moment, one would have questioned the\nunintended actions and wondered what they were doing.
 
 00003000
-アリサ
+Arisa
 ………………
 C01a00050054
 
 00000000
-しかし、僕の行動に従うことを当然だと思うようになる……その言葉の影響だろうか。
+However, I started to think that it was only natural to\nfollow my actions... Perhaps it was the influence of those\nwords.
 
 00000000
-吉祥寺さんは、自分の行動に疑いを持つことはなく、直立不動の姿勢を貫いていた。
+Kisshouji-san maintained an upright and immovable posture\nwithout any doubt about her actions.
 
 00002000
-拓海
-…………効いてるのか……
+Takumi
+...Is it working...
 
 00000000
-僕は、立ち尽くす吉祥寺さんの様子を注意深く観察した。
+I carefully observed Kisshouji-san, who was standing still.
 
 00000000
-強制的にそのポーズをさせられたという風じゃない。あくまでも自分の意志で気をつけをしている。
+It's not like I was forced into that pose. I'm being careful\nof my own accord.
 
 00000000
-しかし――
+However--
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-全く、いつまで手間取らせるの。これだから無能は嫌いなのよ
+Arisa
+Geez, how long are you going to take? That's why I hate\nincompetence.
 C01a00050055
 
 00000000
-それでいて、僕への態度については何も変わらない辺りが、何とも不自然な状況を作り上げていた。
+And yet, the fact that her attitude towards me hadn't\nchanged at all created a rather unnatural situation.
 
 00006000
 拓海
 つまり……僕の命令を聞くことは当たり前と思っていても、僕への感情が変わってる訳じゃないってことか……
 
 00000000
-だけど、これで確信した。
+However, I became convinced with this.
 
 00000000
-吉祥寺さんは間違いなくマインドコントロールの支配下にあり、少なくとも僕が口にした言葉は聞いて当然という状態になっているのだ。
+Kisshouji-san is undoubtedly under the control of mind\nmanipulation, and at the very least, the words I spoke have\nbecome something she should listen to.
 
 00000000
-逆に言えば、僕が逆の状態だった時、何をされても僕はそれを仕方ないと受け入れていたことになる。
+On the contrary, if I were in the opposite situation, no\nmatter what was done to me, I would have accepted it as\ninevitable.
 
 00000000
-改めてゾッとすると共に、何とも無防備になった吉祥寺さんを前に湧き上がるのは、これまでに対する復讐の気持ちだった。
+In addition to feeling a chilling sensation, in front of the\ndefenseless Kisshouji-san, a feeling of revenge towards her\nup until now welled up within me.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-何をジロジロ見ているの。クズの癖にいやらしい視線……本当に男というのは浅ましい生き物ね
+Arisa
+What are you staring at so intently? Such a perverted gaze\nfrom a loser... Men truly are despicable creatures.
 C01a00050056
 
 00000000
-変わらない嫌悪の言葉は、より一層の暗い炎を僕の心に灯していく。
+The unchanged words of disgust ignite an even darker flame\nin my heart.
 
 00000000
-そこまで言うなら、とことんまで浅ましくなってやろうじゃないか……。
+If you're going to say that, then let's go all the way and\nbecome even more despicable...
 
 00002000
-拓海
-そうだね……僕は浅ましいから、好きに命令させてもらうよ。吉祥寺さん、制服をはだけて、そのおっぱいを見せるんだ
+Takumi
+Yeah... I'm despicable, so let me give you a command as you\nplease. Kisshouji-san, unbutton your uniform and show me\nyour breasts.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……っ…………
+Arisa
+... *silence*
 C01a00050057
 
 00000000
-僕の命令に、吉祥寺さんは一瞬ピクリと眉を顰めた。
+Kisshouji-san's eyebrows twitched for a moment at my\ncommand.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-分かったわ……胸を……見せればいいのね
+Arisa
+Fine... I understand. So all I have to do is show you my\nbreasts, right?
 C01a00050058
 
 00000000
-しかし、その躊躇も一瞬だけ。吉祥寺さんは小さく頷き、そっと制服に手をかけ始めた。
+However, that hesitation lasted only a moment. Kisshouji-san\nnodded slightly and gently began to put her hand on her\nuniform.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

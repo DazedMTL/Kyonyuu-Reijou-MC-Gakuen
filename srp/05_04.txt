@@ -9,53 +9,53 @@
 0200000001004247303230305F62
 
 00002000
-女子学生Ａ
-理央、まじでスゴイじゃん！　今回のグラビア写真飾ってんの表紙だよ表紙っ！
+Female Student A
+Rio, you're seriously amazing! You're on the cover of this\ngravure photo shoot!
 
 00002000
-女子学生Ｂ
-ホントだー！　やっぱ制服着てなくてメイクバッチリしてる理央ちゃん、すっごく可愛いっ！
+Female Student B
+Seriously! Rio-chan looks so cute without wearing a school\nuniform and with perfect makeup!
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-へっへへー、なかなかのもんだろ。今回の写真はマジで自信作でさー。ほら、この服のブランド、すっごくウェストライン綺麗なんだぜ
+Rio
+Hehehe, I must say it's quite something. This time's photos\nare seriously my masterpiece. Look, this clothing brand\nreally accentuates my waistline beautifully.
 C03a05040001
 
 00000000
-理央のグラビアが載っている雑誌を持った女子学生達が、本人を囲んで終わる気配もなくちやほやしている。
+The female students, holding a magazine with Rio's gravure, \nare surrounding her and showering her with attention without\nany signs of stopping.
 
 00000000
-それでいて、自分の写真をどうこう言われるというのは、普通恥ずかしい物なのだが、理央にとっては全くそういう物がなく、褒められるままに喜んでいた。
+And yet, being told something about my own photos is usually\nembarrassing, but for Rio, she doesn't have that at all and\nhappily accepts the praise.
 
 00002000
-女子学生Ａ
-でも、すごいよねー。この調子だと、今度は理央っち独占の特集グラビア組まれたりして
+Female Student A
+But, it's amazing, right? At this rate, there might even be\na special gravure feature dedicated solely to Rio-chan next\ntime.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-まだまだそんなもんじゃ満足しないかな。もっと有名になって、タレントグループに入るとかが丁度いいんじゃない？
+Rio
+I'm not satisfied with just that yet. It would be perfect if\nI could become even more famous and join a talent group, \ndon't you think?
 C03a05040002
 
 00002000
-女子学生Ｂ
-そういうの確かに似合ってるかも！　私応援してるから！
+Female Student B
+That kind of thing definitely suits you! I'll be cheering\nfor you!
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-学園祭とかあったらファッションショー開いたりしてみたいんだけどな。そういうのってなかなかイケてると思わない？　なー？
+Rio
+I kind of want to organize a fashion show if there's a\nschool festival or something. Don't you think that would be\npretty cool? Right?
 C03a05040003
 
 00000000
-騒いでいた女子の視線が一瞬僕に対して集中したのを感じる。
+I could feel the gaze of the noisy girls suddenly focusing\non me for a moment.
 
 00000000
-僕が刷り込みの力によって理事長の存在である以上、それも可能だというのを、理央は遠慮なく頼み込むつもりなのだろう。
+Rio probably intends to boldly plead without hesitation that\nit is possible for her, as long as I have the power of\nindoctrination, to become the chairman.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -66,103 +66,103 @@ C03a05040003
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-はあ……いいなあ……
+Koharu
+Sigh... I'm so envious...
 C04a05040001
 
 00000000
-こはるは理央を取り囲む輪の中に入って行けずに、彼女を羨ましそうに見つめていた。
+Koharu was unable to enter the circle surrounding Rio and\nlooked at her with envy.
 
 00000000
-僕は彼女と関係を積極的に持っている以上、放っておくのもちょっと良心がとがめたので、自分から話しかけに行くことにした。
+Since I have an active relationship with her, I felt a\nlittle guilty just leaving her alone, so I decided to\napproach her myself.
 
 00002000
-拓海
-こはる、どうしたの？　何かすごく寂しそうな顔してたけど……
+Takumi
+Koharu, what's wrong? You had a really lonely expression on\nyour face...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あっ……そ、そのっ……私、そんなに落ち込んだ顔、してたかな……
+Koharu
+Ah... W-was I making such a depressed face...?
 C04a05040002
 
 00002000
-拓海
-何か悩んでるなら僕も協力したいけど……そもそも話したい内容？
+Takumi
+If you're troubled about something, I want to help... But\nfirst, what do you want to talk about?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-話したい……というか、話してどうにかなるのかな……っていう問題……
+Koharu
+I want to talk... or rather, I wonder if talking will solve\nanything... that's the issue...
 C04a05040003
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-その、私も理央さんみたいに自信を持ちたいって思って……
+Koharu
+Um, I also want to have confidence like Rio-san...
 C04a05040004
 
 00002000
-拓海
-それは難しいかな……こはるは胸が大きくて確かに魅力だけど……
+Takumi
+That's difficult... Koharu, you do have a big chest and are\ncertainly attractive, but...
 
 00000000
-こはるの胸の大きさは生まれついての才能にしか過ぎないところがある。
+Koharu's large chest is simply a talent she was born with.
 
 00000000
-理央は性格こそ凶悪な部類だが、美容の維持にも余念がない。
+Rio may have a wicked personality, but she is also\nrelentless in maintaining her beauty.
 
 00000000
-厳しいはずのモデルの仕事も確実にこなすだけの努力はしているのだ。
+She puts in the effort to reliably fulfill even the\ndemanding job of being a model.
 
 00002000
-拓海
-メイクを覚えるとか、いろんな服を着てみるとか、新しい髪型を試すとか……そういうので自信がついていかないかな
+Takumi
+Maybe if you learn how to do makeup, try wearing different\nclothes, or experiment with a new hairstyle... doing things\nlike that might help boost your confidence.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-そう……なのかなあ……？　そ、その……池ノ上くんはそうなって欲しい？　あ、そのっ、変な意味じゃなくて
+Koharu
+Is that so...? D-Do you want me to become like that, Takumi-\nkun? Ah, n-not in a weird way or anything...
 C04a05040005
 
 00002000
-拓海
-そうだね、胸が大きいのは素敵だけどさ、他の部分ももっと素敵だったら誰も文句言わないって思う…………励ましになった？
+Takumi
+Yeah, having a big chest is nice, but I think if other parts\nof you were also more attractive, no one would complain...\nDid that cheer you up?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-うう……で、でも、どうしよう……どうすれば良くなるかなんて、私、うまく思いつかない……
+Koharu
+Ugh... B-But, what should I do... I can't think of any good\nideas on how to improve...
 C04a05040006
 
 00002000
-拓海
-大丈夫だよ、時間のかかる問題だって僕は思ってるよ。綺麗になったこはるがいつか見られるって期待してるから
+Takumi
+It's okay, I think it's a problem that takes time. I'm\nlooking forward to seeing Koharu become beautiful someday.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-う、うううっ……そ、そのっ、嬉しいけど、期待し過ぎだよ……そんなに私、綺麗になれるわけないから……
+Koharu
+U-Uu... Th-That's, um, nice, but you're expecting too\nmuch... There's no way I can become that beautiful...
 C04a05040007
 
 00000000
-逐一僕の反応を伺って、自分を卑下することで失敗した時の予防線を張るこはるは将来的にも自信たっぷりになれる素養がないように思えて僕は苦笑する。
+Koharu, who constantly seeks my reactions and sets up a\ndefense line by belittling herself to prevent failure, seems\nto lack the potential to become confident in the future. I\ncan't help but smile wryly at this.
 
 00000000
-まあ、それがこはるのいいところなのだろうし、全く正反対の性格だといえる、理央みたいになれば彼女の良さはことごとく損なわれるような気がするが。
+Well, I suppose that's one of Koharu's good points. If she\nwere to become like Rio, who has a completely opposite\npersonality, I feel like all of her charm would be\ncompromised.
 
 00006000
 拓海
 まあ……これぐらい僕に対する反応に違いがあるからこそ、迷っちゃうんだよな……今日は二人のどっちで楽しもうかな……
 
 00000000
-僕はそう思いながら、毎日の習慣である精液採取をどちらかにお願いしようと考えた。
+While thinking that, I considered asking either one of them\nto help me with my daily routine of semen collection.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

@@ -9,17 +9,17 @@
 0200000001004247303530305F62
 
 00002000
-拓海
-ふうっ……意外といろいろ二人に衝突があった時が一番楽しかったかもなあ……
+Takumi
+Phew... Surprisingly, the times when we clashed with each\nother were the most fun, I guess...
 
 00000000
-僕は理央とこはる、それぞれとの関係を楽しんできたことを振り返り、その時の快感を思い出して少し顔をにやけさせてしまう。
+I reflect on the relationships I had with Rio and Koharu, \nand as I recall the pleasure of those moments, a slight grin\nforms on my face.
 
 00000000
-元は僕の新たな刷り込みによって追い詰められてしまっていたこはるを理央から助けるために、二人のわだかまりを解いたとはいえ、なかなか楽しめた。
+"In order to save Koharu, who was originally cornered by my\nnew conditioning, from Rio, I managed to resolve the tension\nbetween the two and surprisingly had a good time."
 
 00000000
-この時間をもっと長く楽しみたい……と思うのもある意味当然なのだがそうもいかない。オルゴールの力が万能でないことは今ではよくわかっているからだ。
+"It's only natural to want to enjoy this time for longer...\nbut it's not possible. I now understand that the power of\nthe music box is not omnipotent."
 
 0300000000000F2742474D3032
 
@@ -28,13 +28,13 @@
 二人の仲を良くするという目的を達した以上、自分の望んでいる方向性を早めに決めて、それに向けて迅速に行動する必要があるよな……
 
 00000000
-理央もこはるも、お互いに一切共通点がないだけに魅力の形も違い、どちらを選ぶかというのが思案のしどころだ。
+Rio and Koharu have no common ground whatsoever, so their\ncharms are also different. It's a dilemma to decide which\none to choose.
 
 00000000
-頭で色々考えるよりも無心になり、本能に従って好ましいのかもしれない。
+It might be better to become mindless and follow my\ninstincts rather than overthinking in my head.
 
 00000000
-そして、僕の直感が導き出した結論は―――
+And so, the conclusion that my intuition led me to is―――
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

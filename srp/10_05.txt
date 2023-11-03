@@ -7,83 +7,83 @@
 0200000001004247303530305F63
 
 00002000
-拓海
-相変わらずしっかりとできた書類だなー
+Takumi
+The document is well done as always.
 
 00002000
-拓海
-流石はアリサと友里子といったところかな……
+Takumi
+As expected of Arisa and Yuriko, I suppose...
 
 00002000
-拓海
-ここまでしっかりと業務に励んでくれる部下がいてくれるなんて、なんとお礼を言ったらいいのか……うん、とにかく嬉しいよ
+Takumi
+I'm so grateful to have subordinates who work diligently\nlike this. I don't even know how to express my thanks...\nWell, anyway, I'm really happy.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-え、ええ……その……少々褒め過ぎではないでしょうか……
+Arisa
+Uhm, um... Isn't that a bit too much praise...?
 C01a10050001
 
 00002000
-拓海
-僕だって自分が責任ある立場だってわかってるわけだし。だから君たちに感謝をするのは当然だよ
+Takumi
+I understand that I'm in a responsible position too. So it's\nonly natural for me to express my gratitude to all of you.
 
 00000000
-僕は上機嫌になりながら、二人の処理してくれた書類に次々と目を通して最終確認しつつ、頬を綻ばせていた。
+While in a good mood, I went through the documents that\nArisa and Yuriko handled for me one by one, checking them\nfor final confirmation, and couldn't help but smile.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-最近、仕事熱心で良いことですけれど……
+Arisa
+Lately, everyone has been so diligent with their work, which\nis a good thing, but...
 C01a10050002
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-なんと申しましょうか……少し気味が悪いですわ……
+Arisa
+What should I say... It's a little creepy...
 C01a10050003
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-アリサ、幸せに水を差しすのは野暮ってものではないでしょうか……ふふ
+Yuriko
+Arisa, isn't it a bit rude to rain on someone's happiness?\nHehe.
 C02a10050001
 
 02008C00010000
 
 00000000
-幸せに浮かれた僕にアリサは呆れていたが、友里子はそんな僕達のやりとりすらも面白いらしく微笑んで見ている。
+Arisa was amazed at how happy I was, but Yuriko found even\nour interaction amusing and watched with a smile.
 
 00000000
-僕はここまで有頂天になってしまった自分はちょっと馬鹿なのではないかと思いつつも、その幸せな思いに逆らうことはできなかった。
+I couldn't help but think that I might be a little foolish\nfor being so ecstatic, but I couldn't resist the happiness I\nfelt.
 
 00000000
-いつの精液が当たったのだろうか。随分と時間が経ってから、彼女のお腹が少し出ていることに当人と僕は気がついた。
+I wonder when my semen hit her. It was quite some time later\nthat both she and I noticed her belly sticking out a little.
 
 00000000
-初めは慌てたものの、愛の結晶が実ったとばかりに大喜びしたものだ。
+At first, I was flustered, but I was overjoyed as if the\nfruit of love had ripened.
 
 00000000
-それから僕はこはるの体調を考えて、学園生活と精液採取はなるべく控えるようにさせるようにしたのだった。
+And then, considering Koharu's physical condition, I made\nsure to limit our school activities and semen collection as\nmuch as possible.
 
 00000000
-ちなみに学園を支配するマインドコントロールは未だ健在。
+By the way, mind control that dominates the school is still\nin effect.
 
 00000000
-精液至上主義の刷り込みも強く残り続けていたが、それはこはるの気持ちを繋ぎ止めるためだ。
+The indoctrination of semen supremacy still remained strong, \nbut it was to keep Koharu's feelings connected.
 
 00000000
-勿論あれから、こはると僕の関係がもっと健全な形になる対策法というのを何度も自分で考察はしていたのだが未だに試せないでいた。
+Of course, since then, I have been repeatedly contemplating\nways to make Koharu and my relationship more wholesome, but\nI still haven't been able to try them out.
 
 00000000
-それでもこはるが幸せそうに僕の隣で笑ってくれるから、もう少しこのままでいようと何度も身体を重ねて気を紛らわせていた。
+Because Koharu continues to smile happily by my side, I have\nbeen trying to distract myself by repeatedly intertwining\nour bodies and staying like this a little longer.
 
 00000000
-今が幸せならそれでいい。
+If you're happy right now, then that's enough.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -98,30 +98,30 @@ C02a10050001
 03008C0000000F2753455F6230315F30323032
 
 00002000
-拓海
-疲れた……
+Takumi
+I'm tired...
 
 00000000
-着替える余力すらもないほどに疲れきっていた僕は、そのままベッドへと倒れんだ。
+Exhausted to the point where I didn't even have the energy\nto change clothes, I collapsed onto the bed.
 
 00002000
-拓海
-明日はこはるとデートする予定だから張り切っていたってのに……一日で疲れが取れるといいけど……
+Takumi
+I was looking forward to tomorrow's date with Koharu... but\neven though it's just one day, I hope I can recover from\nthis exhaustion...
 
 00000000
-こんな僕がよくも学園支配なんか大それたことをしてきたものだと自嘲する。
+I self-deprecatingly think about how someone like me could\nhave done something as audacious as dominating the school.
 
 020000000100626C
 
 0200000001004247313130305F64
 
 00000000
-まどろみに沈みそうな頭に浮かぶ、こはると二人だけの幸せに暮らしている未来。
+A future where only Koharu and I live in bliss, floating in\nmy drowsy mind.
 
 020000000100626C
 
 00000000
-その情景を夢見るかのように、そのまま意識を落とした。
+As if dreaming of that scene, I let my consciousness slip\naway.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

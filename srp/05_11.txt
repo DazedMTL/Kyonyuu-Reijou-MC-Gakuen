@@ -7,83 +7,83 @@
 0200000001004247303330305F62
 
 00002000
-拓海
-さーて、今日何処に居るかな？
+Takumi
+Now then, I wonder where she is today?
 
 00000000
-僕が姿を探しながら歩いていると肩が後ろから軽く触れ合うぐらいの衝撃を感じ、思わず振り向くとそこには私服姿の理央が立っていた。
+As I walked while searching for her figure, I felt a light\nimpact on my shoulder from behind, and when I instinctively\nturned around, there stood Rio in casual clothes.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-あっ、池ノ上、ぶつかってごめん！　今マジで急いでってから！
+Rio
+Ah, I'm sorry for bumping into you, Ikenoue! I'm really in a\nhurry right now!
 C03a05110001
 
 00002000
-拓海
-そうなの？　今から精液を採取してもらおうかと思ってたんだけど、どうかな？
+Takumi
+Is that so? I was actually thinking of getting my semen\ncollected right now. What do you think?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30352F2D3236332F302E37362F302E3736
 
 00003000
-理央
-あー、嬉しいんだけど……んー……んんー？
+Rio
+Ah, I'm happy but... um... hmm?
 C03a05110002
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-やっぱり……ムリ、ちょっと今日はマジでパス！　また今度！
+Rio
+As I thought... it's impossible, I'll have to pass for\ntoday! Maybe next time!
 C03a05110003
 
 02008C00010000
 
 00002000
-拓海
-ちょ、ちょっと……！？
+Takumi
+W-Wait a minute...!?
 
 00000000
-僕が引き止める間もなく、理央は手を振りながら口調も動作も焦ったように僕を適当にあしらって走り去っていってしまう。
+Without giving me a chance to stop her, Rio quickly waved\nher hand and hurriedly brushed me off with her tone and\nactions, then ran away.
 
 00006000
 拓海
 まさか理央のほうから断るなんて……
 
 00000000
-そんな時、丁度良くいつも理央の傍に居る取り巻きの一人を見つける。
+At that moment, I happened to spot one of Rio's usual\nfollowers who always stays by her side.
 
 00002000
-拓海
-あっ……ちょっと！　理央がさっきすごく急いでたみたいだけど、何があったか聞いてる？
+Takumi
+Ah... wait! It seemed like Rio was in a hurry earlier. Can\nyou tell me what happened?
 
 00002000
-取り巻きＡ
-あー、それなんだけどさ、テレビ局からお呼びがかかったんだって。マジで理央さんすごいよね
+Lackey A
+Ah, well, you see, she got a call from a TV station. Rio-san\nis really amazing, isn't she?
 
 00002000
-拓海
-それって……モデルからタレント活動が始まったってこと？
+Takumi
+So... does that mean she started doing talent activities\nfrom being a model?
 
 00002000
-取り巻きＡ
-うんうん、とりあえずバラエティトーク番組に出るとかじゃなかったかな？
+Lackey A
+Yeah, yeah, I think she said she's going to appear on a\nvariety talk show for now.
 
 00002000
-取り巻きＡ
-今後、女優もありうるわけだし、そりゃめっちゃ理央さん緊張してると思うな
+Lackey A
+Considering that she might become an actress in the future, \nit's no wonder Rio-san is feeling really nervous.
 
 00002000
-拓海
-そっか……なるほど、そういうわけか
+Takumi
+I see... I understand now, that's the reason.
 
 00006000
 拓海
 前回の撮影の時は、かなり楽しかったし……折角ならもっと理央で楽しみたい
 
 00000000
-この学園では味わえない刺激を今回も提供してくれると確信し、彼女を追いかけることにした。
+I was convinced that she would provide me with an excitement\nthat I couldn't experience at this school, so I decided to\nchase after her.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

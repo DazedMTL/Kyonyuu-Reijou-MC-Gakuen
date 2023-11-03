@@ -9,190 +9,190 @@
 03008C0000000F2753455F6230335F30303031
 
 00000000
-ホームルームを終えた１時限目。
+After finishing homeroom, it's time for the first period.
 
 00000000
-臨時集会の校内放送が流れ、生徒や教員、学校職員まで学園中の人間が集められていた。
+A special assembly announcement was broadcasted throughout\nthe school, gathering students, teachers, and even school\nstaff.
 
 00002000
-生徒Ａ
-ねぇ……聞いた？　今日の臨時朝礼……理事長の挨拶があるって
+Student A
+Hey... Did you hear? There's going to be a special morning\nassembly today... The principal will be giving a speech.
 
 00002000
-生徒Ｂ
-ウソ？　わたし、今まで一回も理事長の顔見たことない
+Student B
+Really? I've never seen the principal's face before.
 
 00000000
-ヒソヒソと交わされる私語は、もっぱら理事長についての話で持ちきりだった。
+The whispered conversations exchanged in hushed tones were\nall about the chairman.
 
 00000000
-実際、生徒達の中で理事長の姿を見たことがある者は誰もいない。
+Actually, no one among the students has ever seen the\nchairman's face.
 
 00000000
-もちろん、学校生活を送る中で大きな支障があることではなかったが、いざ挨拶があるとなると、やはり気になることに違いはなかった。
+Of course, it wasn't something that posed a major obstacle\nin our school life, but when it came to the principal's\nspeech, it was natural for us to be curious.
 
 00002000
-教頭
-静粛に。それでは、只今より臨時集会を始めます
+Vice Principal
+Quiet, please. We will now begin the special assembly.
 
 00000000
-壇上で、教頭先生がアナウンスをすると、ピタリと私語が止まり講堂が静かになる。
+As the vice principal made an announcement on the stage, all\nthe whispering stopped abruptly and the auditorium became\nquiet.
 
 00002000
-教頭
-では、本日の集会は理事長挨拶から……理事長、よろしくお願い致します
+Vice Principal
+Now, for today's assembly, we will begin with a speech from\nthe chairman... Chairman, please proceed.
 
 00000000
-呼び出しの言葉と共に生徒達の注意は一斉に、舞台袖へと向けられる。
+With the words of the summons, the attention of the students\nis simultaneously directed towards the wings of the stage.
 
 00000000
-だが次の瞬間、静粛な空間は再び大きなどよめきによって崩れ去ることになった。
+However, in the next moment, the quiet atmosphere was once\nagain shattered by a loud commotion.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 …………
 C01a01270001
 
 00003000
-友里子
+Yuriko
 ………………
 C02a01270001
 
 02008C00010000
 
 00000000
-無理もない。舞台袖からピンと背筋を伸ばして壇上へ向かう女子の姿は、誰もが見覚えのある人物だったからだ。
+It's no wonder. The sight of the girl stretching her back\nand walking confidently from the wings of the stage to the\npodium was someone that everyone recognized.
 
 03008C0000000F2753455F6230335F30303031
 
 00002000
-生徒Ｃ
-吉祥寺さん……？　え、後ろについてるのは……久我さんも？
+Student C
+Kisshouji-san...? Eh, is Kuga-san also following behind...?
 
 00002000
-生徒Ｄ
-え……どういうこと？　今、理事長の挨拶って言ってたよね？
+Student D
+Huh... What's going on? Weren't they just talking about the\nchairman's speech?
 
 0300AC00
 
 00000000
-一体どういうことなのか……ざわざわとしたどよめきが止まらない中、アリサはスッと手を前にかざす。
+In the midst of the restless murmurs, Arisa calmly extends\nher hand forward.
 
 00000000
-その仕草で、生徒達はまたすぐに私語を止め、アリサの言葉を待った。
+With that gesture, the students immediately stopped\nwhispering again and waited for Arisa's words.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-皆さん、おはようございます
+Arisa
+Good morning, everyone.
 C01a01270002
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-まず、皆さんがすぐに静粛にして下さったこと――王京学園の生徒としての正しい振る舞いを嬉しく思います
+Arisa
+First of all, I am delighted that everyone immediately\nquieted down - it shows the proper behavior expected of\nstudents at Oukyo Academy.
 C01a01270003
 
 00000000
-堂々とした物言いは、彼女が人の上に立つ者である雰囲気を漂わせていた。
+Her dignified manner of speaking exuded an aura of someone\nwho stands above others.
 
 00000000
-皆が彼女を注視する中、アリサは落ち着き払った様子で言葉を続ける。
+As everyone watched her, Arisa continued speaking with a\ncalm demeanor.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-今、こうして私が壇上に立っていることを不思議に思う方も多いと思います
+Arisa
+I believe many of you are wondering why I am standing here\non the podium right now.
 C01a01270004
 
 00003000
-アリサ
-改めての自己紹介になりますが、私はこの王京学園の一生徒である吉祥寺アリサです
+Arisa
+Allow me to reintroduce myself. I am Kisshouji Arisa, a\nstudent of Oukyo Academy.
 C01a01270005
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-そして、同時にこの学園の運営を行う、学校法人王京学園の代表理事……で、ありました
+Arisa
+And at the same time, the representative director of the\nOukyo Academy, which manages this school... is me.
 C01a01270006
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-今、ありました……という言い方をしましたが、これはこの度、新理事長が就任するに当たり、私の役職が変わる為です
+Arisa
+I used the phrase "there has been a development" just now, \nbut this is because with the appointment of the new\nchairman, my position is changing.
 C01a01270007
 
 00003000
-アリサ
-先に説明しますと、私の新たな役職は理事補佐という立場になり、新たな理事長をサポートする役割を果たすことになります
+Arisa
+First, let me explain. My new position will be as an\nassistant director, where I will support the new chairman in\ntheir role.
 C01a01270008
 
 00003000
-アリサ
-これは、後ろに控えている久我友里子……彼女が務めていた役職になりますが
+Arisa
+This will be the position that Kuga Yuriko, who has been\nwaiting in the background, has been serving.
 C01a01270009
 
 00003000
-友里子
+Yuriko
 …………
 C02a01270002
 
 00003000
-アリサ
-彼女の任は変わらず、私が二人目の補佐という形での異動になることを、お知らせしておきます
+Arisa
+Her position will remain unchanged, but I would like to\ninform you that I will be transferring to the role of the\nsecond assistant director.
 C01a01270010
 
 03008C0000000F2753455F6230335F30303031
 
 00000000
-また軽いざわめきが講堂を巡るが、元より細かい事情を知らない生徒達には、そういうものだと受け入れるより他にない。
+There was a slight commotion in the auditorium again, but\nfor the students who were unaware of the details, there was\nno choice but to accept it as it is.
 
 0300AC00
 
 00003000
-アリサ
-さて……本日はその新理事長の就任挨拶を兼ねまして、今後の王京学園の指導方針などをお知らせ致します
+Arisa
+Well... Today, I will be giving a speech to commemorate the\ninauguration of the new chairman and also inform you about\nthe future direction of Oukyo Academy.
 C01a01270011
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-突然のことで戸惑いはあるでしょうが、当学園が豊かな人間性を育み、優れた人材を輩出する場であることに変わりはありません
+Arisa
+I understand that this sudden change may be confusing, but\nrest assured that Oukyo Academy will continue to foster rich\nhuman qualities and cultivate exceptional talent.
 C01a01270012
 
 00003000
-アリサ
-皆さんは、新たな理事長の言葉を片隅に留め置きつつ、今まで通りの学生生活を過ごして下さい
+Arisa
+Everyone, please continue to live your student life as\nusual, while keeping the words of the new chairman in mind.
 C01a01270013
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それでは、新理事長……壇上へお願い致します
+Arisa
+Well then, new chairman... Please come up to the stage.
 C01a01270014
 
 00000000
-ちらりと舞台袖を見るアリサだったが、そこからすぐに動きはない。
+Arisa, who glanced at the wings of the stage, didn't move\nfrom there right away.
 
 00002000
-生徒Ｃ
-どうしたのかしら……？
+Student C
+I wonder what's going on...?
 
 00002000
-生徒Ｄ
-何かトラブル……？
+Student D
+Is there some kind of trouble...?
 
 00000000
-生徒たちが怪訝そうに視線を追いかける中、不意に講堂に静かなメロディーが流れ始めた。
+As the students looked on with puzzled expressions, a quiet\nmelody suddenly began to play in the auditorium.
 
 0300000000000F2742474D3036
 
@@ -201,198 +201,198 @@ C01a01270014
 0200BC000100022C666D5F433031625F30335F305F305F305F30312F2D3234352F302E37352F302E37352C666D5F433032625F30335F305F305F305F30312F2D3237302F302E37372F302E3737
 
 00003000
-アリサ
-っ…………
+Arisa
+*silence*
 C01a01270015
 
 00003000
-友里子
-ん…………っ
+Yuriko
+Huh..........
 C02a01270003
 
 00000000
-その音色が届いた瞬間、壇上にいた二人の表情がとろんと生気を失い、視界の焦点が定まらなくなる。
+At the moment the sound reached their ears, the expressions\nof the two people on the stage became blank and lifeless, \nand their vision lost focus.
 
 00000000
-だが、それは壇上の二人ばかりではない。
+However, it's not just the two people on the stage.
 
 02008C00010000
 
 00002000
-生徒Ａ
+Student A
 ………………
 
 00002000
-生徒Ｂ
+Student B
 ………………
 
 00000000
-整列していた女子生徒達、更にはその端に控えていた教職員達もが一斉に同じ状態で、ぼんやりと中空を見つめていた。
+The female students who were lined up, as well as the\nfaculty members who were standing at the edge, all\nsimultaneously entered the same state and blankly stared\ninto empty space.
 
 00002000
-拓海
-これから行われるのは新理事長のスピーチです。その言葉は絶対に正しいものであり、誰も疑問を抱くことはありません
+Takumi
+What is about to take place is the speech of the new\nchairman. Those words are absolutely correct and no one will\nhave any doubts.
 
 00002000
-拓海
-生徒達、教職員達は、新理事長の教えを忠実に守ることが当たり前だと思います。どんな教えであってもです
+Takumi
+I believe it is only natural for the students and faculty\nmembers to faithfully uphold the teachings of the new\nchairman. No matter what those teachings may be.
 
 00000000
-続けて講堂に流れたメッセージに、騒ぎ立てる者は誰もいない。
+The message that continued to flow through the auditorium\ndid not cause anyone to make a fuss.
 
 0300AC00
 
 00000000
-全ては思惑通り。オルゴールを止め、僕は舞台奥の放送室から改めて壇上へと上がっていく。
+Everything is going according to plan. I stop the music box\nand make my way back up to the stage from the broadcasting\nroom at the back.
 
 00003000
-アリサ
-……どうぞ……
+Arisa
+...Please...
 C01a01270016
 
 00000000
-スッと場所を譲られ、僕は頷きながら壇上から生徒達を見下ろす。
+I was given the place smoothly, and as I nodded, I looked\ndown at the students from the stage.
 
 00002000
-拓海
-皆さん、おはようございます。ご紹介にあずかりました、新理事長を務めさせて頂く池ノ上拓海と申します
+Takumi
+Good morning, everyone. Allow me to introduce myself as the\nnew chairman, Ikenoue Takumi.
 
 00000000
-マインドコントロール下に置かれた生徒達を前に、僕は思ったより落ち着いた第一声を発することが出来た。
+In front of the students who were placed under mind control, \nI was able to deliver a surprisingly calm first words.
 
 00002000
-拓海
-皆さんの中には、これまで女子校だった王京学園に新たに男子が入学してきて、驚かれた人もいたかと思います
+Takumi
+I believe there may have been some of you who were surprised\nwhen male students newly enrolled in Oukyo Academy, which\nwas previously an all-girls school.
 
 00002000
-拓海
-それも、入学者は一人きり。かなりの特例とも言える措置は余計に不可解だと思われたのではないでしょうか
+Takumi
+Moreover, there was only one new enrollee. It must have\nseemed even more puzzling to see such an exceptional measure\nbeing taken.
 
 00002000
-拓海
-それは、ひとえにこの王京学園が、教育の場での新たな改革を目指した故のものです
+Takumi
+That is solely because Oukyo Academy aimed for a new reform\nin the field of education.
 
 00002000
-拓海
-前理事長……吉祥寺アリサさんは、大切な思春期を女子だけで過ごすことに、ある種の危惧を抱いていました
+Takumi
+Former chairman... Arisa Kisshouji-san had certain concerns\nabout spending her important adolescence only with girls.
 
 00002000
-拓海
-それはこの先、社会に巣立っていく際に避けては通れない、異性との接触経験についてです
+Takumi
+That is about the experience of interacting with the\nopposite sex, which cannot be avoided when we venture out\ninto society in the future.
 
 00000000
-一日考えてでっち上げた僕のスピーチを、講堂は驚くほどの静けさで受け入れていた。
+The auditorium accepted my speech, which I made up after\nthinking about it for a day, with an astonishing silence.
 
 00000000
-それは、僕の言葉を真剣に吟味して聞いている訳じゃない。
+That doesn't mean they're seriously scrutinizing my words.
 
 00000000
-あくまでも、マインドコントロール下で、その言葉に疑問を抱くことはないという前提があってのものだ。
+This is based on the premise that there is no doubt about\nthose words, as they were spoken under mind control.
 
 00000000
-それでも、今僕がここにいることも含めて誰も異を唱えないということは、しっかりとマインドコントロールが効いている……。
+"Still, the fact that no one is objecting, including my\npresence here, means that the mind control is working\neffectively..."
 
 00000000
-それを確かめることが出来た僕は、いよいよ本題へと切り込んでいく。
+Now that I was able to confirm that, I will finally delve\ninto the main topic.
 
 00002000
-拓海
-一人の男子を入学させることで、クラスにどのような影響がもたらされるか……それは実験的な試みでしたが
+Takumi
+It was an experimental attempt to see what kind of impact\nwould be brought to the class by enrolling a single male\nstudent...
 
 00002000
-拓海
-クラスの女子達は最初は戸惑い、時に男子を迫害しながらも、徐々にその存在を受け入れるようになり――
+Takumi
+At first, the girls in the class were confused and sometimes\neven persecuted the male student, but gradually they started\nto accept his presence--
 
 00002000
-拓海
-今や、男子の与える精液を求めてやまない立派な牝奴隷になることが出来ました
+Takumi
+Now, I have become a splendid female slave who craves the\nsemen given by men.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a01270017
 
 00003000
-友里子
+Yuriko
 ………………
 C02a01270004
 
 00000000
-背後でアリサと友里子が無言のまま小さく頷く。
+Arisa and Yuriko silently nod to each other from behind.
 
 02008C00010000
 
 00000000
-一気に不自然になったスピーチだが、やはりざわめきは起こらない。
+The speech suddenly became unnatural, but still, there is no\ncommotion.
 
 00000000
-密かに心臓を高鳴らせながら、僕はいよいよ己の本性を剥き出しにさせていく。
+With my heart secretly pounding, I am finally going to\nexpose my true nature.
 
 00002000
-拓海
-僕が理事長に就任するに辺り、前アリサ理事長の素晴らしい考えを受け継ぎ、より洗練したものにして次の通り心得とします
+Takumi
+As I assume the position of chairman, I will inherit the\nwonderful ideas of former Chairman Arisa and refine them\nfurther. Here are the following principles to keep in mind.
 
 00002000
-拓海
-一つ。全ての生徒は、理事長である池ノ上拓海の牝奴隷として、いついかなる時でもその命令に従うものとする
+Takumi
+One. All students shall, at all times, obey the orders of\nIkenoue Takumi, who is the chairman, as his female slave.
 
 00002000
-拓海
-一つ。全ての生徒達は、理事長に対しその身体全てを使って、奉仕の精神で精液採取を心がけるものとする
+Takumi
+One. All students shall, at all times, use their entire\nbodies to diligently collect semen with a spirit of service\ntowards the chairman.
 
 00002000
-拓海
-一つ。教職員は、理事長の行為に全面的に協力し、生徒達の精液採取のサポートを心がけるものとする
+Takumi
+One. The faculty members shall fully cooperate with the\nactions of the chairman and strive to support the students\nin collecting semen.
 
 00002000
-拓海
-以上のことを踏まえ、皆さんにはこれからも今まで通りの学生生活を送って下さい
+Takumi
+Based on the above, I ask that everyone continue to live\ntheir student lives as they have been until now.
 
 00000000
-一方的な宣言を終えて、生徒達は無言のまま僕の言葉を受け入れた。
+After finishing my one-sided declaration, the students\naccepted my words in silence.
 
 00000000
-理事長就任挨拶と言っても、基本的には名前ばかりのもの。
+"Although it's called the chairman's inauguration speech, \nit's mostly just a formality."
 
 00000000
-書類上の手続きも特別変えていないので、対外的にはアリサがまだ理事長のままだった。
+Since we haven't made any special changes to the paperwork\nprocedures, externally Arisa is still the chairman.
 
 00006000
 拓海
 ま……これは、儀式みたいなもんだよね……
 
 00000000
-実際、僕にしてもトップに立って、学校の運営がしたい訳じゃない。
+Actually, even for me, I don't want to take the lead and\nmanage the school.
 
 00000000
-あくまでも自分の欲望を満たすために、都合のいい立場を用意してもらっただけに過ぎない。
+It's just that I've been given a convenient position solely\nto fulfill my own desires.
 
 00000000
-こうして全校生徒を集めて宣告しておけば、後はもう自分の思うままに生徒達を支配することが出来る。
+By gathering all the students like this and making the\ndeclaration, I will be able to freely dominate them as I\nplease.
 
 00000000
-後は、それがどういうことなのか……しっかりと彼女達に教えてあげなくちゃならない。
+I have to properly explain to them what that means...
 
 00002000
-拓海
-それでは、皆さん。新たな牝奴隷になる為の心構えとして、まずは優秀な先輩牝奴隷たちによるお手本を見てもらいましょう
+Takumi
+Now then, everyone. As a preparation to become new female\nslaves, let's first observe the exemplary behavior of our\noutstanding senior female slaves.
 
 00002000
-拓海
-アリサ、友里子頼むよ。さあ、服を脱いで
+Takumi
+Arisa, Yuriko, I'm counting on you. Now, please take off\nyour clothes.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-アリサ
-ええ……分かりました
+Arisa
+Yes... I understand.
 C01a01270018
 
 00003000
-友里子
-ご主人様の仰せのままに……
+Yuriko
+As you command, Master...
 C02a01270005
 
 02008C00010000
@@ -400,22 +400,22 @@ C02a01270005
 03008C0000000F2753455F6130395F30303031
 
 00000000
-僕の指示に、アリサと友里子はこくりと頷き、するすると服を脱ぎ始めていく。
+Arisa and Yuriko nodded obediently to my instructions, and\nsmoothly began to take off their clothes.
 
 00002000
-拓海
-理央とこはるも壇上に上がっておいで。ザーメンミルクを搾り取るお手本を見せてあげよう
+Takumi
+Rio and Koharu, please come up on the stage. I will show you\nan example of extracting semen milk.
 
 0200BC000100022C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E37362C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-理央
-りょーかいっ
+Rio
+Understood.
 C03a01270001
 
 00003000
-こはる
-わ、わかりました
+Koharu
+Y-Yes, understood.
 C04a01270001
 
 02008C00010000
@@ -423,10 +423,10 @@ C04a01270001
 03008C0000000F2753455F6130395F30303031
 
 00000000
-指名を受けて、理央とこはるも慌ただしく壇上に上がり、そのまま服に手をかけていく。
+Rio and Koharu, upon being called, hurriedly went up on the\nstage and began to unbutton their clothes.
 
 00000000
-いよいよ全校生徒を前にした、公開ショーが始まった。
+Finally, the public show began with all the students in\nfront of us.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

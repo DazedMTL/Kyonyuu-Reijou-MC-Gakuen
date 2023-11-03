@@ -7,90 +7,90 @@
 0200000001004247313130305F64
 
 00002000
-拓海
-……友里子の献身さが欲しい……か
+Takumi
+...Do I want Yuriko's devotion...?
 
 00000000
-口に出してみて、自分の正直な気持ちは、思った以上にスッと腑に落ちた。
+When I said it out loud, my true feelings surprisingly fell\ninto place.
 
 00000000
-そうだ、僕はアリサと友里子の関係をずっと羨ましく感じていた。
+Yes, I have always felt envious of the relationship between\nArisa and Yuriko.
 
 00000000
-以前、友里子はアリサの幸せこそが自分のたった一つの望みだと言い切り、それを生きがいにしている節さえあった。
+In the past, Yuriko declared that Arisa's happiness was her\none and only wish, and she even seemed to find purpose in\nit.
 
 00000000
-その一途な気持ちをへし折ることは、恐らく難しいだろうし、例えそれを果たしたとしても、それはもう友里子ではないかも知れない。
+It would probably be difficult to break her unwavering\nfeelings, and even if I were to accomplish that, she might\nnot be the same Yuriko anymore.
 
 00002000
-拓海
-……もう復讐って気持ちでもないしな……
+Takumi
+...I don't even have the desire for revenge anymore...
 
 00000000
-オルゴールを使っての意趣返しは、もう十分に堪能した気がする。
+I feel like I've already had enough of using the music box\nfor revenge.
 
 00000000
-今、僕の中にあるのは、もっとプラスになるアプローチ。
+Now, what I have inside me is a more positive approach.
 
 00002000
-拓海
-友里子の信頼を得る……結局、アリサとの問題を解決する……そういう方向になるのかな
+Takumi
+To gain Yuriko's trust... In the end, will it lead to\nresolving the issue with Arisa...?
 
 00000000
-復讐の為に使ってきたマインドコントロールだが、何もそれだけが使い道という訳じゃない。
+The mind control I've used for revenge, but it's not just\nfor that purpose alone.
 
 00000000
-例えば、友里子の気持ちを引き寄せるために認識を歪めるのではなく、自然に溶け込める形を作る。
+Instead of distorting Yuriko's feelings to attract her, I\nwill create a natural way to blend in.
 
 00000000
-友里子の中にあるアリサの存在はあまりにも大きい。
+Arisa's presence within Yuriko is incredibly significant.
 
 00000000
-もう切っても切り離せないのならば、一つに取り込み問題を解決する。
+If they can no longer be separated, then I will merge them\ntogether to resolve the issue.
 
 00002000
-拓海
-けど……アリサの問題って言うと……要するに、吉祥寺家のことなんだよなぁ……
+Takumi
+But... when it comes to Arisa's issue... in essence, it's\nabout the Kisshouji family, right...
 
 00000000
-あまり考えないようにして来たけれど、やはりどうしても避けて通れない問題かも知れない。
+I've been trying not to think about it too much, but it\nmight still be an unavoidable problem after all.
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-頭の中で、様々な可能性とシチュエーションがぐるぐると巡る。
+Various possibilities and situations swirl around in my\nhead.
 
 00000000
-絶対的な武器を持っているとはいえ、果たして吉祥寺家にどれだけ効果があるのか。
+"Even though I have an absolute weapon, I wonder how\neffective it will be for the Kisshouji family."
 
 00000000
-アリサがじっくりと外堀を埋めていた所を見ると、やはりオルゴールは切り札的に持っていたものだと思う。
+Seeing Arisa carefully filling in the gaps, I think the\nmusic box is indeed a trump card that she had.
 
 00000000
-恐らくはその存在を知らない筈……だとしたら、僕にもチャンスはあるのか、それとも……。
+They probably don't know about its existence... If that's\nthe case, does that mean I have a chance too, or...?
 
 00002000
-拓海
-……グダグダ考えても始まらない、か
+Takumi
+...There's no point in overthinking it, huh.
 
 00000000
-今までずっと虐げられてきた生活を逆転させて来た。
+I've managed to turn my life around after being oppressed\nall this time.
 
 00000000
-けれど、このままの状態がいつまでも続けられるとは思えない。
+However, I don't think this situation can continue\nindefinitely.
 
 00000000
-いずれは必ず立ちはだかる壁だというなら、思い切ってぶつかってみる……。
+If it's said that there will inevitably be a wall standing\nin our way, then I'll gather my courage and give it a try...
 
 00000000
-僕の中で、今まで浮かぶことのなかった全く新しい気持ちが、少しずつ目覚めようとしていた。
+A completely new feeling that has never crossed my mind\nbefore was slowly starting to awaken within me.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
 00000000
-数週間後――
+Several weeks later--
 
 0300000000000F2742474D3037
 
@@ -99,181 +99,181 @@
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-随分と、急なお越しでしたのね
+Arisa
+Oh, it was quite a sudden visit, wasn't it?
 C01a08020001
 
 00000000
-理事長室は、何とも言えない緊張感に包まれていた。
+The chairman's office was enveloped in an indescribable\ntension.
 
 00002000
-男
-は……その、大変恐縮です。事前に連絡が行き届きませんで……いやはや
+Male
+Um... I'm really sorry for not giving you advance notice...\nWell, um...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-本家からの要請は、然るべき通達手順を踏んでから……それが、今までのやり方だったと思いますが
+Arisa
+I believe that the proper procedure for a request from the\nmain branch is to follow the appropriate notification\nprocess... That's how it has been done up until now, I\nthink.
 C01a08020002
 
 00002000
-男
-いや、仰る通りでございます。ですので、こちらはその要請ということではなく、あくまでもちょっとしたお話をと……
+Male
+Yes, you are correct. Therefore, this is not a formal\nrequest, but rather just a small conversation...
 
 00000000
-机の前では、吉祥寺家の使いという男が一人、恐縮しきりで何度も頭を下げていた。
+In front of the desk, there was a man who introduced himself\nas a messenger from the Kisshouji family, bowing repeatedly\nwith a sense of deep apology.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-その話というのが、私一人では足りないと？
+Arisa
+So, you're saying that my opinion alone is not enough?
 C01a08020003
 
 00002000
-男
-あぁ、いえ、何と申しましょうか。そこは、是非複数名でお話を伺いたいと上からのお達しでして、私にはどうにも……はい
+Male
+Ah, well, how should I put it... It was instructed from\nabove that we would like to hear the conversation with\nmultiple people, so I couldn't really do anything about\nit... Yes.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-つまり、私一人では話にならないと……そういうことでしょう
+Arisa
+So, you're saying that my opinion alone is not enough?
 C01a08020004
 
 00002000
-男
-いえいえ、そういうことでは。その、多角的な意見を伺えれば……と、そういう意図もありまして……
+Male
+No, no, it's not like that. Um, if we could hear various\nopinions... there was also an intention to do so...
 
 00000000
-アリサが不機嫌なのは、急な来訪もさることながら、本家から学園側は３名の出席をという注文をつけられたことにもある。
+Arisa is not only unhappy about the sudden visit, but also\nbecause the main branch ordered the school to have three\npeople present.
 
 00000000
-それ以上の理由は何も示されなかったが、アリサはそれを自分一人では能力不足だと思われている……そう判断したのだ。
+Arisa concluded that since no further reasons were given, it\nwas believed that she alone was considered inadequate in her\nabilities.
 
 00000000
-学園側の人間と言っても、吉祥寺家に関わる込み入った話が出来る者はそうそう選べない。
+It's not easy to find someone who can engage in a\ncomplicated conversation related to the Kisshouji family, \neven among the people from the school.
 
 00000000
-本意ではないまま、僕と友里子が頭数として呼び出され、とりあえず脇に控えている。
+As we were called upon as additional participants, Yuriko\nand I are waiting on the side, even though it wasn't our\nintention.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
+Yuriko
 ………………
 C02a08020001
 
 00000000
-友里子は、アリサの様子が自分を歓迎していないことを敏感に悟っていたようだった。
+Yuriko seemed to keenly realize that Arisa was not welcoming\nher.
 
 00000000
-とは言え、呼ばれてここにいる以上、勝手に退席も出来ない。
+However, since I was called here, I can't just leave on my\nown.
 
 00000000
-居心地悪そうにソファーに腰掛け、せめて邪魔にならぬようにと小さくなっている。
+She sits on the sofa, looking uncomfortable, trying to make\nherself as small as possible so as not to be a bother.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それで、お話というのは。以前の、学内の風紀が乱れているという話でしたら……
+Arisa
+So, about the discussion. If it's regarding the previous\ntalk about the disturbance of discipline within the\nschool...
 C01a08020005
 
 00002000
-男
-あ、いえ、本日はその件ではないのです。あくまでも、この学園のこれからの展望について、聞き取りが出来ればと……
+Male
+Ah, no, it's not about that matter today. It's just that, if\nwe could hear about the future prospects of this school...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-聞き取り……ですか？
+Arisa
+You want to hear...?
 C01a08020006
 
 00002000
-男
-はい。その、試験的に男子生徒を入学させるという試みも始まり、他にも附属学校の併設や、生徒募集の拡大事項など……
+Male
+Yes. Um, as an experimental attempt, we have started\nadmitting male students, and there are also other matters\nsuch as establishing affiliated schools and expanding\nstudent recruitment...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それを……今、ここで？
+Arisa
+That... here and now?
 C01a08020007
 
 00002000
-男
-はい。現状、学園の方はいかがですか？　生徒を編入させたことで、前年度との違いが出てきたりは……
+Male
+Yes. How is the situation at the school currently? Have\nthere been any differences compared to the previous year due\nto admitting new students...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-別に、何が悪くなったということもありませんわ。良家の息女を預かる学園として最善を尽くして……
+Arisa
+Well, there hasn't been anything that has gone wrong. We're\ndoing our best as a school entrusted with the daughters of\nrespectable families...
 C01a08020008
 
 00002000
-男
-はい、それはもちろん。私はその、アリサ様……理事長としての、見解を伺っただけでして……それでは続けて教員側の……
+Male
+Yes, of course. I was just seeking the opinion of Arisa-\nsama... as the chairperson... Now, let's continue with the\nperspective of the faculty...
 
 00000000
-その後も、何だか妙にのらりくらりとした実態の薄い質問が続く。
+After that, strangely vague and evasive questions continue.
 
 00000000
-アリサも、どうにも要領を得ないと怪訝な様子を隠せなかったが、これまで努めて来た理事長としての立場で適切な返答を返していく。
+Arisa couldn't hide her perplexed expression at not being\nable to grasp the situation, but she will respond\nappropriately as the chairperson she has been working\ndiligently as until now.
 
 00006000
 拓海
 やれやれ……ちょっと本題に行くまでに回りくどすぎたかなぁ
 
 00000000
-横でそのやり取りに立ち会いながら、僕は小さくあくびをかみ殺した。
+While witnessing that exchange, I stifled a small yawn.
 
 00000000
-そもそも、目の前にいる男は正確には吉祥寺家の使いで来ている訳じゃない。
+Well, to begin with, the man in front of us isn't exactly a\nmessenger from the Kisshouji family.
 
 00000000
-吉祥寺家側の人間には違いないが、既に僕のマインドコントロールによって認識を変えられた人間の一人だ。
+He may be someone from the Kisshouji family, but he is\nalready one of the individuals whose perception has been\naltered by my mind control.
 
 00000000
-乗っ取りの手始めにと、定例報告で来ていた人間を言いなりにして情報を引き出し、今は少しずつ味方を増やしている最中。
+As a first step in the takeover, I have been manipulating\nthe person who came for the regular report to extract\ninformation and now I am gradually increasing my allies.
 
 00000000
-ゆっくりとだが、吉祥寺家を取り込む為の準備は少しずつ進みつつある。
+Slowly but surely, preparations to take over the Kisshouji\nfamily are progressing little by little.
 
 00000000
-そんな状況をそれとなく伝える一環で、ついでにアリサの意志も確認しようと計画したが、前置きが長すぎたか。
+As part of subtly conveying that situation, I also planned\nto confirm Arisa's intentions, but perhaps the preamble was\ntoo long.
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-ちらりと視線を隣に向けると、友里子の方はどこか落ち着きなくソファーでそわそわとしていた。
+I glanced to the side and noticed that Yuriko seemed\nrestless on the sofa, unable to calm down.
 
 00000000
-吉祥寺家との折衝もこなして来た友里子にしてみれば、アリサのサポートに回って質問に的確な助言も入れたいとこだろう。
+Yuriko, who has been handling negotiations with the\nKisshouji family, would naturally want to support Arisa and\nprovide accurate advice in response to her questions.
 
 00000000
-しかし、それがまた出しゃばりではないかとアリサの機嫌を損ねることを、友里子は心から恐れている。
+However, Yuriko is genuinely afraid of upsetting Arisa's\nmood by being too intrusive.
 
 00000000
-見た目は大きく変わることはないが、僅かな心の動揺からか、何となく下半身をもじつかせる友里子に自然と目が泳いでいく。
+Although her appearance doesn't change much, I naturally\nfind my gaze drifting towards Yuriko, who seems to be\nslightly unsettled and fidgeting with her lower body.
 
 00002000
-拓海
-……何も、馬鹿正直に待ってる必要もないのか
+Takumi
+...Is there really no need for us to wait honestly?
 
 00000000
-一度ムラっと来てしまうと、後はもうなし崩しのようなものだった。
+Once you get a little excited, it becomes hard to stop.
 
 00000000
-むっちりとしたお尻を前に、あっという間に膨張した股間をどうどうと宥めながら。
+While soothing my rapidly swelling crotch with a firm grip, \nin front of her plump butt.
 
 00000000
-未だやり取りを続けるアリサを尻目に、僕はするすると友里子の元へ近づいていく。
+Ignoring Arisa, who is still engaged in conversation, I\nsmoothly approach Yuriko.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

@@ -9,148 +9,148 @@
 0200000001004247303130305F62
 
 00002000
-教師
-それでは、本日の授業はここまでにします
+Teacher
+Well then, that's all for today's class.
 
 0300000000000F2742474D3033
 
 0200000001004247303230305F62
 
 00000000
-一日の授業が終わり、教室が放課後の和やかな雰囲気に包まれる。
+The day's classes come to an end, and the classroom is\nfilled with a peaceful atmosphere after school.
 
 00002000
-女子Ａ
-久我さん、あの……いまの授業のことなんですけど……
+Girl A
+Kuga-san, um... about the class just now...
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……え？　えぇ……
+Yuriko
+...Huh? Umm...
 C02a08010001
 
 00002000
-女子Ｂ
-あっ、私も分からないところがあって。もう一回おさらいしたいんですっ
+Girl B
+Ah, there are some parts I don't understand too. I want to\nreview it once more.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はぁ……しかし、それは先生に教わる方が……
+Yuriko
+*sigh*... However, it would be better to learn that from the\nteacher...
 C02a08010002
 
 00002000
-女子Ｂ
-久我さんがいいんですっ、それともわたし……ご迷惑ですか？
+Girl B
+Is it okay if Yuriko-san helps, or would that be a bother to\nyou?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あ、いえ、そういうつもりでは……
+Yuriko
+Ah, no, I didn't mean it like that...
 C02a08010003
 
 00002000
-女子Ｃ
-久我さんっ、あたしもっ！　あたしもお願いしますっ！
+Female C
+Yuriko-san, me too! Please, I'm also asking for your help!
 
 03008C0000000F2753455F6230335F30303031
 
 00000000
-終了と同時に、群がってくるクラスメートを友里子はあしらい切れずに困っていた。
+At the same time as the end, Yuriko was troubled by the\nclassmates who gathered around her and couldn't handle them.
 
 00000000
-ここ最近、随分と見慣れてきた光景。友里子の学内地位が高まるにつれ、すぐに人だかりが出来るようになっている。
+Lately, I've become quite familiar with this sight. As\nYuriko's status within the school has risen, a crowd forms\naround her immediately.
 
 0200BC000100022C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E37352C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a08010001
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-あ…………
+Yuriko
+Ah...
 C02a08010004
 
 00000000
-そんな様子をちらりとアリサが一瞥して教室を出て行き、友里子はそれを追いかけたそうに目を泳がせる。
+Arisa glanced at that situation for a moment, then left the\nclassroom. Yuriko seemed to follow her with her eyes\nswimming.
 
 00000000
-一連の流れを、僕もまた教室の隅でじっと見つめ続けていた。
+I continued to silently watch the entire sequence of events\nfrom the corner of the classroom.
 
 0300000000000F2742474D3037
 
 00000000
-本来、復讐の対象の一人であった友里子。
+Yuriko, who was originally one of the targets for revenge.
 
 00000000
-その冷徹な行動力の前に、僕もいつも酷い目に遭わされてきた……。
+In the face of that cold and calculated determination, I too\nhave always been subjected to cruel treatment...
 
 00000000
-が、それはあくまでもアリサの為に……まさしく片腕となって泥をかぶる。
+However, that is solely for Arisa's sake... I will become\nher right-hand and bear the burden.
 
 00000000
-その強い意志の表われだということが、今となってはよく分かる。
+It is now clear that this is a manifestation of her strong\ndetermination.
 
 00000000
-あの年頃で、それだけ尽くそうと思えるだけの人望を、どうしたら得られるものだろうか？
+How can one obtain such popularity at that age, where they\nare willing to devote themselves so much?
 
 00000000
-今、アリサの立場は、僕のせいでお世辞にも芳しい状況とは言い難い。
+"Now, Arisa's position is far from favorable, thanks to me."
 
 00000000
-だが、そんな風評に友里子は全く流されず、マインドコントロールにも一切影響を受けることがない。
+However, Yuriko is completely unaffected by such rumors and\nis not influenced by any mind control whatsoever.
 
 00006000
 拓海
 本人自身は、マインドコントロールに掛かりやすい筈なのに……やっぱり芯がある所は壊せないんだな……
 
 00000000
-それだけの自分よりもアリサ。その気持ちが徹底しているんだろう。
+Arisa is more devoted to herself than anyone else. She must\nbe completely dedicated to that feeling.
 
 00000000
-何とか、僕のモノに出来ないだろうか……その気持ちは改めて膨れ上がっていく。
+Somehow, I wonder if I can make her mine... That feeling\nswells up inside me once again.
 
 00006000
 拓海
 結局、アリサをどうするか……それが、友里子の意識も左右するってことになるのかな……
 
 00000000
-おそらく本人は、いち早くアリサの元へ駆けつけて、自分の気持ちを吐露して元通りの関係に戻りたいんだろう。
+Perhaps she wants to quickly rush to Arisa's side and\nexpress her feelings, wanting to return to their previous\nrelationship.
 
 00000000
-だが、アリサはそれを拒絶しているし、それを曲げて踏み込み勇気が友里子にはない。
+However, Arisa rejects that and Yuriko doesn't have the\ncourage to bend it and step forward.
 
 00000000
-今の状況で、友里子に僕になびくようにマインドコントロールを施しても、中途半端な状態で終わってしまう可能性が高い。
+Given the current situation, there is a high possibility\nthat even if I were to use mind control on Yuriko to make\nher submit to me, it would end up being incomplete.
 
 00002000
-拓海
-……そもそも、僕は友里子をどういう風にしたいんだ……？
+Takumi
+...First of all, how do I want to treat Yuriko...?
 
 00000000
-ふと立ち返り、僕は自分の中ではっきりとした答えを持っていなかったことに気づく。
+I suddenly realize that I don't have a clear answer within\nmyself.
 
 00000000
-あの一途な忠誠心、乱れた時の肉体の反応、クールだが不器用な性格。
+That unwavering loyalty, the physical reactions when in\ndisarray, a cool yet clumsy personality.
 
 00000000
-それらを詰まるところどうしたいのか……自分で答えを出していなかったことに呆れつつ、改めて意識する。
+I am amazed at myself for not having come up with a clear\nanswer to how I want to handle all of that... and I become\naware of it once again.
 
 00000000
-僕は、友里子に求められるようになりたいのか。
+Do I want Yuriko to desire me?
 
 00000000
-それとも、友里子そのものを支配したいのか。
+Or perhaps, do I want to dominate Yuriko herself?
 
 00000000
-大きな岐路に立たされ、僕はじっくりと思案した。
+I stood at a major crossroads and carefully contemplated.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

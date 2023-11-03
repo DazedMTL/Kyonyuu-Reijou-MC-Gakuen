@@ -7,137 +7,137 @@
 0200000001004247303530305F62
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-早朝の理事長室。
+Early morning in the chairman's office.
 
 00000000
-僕は、登校してから教室へ行く前に立ち寄り、一人ファイリングされた資料とＰＣ内のデータベースを読み漁っていた。
+Before going to the classroom after arriving at school, I\nstopped by and rummaged through the filed documents and the\ndatabase on my PC.
 
 00000000
-名ばかりの理事長就任ではあったけど、本当にこのまま何もしないでのんきに過ごせると思える程、楽観的ではいられなかった。
+Although it was just a nominal appointment as the chairman, \nI couldn't remain optimistic enough to believe that I could\nleisurely pass the time without doing anything.
 
 00000000
-少なくともアリサはアリサで、何らかの思惑を持って理事長職を務めていた。
+At the very least, Arisa, being Arisa, had some kind of\nulterior motive for serving as the chairman.
 
 00000000
-だが、そもそも、アリサが理事長を務めているということからして、普通の学校法人とは言いがたい。
+However, from the fact that Arisa is serving as the\nchairman, it's hard to call this a normal educational\ninstitution.
 
 00006000
 拓海
 やっぱり……あの吉祥寺グループの系列になるよなぁ……
 
 00000000
-国内外を問わず、多方面に事業を展開している吉祥寺グループは、普通に生活していれば嫌でもどこかで名前を聞く有名財閥だ。
+The Kisshouji Group, which operates businesses in various\nfields both domestically and internationally, is a well-\nknown conglomerate whose name you would inevitably hear\nsomewhere if you live a normal life.
 
 00000000
-そして、軽く調べた限りでは、アリサは吉祥寺家の任命を受けて、王京学園の理事長を務めていることになる。
+And from what I lightly investigated, it seems that Arisa\nhas been appointed by the Kisshouji family to serve as the\nchairman of Oukyo Academy.
 
 00006000
 拓海
 まぁ、吉祥寺家の人間だから、早いうちから帝王学をってことなのかな……
 
 00000000
-一介の凡人学生にとって、上流階級の人間の考えなんて分かる筈もなく。
+As a mere ordinary student, I couldn't possibly understand\nthe thoughts of someone from the upper class.
 
 00000000
-ただ、一つ気に掛かることはある。
+However, there is one thing that bothers me.
 
 00000000
-これだけ大々的にマインドコントロールで学園を支配していけば、どこかで外部との接触による違和感が生じる可能性が高い。
+If they continue to dominate the school so prominently\nthrough mind control, there is a high possibility that some\nsense of discomfort will arise from contact with the\noutside.
 
 00000000
-そして、その懸念が一番ありうる対象は、他でもない吉祥寺グループそのものだということだ。
+And the most likely source of that concern is none other\nthan the Kisshouji Group itself.
 
 00006000
 拓海
 アリサにマインドコントロールを施して応対をさせたとして、それでもちゃんとごまかしきれるか……
 
 00000000
-或いは、アリサからでなくても、夏休みに入って生徒達が退寮したり、外出中だったり。
+Or perhaps, even without Arisa, during summer vacation when\nthe students move out of the dormitory or are out and about.
 
 00000000
-どこで思わぬ綻びが見つかるかは、正直分かったものじゃない。
+I honestly don't know where an unexpected flaw might be\nfound.
 
 00000000
-もし、吉祥寺の一族から目を付けられたとしたら……それこそ、冗談抜きに命が危ないかもしれない。
+If, hypothetically, we were to catch the attention of the\nKisshouji family... our lives could be in real danger, no\njoke.
 
 00000000
-何せ、学生を名門校の理事長に据えるほどの影響力はあるのだ。何が起こっても不思議じゃなかった。
+"After all, they have enough influence to appoint a student\nas the chairman of a prestigious school. It wouldn't be\nsurprising no matter what happens."
 
 00006000
 拓海
 やっぱり、学園全体に範囲を広げたのは少し早まったかな……
 
 00000000
-弱気に呟きながら、ふと机の上にそっと置いたオルゴールが目に入る。
+While murmuring timidly, I suddenly notice the music box\nthat I gently placed on the desk.
 
 00000000
-すると、不思議と不安がすぅっと薄れ、心が落ち着いていくのが分かった。
+And then, strangely, I felt the unease and anxiety fade\naway, and I could feel my heart calming down.
 
 00006000
 拓海
 そうだ……今の僕にはこれがあるんだから……
 
 00000000
-思えばアリサもこの理事長室で、オルゴールに魅入られるように、何らかの野望を抱いていた。
+If I think about it, even Arisa, in this chairman's office, \nwas captivated by the music box and had some kind of\nambition.
 
 00000000
-目指す志の差こそあれど、このオルゴールが人をそんな風に駆り立てる何かがあるのは間違いないだろう。
+The difference in our aspirations may be there, but there is\nno doubt that this music box has something that drives\npeople in such a way.
 
 00000000
-オルゴールを手に取り、僕は改めて決意を新たにする。
+I pick up the music box and once again resolve myself.
 
 00000000
-そうだ、この短い間に僕は濃密な経験を過ごして来た。
+"That's right, during this short time, I have had intense\nexperiences."
 
 00000000
-その結果で得られた教訓と言えば、行動を起こさなければ、死んだような生活が逆転することはない……その事実だ。
+"The lesson learned from that result is that if you don't\ntake action, your life will never turn around... that's the\ntruth."
 
 00006000
 拓海
 こいつを使って、やれるところまでやってみる……最初に決めた通りだ
 
 00000000
-今、こうして資料を漁っているのも、漫然と過ごすだけではどんな足元の掬われ方をするか分からないから。
+Right now, I'm searching through these documents because I\ndon't know what unexpected turn of events might happen if I\njust passively go along.
 
 00000000
-手を広げた以上は、もっと足場はしっかり固めなくちゃならない。
+If I'm going to expand my reach, I need to secure a more\nsolid foundation.
 
 00000000
-これだけ劇的に身辺が変化すると、嫌でも頭は回転するものらしい。
+It seems that when your surroundings change so dramatically, \nyour mind inevitably starts spinning.
 
 00000000
-この数日間、僕は生まれてから初めてと言えるほど必死になって、この学園のことを調べている。
+"For these past few days, I have been desperately\nresearching about this school like never before since I was\nborn."
 
 00006000
 拓海
 いずれ、アリサにもしっかり話を聞いておいた方がいいだろうな……
 
 00000000
-一つ気になっていたのは、オルゴールの存在を吉祥寺グループが知っているのかということだ。
+One thing that has been bothering me is whether the\nKisshouji Group knows about the existence of the music box.
 
 00000000
-どうも、アリサの言動の中には、吉祥寺家と対立していたような……そんな雰囲気を匂わせる所があった。
+It seems that there were some hints in Arisa's words and\nactions that suggested a conflict with the Kisshouji family.
 
 00000000
-もし、これが無二の存在であるのなら……上手く使えば、余計な摩擦を起こさずに、この楽園を維持できるかも知れない。
+If this is truly an irreplaceable existence... if I can use\nit wisely, perhaps I can maintain this paradise without\ncausing unnecessary friction.
 
 00002000
-拓海
-っと……そろそろか
+Takumi
+Ah... It's about time.
 
 00000000
-あれこれ考えているうち、気がつけば登校時間が迫ってきていた。
+While I was lost in thought, before I knew it, it was almost\ntime for school.
 
 00002000
-拓海
-さて……今日も一日お楽しみだ
+Takumi
+Well... Today will be another enjoyable day.
 
 00000000
-地獄から一転、楽園となった学校生活を堪能すべく、僕はゆっくりと席を立った。
+In order to fully enjoy this school life that has turned\ninto paradise from hell, I slowly stood up from my seat.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -146,91 +146,91 @@
 0300000000000F2742474D3033
 
 00000000
-理事長室から外へ出て、まばらに登校してくる生徒達とすれ違いながら、教室への道を行く。
+Leaving the chairman's office, I walked along the path to\nthe classroom, passing by the students who were sparsely\narriving for school.
 
 00000000
-時折、ほんの気持ち程度の会釈を受けるようになったのは、今までからすると明確な変化の一つと言ってよかった。
+Occasionally, I started receiving slight nods of\nacknowledgement, which was a clear change compared to\nbefore.
 
 00000000
-これまでは、ひたすらに無関心。或いは好奇と嫌悪の陰口が聞こえてきたものだったけど。
+Until now, I have been completely indifferent. Or perhaps I\nhave only heard whispers of curiosity and disgust.
 
 0300000000000F2742474D3037
 
 00002000
-生徒
-…………っ……
+Student
+......
 
 00000000
-今や、すれ違う最中に感じるのは、僕の股間へと向けられる視線。
+Now, as I pass by, what I feel is the gaze directed towards\nmy crotch.
 
 00000000
-そう言えば、男の視線が胸に行ってるなんてすぐバレるなんて話があったけど、なるほど自分がその立場になってみると確かに分かる。
+Speaking of which, there was a story about how it's\nimmediately noticeable when a guy's gaze goes to a girl's\nchest. Now that I think about it, when I find myself in that\nposition, I can definitely understand.
 
 00000000
-例え露骨でなかったとしても、赤い顔でチラチラと見てくる子がいたり。
+Even if it's not explicit, there are girls who sneak glances\nat me with flushed faces.
 
 00000000
-中には若い女教師までもが、生徒への注意そっちのけで、僕の股間に気を取られてしまっている。
+Among them, even young female teachers are so distracted by\nmy crotch that they neglect to pay attention to the\nstudents.
 
 00000000
-そんな視線を受け続ければ、僕の方だって自然にその気にならざるを得ない。
+If I continue to receive such gazes, it's only natural that\nI would start to feel the same way.
 
 00000000
-ズボン越しでもくっきり分かる程に、下半身を膨張させていくと、周囲のざわめきがまた一層強くなってくる。
+As my lower body swells to the point where it's clearly\nvisible even through my pants, the commotion around me grows\neven stronger.
 
 00002000
-拓海
-ふふ……お預けもこれ位にしておくかな……
+Takumi
+Hehe... I guess I'll put it on hold for now...
 
 00000000
-期待させるような演説をしたのは僕なんだから、当然それには応えてあげなくちゃ可哀相だ。
+Since it was me who gave a speech that raised expectations, \nit's only natural that I respond to it. It would be pitiful\nif I didn't.
 
 00002000
-拓海
-うーん、何だか精液を出したくなってきたかなぁ……
+Takumi
+Hmm, I'm starting to feel like I want to ejaculate...
 
 00000000
-廊下の真っ只中、何の脈絡もないまま、僕はファスナーを下げて、屹立を取り出す。
+In the middle of the hallway, without any context, I unzip\nmy zipper and take out my erection.
 
 00003000
-生徒Ａ
-あっ……あの、よろしかったら私が……お搾り致します！
+Student A
+Ah... um, if it's alright with you, I can... milk you!
 C05g03010001
 
 00003000
-生徒Ｂ
-わ、私もっ……するっ！
+Student B
+I-I'll... do it too!
 C05f03010001
 
 00003000
-女教師
-ちょっと……大西さんに、峠さんも……あまり行儀が悪いのは……
+Female Teacher
+Hey... Onoue-san and Toge-san too... It's not very polite to\nbehave like that...
 C05h03010001
 
 00002000
-拓海
-まぁまぁ、積極的なのはいいことですよ。何なら、先生もご一緒にいかがですか？
+Takumi
+Well, well, being proactive is a good thing. How about it, \nwould you like to join us, teacher?
 
 00003000
-月島
-あ……え、わ、私は……その、そういうつもりで注意をした訳じゃ……
+Tsukishima
+Ah... U-um, I... I didn't mean to attract attention on\npurpose...
 C05h03010002
 
 00002000
-拓海
-分かってます。仕事を頑張ってる先生にも、ぜひ分けてあげたいなっていう気持ちですから
+Takumi
+I understand. It's because I want to share it with the\nhardworking teacher who is doing their best.
 
 00003000
-月島
-は、はい。そういうことでしたら……
+Tsukishima
+Y-Yes. If that's the case...
 C05h03010003
 
 00002000
-拓海
-授業が始まるまでの短い時間ですけど、なるべく公平にね。ふふっ……
+Takumi
+It's a short time until class starts, but let's try to be\nfair. Hehe...
 
 00000000
-そんな僕の言葉を合図に、傍にいた女子たちは一斉にわらわらと群がってくるのだった。
+With my words as a signal, the girls who were nearby all\ngathered around me in a flurry.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

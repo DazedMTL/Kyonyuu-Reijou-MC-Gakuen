@@ -7,52 +7,52 @@
 0200000001004247313130305F62
 
 00002000
-拓海
+Takumi
 …………
 
 00000000
-部屋に戻ってから、僕はずっと今朝の不可解な出来事について調べていた。
+After returning to my room, I've been investigating the\nmysterious events from this morning.
 
 00000000
-今日起こったことは、決して気のせいや、何かの間違いで終わらせるべきことじゃない。
+What happened today is definitely not something that should\nbe dismissed as a figment of my imagination or a mistake.
 
 00000000
-一人パソコンで、この不自然な現象に、似たようなケースがないかと探し続ける。
+I continue searching on my computer for any similar cases of\nthis unnatural phenomenon.
 
 00002000
-拓海
-……催眠……マインドコントロールかぁ……
+Takumi
+...Hypnosis...mind control, huh...
 
 00000000
-あれこれと調べた結果、行き着いた単語は、どうにも現実味のない言葉だった。
+After researching various things, the word I arrived at was\na rather unrealistic one.
 
 00000000
-僕の催眠術のイメージは、それこそ５円玉を目の前で揺らすような、昔ながらのものでしかない。
+My image of hypnosis is nothing more than something old-\nfashioned, like shaking a 5-yen coin in front of someone's\neyes.
 
 00000000
-時々テレビでも、催眠に掛かるタレントがいたりしたけれど、どうしても胡散臭さは拭えず、あまり信じることはなかった。
+Sometimes on TV, there are celebrities who claim to be under\nhypnosis, but I couldn't help but feel skeptical and never\nreally believed it.
 
 00002000
-拓海
-けど……
+Takumi
+But...
 
 00000000
-自分が見た光景は、正しくその非現実的な状況そのものだった。
+The scene I witnessed was truly the embodiment of that\nunreal situation.
 
 00000000
-しかも自分一人ではなく、クラス全体の時間が止まったかのように、スッと静かになった。
+Moreover, it wasn't just me, but it felt as if time had\nstopped for the entire class, and everything became eerily\nquiet.
 
 00000000
-改めて思い返せば、朝、何となく不自然に記憶が途切れることがあったような気がする。
+As I think back on it again, I feel like there were moments\nin the morning where my memories inexplicably cut off.
 
 00000000
-ぼんやりと時計を眺めていた筈なのに、急に針が進んで見えたような……そんな感覚。
+It felt like the clock suddenly started moving forward even\nthough I was absentmindedly staring at it... That kind of\nsensation.
 
 00000000
-その時は、自分でボーっとしていたからと結論付けたけど、何だか違和感があったのは間違いない。
+At that time, I concluded that it was because I was\nabsentminded, but there was definitely a sense of unease.
 
 00000000
-何より――
+Above all--
 
 0100200002026566666563742C656666656374206B6169736F75
 
@@ -83,90 +83,90 @@ C01a00030009
 0300000000000F2742474D3130
 
 00000000
-あの声……吉祥寺さんに間違いない。
+That voice... There's no mistake, it's Kisshouji-san.
 
 00000000
-あの時、吉祥寺さんは『今日も……』という言葉を使っていた。
+At that time, Kisshouji-san used the words "Today too..."
 
 00000000
-と言うことは、これは特別なことではなく、下手をすれば毎日……あのような指示が放送で流されていたということだ。
+So, what this means is that this isn't something special, \nand if things go wrong, it could happen every day... It\nmeans that those kinds of instructions were being\nbroadcasted on TV.
 
 00000000
-今まで僕への迫害は、吉祥寺さんのグループに迎合する何となくの雰囲気がさせているものだと思っていた。
+I had always thought that the persecution towards me was\ncaused by the atmosphere of conforming to Kisshouji-san's\ngroup.
 
 00000000
-けれど、今朝のあれはもっと明確な……はっきりと意志をもった命令が下されていた。
+However, this morning's incident was much more clear...\nThere was a distinct and deliberate order given.
 
 00000000
-そもそも僕自身、迫害を受けながらも、どこかそういうものだし……なんて諦めのような納得をしていた。
+"In the first place, even though I myself was being\npersecuted, I somehow resigned myself to the idea that it\nwas just how things were... and accepted it."
 
 00006000
 拓海
 だけど、昨日は違った……あの時の僕が、普段と決定的に違っていたことは、イヤホンだ
 
 00000000
-そして、思い当たるのは、毎朝流れるオルゴールの音色だ。
+And what comes to mind is the sound of the music box that\nplays every morning.
 
 00000000
-いつも、あのタイミングでチャイムではなく、オルゴールの音色が聞こえて来ることを、今まで不思議に思ったことはなかった。
+I had never wondered why, at that timing, I always heard the\nsound of a music box instead of the chime until now.
 
 00002000
-拓海
-あの時イヤホンで音楽を聴いてたから、掛からなかったとしたら……
+Takumi
+If I didn't hear it because I was listening to music with my\nearphones at that time...
 
 00000000
-そうだ……そう言えば、久我さんは直前で耳栓を外していた。
+Oh right... Come to think of it, Yuriko-san was taking out\nher earplugs just before that.
 
 00000000
-あれが、オルゴールの音色を聴かない為の手段だったとしたら……？
+If that was a means to prevent me from hearing the sound of\nthe music box...?
 
 00000000
-いずれにしても、吉祥寺さんと久我さんが深く関わっている事は間違いない。
+In any case, there is no doubt that Kisshouji-san and Kuga-\nsan are deeply involved.
 
 00000000
-だけど、それを直接問い詰めても、まともに答えてくれる筈はない。
+But even if I directly confront them about it, there's no\nway they would give me a straight answer.
 
 00000000
-むしろ、僕が気づいたことを知らせれば、別の違う手立てを考えてくるかもしれない。
+Perhaps if I inform them of what I have noticed, they might\ncome up with a different approach.
 
 00002000
-拓海
-……何とかして、このことの正体は突き止めなくちゃ……
+Takumi
+...I have to somehow uncover the truth behind this...
 
 00000000
-今の地獄のような境遇が、仕組まれたものだったとしたら……このままされるままではいられない。
+If the current hellish situation was intentionally\norchestrated... I can't just continue to let it happen.
 
 00000000
-そして、思考は改めて僕に与えられた特別推薦枠という言葉が引っかかる。
+And then, the word "specially recommended slot" that was\ngiven to me comes to mind again.
 
 00000000
-学校内に一人入って来た異分子的な存在が、この得体の知れない企みに関わるものだとしたら――
+If the mysterious entity that entered the school is involved\nin this unknown scheme...
 
 00000000
-学内方針の転換を図ったという理事長……まだ、この学校に入ってからも一度も姿を見たことがない、この人が何か関与してるんじゃないか。
+The chairman who supposedly attempted to change the school's\npolicy... I haven't seen this person even once since I\nentered this school. Could they be involved in something?
 
 00000000
-むしろ、その企みの首謀者だったとしたら……？
+If they were actually the mastermind behind this scheme...?
 
 00002000
-拓海
-……考えすぎ……かな
+Takumi
+...Am I overthinking...?
 
 00000000
-現実に立ち返った所で、僕は強く首を振る。
+I shake my head vigorously as I return to reality.
 
 00000000
-どちらにしても、今この状況で泥沼のような日々を送る位なら、絶対に動いてみた方がいい。
+Either way, rather than continuing to live through these\nmuddy days in the current situation, it's definitely better\nto take action.
 
 00000000
-きっと何かある……この小さなほつれを、しっかり掴んで離さない……。
+There must be something... I will firmly grasp onto this\nsmall thread and not let go...
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-この学園に来て、僕は初めて強い気持ちが、自分の心の中に宿るのを感じていた。
+Since coming to this school, I have felt a strong emotion\ndwelling within my heart for the first time.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

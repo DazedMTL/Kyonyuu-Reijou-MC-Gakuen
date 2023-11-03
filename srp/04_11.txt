@@ -7,238 +7,238 @@
 0200000001004247303330305F63
 
 00002000
-男
-では、私達はこれで失礼致します
+Male
+Well then, we will take our leave now.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-はい、それでは何卒よろしくお願いいたします
+Arisa
+Yes, then please take care of us.
 C01a04110001
 
 00000000
-理事長室の入り口の所で、アリサはスーツ姿の男たちに頭を下げた。
+At the entrance to the chairman's office, Arisa bowed her\nhead to the men in suits.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-ふぅ…………
+Arisa
+*sighs*
 C01a04110002
 
 00002000
-拓海
-やぁ、お客さんのお相手、お疲れ様
+Takumi
+Hey, thank you for taking care of the guests.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……突然に湧いて出てきますわね……何ですか
+Arisa
+...It suddenly came up... What is it?
 C01a04110003
 
 00002000
-拓海
-何ですかって、いやだなあ。一仕事終えた理事長補佐に労いの言葉をと思ってさ
+Takumi
+"What is it?" I didn't want to say it, but I thought I\nshould congratulate the assistant to the director who just\nfinished a job.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-別に労ってもらうようなことはありません。私の仕事ですわ
+Arisa
+There's no need for you to go out of your way to thank me.\nIt's my job, after all.
 C01a04110004
 
 00000000
-肩書きが理事長から補佐に降格しても、アリサがしていることに変わりはない。
+The fact that Arisa's title was demoted from director's\nassistant doesn't change what she's doing.
 
 00000000
-特に渉外担当は、補佐という説明もせず、アリサがそのまま理事長である前提でしてもらっている。
+Especially in regards to external affairs, they assume that\nArisa is the director without even explaining her role as an\nassistant.
 
 00000000
-もちろん、オルゴールを使えば基本的には僕の有利なように話を進めることは出来るだろう。
+Of course, if I use the music box, I should be able to steer\nthe conversation in my favor.
 
 00000000
-ただ、結局その後の認識のずれが、後々問題を呼び覚ます可能性を考えると、今まで通りにした方がいいのは自明だった。
+However, considering the potential problems that may arise\nfrom the discrepancy in perception later on, it was obvious\nthat it would be better to continue as before.
 
 00002000
-拓海
-学校の運営にも、色々な所の思惑があるんだねぇ。この少子化の時代、少しでもブランド力を上げないと大変だもんね
+Takumi
+There are various interests involved in running the school, \nhuh? In this era of declining birthrate, it's important to\nincrease our brand power even just a little.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-誰でも分かりきっていることをわざわざ言う為に待っていたんですの？　それこそ時間の無駄……
+Arisa
+Did you wait just to say something that everyone already\nknows? That's a waste of time...
 C01a04110005
 
 00002000
-生徒Ａ
-あっ……吉祥寺先輩、お先に失礼します！
+Student A
+Ah... Kisshouji senpai, excuse me for leaving ahead of you!
 
 00002000
-生徒Ｂ
-お疲れ様です、吉祥寺先輩！
+Student B
+Good work, Senpai Kisshouji!
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あ……え、ええ、お疲れ様……
+Arisa
+Ah... U-um, thank you for your hard work...
 C01a04110006
 
 00000000
-と、すれ違いざま元気に挨拶をしていく後輩たちに、アリサは一瞬ビクリと身を固くし、少しぎこちなく挨拶を返した。
+As the underclassmen passed by and cheerfully greeted her, \nArisa momentarily stiffened and awkwardly returned the\ngreeting.
 
 00000000
-それが一体どういうことなのか、僕にはすぐにピンと来る。
+It immediately clicks with me what exactly that means.
 
 00002000
-拓海
-どうしたの、何だか下級生たちに気を使ってる？
+Takumi
+What's wrong? It seems like you're being considerate of the\nunderclassmen, is something bothering you?
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-えっ……？　あ……何を言ってますの？　私は別に何も……
+Arisa
+Huh...? Ah... What are you talking about? I'm not really...
 C01a04110007
 
 00002000
-拓海
-もしかしてさ……この前の失敗のこと、まだ気にしてたりするんじゃない？
+Takumi
+By any chance... are you still bothered by the previous\nfailure?
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-っ……な、何を……失敗なんて、私はっ……
+Arisa
+W-What... Failure? I...
 C01a04110008
 
 00000000
-声を上擦らせながら睨んでしまった時点で、もう図星だと認めたようなものだった。
+When I unintentionally glared at him with a strained voice, \nit was as if I had already admitted that he hit the nail on\nthe head.
 
 00000000
-実際、完璧主義者であるアリサにとって、後輩たちの前で晒した痴態を失敗と捉えない筈がない。
+In reality, it's only natural for Arisa, who is a\nperfectionist, to perceive the embarrassing scene she\nexposed in front of her underclassmen as a failure.
 
 00000000
-もちろん、それは射精より早く絶頂してしまうのは無能の証しという、突発的にくっつけた刷り込みによる点が大きい。
+Of course, a big factor is the ingrained belief that\nprematurely reaching climax is a sign of incompetence, which\nwas randomly instilled.
 
 00000000
-既に、その刷り込み自体は解除してあるが、アリサの脳裏に、何となく自分が精液採取が下手であることは無意識に根付いている。
+The conditioning itself has already been undone, but in\nArisa's mind, there is still a subconscious belief that she\nis bad at collecting semen.
 
 00000000
-引いては、今の社会的地位の高さにも瑕疵があるのではないか……そんなことまで気にするのがアリサの性格だった。
+Arisa's personality was such that she even worried about\nflaws in her current social status.
 
 00002000
-拓海
-仕方ないよ。誰にだって失敗はあるんだから……大切なのは、切り替えて同じ失敗を繰り返さないことでしょう？
+Takumi
+It can't be helped. Everyone makes mistakes... What's\nimportant is to switch gears and not repeat the same\nmistake, right?
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-ですから……わ、私は失敗なんか……
+Arisa
+That's why... I-I didn't... make a mistake...
 C01a04110009
 
 00002000
-拓海
-そもそも、アリサは経験が根本的に足りてないんだよ。友里子がちゃんと出来ているのは練習の差もあるんじゃない？
+Takumi
+Well, the thing is, Arisa fundamentally lacks experience.\nCould it be that Yuriko is able to do it properly because of\nthe difference in practice?
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-練習？　ど、どういう意味ですの、友里子が……？
+Arisa
+Practice? W-What do you mean, Yuriko...?
 C01a04110010
 
 00002000
-拓海
-あれ、知らなかったの？　友里子はちょっとした空き時間なんかに合間を見ては、僕と精液採取の特訓をしてるの
+Takumi
+Huh, didn't you know? Yuriko takes advantage of her free\ntime to train with me on semen collection.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-嘘……だって、友里子はいつも私の傍にいて……
+Arisa
+That's a lie... Because Yuriko is always by my side...
 C01a04110011
 
 00002000
-拓海
-別に四六時中どんな時もってことはないでしょう？　今だって、別行動してるじゃない
+Takumi
+It's not like we're together all the time, right? Even now, \nwe're doing our own thing.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それは……公務があったから……で、でも……
+Arisa
+That's because... I had official duties... B-But...
 C01a04110012
 
 00000000
-まさか友里子がそんなことを……信じられないという表情をするアリサ。
+Arisa looks at Yuriko with an expression of disbelief, as if\nshe can't believe that Yuriko would do such a thing.
 
 00000000
-実際、別に特訓をしている訳でなく、ただ合間に友里子の身体を僕が貪っているだけなのだが。
+Actually, it's not like we're specifically training or\nanything. I'm just indulging in Yuriko's body during our\nfree time.
 
 00000000
-しかし、アリサは少しショックを受けたように、僕の言葉を信じきってしまった。
+However, Arisa seemed to be shocked and completely believed\nmy words.
 
 00002000
-拓海
-別に普通の事だよ。何なら、アリサもちょっと特訓しようか？　今からでも
+Takumi
+It's nothing out of the ordinary. If you want, Arisa, we\ncould do some special training too. Even starting now.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-な……今から……？
+Arisa
+N-Now...?
 C01a04110013
 
 00002000
-拓海
-そう。二人きりなら、ちょっと位失敗しても平気だし、何より精液の摂取も出来るでしょう？
+Takumi
+That's right. If it's just the two of us, it's okay to make\na few mistakes, and above all, we can also collect semen, \nright?
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-精液……ぁ……えぇ……そう、ね……
+Arisa
+Semen... ah... um... yes, right...
 C01a04110014
 
 00000000
-思わぬ所で精液採取をちらつかされ、アリサの表情に期待が滲む。
+The unexpected mention of semen collection makes Arisa's\nexpression show a glimmer of anticipation.
 
 00002000
-拓海
-少しでも友里子に追いつくには、やっぱり数を重ねるのが不可欠だからねぇ。どうする？
+Takumi
+In order to catch up to Yuriko even a little bit, it's\nessential to accumulate experience, after all. What do you\nthink?
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-どうするって……そこまで言われたら、しない訳にはいかないでしょう
+Arisa
+What should I do... If you say it like that, I can't just\nrefuse, can I?
 C01a04110015
 
 00002000
-拓海
-ふむ……そうだよね。アリサはやっぱり一番でいたいもんね。うん、立派な心がけだよ
+Takumi
+Hmmm... That's right. Arisa, you want to be the best after\nall. Yes, it's a commendable attitude.
 
 0200BC000100012C666D5F433031615F30375F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-何をニヤニヤしながら……余計なおしゃべりはせずに、準備をなさいっ！
+Arisa
+What are you grinning about... Stop the unnecessary chatter\nand get ready!
 C01a04110016
 
 00002000
-拓海
-はいはい、それじゃ部屋に戻りましょうか
+Takumi
+Alright, then let's go back to the room.
 
 00000000
-劣等感を煽られ、忌々しげに叫ぶアリサに肩をすくめる。
+Takumi shrugs his shoulders at Arisa, who is shouting with a\nresentful expression, fueled by her inferiority complex.
 
 00000000
-自分から求めて来たんだ……僕は遠慮なく、アリサの身体を楽しませてもらうことにした。
+I came here seeking it myself... I've decided to enjoy\nArisa's body without holding back.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

@@ -9,195 +9,195 @@
 03008C0000000F2753455F6130365F30313031
 
 00002000
-女教師
-それでは、この時間はここまでにしましょう。しっかりと復習を忘れないように
+Female Teacher
+Well then, let's end the class here. Make sure not to forget\nto review thoroughly.
 
 00002000
-生徒Ａ
-起立！　礼！
+Student A
+Attention! Bow!
 
 0300000000000F2742474D3033
 
 0200000001004247303230305F62
 
 00000000
-挨拶が終わると同時に、教室にはフッと緊張が弛緩する空気が広がっていく。
+As the greetings come to an end, a relaxed atmosphere of\ntension spreads throughout the classroom.
 
 00000000
-午前中の授業を終えて、ちょうど昼休みに入る時分。
+After finishing the morning classes, it's exactly time for\nlunch break.
 
 00000000
-学校の間で得られる一番の休み時間ならば、さもありなんという所だろうが。
+If there's any time during school that can be considered the\nbest break, it would be lunchtime.
 
 00000000
-しかし、僕……池ノ上拓海にとって、昼休みは決して安息の時間ではありえない。
+However, for me... Ikenoue Takumi, lunch break is never a\ntime of rest.
 
 00000000
-いや、むしろ授業の時よりも遥かに肩身が狭く、緊張を強いられる時間だった。
+No, rather than during class, it was a time when I felt even\nmore uncomfortable and tense.
 
 00002000
-生徒Ｂ
-ちょっと、何、こっち見てんのよ
+Student B
+Hey, what are you looking at over here?
 
 00002000
-拓海
-えっ……あ、いや……そ、その……
+Takumi
+Huh... Ah, no... W-Well...
 
 00002000
-生徒Ｃ
-何、その目つき。覗こうとしてんの？　いやらしい
+Student C
+What's with that look? Are you trying to peek? How lewd.
 
 00002000
-拓海
-ち、ちがっ……
+Takumi
+N-No...
 
 00000000
-ちょっと視線を泳がせただけで厳しい言葉が投げかけられ、僕は慌てて部屋の隅へと目を逸らす。が――
+Just by letting my gaze wander for a moment, I was met with\nharsh words and quickly averted my eyes to the corner of the\nroom. But...
 
 00003000
-？？？
-どうしたの、池ノ上君。何やら、騒がしいようだけど？
+???
+ ???: What's wrong, Ikenoue-kun? It seems like something is\nhappening, but what is it?
 C01a00010001
 
 00002000
-拓海
-ひっ……！　あ……のっ……
+Takumi
+Huh... Ah... N-No...
 
 00000000
-計ったようなタイミングで掛けられた声に、僕は恐る恐る正面を向いた。
+The voice that was directed at me with perfect timing, I\ntimidly turned to face the front.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00000000
-そこに立っていたのは、クラスのリーダー的な存在である吉祥寺<6/きっしょうじ>アリサさん。
+Standing there was Kisshouji Arisa-san, who is like the\nleader of the class.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-？？？
+???
 ………………
 C02a00010001
 
 00000000
-そのすぐ斜め後ろに控えているのは、サブリーダー的存在で風紀委員を務めている久我<4/くが>友里子<6/ゆりこ>さんだった。
+Standing right behind me is Kuga Yuriko-san, who serves as\nthe vice leader and disciplinary committee member.
 
 00003000
-アリサ
-池ノ上君……あなたはクラス……いえ、学園でただ一人の男子。色々と周りが気を使っていること……お分かりですよね？
+Arisa
+Takumi-kun... You are the only boy in the class... No, the\nentire school. You understand that everyone is being\nconsiderate of you, right?
 C01a00010002
 
 00002000
-拓海
-は…………い……
+Takumi
+Uhh... um...
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-聞こえませんわ。まともな返事が出来ないのかしら？
+Arisa
+I can't hear you. Can't you give a proper response?
 C01a00010003
 
 00002000
-拓海
-は、はいっ……！
+Takumi
+Y-Yes...!
 
 00000000
-イギリス系クォーターにして、名家の出であるという彼女に、このクラス……いや、この学内で逆らえる者など誰もいない。
+She is of British descent and comes from a prestigious\nfamily. In this class... no, in this school, there is no one\nwho can oppose her.
 
 00000000
-まかり間違っても、彼女の機嫌を損ねる訳にはいかない僕は、直立不動になりながら必死で声を絞り出す。
+In order to not upset her mood under any circumstances, I\ndesperately squeeze out my voice while remaining completely\nstill.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-それで……どうして、このように騒がしくなっているのかしら？
+Arisa
+So... why has it become so noisy like this?
 C01a00010004
 
 00002000
-拓海
-それ、は……
+Takumi
+Well, that's...
 
 00000000
-決して騒ぎなんて起こしたくない。むしろ放っておいて欲しい……それなのに。
+I definitely don't want to cause any trouble. I'd rather be\nleft alone... And yet.
 
 00000000
-僕の一挙手一投足は、余さずジロジロと監視され、意図せぬところで言いがかりをつけられるのだ。
+Every move I make is closely monitored, and I am constantly\naccused of things I didn't intend to do.
 
 00002000
-拓海
-すみ……ません……あの、そういうつもりは全然なくて……そ、その……
+Takumi
+I'm sorry... I didn't mean it like that at all... Th-That...
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-お黙りなさい、このクズ
+Arisa
+Shut up, you piece of trash.
 C01a00010005
 
 00002000
-拓海
-……っ……
+Takumi
+...
 
 00003000
-アリサ
-誰もあなたの言い訳を聞きたいなんて思っていませんの。あなたはこの場の風紀を乱した……その謝罪も出来ないのですか？
+Arisa
+No one wants to hear your excuses. You have disrupted the\norder of this place... Can't you even apologize for that?
 C01a00010006
 
 00000000
-吉祥寺さんの僕を見る目は、同じ人間を見るそれではなかった。
+Arisa's gaze towards me was not the same as when she looked\nat other people.
 
 00000000
-それこそ虫けらを相手にするような……冷たく、断罪的な視線。
+That gaze was as cold and condemning as if she were dealing\nwith a mere insect.
 
 00000000
-それに射竦められると、もう逆らおうという意志も何もかも挫けていく。
+And when I'm pierced by that gaze, my will to resist and\neverything else is crushed.
 
 00002000
-拓海
-あの……すみません……でした……
+Takumi
+Um... I'm sorry...
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-あら……今、何か聞こえたかしら。久我さん、どうですか？
+Arisa
+Oh... Did you hear something just now? Yuriko, what about\nyou?
 C01a00010007
 
 00003000
-友里子
-いえ、私には何も聞こえませんでした
+Yuriko
+No, I didn't hear anything.
 C02a00010002
 
 00003000
-アリサ
-そう……どういうことなのかしらね
+Arisa
+I see... I wonder what that means.
 C01a00010008
 
 00002000
-拓海
-あ……クラスのっ、ふ、風紀を乱して……すみませんでしたっ！
+Takumi
+Ah... I... I apologize for disrupting the class\ndiscipline...!
 
 00000000
-今度ははっきりと誰の耳にも聞こえるように。
+This time, I'll make sure it's clear and audible to\neveryone's ears.
 
 00000000
-しかし、その言葉に吉祥寺さんは何も心を動かされた風もなく、もう興味を失ったとばかりに踵を返す。
+However, Kisshouji-san showed no sign of being moved by\nthose words and simply turned on her heel as if she had lost\ninterest.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-…………何だか空気が悪いわね。ハンカチを
+Arisa
+...The atmosphere feels tense for some reason. I'll use my\nhandkerchief to...
 C01a00010009
 
 00003000
-友里子
-はい
+Yuriko
+Yes.
 C02a00010003
 
 00000000
-初めから謝罪の言葉など聞くつもりもなかった。何となくからかって、それも途中で飽きたから放り出す。
+I had no intention of listening to words of apology from the\nbeginning. I was just teasing for some reason, and I got\nbored halfway through, so I threw it away.
 
 02008C00010000
 
@@ -206,28 +206,28 @@ C02a00010003
 どうして……何だってこんな……僕が何をしたって……
 
 00000000
-解放された……そんな安堵の気持ちと共に、何も出来なかったという無念さが心に突き刺さっていく。
+I was released... Along with a feeling of relief, the regret\nof not being able to do anything pierces my heart.
 
 00002000
-生徒Ｄ
-見て、あの顔……半泣きになってる……
+Student D
+Look, at that face... They're on the verge of tears...
 
 00002000
-生徒Ｅ
-男のクセに……恥ずかしくないのかしら……
+Student E
+Even though he's a guy... Isn't he embarrassed?
 
 00000000
-ヒソヒソと聞こえる言葉にも同情の響きは全くない。
+There is absolutely no sympathy in the whispered words.
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-どんよりと気持ちが濁って沈んでいくが、それを引き上げる術など何もない。
+The atmosphere feels heavy and gloomy, but there is no way\nto lift it up.
 
 00000000
-周りに男子のいない状況が、ここまで気詰まりして、肩身が狭いものだとは全く思いも寄らなかった。
+I never imagined that the situation of being surrounded by\nonly girls would be so awkward and make me feel so small.
 
 0100200002026566666563742C656666656374206B6169736F75
 
@@ -236,236 +236,236 @@ C02a00010003
 0200000001004247313030305F62
 
 00000000
-私立・王京学園<8/おうきょうがくえん>は元々は由緒正しい名家の淑女が通う、全寮制の女子校だった。
+Oukyou Gakuen Private School was originally an all-girls\nboarding school attended by well-respected ladies from\nprestigious families.
 
 00000000
-しかし少子化の折に加え、理事長交代による方針転換により、王京学園には大きな転機が訪れた。
+However, with the declining birthrate and a change in policy\ndue to a change in the chairman, Oukyou Gakuen faced a\nsignificant turning point.
 
 00000000
-それが、男子生徒の受け入れという、およそ半世紀以上に渡る学園の歴史を塗り替えての新たな改革だった。
+And so, it was a new reform that would rewrite the history\nof the academy, which had spanned over half a century, with\nthe acceptance of male students.
 
 00000000
-伝統を重んじるといえば聞こえはいいが、時として時代錯誤な閉塞感があると揶揄されることもある学風において。
+In the school culture that claims to value tradition, it may\nsound good, but at times it is mocked for its anachronistic\nsense of stagnation.
 
 00000000
-少し前から、今の時代にそぐわないのではという声が聞かれていたのは事実ではあったのだが。
+It was true that there had been voices questioning whether\nit was suitable for the current era for a while now.
 
 00000000
-それだけに、新しい血を入れるという思い切った試みは、発表時にはそれなりに世間を騒がせたものだった。
+"Because of that, the bold attempt to bring in new blood\ncaused quite a stir when it was announced."
 
 00000000
-とは言え、それは僕とは関係のない世界での話。
+"That being said, it's a story that has nothing to do with\nme in a world like that."
 
 00000000
-そう思っていた僕の元に、唐突に舞い込んできたのが、他ならぬ王京学園の特別奨学枠の話だった。
+Suddenly, out of the blue, what came flying to me was none\nother than a discussion about the special scholarship\nprogram at Oukyou Gakuen.
 
 00002000
-教師
-池ノ上……お前、進路で悩んでるんだったな。こんな話が来てるんだが……どうだ？
+Teacher
+Ikenoue... You've been struggling with your future career\npath, right? I received this kind of offer... What do you\nthink?
 
 00000000
-特別成績がいい訳ではなく、部活で何か実績を上げている訳でもない僕に、どうしてそんな話が来たのかは分からない。
+I don't understand why I, who doesn't have exceptional\ngrades or any achievements in club activities, would receive\nsuch an offer.
 
 00000000
-しかし、その頃の僕は、確かに来るべき進路について迷っている只中だった。
+However, at that time, I was in the midst of being unsure\nabout the future path I should take.
 
 00000000
-両親の早いうちの離婚で父親のみの家庭で育てられた僕は、仕事人間の父さんと、あまりいい関係を築けずにいた。
+Due to my parents' early divorce and being raised in a\nsingle-parent household with only my father, I couldn't\nbuild a good relationship with him, who was a workaholic.
 
 00000000
-特に進路についてプレッシャーを掛けられた訳じゃない。
+It's not like I was particularly pressured about my future\ncareer path.
 
 00000000
-けれど、時々する親子の会話に、どこか居心地の悪さと言うか、言葉にしにくい息苦しさを感じていたのは確かだった。
+However, it was true that I felt a certain discomfort or\nindescribable suffocation in the occasional conversations\nbetween me and my father.
 
 00000000
-常にトップを競っていたという父さんに比べ、僕は平々凡々とした数字を残すのが精一杯。
+Compared to my father, who was always competing for the top\nspot, I could only manage to leave behind mediocre numbers.
 
 00000000
-例え言葉には出さずとも、求められる結果の最低限が自然と高くなっていることに果たして父さんは気づいていたのか。
+I wonder if my father actually realized that even without\nexplicitly saying it, the minimum expected results had\nnaturally become higher.
 
 00000000
-だから、新たな男子受け入れという新環境への挑戦という王京学園の案内は、正しく渡りに船の出来事だった。
+So, the introduction to Oukyou Gakuen's new environment, \nwhich involved accepting male students, was truly a case of\nstepping into uncharted waters.
 
 00000000
-全寮制ならば、少なくとも卒業するまでは、親元を離れて暮らすことが出来る。
+If it's a boarding school, at least until graduation, I'll\nbe able to live away from my parents.
 
 00000000
-よく知られた王京学園ならば、何だかんだで父さんの体面もある程度は保てるだろう。
+If it's the well-known Oukyou Gakuen, I think I can somewhat\nmaintain my father's reputation.
 
 00000000
-そんな訳で、環境に変化を与えたいという強い気持ちが、最終的に大きく背中を押し、父さんもそれを汲んでくれた。
+And so, with a strong desire to bring about a change in my\nenvironment, in the end, it greatly motivated me and my\nfather also understood that.
 
 00000000
-もちろん、元は女子校という女の子が多いだろう学園の中で、甘酸っぱい青春が送れるかもしれない……そんな期待も少しはあった。
+Of course, in a school that was originally a girls' school, \nthere might be a chance to experience a sweet and sour\nyouth... I had a little bit of that expectation as well.
 
 00000000
-特別奨学枠として、軽い面接と、予想していたより遥かに簡単だった学力テストを終えて、無事に合格を決めて喜んだのも束の間。
+After finishing a brief interview and a much easier academic\ntest than I had expected as part of the special scholarship\nprogram, I was overjoyed to have passed. However, that joy\nwas short-lived.
 
 00000000
-入学して来た男子は、僕一人。
+"I am the only male student who entered."
 
 00000000
-奨学枠とは一体どういうものだったのか――それを確かめる術など何もなく。
+I had no way to confirm what exactly the special scholarship\nprogram entailed.
 
 00000000
-学園唯一の男子生徒という立場に待っていたのは、好奇……いや奇異の視線。
+As the only male student in the school, I was met with\ncurious... no, strange gazes.
 
 00000000
-そして、何よりも閉ざされた女社会の持つ深い闇の世界だった。
+And above all, it was a world of deep darkness that the\nclosed female society held.
 
 0300000000000F2742474D3033
 
 0200000001004247303230305F62
 
 00002000
-拓海
+Takumi
 ………………
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-？？？
-あの……池ノ上君……大丈夫？
+???
+"Um... Takumi-kun... Are you okay?"
 C04a00010001
 
 00002000
-拓海
-……福永さん……
+Takumi
+...Fukunaga-san...
 
 00000000
-陰鬱にうつむく僕を見かねてか、隣の席の福永<4/ふくなが>こはるさんが、そっと気遣ってくれた。
+Fukunaga Koharu, who sits next to me, noticed my gloomy\nexpression and kindly showed concern.
 
 00003000
-こはる
-その……私……何も出来ないし、気休めにもならないかも知れないけど、元気出して……？
+Koharu
+Um... I... I might not be able to do anything or provide any\ncomfort, but please cheer up...?
 C04a00010002
 
 00000000
-小さく囁くような励ましの言葉に、僕の心がほっと癒やされていくのを自覚する。
+I realize that my heart is being comforted and put at ease\nby the softly whispered words of encouragement.
 
 00000000
-そう、クラスで針のむしろ状態の僕に対して、彼女だけが優しく、何かと僕を気遣ってくれていた。
+Yes, she was the only one in the class who showed kindness\ntowards me, who was like a pin cushion. She always cared\nabout me and looked out for me.
 
 00000000
-本人も控えめな性格で、矢面に立ってまで僕を庇うようなことはない。
+She has a modest personality and wouldn't go so far as to\nstand up for me.
 
 00000000
-それでも、こうしてみんなの注意が逸れたタイミングで、こっそりと掛けられる優しい言葉が、どれだけ救いになっていることか。
+And yet, at a time when everyone's attention was diverted, \nthe quietly spoken kind words were such a source of comfort.
 
 00002000
-拓海
-ありがとう……福永さん。僕なら、大丈夫だから……
+Takumi
+Thank you... Fukunaga-san. I'll be fine...
 
 00003000
-こはる
-そう……それならいいけど……その、あんまり抱え込まないで……何かあったら、話位なら聞いてあげられるから……
+Koharu
+I see... Well, if that's the case, then it's fine... But, \num, don't keep everything to yourself... If something\nhappens, I can at least listen to you...
 C04a00010003
 
 00002000
-拓海
-うん……その時は、きっとお願いするよ
+Takumi
+Yeah... At that time, I'll definitely rely on you.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-ん……
+Koharu
+Hm...
 C04a00010004
 
 00000000
-僕の言葉に、福永さんは少しはにかんだような笑みを見せてくれる。
+Koharu showed a slightly bashful smile in response to my\nwords.
 
 00000000
-まだあどけなさの残る可愛らしい顔立ちに浮かんだえくぼが眩しい。
+The dimples that appeared on her still youthful and adorable\nface are dazzling.
 
 00000000
-何より――
+Above all else--
 
 00000000
-本当はいけないこと……そう思いつつも、ついちらりと視線が胸元へと向いてしまう。
+I know it's really not right... but my gaze unintentionally\nflickers towards her cleavage.
 
 00006000
 拓海
 ……やっぱり……すごい……
 
 00000000
-視界の隅に入る福永さんのバストは、もはやその制服では到底押さえ込めないほどの豊かなサイズを誇っていた。
+Fukunaga-san's bust, which enters the corner of my field of\nvision, boasts a rich size that can no longer be contained\nby her uniform.
 
 00000000
-こんな境遇に置かれながら、なお、男の本能には逆らえないんだろうか。
+Even in a situation like this, can't I resist the instincts\nof a man?
 
 00000000
-福永さんの顔を見ながら、ついつい、視線の端にはしっかりと大きな胸が捉えられている。
+While looking at Fukunaga-san's face, my gaze\nunintentionally flickers towards her cleavage, which enters\nthe corner of my field of vision, boasting a rich size that\ncan no longer be contained.
 
 00006000
 拓海
 あんな柔らかそうな胸に包まれたら……
 
 00000000
-ついつい良からぬ妄想に想いを馳せて、こくんと唾を呑み込んだ直後――
+After indulging in inappropriate fantasies and swallowing a\ngulp of saliva, right after that--
 
 00003000
-？？？
-あれーぇ？　池ノ上～今のナニ？
+???
+ ???: Huh? Ikenoue~ What was that just now?
 C03a00010001
 
 00002000
-拓海
-っ……！？
+Takumi
+Huh...!?
 
 00000000
-しまったと思い、はっと目線を切った時には既に手遅れだった。
+When I realized my mistake and quickly averted my gaze, it\nwas already too late.
 
 0200A9100002
 
 00002000
-拓海
-んぐっ！
+Takumi
+Ugh!
 
 00000000
-首にがっちりとヘッドロックを決められ、きつい香水か何かの匂いが鼻に広がる。
+I was firmly put in a headlock, and a strong scent of\nperfume or something spread through my nose.
 
 00002000
-拓海
-神泉さん……やっ……めっ……
+Takumi
+Kamiizumi-san... sto...p...
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D39352F312F31
 
 00003000
-？？？
-ごまかそうたってムダだよ～ん、アタシはちゃんと見えてたし～
+???
+Trying to deceive me is useless, you know~ I saw everything\nclearly~
 C03a00010002
 
 00000000
-馴れ馴れしく耳元に囁いてくるのは、神泉<4/かみいずみ>理央<4/りお>さん。
+It's Kamiizumi Rio who whispers familiarly in my ear.
 
 00000000
-この学園には似つかわしくないギャル風の出で立ちだが、何故か吉祥寺さんに気に入られており、それを指摘する者は誰もいない。
+In this school, her gal-like appearance is not fitting at\nall, but for some reason, Kisshouji-san seems to like her, \nand no one points it out.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D39352F312F31
 
 00003000
-理央
-ね、アンタ今さ、こはるちゃんのデカパイ、やらしー目で見てたっしょ？
+Rio
+Hey, you were totally checking out Koharu-chan's big boobs\nwith a perverted look, weren't you?
 C03a00010003
 
 00002000
-拓海
-いや、ち、ちがっ……
+Takumi
+N-No, th-that's not...
 
 00000000
-見透かされた言葉に、思わず口ごもりながら必死で首を振る。
+I desperately shake my head while involuntarily stumbling\nover my words in response to her penetrating words.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D39352F312F31
 
 00003000
-理央
-いや、ウソついてもバレバレだから。ほーら、ここに証拠があるじゃんよ！
+Rio
+No, even if you lie, it's obvious. Look, there's evidence\nright here!
 C03a00010004
 
 00000000
-首根っこを掴まれると、僕は神泉さんに強引に床に突き飛ばされてしまう。
+When my neck was grabbed, I was forcefully pushed to the\nfloor by Kamiizumi-san.
 
 0200A9100002
 
@@ -478,391 +478,391 @@ C03a00010004
 020000000100666D5F3030315F30303031
 
 00002000
-拓海
-うあっ！
+Takumi
+Ugh!
 
 00003000
-理央
-くくっ、ほぉらグリグリっと
+Rio
+Hehe, look, I'm giving it a little squeeze~
 C03a00010005
 
 00000000
-仰向けに倒れこんだ僕の股間に、思い切り靴先がめり込み、押し込まれる刺激に呼吸が止まりそうになった。
+I fell backwards and the tip of her shoe pressed into my\ncrotch, causing a sensation that made me almost stop\nbreathing.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-あれれ～、何よこれ？　固くなりかけてるじゃん、ん？
+Rio
+Oh my, what's this? It's getting hard, isn't it?
 C03a00010006
 
 00000000
-ぐいぐいと狙いを定めて踏み込まれると、僕のペニスは痛みを感じつつも、少しずつ頭をもたげてくる。
+As she firmly aimed and stepped forward, my penis, despite\nfeeling pain, gradually began to rise.
 
 00002000
-拓海
-や、やめ……
+Takumi
+S-Stop...
 
 020000000100666D5F3030315F30303031
 
 00003000
-理央
-おっと！　何勝手に、足閉じようとしてんのさ。じっとしてないと潰しちまうよ！
+Rio
+Oh my! What are you trying to do, closing your legs like\nthat? If you don't stay still, I'll crush you!
 C03a00010007
 
 00002000
-拓海
-っ……！
+Takumi
+*gasp*...!
 
 00000000
-強い言葉に僕はビクリと身を固くし、抵抗の気力を折られていた。
+I stiffened at her strong words, my resistance crushed.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-ふふっ、そうそう。大人しくしてりゃ、そこまで悪くはしないからさ
+Rio
+Hehe, that's right. If you behave yourself, I won't be too\nharsh on you.
 C03a00010008
 
 00000000
-少しだけ圧力が弱まり、踏み潰される恐怖からはどうにか開放される。
+The pressure eased slightly, and I was somehow freed from\nthe fear of being crushed.
 
 00000000
-しかし、依然として股間を踏まれている状況に変わりはなく、神泉さんは面白半分に足を動かしてくる。
+However, the situation of having my crotch stepped on\nremains unchanged, and Kamiizumi-san playfully continues to\nmove her leg.
 
 00003000
-理央
-ほらほら～、どういうことかな～これ、また大きくなりかけてなーい？
+Rio
+Oh my, oh my~ I wonder what's going on~ It looks like it's\ngetting big again, isn't it?
 C03a00010009
 
 00002000
-拓海
-あっ……くっ……そんな……ことっ……
+Takumi
+Ah...kuh...something like that...
 
 00003000
-理央
-そんなことないって？　へぇー、だったら、これはどうなのかなー？
+Rio
+Is that so? Oh, really? Then, I wonder what about this?
 C03a00010010
 
 00002000
-拓海
-はっ……んんっ、くぅっ、う、あぁっ……
+Takumi
+Hah...nnngh, kuuh, ugh, aah...
 
 020000000100666D5F3030315F30303031
 
 00003000
-理央
-うわ、マジボッキしてるでしょ、これ。池ノ上、もしかして普段から、結構強めにシコってる？
+Rio
+Oh my, you're really hard, aren't you? Ikenoue, do you\nusually jerk off pretty vigorously?
 C03a00010011
 
 00002000
-生徒Ｆ
-シコ……やだ……何考えてるのかしら……
+Student F
+Masturbating... no... I wonder what he's thinking...
 
 00002000
-生徒Ｇ
-でも、きっとそうなんだわ……そういう顔してるもの……
+Student G
+But, I'm sure that's the case... That's the kind of\nexpression he has...
 
 00000000
-下品な神泉さんの物言いに、近くの女子まで小さく顔をしかめる。
+Rio's vulgar remarks make even the nearby girls grimace\nslightly.
 
 00000000
-僕が言った言葉じゃないのに、その嫌悪は、神泉さんを通過して全て僕に向けられていた。
+The disgust, even though those weren't my words, was\ndirected at me through Kamiizumi-san.
 
 00000000
-だが、そんな理不尽さを言い返す余裕も僕にはない。ゆっくりと靴越しにさすられる先端の刺激に、自然に身体が反応してしまう。
+However, I don't have the luxury to retort against such\nunfairness. As the stimulation from being gently teased\nthrough my shoes reaches the tip, my body naturally reacts.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-ほら、ここっしょ、チンポ。うわ、めっちゃカチカチになって来てんの！
+Rio
+Look, here it is, your dick. Wow, it's getting really hard!
 C03a00010012
 
 00002000
-拓海
-く……うぅっ……あっ、やっ……めてっ、く……ぅっ……！
+Takumi
+Ugh...uhh...ah, stop...kuh...uhh...!
 
 00000000
-その力加減は、恐ろしい程に絶妙だった。
+The strength of that touch was exquisitely terrifying.
 
 00000000
-股間を足蹴にされて気持ちよくなんてなる筈ない。なのに、ギュッと押し込まれた股間の中心には言葉に出来ない熱を感じる。
+I shouldn't be feeling pleasure from having my crotch\nkicked. And yet, in the center of my crotch that was\nforcefully pressed, I feel an indescribable heat.
 
 00000000
-どこを刺激すればどう身体が反応するか分かっている動きだ。
+It's a movement that knows exactly where to stimulate in\norder to elicit a physical reaction.
 
 020000000100666D5F3030315F30303031
 
 00003000
-理央
-ズボンの上からでも、フツーにバレてるし。ほれほれ、この膨らみ！
+Rio
+Even through your pants, it's completely obvious. Look, \nlook, this bulge!
 C03a00010013
 
 00000000
-血を集め始めた肉茎が、ずりずりとつま先で、くっきりと浮き上がらせられる。
+The blood began to gather in my erect penis, and it was made\nto stand out clearly as it was rubbed against my toes.
 
 00002000
-生徒Ａ
-やだ……何アレ……気持ち悪い……！
+Student A
+No...what is that...it's disgusting...!
 
 00002000
-生徒Ｂ
-こんな所で……変態……正気なの……？
+Student B
+In a place like this...a pervert...are you sane...?
 
 00000000
-いつしか、しっかりと上向きにテントを作った僕の股間に、周囲の女子達がざわめきを増す。
+Before I knew it, the girls around me started buzzing with\nexcitement at the tent that had firmly formed in my crotch, \npointing upwards.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-ふふっ、聞いた？　ヘンタイだってさ。すごいこと言われちゃってるねぇ
+Rio
+Hehe, did you hear? They're calling you a pervert. You're\nbeing told some pretty amazing things, huh?
 C03a00010014
 
 00002000
-拓海
-あ……ぅぅっ……
+Takumi
+Ah...uhh...
 
 00003000
-理央
-でも、ドＭの池ノ上にはご褒美なんでしょ？　クラスメートの前でシコられてさ
+Rio
+But, it's a reward for a masochist like you, isn't it?\nGetting jerked off in front of your classmates.
 C03a00010015
 
 00002000
-拓海
-な……そんな……こと……
+Takumi
+N-No...something like that...
 
 00003000
-理央
-口で違うって言っても、チンポは正直なんだよ。何だよ、このガチ勃起！
+Rio
+Even if you say it with your mouth, the dick is honest. What\nis this, a full-on erection!
 C03a00010016
 
 00003000
-アリサ
+Arisa
 …………
 C01a00010010
 
 00003000
-友里子
+Yuriko
 …………
 C02a00010004
 
 00000000
-少し遠まきに、吉祥寺さんと久我さんが僕のことを見下ろしているのが見えた。
+I could see Kisshouji-san and Kuga-san looking down on me\nfrom a little distance away.
 
 00000000
-今この瞬間こそ、正しくクラスの風紀が乱れている状況に違いない。
+This very moment is undoubtedly a situation where the\ndiscipline of the class is being disrupted.
 
 00000000
-だが二人は制止の言葉もなく、冷ややかな視線のまま、ただ神泉さんの行為を眺めている。
+However, without a word of restraint, the two of them simply\nwatched Kamiizumi-san's actions with cold gazes.
 
 020000000100666D5F3030315F30303033
 
 00003000
-こはる
-あ…………
+Koharu
+Ah........
 C04a00010005
 
 00000000
-更に片隅には、困ったような表情を浮かべる福永さんも見えていた。
+Furthermore, in a corner, I could see Fukunaga-san with a\ntroubled expression on her face.
 
 00000000
-元はと言えば、僕がいやらしい目で福永さんの胸を見ていた……それは、実際言い訳の出来ない事実だった。
+In the first place, it was because I was looking at\nFukunaga-san's chest with lewd eyes... That was an\nundeniable fact that I couldn't make excuses for.
 
 020000000100666D5F3030315F30303032
 
 00003000
-こはる
+Koharu
 ………………
 C04a00010006
 
 00000000
-顔を赤らめつつも、視線を逸らさずにいる福永さんには、僕は一体どんな風に見えているんだろうか。
+I wonder how Fukunaga-san sees me, as I blush and keep my\ngaze fixed on her without looking away.
 
 00000000
-見られている……みんなにこんな情けないところを見られている……。
+I'm being watched... Everyone is seeing me in such a\npathetic state...
 
 00000000
-それを意識すればするほどに、股間は自然に血を集め、自分の意志を離れて鈍い痺れをもたらして来る。
+The more I become aware of it, the more blood naturally\ngathers in my crotch, bringing about a dull numbness that\nseparates from my own will.
 
 020000000100666D5F3030315F30303031
 
 00003000
-理央
-なーに、キョロキョロしてんのさ。もっと集中したらどうなん？
+Rio
+What's with all the wandering eyes? How about focusing a bit\nmore?
 C03a00010017
 
 00002000
-拓海
-あぎっ！？
+Takumi
+Ahh!?
 
 00000000
-再びギュッと股間を踏まれ、堪らず身体が跳ね上がる。
+My crotch was stepped on tightly again, causing my body to\njump uncontrollably.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-アハッ、あぎっ！？　だって。いい声出せんじゃん、ほれ、もっと鳴いてみなよ！
+Rio
+Ahh, ahem!? Well, you know. You can't make a good sound, can\nyou? Come on, try moaning more!
 C03a00010018
 
 00002000
-拓海
-まっ……やっ、めっ……あぐっ、あっ、あぁっ……！
+Takumi
+Sto... St-stop... Ahh, ah, ahh...!
 
 00000000
-まるで電気アンマをされるかのように、ガクガクと股間に強い振動が与えられる。
+It feels as if I'm receiving an electric massage, and strong\nvibrations are being given to my crotch, causing it to\ntremble.
 
 00000000
-だが、この屈辱的な態勢でもたらされる刺激は、単なる苦痛だけのものではなかった。
+However, the stimulation brought about by this humiliating\nposture was not just mere pain.
 
 00002000
-拓海
-うっ、はっ、んぅっ、あっ……くっ、んぐっ……っふ……
+Takumi
+Ugh, ha, mmm... ah... ku, ngu... fuh...
 
 00000000
-声を出すまいと堪える程に、中心に強い疼きが広がり、鼻から情けない息が漏れていく。
+The throbbing in the center spreads so much that I can't\nhelp but endure it, and pathetic breaths escape from my\nnose.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-ふふっ、苦しい？　じゃ……ちょっとだけ、加減してあげよっか
+Rio
+Hehe, are you in pain? Well then... I'll adjust it just a\nlittle bit for you.
 C03a00010019
 
 00002000
-拓海
-あっ……んくっ……あ、ふっ……
+Takumi
+Ahh... Nkuu... Ah, fuh...
 
 00000000
-強い痛みが訪れるその直前で、スッと刺激が弱くなり、どうにか呼吸を確保する。
+Just before the intense pain arrives, the stimulation\nweakens and I manage to catch my breath somehow.
 
 00000000
-だが、未だにしっかりとめり込んでいる足先の恐怖が、逃げ出す気力を奪い、未だ僕は神泉さんにされるがままだ。
+However, the fear of my foot firmly lodged in place still\nrobs me of the will to escape, and I remain at the mercy of\nKamiizumi-san.
 
 00003000
-理央
-なぁんだ、まだやる気あるんじゃん。もしかして、最後までイッちゃいたいってこと？
+Rio
+Oh, so you still have some motivation, huh? Could it be that\nyou want to cum until the end?
 C03a00010020
 
 00000000
-僕が動かないのをいいことに、またグイッとめり込む力が入り始める。
+As I remain motionless, she takes advantage of the\nopportunity and starts pushing even deeper.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-ほれほれ、どーよ。女子にチンポ踏まれてコーフンしてんでしょ、んん？
+Rio
+Well well, how does it feel? Having your dick stepped on by\na girl and getting all excited, hmm?
 C03a00010021
 
 00002000
-拓海
-そんな……ことはっ、あ……やめっ……
+Takumi
+No... don't... ah... stop...
 
 00003000
-理央
-何、女みたいな声させて。キャハッ、キモすぎでしょ！
+Rio
+What, making such a girly voice. Kyahaha, it's too gross!
 C03a00010022
 
 00000000
-今まで何かとちょっかいは出してきても、ここまでされることはなかった。
+Until now, I've been meddling with various things, but I've\nnever been treated like this before.
 
 00000000
-しかし、何かのスイッチが入ってしまったのか、神泉さんは尚も行為を止めず、エスカレートさせてくる。
+However, it seems like some kind of switch has been flipped, \nas Kamiizumi-san continues the act without stopping and\nescalates it even further.
 
 00003000
-理央
-さて、どこが一番感じるのかな～？　先っぽかと思ったけど、案外根元も良かったり？
+Rio
+Now then, I wonder where you feel it the most~? I thought it\nwould be the tip, but surprisingly, the base feels good too, \nhuh?
 C03a00010023
 
 00002000
-拓海
-うくっ……！
+Takumi
+Ugh...!
 
 020000000100666D5F3030315F30303031
 
 00003000
-理央
-おっ、跳ねる跳ねる。なら、この辺も続けてっと……
+Rio
+Oh, you're squirming, squirming. Well then, let's continue\nwith this area too...
 C03a00010024
 
 00002000
-拓海
-……っ！　ほ、本当に……それ以上はっ……ひっ、あっ！？
+Takumi
+...! D-Don't... really... any more... ah... ah!
 
 00000000
-必死で制止を訴えようとしても、ひっきりなしに訪れる刺激がうまく言葉にさせてくれない。
+No matter how desperately I try to plead for it to stop, the\nrelentless stimulation keeps coming, rendering me unable to\nput it into words.
 
 020000000100666D5F3030315F30303032
 
 00003000
-理央
-ふふっ、タマも震えてんの？　こーいうのが好きなんだ？
+Rio
+Hehe, are your balls trembling too? Do you like this kind of\nthing?
 C03a00010025
 
 00002000
-拓海
-くおぅっ……！
+Takumi
+Ugh...!
 
 00000000
-先端への刺激が続いてたところに、不意打ちのようにズンと根元に衝撃が走った。
+A sudden shock ran through the base, just as the stimulation\nto the tip continued.
 
 00000000
-神泉さんのかかとが、無防備な睾丸に圧力を掛けてきたのだ。
+Kamiizumi-san's heel applied pressure to my defenseless\ntesticles.
 
 00002000
-拓海
-はっ、あっ……ぐっ……ぁっ、はっ……ぁっ……
+Takumi
+Hah, ah... guh... ah, hah... ah...
 
 00000000
-一番の急所を押さえこまれ、どうしようもない心細さと、更に奥から湧き上がる焦燥感が訪れる。
+The most sensitive spot is being pressed, bringing about a\nsense of helplessness and an even greater surge of\nimpatience from deep within.
 
 00002000
-拓海
-うっ、あぁっ、あっ、あっ……！
+Takumi
+Ugh, ah, ah...!
 
 00003000
-理央
-おんや～？　何か、アレっぽい声がするんですけどー、どうなってんのぉ？
+Rio
+Oh my~? I hear a voice that sounds like *that*, what's\nhappening?
 C03a00010026
 
 00002000
-拓海
-っ、だからっ……くっ、あっ、のっ……やめっ……も、もうっ！
+Takumi
+D-Dammit... ugh, ah, no... stop... enough already!
 
 020000000100666D5F3030315F30303031
 
 00003000
-理央
-もう……何かな～？
+Rio
+Oh my... What could it be~?
 C03a00010027
 
 00002000
-拓海
-っ…………あっ、うっ……
+Takumi
+*gasps* Ah, ugh...
 
 00000000
-これ以上は、射精してしまう……。
+I'm going to ejaculate if this continues...
 
 00000000
-だが、その言葉を、これだけの女子の前でスッと口にすることは出来なかった。
+However, I couldn't just casually say those words in front\nof all these girls.
 
 00000000
-また何を言われるか分からない……その恐怖がもたらす躊躇いは、しかし、結果的に僕を更なる窮地へと追い詰めていく。
+I don't know what she'll say next... The fear of that\nuncertainty, however, ultimately pushes me into an even\ntighter corner.
 
 0200EF10054563735F4E6176695F303035
 
 00003000
-理央
-あっ、うっ、じゃ分かんないっての。ほぅらっ、何とか言ってみろっての！
+Rio
+Ah, ugh, well, I don't know about that. Come on, say\nsomething already!
 C03a00010028
 
 0200EF10054563735F4E6176695F303034
 
 00002000
-拓海
-ひっ……！？
+Takumi
+Huh...!?
 
 020000000100626C
 
@@ -871,17 +871,17 @@ C03a00010028
 0200EF10054563735F4E6176695F303033
 
 00000000
-次の瞬間、ググっと盛り上がった頂点が一際強く押し込まれた。
+The next moment, the intensely heightened peak was\nforcefully pushed in even deeper.
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-その衝撃に、パチパチと目の前で火花が弾け、腰の踏ん張りが完全に崩壊する。
+The impact caused sparks to burst in front of my eyes, and\nthe support from my waist completely crumbled.
 
 0200EF10054563735F4E6176695F303031
 
 00000000
-そして――
+And then--
 
 0200EF10002D
 
@@ -890,142 +890,142 @@ C03a00010028
 020000000100666D5F3030315F30303034
 
 00002000
-拓海
-う……ぁっ…………！
+Takumi
+Ugh... Ahh...!
 
 00000000
-しまったと思った時には、もう完全に手遅れだった。
+When I thought "Oh no," it was already completely too late.
 
 00000000
-鈍い痺れが身体の中心に走ったかと思うと、決壊の感覚が身体を包み込み、同時に股間の部分にじわりと染みが広がっていく。
+As soon as a dull numbness ran through the center of my\nbody, a sensation of collapse enveloped me, and at the same\ntime, a spreading dampness seeped into the crotch area.
 
 00003000
-理央
-えっ？　ちょっと、マジ？　お前、ガチでシャセーしてんの？
+Rio
+Huh? Wait, seriously? Are you really ejaculating?
 C03a00010029
 
 00002000
-拓海
-っ……！
+Takumi
+*gasp*...!
 
 00000000
-驚くような言葉が、取り返しの付かないことをしたと自覚させられ、しかし、もはやそれを食い止める術はない。
+The shocking words made me realize that there was no turning\nback, and yet, there was no way to stop it anymore.
 
 00002000
-拓海
-あ………………
+Takumi
+Ah..........
 
 00000000
-ブルっともう一度身体が勝手に震え、今度ははっきりと覚えのある解放感がペニスに走る。
+My body trembled again, and this time a familiar sense of\nrelease surged through my penis.
 
 00006000
 拓海
 射精……してる……
 
 00000000
-そう認識した時には、股間の染みは更に情けなく広がり、固唾を呑んで女子が僕の異変を見つめていた。
+When I recognized it, the dampness in my crotch had spread\neven more pathetically, and the girls were staring at my\nsituation with bated breath.
 
 00000000
-カッと顔が熱くなり、自分がどうしようもない恥を晒したことを自覚する。
+My face flushed with anger and I became aware of the\nembarrassing situation I had put myself in.
 
 00002000
-拓海
-あ……あぁぁ……
+Takumi
+Ah... Ahh...
 
 00000000
-やがて快感の波が引くと、後にはねっとりとした不快感が残される。
+After the wave of pleasure subsided, a sticky discomfort\nremained.
 
 00000000
-直後、教室にはきゃあっという小さな悲鳴がさざなみのように湧き起こった。
+Immediately after, a small scream of surprise rippled\nthrough the classroom.
 
 020000000100666D5F3030315F30303035
 
 00003000
-理央
-ははっ、染みになって来てるじゃん！　やべー、これ靴汚れちゃうし！
+Rio
+Haha, it's staining! Oh no, my shoes are going to get dirty!
 C03a00010030
 
 00000000
-顔を紅潮させながら、神泉さんはケラケラと高笑いする。
+With a flushed face, Kamiizumi-san bursts into laughter.
 
 00003000
-アリサ
-まさか、本当に出すなんて……
+Arisa
+No way, you're really going to cum...
 C01a00010011
 
 00003000
-友里子
-不潔ですね……
+Yuriko
+How unclean...
 C02a00010005
 
 00000000
-悠然と一部始終を眺めていた二人も半ば驚きの表情と共に顔をしかめ、より深い嫌悪の視線で僕を見下ろす。
+The two who had been leisurely observing the whole situation\nnow frowned with a mixture of surprise and disgust, looking\ndown at me with even deeper disdain.
 
 020000000100666D5F3030315F30303036
 
 00003000
-こはる
-あ………………
+Koharu
+Ah..........
 C04a00010007
 
 00000000
-だが何よりも辛かったのは、福永さんが顔を赤くさせながら、目を逸らしてしまう瞬間だった。
+But what was most painful was the moment when Fukunaga-san, \nwith a flushed face, averted her gaze.
 
 00000000
-密かに気遣いを見せてくれた福永さんの前で、邪な欲望の気持ちを晒されてしまった。
+In front of Fukunaga-san, who secretly showed concern, I was\nexposed to the feeling of wicked desire.
 
 00000000
-どれだけ言い訳しようとも、快感を得て我慢できずにみんなの前で射精してしまったことは事実なのだ。
+No matter how much I try to make excuses, the fact remains\nthat I couldn't resist the pleasure and ejaculated in front\nof everyone.
 
 020000000100666D5F3030315F30303037
 
 00003000
-理央
-ねー、これナニ？　ぷぷっ……ナニ出してんの？　マゾなの？　ヘンタイなの？
+Rio
+Hey, what's this? Hehe... What are you squirting out? Are\nyou a masochist? Are you a pervert?
 C03a00010031
 
 00000000
-尚も股間を踏みつけながら、神泉さんがせせら笑いながら聞いてくる。
+While still stepping on my crotch, Kamiizumi-san asks with a\ngiggling voice.
 
 00002000
-生徒Ｆ
-信じられない……どういう神経してるのかしら……
+Student F
+Unbelievable... What kind of mentality does he have...
 
 00002000
-生徒Ｇ
-だから男なんて……何でうちのクラスなの……？
+Student G
+Why is someone like him in our class...? He's just a guy...
 
 00000000
-周囲からは今までよりも更に辛辣な、深い嫌悪と軽蔑の視線。
+The gaze from the surroundings was even more harsh, filled\nwith deep disgust and contempt than before.
 
 00000000
-いつも助け舟を出してくれる福永さんでさえ、視線を逸らして何も言ってはくれない。
+Even Fukunaga-san, who always extends a helping hand, averts\nher gaze and doesn't say anything.
 
 00002000
-拓海
-うっ……うぁぁぁぁぁぁぁっ……！
+Takumi
+Ugh... Ughhhhhhh!
 
 0200000001004247303230305F62
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-うあっと！？
+Rio
+Ugh...!?
 C03a00010032
 
 00000000
-やりきれない思いが爆発し、情けなさと悔しさをバネに飛び起きて、僕はそのまま教室を飛び出した。
+The overwhelming feeling of frustration and regret exploded\nwithin me, and using that as a springboard, I jumped up and\nrushed out of the classroom.
 
 03008C0000000F2753455F6230315F30313031
 
 020000000100626C
 
 00000000
-廊下を走りながら、じわじわと下着に広がる不快な感触を自覚し、また涙が溢れて来る。
+While running down the hallway, I gradually became aware of\nthe uncomfortable sensation spreading in my underwear, and\ntears started to overflow again.
 
 00000000
-耳にはまだ、ヒソヒソと執拗な陰口が聞こえてくる気がして仕方なかった。
+I couldn't help but feel like I could still hear persistent\nwhispers and malicious gossip in my ears.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

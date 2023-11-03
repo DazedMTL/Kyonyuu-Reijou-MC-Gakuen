@@ -9,14 +9,14 @@
 03008C0000000F2753455F6230315F30343031
 
 00000000
-ドアがノックされた音で僕はビクッと背筋を跳ねさせながら、椅子から飛び上がる。
+The sound of the door being knocked made me jump and my\nspine shiver, causing me to leap out of my chair.
 
 00002000
-拓海
-あっ……来てくれたんだね？　今、ドアをあけるからっ……！
+Takumi
+Ah... You came, didn't you? I'll open the door now...!
 
 00000000
-僕はギクシャクしたような動作で玄関に近寄りながら、サムターンを回して鍵を開き、来訪者を中に迎え入れる。
+I approached the entrance with a hesitant movement, turned\nthe doorknob and opened the door, welcoming the visitor\ninside.
 
 03008C0000000F2753455F6130315F30303033
 
@@ -25,159 +25,159 @@
 0200000001004247313130305F62
 
 00003000
-こはる
-そ、そのっ……おじゃま、しますっ……こ、こんばんわ、池ノ上くんっ……
+Koharu
+Um, excuse me... G-good evening, Takumi-kun...
 C04a02190001
 
 00002000
-拓海
-ごめんね、呼びだしちゃって……他の人に見つかって、なんか言われたりしなかった？
+Takumi
+I'm sorry for calling you out... Did anyone else see us and\nsay anything?
 
 00003000
-こはる
-ううん……大丈夫。女子寮と違って、警備員とかもいなかったし……誰にも見られてないよ？
+Koharu
+No... It's okay. Unlike the girls' dormitory, there were no\nsecurity guards or anything... Nobody saw us, right?
 C04a02190002
 
 00002000
-拓海
-それなら良かった……こはるのことが心配だったから……ほら、どうぞ？
+Takumi
+Thank goodness... I was worried about you, Koharu... Here, \nplease come in.
 
 00000000
-僕はドアを大きく開いて、彼女を招き入れようとしたが、彼女は少し怯えたような姿で、部屋の中には入ってこない。
+I opened the door wide and tried to invite her in, but she\nhesitated and didn't come into the room, looking a bit\nscared.
 
 00002000
-拓海
-どうしたの？　その……男の部屋に入るって抵抗があるかな？　ほら、僕が怖いとか……
+Takumi
+What's wrong? Do you... have reservations about entering a\nguy's room? Like, you're scared of me or something...
 
 00003000
-こはる
-う、ううんっ！　そんなこと無いよ……！　そ、それじゃあ、改めて、お邪魔します
+Koharu
+U-Um, no! It's not like that...! W-Well then, once again, \nI'll be intruding.
 C04a02190003
 
 0200E600010000000000E8FE0000E8FE4400440044004400E803E803F401666D5F433034615F30335F305F305F305F3031
 
 00003000
-こはる
-えっと……そ、そのっ……やっぱり綺麗に片付けてるね
+Koharu
+Um... Th-that... You really have a clean room, don't you?
 C04a02190004
 
 00000000
-こはるは部屋の中に上がりこむが、どこか落ち着かず、俯いたり視線を左右に走らせたりしている。
+Koharu entered the room, but she seemed unsettled, looking\ndown and shifting her gaze from side to side.
 
 00002000
-拓海
-えっと……僕、無理をさせてるかな？　もし、なにか不安なことがあるなら、ちゃんと言って欲しいんだけど……
+Takumi
+Um... Am I pushing you too hard? If there's anything that\nmakes you uneasy, I want you to tell me properly...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-ち、違うのっ……そんな、私に無理やり乱暴するとか、そんなことは全然思ってないの……！　そうじゃなくて、そのっ……
+Koharu
+N-No... It's not like that... I never thought you would\nforcefully do something like that to me...! That's not it, \nit's just...
 C04a02190005
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-ほら……私なんてそんな可愛いわけじゃないし……自分だけ、特別扱いされていいのかなって……
+Koharu
+You see... I'm not that cute or anything... Is it really\nokay for me to be treated so specially...?
 C04a02190006
 
 00000000
-こはるは顔を赤らめながら申し訳無さそうな顔をして、僕と二人きりで時間を過ごすことへ、遠慮がちな抵抗を覚えていた。
+Koharu had a blush on her face and wore an apologetic\nexpression. She felt hesitant and resistant about spending\ntime alone with me.
 
 00002000
-拓海
-そんな、お礼を言いたいのは僕の方だよ。いつもこはるは僕のことを気にかけてくれるから、ささやかながらにもお礼がしたくて
+Takumi
+No, it's actually me who wants to thank you. You always\nworry about me, Koharu, so I wanted to express my gratitude\nin a small way.
 
 00000000
-僕は言葉を続けようとして、そこで言いよどんでしまう。嬉しさのあまり彼女が照れながら俯いている姿に胸が切なくなったからだ。
+I tried to continue speaking, but I stumbled over my words.\nIt was because my heart ached at the sight of her blushing\nand looking down, overwhelmed with happiness.
 
 00000000
-もちろん僕は、ここにこはるを呼び出した以上、エッチな事を思う存分したいという目的があったのは当然だ。
+Of course, since I called Koharu here, it's only natural\nthat I had the intention of indulging in some naughty things\nto the fullest.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-私のことなんて気にしないで、他の女の子にもっと積極的になったほうがいいよ……ほら、私スタイルよくないし……
+Koharu
+Don't worry about me, you should be more proactive with\nother girls... Look, I don't have a good figure or\nanything...
 C04a02190007
 
 00000000
-そう言ってこはるは自分の両胸に手を当て、少し悲しそうな顔をしながら乳房を揺する。
+Koharu said that and placed her hands on her own breasts, \nshaking them with a slightly sad expression on her face.
 
 00000000
-その牛のような大きなおっぱいが揺れるのを見て、僕はここに彼女を呼び出した目的が乳房に甘えて癒やされたいということだったのを改めて思い出す。
+As I watched her large breasts, swaying like cows, I was\nreminded once again of the reason why I called her here - to\nseek comfort and healing by indulging in her breasts.
 
 00002000
-拓海
-そのっ、大きな胸が好きな男は結構多いと思うし、こはるを好きになる人は絶対いるんじゃないかな
+Takumi
+Um... I think there are quite a few men who like big\nbreasts, so I'm sure there are people who will fall in love\nwith Koharu.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-え、ええっ……そう、かなあ……？　それじゃあ、君も好きなの？　そのっ、おおきな、おっぱい……
+Koharu
+E-eh... Is that so...? Then, do you like them too? These...\nbig breasts...
 C04a02190008
 
 00000000
-僕は大人しそうなこはるの口からおっぱいという単語が出てきたことに興奮を覚え、じわじわとしたもどかしい痺れとともにペニスが膨らんでくる。
+From Koharu's seemingly quiet mouth, the word "breasts" came\nout, and I felt excitement as a tingling sensation slowly\nspread through me, causing my penis to swell.
 
 00000000
-こはるの前でいきなり勃起をするなんて、男として恥ずかしいことだと僕は思ってしまい少し前かがみになってしまうが、彼女は心配そうな顔をし始めた。
+I couldn't help but feel embarrassed as a man for suddenly\ngetting an erection in front of Koharu, so I ended up bowing\nmy head slightly. However, she began to look worried.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-えっと、そのっ……どうしたの……？　体の具合が悪いなら薬でも持ってきてあげるよ？
+Koharu
+Um, so... what's wrong...? If you're feeling unwell, should\nI bring you some medicine?
 C04a02190009
 
 00002000
-拓海
-あ、いや、違うんだ……そういうのじゃなくて
+Takumi
+Ah, no, that's not it... It's not about that...
 
 00000000
-僕は食い気味に覗きこんできたこはるに驚き、思わず反射的に徐々に勃起を果たしていく股間を両手で覆って隠してしまう。
+I was surprised by Koharu, who had peeked at me with a\nhungry look, and instinctively covered my crotch with both\nhands to hide the gradually growing erection.
 
 00000000
-その姿を見て、こはるは納得したように顔を赤らめ、頬に両手を当てて恥ずかしがった。
+Seeing her like that, Koharu blushed and covered her cheeks\nwith both hands, feeling embarrassed.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ、ああ……お、オチンチンが……
+Koharu
+Ah, ah... M-my, my dick...
 C04a02190010
 
 00002000
-拓海
-う、うん……
+Takumi
+Uh, yeah...
 
 00000000
-もう、僕は当初の目的だった欲望が抑えきれなくなり、生唾を飲み込んで口を開く。
+I couldn't contain my initial desires any longer, and with a\ngulp, I opened my mouth.
 
 00002000
-拓海
-こはるっ……僕っ、おっぱいを吸いながら……精液を出したいっ……そ、そのっ、いいかな？
+Takumi
+Koharu... I want to suck on your breasts... while\nejaculating... Is that, um, okay?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30322F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-うん……大丈夫だよ。私なんかで大事な精液をくれるなんて、本当にありがとう……
+Koharu
+Yeah... It's okay. Thank you so much for giving me your\nprecious semen...
 C04a02190011
 
 00000000
-精液をもらえることを心から喜んでＯＫしてくれるこはる。
+Koharu, who is genuinely happy to receive semen, gladly\ngives her consent.
 
 00000000
-僕はそれだけで理性が保てなくなり、慌ててズボンとパンツを下ろし彼女の前にペニスを晒していく。
+I couldn't control my reason with just that, and in a panic, \nI quickly pulled down my pants and underwear, exposing my\npenis in front of her.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-もうビクビクってしてきてるんだねっ……いいよ
+Koharu
+You're already getting all twitchy... It's fine.
 C04a02190012
 
 0100200002026566666563742C656666656374207363656E655F656E64

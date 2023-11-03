@@ -9,343 +9,343 @@
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-以上が、運営協議会の方から上がってきた報告になります
+Yuriko
+This is the report that came from the management committee.
 C02a04010001
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-アリサ
-ご苦労様。資料は、ここにまとまっているもので全てね？
+Arisa
+Good work. Are all the documents compiled here?
 C01a04010001
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい。また教員達には、別途まとめ直した形で配布するように致しますので
+Yuriko
+Yes. We will also distribute it separately to the teachers\nin a compiled form.
 C02a04010002
 
 00003000
-アリサ
-分かったわ。明日の職員会議までに揃えて頂戴
+Arisa
+Understood. Please make sure to have them ready by\ntomorrow's staff meeting.
 C01a04010002
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-心得ました
+Yuriko
+Understood.
 C02a04010003
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-てきぱきと進められる理事関連のやり取りを、僕は一切口を挟むことなく、理事長室の椅子の上でじっと眺めていた。
+Without saying a word, I silently watched the efficient\nexchange between the board members unfold from my seat in\nthe chairman's office.
 
 00000000
-外部とのやり取りも多い仕事を、何の勝手も分からない僕が口出ししたってまともに出来る訳がない。
+There's no way I, who doesn't understand anything about this\njob that involves a lot of interaction with external\nparties, can interfere and do it properly.
 
 00000000
-なので、その一連の業務については今まで通りアリサにこなしてもらっているのが現状だった。
+Therefore, the current situation is that Arisa has been\nhandling those series of tasks as usual.
 
 00000000
-アリサ自身は僕が理事長であると認識しており、友里子共々、傍に僕が座っていることに何の疑問も抱いていない。
+Arisa herself recognizes me as the chairman, and neither\nYuriko nor her have any doubts about me sitting beside them.
 
 00000000
-理事長は直接手を下さず、補佐がその仕事をこなす。これも後から植え付けられた彼女たちの常識になっているのだ。
+The chairman doesn't directly handle the tasks, but the\nassistants take care of them. This has become their\nestablished norm, which was instilled in them later on.
 
 00000000
-大嫌いな男が、元々自分が座っていた椅子に悠然と座ってるなんて……正気なアリサが見たとしたら、どれだけ怒り狂うことだろうか。
+If the sane Arisa were to see that the man she hates so much\nis calmly sitting in the chair that I originally occupied...\nI wonder how furious she would be.
 
 00000000
-だが、オルゴールによって施されたマインドコントロールは、そんな事態を引き起こすこともなく――
+However, the mind control conducted by the music box did not\ncause such a situation to arise--
 
 00002000
-拓海
-つくづく皮肉なもんだよね。一番忌み嫌う男に操られているなんてさ……
+Takumi
+It's truly ironic, isn't it? Being manipulated by the man\nshe despises the most...
 
 00000000
-思わず口端を吊り上げて、僕は小さく笑みをこぼした。
+I couldn't help but raise the corners of my mouth and let\nout a small smile.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-どうかしましたの？
+Arisa
+What's the matter?
 C01a04010003
 
 00002000
-拓海
-あぁ、いや、ごめん。何でもないよ。続けて続けて
+Takumi
+Ah, no, sorry. It's nothing. Please continue.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-…………では、生徒会からの伝達を、友里子
+Arisa
+...Then, Yuriko, please convey the message from the student\ncouncil.
 C01a04010004
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい、先日の委員会の代表の会合での議事録になりますが……
+Yuriko
+Yes, this is the minutes from the representative meeting of\nthe committee the other day...
 C02a04010004
 
 00000000
-それにしても――
+Nevertheless--
 
 00000000
-学園内外の様々な要望、報告、審議などが、次から次へと処理されていく様は、何というか圧巻の一言だった。
+The way various requests, reports, and deliberations from\nboth inside and outside the school were being processed one\nafter another was truly impressive, to say the least.
 
 00000000
-もちろん、何もかもを全て自分たちでしてしまうのではなく、適宜任せる場所に投げているのは見て取れる。
+Of course, it's clear that they're not doing everything\nthemselves, but delegating tasks to the appropriate places\nas needed.
 
 00000000
-だが、それにしたって、同じ学年の生徒だとは思えないほど、２人の能力はずば抜けているんだと嫌でも思い知らされる。
+However, even so, it's impossible not to realize just how\nexceptional their abilities are, to the point where you\nwouldn't believe they're students in the same grade.
 
 00006000
 拓海
 まぁ……そうでもなきゃ、学校全体をマインドコントロールの支配下において、実験やら何やらはしないよね……
 
 00000000
-もちろん、偶然とはいえ僕に逆転されるようでは、どこか油断があったことは否めないだろうが――
+Of course, even if it was by chance, it's undeniable that\nthere must have been some negligence on her part to be\nturned around by me--
 
 00000000
-それでも、僕の行き当たりばったりのマインドコントロールよりは、よっぽどちゃんとしているように見える。
+"Nevertheless, compared to my haphazard mind control, it\nseems much more well-organized."
 
 00006000
 拓海
 実際、２人の黒幕になって、しっかりコントロールしていく方が、よっぽど見通しが明るいかも……
 
 00000000
-もちろん、自分を苦しめた元凶であるアリサと、その忠実な片腕の友里子に、しっかりとお返しはしてやりたい。
+Of course, I want to make sure to give Arisa, who was the\ncause of my suffering, and her loyal right-hand woman\nYuriko, a proper payback.
 
 00000000
-だけど、彼女たちを破滅に追い込んでいく……そんなやり方よりは、もっと上手く操っていく……その方が先の見通しは良さそうだ。
+However, rather than driving them to destruction... I should\nmanipulate them more skillfully... That seems to be a better\nway to foresee the future.
 
 00000000
-そんなことを考えているうち、ようやく報告が一段落したようだった。
+While thinking about such things, it seemed like the reports\nhad finally come to a pause.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-ありがとう。ご苦労様、友里子
+Arisa
+Thank you. Good work, Yuriko.
 C01a04010005
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-いえ。概ね順調に進んでいるようで何よりです、アリサ
+Yuriko
+No. It seems to be progressing smoothly for the most part, \nArisa.
 C02a04010005
 
 00000000
-もう僕がいる前でも、二人きりでいる時のように、二人は下の名前で呼び合っている。
+Even when I'm not around, they call each other by their\nfirst names as if they were alone together.
 
 00000000
-最初は僕の存在を気にしていたアリサだったけど、それも刷り込みをすることで、今は何も気にすることはなくなった。
+At first, Arisa was concerned about my presence, but now, \nafter some conditioning, she no longer has any worries.
 
 00002000
-拓海
-そう言えば、二人はこの学校で知り合った訳じゃないんだよね。もっと前からの付き合いなんだっけ？
+Takumi
+Come to think of it, you two didn't meet at this school, \nright? You've known each other for a while before, haven't\nyou?
 
 00000000
-何となく気になっていたことを、僕はさりげないタイミングで聞いてみた。
+I casually asked about something that had been bothering me\nfor a while.
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい。アリサとは、幼い頃からずっと一緒にいさせてもらっています
+Yuriko
+Yes. I've been with Arisa since we were young.
 C02a04010006
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-友里子は、私の家で教育係をしていた久我の娘よ。今まで、どの学年でもクラスが別になったことはないわ
+Arisa
+Yuriko is Kuga's daughter, who served as my tutor at home.\nWe've never been in separate classes in any grade until now.
 C01a04010006
 
 00003000
-友里子
-はい、アリサの悲願達成のために、私は常にお側にいるのです
+Yuriko
+Yes, I am always by your side to fulfill Arisa's long-\ncherished wish.
 C02a04010007
 
 00002000
-拓海
-悲願達成……か。色々とありそうだね。確か……本家がどうとかだっけ？
+Takumi
+Fulfilling a long-cherished wish... huh. It seems like\nthere's a lot going on. If I remember correctly... something\nabout the main family, right?
 
 00000000
-そう言えば最初にこの部屋に潜り込んだ時にも、ちらっと聞いたような気がする。
+Come to think of it, I feel like I heard something briefly\nwhen I first sneaked into this room.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-そうよ……本家の旧態依然とした古臭い考えのお陰で、母さまがどれだけの不遇を託つことになったか……
+Arisa
+That's right... Thanks to the outdated and old-fashioned\nthinking of the main family, my mother has been burdened\nwith so much hardship...
 C01a04010007
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-今どき、男尊女卑なんて……世界の流れと全く逆行して……名門が聞いて呆れるわ
+Arisa
+Nowadays, the idea of male superiority and female\ninferiority goes completely against the flow of the world...\nIt's enough to astonish even prestigious families.
 C01a04010008
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-仰る通りです。この学園も、良き妻、良き母を育成するという名目で作られたものですが……
+Yuriko
+You are correct. This school was also created under the\npretext of nurturing good wives and mothers...
 C02a04010008
 
 00003000
-アリサ
-伝統といえば聞こえはいいけど、前時代の遺物のような考えをいつまでも押し付けている……不毛だわ
+Arisa
+It may sound nice to talk about tradition, but they keep\nimposing outdated ideas like relics... It's futile.
 C01a04010009
 
 00002000
-拓海
-なるほど……吉祥寺家にも色々と問題があるってことなんだね
+Takumi
+I see... So the Kisshouji family also has various problems, \nhuh?
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-問題なんて！　そんな生易しいものですか。あれは癌よ、癌。このままでは、吉祥寺家は没落の一途を辿るばかりだわ
+Arisa
+Problems? Is that how lightly you take it? It's cancer, \ncancer. If things continue like this, the Kisshouji family\nwill only continue on the path of decline.
 C01a04010010
 
 00000000
-よっぽど鬱憤が溜まっているのか、アリサは吐き捨てるようにそう言った。
+Arisa said that with such contempt as if she had built up a\nlot of pent-up frustration.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-私をここに送り込んだのも、体のいい厄介払いのつもりでしょう。でも、お生憎様……何でも思い通りにさせるものですか
+Arisa
+Sending me here was probably intended as a convenient way to\nget rid of a troublesome burden. But unfortunately for\nyou... do you think you can make everything go your way?
 C01a04010011
 
 00000000
-確かに、この光景は一度見た。やはり、アリサは実家との間に確執を抱えており、今も激しい敵意を燃やしているのだ。
+Indeed, I have seen this scene before. As expected, Arisa\nharbors a conflict with her family and still burns with\nintense animosity towards them.
 
 00006000
 拓海
 でも、家庭内の問題というだけで収まる次元じゃなさそうだなぁ……
 
 00000000
-よっぽど吉祥寺の家で女だからと見下されて来たのか、男への深い憎悪と敵愾心は、今も少しも変わっていない。
+It seems that because I was looked down upon for being a\nwoman in the Kisshouji family, my deep hatred and animosity\ntowards men has not changed at all.
 
 00000000
-だからこそ、僕を実験材料にすることも厭わなかったし、行く行くはこの学園を足がかりに吉祥寺家の乗っ取りまで考えたんだろう。
+That's why they didn't hesitate to use me as an experimental\nsubject, and eventually, they even considered taking over\nthis school as a stepping stone to seize control of the\nKisshouji family.
 
 00000000
-その逆転材料となるものが、アリサの母方から受け継がれたというオルゴールだった訳だ。
+And the material for that reversal was the music box\ninherited from Arisa's mother's side.
 
 00000000
-もっとも、今、そのオルゴールは僕の手にあり、アリサ達にとっては逆転材料となるものは何もない筈なのだが――
+However, now the music box is in my hands, and there should\nbe no material for a reversal for Arisa and the others--
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
+Arisa
 ………………
 C01a04010012
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
+Yuriko
 ………………
 C02a04010009
 
 00000000
-二人の表情にはいささかも不安や困難を匂わせる雰囲気は感じられない。
+I can't sense any hint of anxiety or difficulty in the\nexpressions of the two.
 
 00000000
-僕のマインドコントロールが、何か都合よく認識を歪めている一面もあるだろうが、彼女達には確固たる信念と自信があるのだ。
+My mind control may be distorting their perception in a\nconvenient way, but they have strong convictions and\nconfidence.
 
 00000000
-やはり、この優秀な２人をしっかりと手中に収めておかなければならない。
+"Indeed, I must firmly keep these two excellent individuals\nunder my control."
 
 00000000
-その為に僕が出来ること……それはもう一つしかない。
+The only thing I can do for that... there is only one thing.
 
 00002000
-拓海
-とにかく、二人ともお疲れ様。君たちのお陰で、仕事が捗って本当に助かるよ
+Takumi
+Anyway, thank you both for your hard work. Thanks to you, \nthe work is progressing smoothly and I really appreciate it.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-……別に、あなたの為にしている訳ではありませんから
+Arisa
+...Well, it's not like I'm doing it for your sake or\nanything.
 C01a04010013
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-その通りです。私達は自分たちの為すべきことをしているに過ぎません
+Yuriko
+That's right. We are just doing what we should be doing for\nourselves.
 C02a04010010
 
 00002000
-拓海
-まぁ、そうだろうけどさ。でも、やっぱり相応の働きには、精液を提供する……それが僕の努めだからね
+Takumi
+Well, I guess so. But, in order to fulfill my role, I must\nprovide semen... That is my duty, you know.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-あ……
+Arisa
+Ah...
 C01a04010014
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30352F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-それは……は、はい……
+Yuriko
+Well...y-yes...
 C02a04010011
 
 00000000
-僕の精液という言葉だけで、二人は途端に頬を赤らめ、身体をもじもじとさせ始めた。
+At the mere mention of the word "my semen," both of them\nimmediately blushed and started squirming uncomfortably.
 
 00000000
-そう、僕はアリサと友里子への精液を求める意識をより強くさせる為に、射精の機会を増やしていた。
+Yes, in order to strengthen their desire for my semen, I\nhave been increasing the opportunities for ejaculation for\nboth Arisa and Yuriko.
 
 00002000
-拓海
-いい表情してるじゃない。何だかんだ言って、精液貰えるって期待してたんじゃないの？
+Takumi
+You're making a good expression, aren't you? Despite what\nyou say, deep down, you were expecting to receive my semen, \nweren't you?
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-別に期待なんて……こ、これもするべき義務の一つで……ね、ねぇ、友里子？
+Arisa
+It's not like I was expecting anything... Th-this is just\none of the duties I should fulfill... R-right, Yuriko?
 C01a04010015
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-アリサの言う通りです。私達は自分たちの為すべきことをしている……そ、それだけです
+Yuriko
+Arisa is right. We are just doing what we should be doing\nfor ourselves... Th-that's all.
 C02a04010012
 
 00000000
-さっきと全く同じように言う二人の表情は、しかし、目に見えてそわそわと隠し切れない発情に潤んでいる。
+The expressions of the two, who said the exact same thing as\nbefore, were visibly filled with restless and uncontainable\nlust.
 
 02008C00010000
 
 00000000
-そう……僕には僕のやり方がある。
+"I see... I have my own way of doing things."
 
 00000000
-際限なく出せる精液で、二人を堕とす……単純でも、強烈な刷り込みの時間が今日もまた始まった。
+With an endless supply of semen, I will corrupt the two of\nthem... Though it may be simple, the intense conditioning\nsession begins again today.
 
 01003000
 

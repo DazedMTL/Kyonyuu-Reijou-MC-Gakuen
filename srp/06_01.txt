@@ -7,16 +7,16 @@
 020000000100626C
 
 00000000
-相変わらず教室ではクラスメイトに、廊下に出れば他の生徒どころか女教師までもが、僕に熱い視線を送る日々が続いていた。
+The days continued where my classmates in the classroom, and\neven female teachers outside the hallway, would send me\npassionate gazes.
 
 00000000
-求められれば気分次第で要望に応え、逆に僕の気が向けば適当な所で手を出して性欲を開放させていく日々。
+"The days continued where, depending on my mood, I would\nrespond to requests if desired, and conversely, if I felt\nlike it, I would casually indulge in releasing my sexual\ndesires."
 
 00000000
-さほど大きな問題も起きず、今のところは学園管理をする吉祥寺家からの介入もない。
+There haven't been any major issues, and so far there hasn't\nbeen any intervention from the Kisshouji family, who manages\nthe school.
 
 00000000
-順調過ぎるほど順調な日々を、僕は毎日過ごしていた。
+"I was spending each day smoothly to the point where\neverything was going too smoothly."
 
 03002000B80B
 
@@ -27,42 +27,42 @@
 0200000001004247303530305F62
 
 00002000
-拓海
-ふぅ……
+Takumi
+*sigh*...
 
 00000000
-理事長室の席につき、思わずほっとため息をつく。
+I take a seat in the chairman's office and let out a sigh of\nrelief.
 
 00000000
-いくら思いのままに過ごせているとは言え、注目度の高まった今、精神的には結構張り詰めた日々が続いている。
+"Even though I can spend my days as I please, with the\nincreasing attention, mentally, I've been experiencing quite\ntense days."
 
 00000000
-オルゴールを手に入れるまでは、男子トイレ……後はせいぜい自室が唯一の安息所だったが、今はこの理事長室が落ち着く場所だった。
+Until I obtained the music box, the boys' restroom... and at\nbest, my own room, were the only places of solace. But now, \nthis chairman's office has become a calming place.
 
 00002000
-拓海
-さて……いよいよ、今夜だ
+Takumi
+Well...finally, tonight.
 
 00000000
-アリサ、友里子、理央、こはる――
+Arisa, Yuriko, Rio, Koharu...
 
 00000000
-この学園生活を続けるにあたって、あの四人には特別な待遇をしてあげないといけない。
+In order to continue this school life, I must give special\ntreatment to those four.
 
 00000000
-だから今夜、僕の部屋に来るように呼びつけてある。『特別』なことをしてあげるために、だ。
+That's why I've called them to my room tonight. In order to\ndo something "special" for them.
 
 0300000000000F2742474D3037
 
 00002000
-拓海
-大丈夫……きっと上手くいくさ……これまで通りにね
+Takumi
+It's okay... It will surely go well... Just like it has been\nso far.
 
 00000000
-オルゴールを見ながら心を落ち着かせると、僕はそのまま身体を椅子に深く埋め目を閉じる。
+As I calm my heart while looking at the music box, I sink my\nbody deep into the chair and close my eyes.
 
 00000000
-すぐに訪れるまどろみに身を委ね、僕は深い眠りへと落ちていった……。
+I surrender myself to the soon-to-come drowsiness and\ngradually fall into a deep sleep...
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -75,58 +75,58 @@
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-……ったく、夜にアタシを呼びつけるなんて、相変わらず何様モードじゃん
+Rio
+Geez, calling me out at night... You're still acting all\nhigh and mighty, huh?
 C03a06010001
 
 00002000
-拓海
-やあ、理央。何様モードってのはよく分かんないけど、約束よりずっと早かったね。一番乗りだよ
+Takumi
+Hey, Rio. I don't really get this whole "acting all high and\nmighty" mode, but you're here earlier than expected. You're\nthe first one.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30352F2D3236332F302E37362F302E3736
 
 00003000
-理央
-べ、別に……ただヒマだったからだし、って……一番乗りってあによ？
+Rio
+W-Well, it's not like... I was just bored, that's all... And\nbeing the first one here, it's no big deal, you know?
 C03a06010002
 
 00002000
-拓海
-そのままの意味だよ。今日は他にも呼び出してる子がいるからね、何かマズかったかな？
+Takumi
+It means exactly what it sounds like. I've called out other\ngirls today, so did something happen?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-別に……そんなの、勝手にすればいーじゃん
+Rio
+It's not like... you can do whatever you want.
 C03a06010003
 
 00000000
-相変わらずの態度だが、以前より鼻持ちならない雰囲気はなく、どこか落ち着きなくそわそわとしていた。
+Her attitude is as usual, but she doesn't have that\nunbearable air about her like before. She seems restless and\nfidgety.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E3736
 
 00003000
-理央
-ふーん……こんな部屋だったっけ……
+Rio
+Hmmm... Was this the kind of room...?
 C03a06010004
 
 00002000
-拓海
-男の部屋だと緊張する？
+Takumi
+Are you nervous because it's a guy's room?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-しねーし。勝手なこと言うなっての
+Rio
+Shut up. Don't say whatever you want.
 C03a06010005
 
 00000000
-少し図星だったのか、理央はちょっと挙動不審に首を振った。
+Rio shook her head slightly, behaving suspiciously as if she\nhad hit the mark a little.
 
 00000000
-減らず口を叩きながらも、どこか声には力がない。実際、緊張しているのはバレバレだった。
+Despite her continued snarky remarks, there is a lack of\nstrength in her voice. In reality, it was obvious that she\nwas nervous.
 
 03008C0000000F2753455F6230315F30343031
 
@@ -137,82 +137,82 @@ C03a06010005
 0200BC000100022C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E37362C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-失礼します……あ……
+Yuriko
+Excuse me... Ah...
 C02a06010001
 
 00003000
-理央
-お……風紀委員サマだ
+Rio
+Oh... it's the Disciplinary Committee President.
 C03a06010006
 
 00003000
-友里子
-……神泉さん
+Yuriko
+...Kamiizumi-san
 C02a06010002
 
 00002000
-拓海
-流石友里子。呼び出しの時間のきっかり１５分前。几帳面だね
+Takumi
+As expected of Yuriko. You're right on time, 15 minutes\nbefore the scheduled meeting. You're so meticulous.
 
 0200BC000100022C2D2C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-私だけではなかったと……そういうことですか
+Yuriko
+So it wasn't just me... Is that what you're saying?
 C02a06010003
 
 00000000
-察しの良さも人一倍の友里子は、何となく呼ばれた意図に気づき、ぼそりと呟く。
+Yuriko, who has an exceptional sense of intuition, somehow\nrealizes the intention behind being called and murmurs\nsoftly.
 
 00000000
-理央のそわそわした様子とも違い、どこか憂いに満ちた表情なのは今の精神状態のせいだろうか。
+Unlike Rio's restless appearance, there is a somewhat\nmelancholic expression on her face. Could it be because of\nher current mental state?
 
 00000000
-アリサとの関係が全く改善していない中、妙に他の学生たちから持ち上げられて、その板挟みに悩んでいる真っ最中だ。
+In the midst of a relationship that hasn't improved at all\nwith Arisa, I'm strangely being praised by other students\nand I'm caught in a dilemma.
 
 00003000
-理央
-何か、最近イロイロあるらしいじゃん
+Rio
+It seems like there's been a lot going on lately, huh?
 C03a06010007
 
 0200BC000100022C2D2C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-何がですか
+Yuriko
+What is it?
 C02a06010004
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E37362C2D
 
 00003000
-理央
-何がって……ウワサとかイロイロ、さ……
+Rio
+"What do you mean... about the rumors and various things..."
 C03a06010008
 
 0200BC000100022C2D2C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-言いたいことがよく分かりませんが
+Yuriko
+I'm not quite sure what you want to say, but...
 C02a06010005
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E37362C2D
 
 00003000
-理央
-あっそ。んじゃ、いーや
+Rio
+Oh, I see. Well, never mind then.
 C03a06010009
 
 0200BC000100022C2D2C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
+Yuriko
 ………………
 C02a06010006
 
 00000000
-もしかしたら、ある程度の会話がされるかとも思ったが、やはりこの二人の間で話が弾む筈もなく、気まずい空気が流れ込む。
+Perhaps I thought there would be some conversation happening\nto some extent, but as expected, there is no lively\nconversation between these two and an awkward atmosphere\nfills the air.
 
 03008C0000000F2753455F6230315F30343031
 
@@ -223,84 +223,84 @@ C02a06010006
 0200BC000100012C666D5F433034615F30325F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ……あの、失礼……しまーす
+Koharu
+Ah... um, excuse me... I'm sorry...
 C04a06010001
 
 00000000
-そんな只中に、続けておずおずとやって来たのはこはるだった。
+In the midst of all that, timidly and hesitantly, Koharu\ncame over.
 
 0200BC000100032C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E37352C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E37362C666D5F433034615F30325F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ、あれ？　理央さん……友里子さんも……あ、も、もしかして私、遅れちゃった……？
+Koharu
+Ah, um... Rio-san... Yuriko-san too... Ah, cou-could it be\nthat I'm late...?
 C04a06010002
 
 00002000
-拓海
-いや、遅れてないよ。ちゃんと時間前だから大丈夫
+Takumi
+No, you're not late. It's still before the scheduled time, \nso it's okay.
 
 0200BC000100032C2D2C2D2C666D5F433034615F30325F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ……池ノ上くん……よ、よかったぁ。えっと……みんなも呼ばれてたんだね
+Koharu
+Ah... Takumi-kun... Th-thank goodness. Um... everyone was\ncalled, right?
 C04a06010003
 
 0200BC000100032C2D2C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E37362C2D
 
 00003000
-理央
-そー言うこはるちゃんは、何で呼ばれたか分かってるって感じ？
+Rio
+Koharu-chan, do you have any idea why you were called?
 C03a06010010
 
 0200BC000100032C2D2C2D2C666D5F433034615F30325F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-えっ……？　あっ、何でって……その、池ノ上くんに部屋に来てって言われただけで……
+Koharu
+Huh...? Ah, why...? Well, um, I was just told by Ikenoue-kun\nto come to the room...
 C04a06010004
 
 0200BC000100032C2D2C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E37362C2D
 
 00003000
-理央
-でも、何となくこーいうコトかなってのは、見当ついてんじゃないの？
+Rio
+But, don't you have a rough idea of what this is about?
 C03a06010011
 
 0200BC000100032C2D2C2D2C666D5F433034615F30325F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-えと……あ、それは……ど、どうだろ……その、あはは……
+Koharu
+Um... Ah, well... I'm not sure... That, um... ahaha...
 C04a06010005
 
 00000000
-言葉を濁すこはるだったが、ほんのり頬を紅潮させている辺り、相応の期待をしてやって来たんだろう。
+Koharu, who was being evasive with her words, had a slightly\nflushed face, indicating that she had come with some\nexpectations.
 
 00000000
-先客がいることに驚きつつも、それで自分の予想が外れたとはあまり思っていないようだ。
+While surprised by the presence of a previous guest, it\nseems that she doesn't think her expectations were\ncompletely off.
 
 0200BC000100032C2D2C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E37362C2D
 
 00003000
-理央
-よく分かってるって感じじゃん。てことは、そろそろ……
+Rio
+You seem to have a pretty good idea. In that case, it's\nabout time...
 C03a06010012
 
 0200BC000100032C666D5F433032615F30325F305F305F305F30352F2D3236302F302E37352F302E37352C2D2C2D
 
 00003000
-友里子
-……っ……
+Yuriko
+... *silence*...
 C02a06010007
 
 00000000
-理央の言葉に、ピクリと友里子に緊張が走る。
+Rio's words made Yuriko tense up.
 
 00000000
-果たして、その言葉通り――
+"Indeed, as those words suggest--"
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -309,15 +309,15 @@ C02a06010007
 0200BC000100012C666D5F433031615F30325F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a06010001
 
 00000000
-ノックもなく、静かに部屋に入ってきたのは他でもないアリサだった。
+Without even knocking, quietly entering the room was none\nother than Arisa.
 
 00000000
-約束の時間から数分前。一番最後……アリサにしては遅かったが、それでも時刻を守る辺りは、やはりアリサらしいと言えた。
+A few minutes before the promised time. As the last one...\nAlthough it was late for Arisa, she still managed to keep\nthe time, which is characteristic of her after all.
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30325F305F305F305F3033
 
@@ -328,101 +328,101 @@ C01a06010001
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30325F305F305F305F3035
 
 00003000
-友里子
-アリサ……
+Yuriko
+Arisa...
 C02a06010008
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30325F305F305F305F3034
 
 00003000
-アリサ
-……私達をまとめて呼び出した……大体、何を考えているかは分かってるわ
+Arisa
+...You called us all together... I already have a pretty\ngood idea of what you're thinking.
 C01a06010002
 
 00002000
-拓海
-さすがアリサ……と言いたいとこだけど、どうやら皆も薄々気づいているみたいでね
+Takumi
+As expected of Arisa... is what I want to say, but it seems\nlike everyone else has a vague idea as well.
 
 0200E60001000200000000009600F9FE4C004C004C004C00E803E8030000666D5F433033615F30325F305F305F305F3032
 
 00003000
-理央
-こういう時はワンパだもんねー。ま、アタシはもらえるモンがもらえるならそれでいーけど
+Rio
+In times like this, it's all about taking the plunge, right?\nWell, as long as I can get what I want, I'm fine with that.
 C03a06010013
 
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30325F305F305F305F3037
 
 00003000
-こはる
-えと……つまり、その、そういうコトで……いいんだよね？
+Koharu
+Um... So, um, is it okay like that?
 C04a06010006
 
 0200E60001000100000000006AFFFCFE4B004B004B004B00E803E8030000666D5F433032615F30325F305F305F305F3038
 
 00003000
-友里子
-一人では足りない……いかにもあなたの考えそうなことですが……
+Yuriko
+It's not enough to do it alone... It really seems like\nsomething you would think about...
 C02a06010009
 
 00002000
-拓海
-はは、みんな察しがいいよね。そう、今日は昼間の採取をサボった分、まとめて優秀な君たちに精液をあげようと思ってね
+Takumi
+Haha, everyone is perceptive, aren't they? That's right, \nsince I skipped collecting during the day today, I thought\nI'd give all you talented ones a generous amount of semen.
 
 00000000
-そして、同時により深いマインドコントロールの支配下に置き、彼女達をまとめて僕のモノにする……。
+And at the same time, I will put them under even deeper mind\ncontrol and make them all mine...
 
 00000000
-そこは何も口にせず、僕は皆の表情を眺めやる。
+Without saying anything, I silently observe everyone's\nexpressions.
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30325F305F305F305F3033
 
 00003000
-アリサ
-……ふん、恩着せがましく言わずとも、それはあなたの義務でしょう。すぐに始めたらどうなのかしら
+Arisa
+Hmph, there's no need for you to act all high and mighty.\nIt's your duty, after all. How about we start right away?
 C01a06010003
 
 00000000
-相変わらずの居丈高な態度で、しかし微かに期待に声を震わせるアリサ。
+Arisa, with her usual haughty attitude, but with a faint\ntremor of anticipation in her voice.
 
 0200E60001000100000000006AFFFCFE4B004B004B004B00E803E8030000666D5F433032615F30325F305F305F305F3037
 
 00003000
-友里子
-射精させるのに四人ですか……役割をしっかりと決めないといけませんね
+Yuriko
+So, we need four people to make you ejaculate... We need to\ndetermine our roles properly, don't we?
 C02a06010010
 
 00000000
-あくまでも冷静な雰囲気を見せながらも、時折アリサの方を気がかりそうにチラチラと見る友里子。
+Yuriko, while maintaining a calm atmosphere, occasionally\nglances at Arisa with a worried expression.
 
 0200E60001000200000000009600F9FE4C004C004C004C00E803E8030000666D5F433033615F30325F305F305F305F3031
 
 00003000
-理央
-アタシ達揃ってなんて……ちゃんとチンポ保たせられんのぉ？
+Rio
+With all of us together... can we properly handle your dick?
 C03a06010014
 
 00000000
-挑発的に笑みを浮かべつつも、ギラリと股間への意識が鋭くなる理央。
+Rio, with a provocative smile on her face, becomes acutely\naware of her crotch.
 
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30325F305F305F305F3035
 
 00003000
-こはる
-え、えっと……頑張って、いっぱいお搾りすればいいんだよね……？
+Koharu
+U-Um... I-I guess if we work hard and extract a lot, it'll\nbe fine, right...?
 C04a06010007
 
 00000000
-相変わらずのんきに聞きながら、たぷんと立派なおっぱいを揺らすこはる。
+While casually listening, Koharu's impressive breasts sway\ngently.
 
 00000000
-ハーレム状態を前に、ギチギチになる肉棒を宥めつつ、僕はゆっくりと服を脱いでいく。
+In the face of a harem situation, I slowly undress while\nsoothing my rock-hard meat rod.
 
 00002000
-拓海
-さあ、精液をあげるから、みんなで気持ちよくして
+Takumi
+Alright, I'll give you my semen, so let's all enjoy it\ntogether.
 
 00000000
-ギンと張り詰めた勃起を見つめながら、女の子達は揃って発情を深め始めた。
+As they gazed at my rock-hard erection, the girls all began\nto deepen their arousal in unison.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

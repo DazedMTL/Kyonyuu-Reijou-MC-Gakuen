@@ -7,24 +7,24 @@
 0200000001004247303330305F62
 
 00002000
-女子学生
-理事長っ……！　本当にありがとうございましたっ……！
+Female student
+Chairman...! Thank you so much...!
 
 00002000
-拓海
-いやいや、礼を言われる程でもないよ。君みたいな年頃の女の子なら当然に思うことだよ
+Takumi
+Oh no, there's no need to thank me. It's only natural for a\ngirl your age to feel that way.
 
 00002000
-女子学生
-でも……この歳で処女のままでいることの恥ずかしさを解消してくれた上に、貴重な精液までもらえて……なんて言ったらいいか……
+Female student
+But... you not only helped me overcome the embarrassment of\nbeing a virgin at my age, but also gave me your precious\nsemen... I don't know what to say...
 
 00002000
-拓海
-お礼はいいから。また、何かあったら頼みに来てね
+Takumi
+No need for thanks. If anything happens, feel free to rely\non me again.
 
 00002000
-女子学生
-はいっ！　それでは失礼します！
+Female student
+Yes! Then, if you'll excuse me!
 
 0100200002026566666563742C65666665637420626C61636B6F75745F73686F7274
 
@@ -33,47 +33,47 @@
 0200000001004247303530305F62
 
 00000000
-処女の女子を堪能したことで晴れやかな気持ちのまま服装を整えて椅子に腰掛ける。
+The female student, feeling refreshed after enjoying her\nfirst time, tidies up her clothes and sits down on a chair.
 
 00000000
-アリサが僕の代理として……というよりも、実際には名実ともに理事長のまま仕事としてこなした書類に目を通す事にした。
+Arisa decided to go through the documents that were handled\nas the chairman's work, not just as my substitute... or\nrather, she actually fulfilled the role of the chairman in\nname and reality.
 
 00002000
-拓海
-ふーん……相変わらずだなあ。消耗品の購入や、新規教材の導入予算の報告書……あんまり見てて面白いもんじゃないな
+Takumi
+Hmmm... As usual, huh? Reports on purchasing expendables and\nintroducing new teaching materials... It's not really\ninteresting to look at.
 
 00000000
-アリサは女性優位主義としての過激思想こそ持っているものの、人脈や金銭に関しては株式なら上場企業とも言えるほどクリーンで怪しいところがない。
+Arisa may have extreme thoughts as a female supremacist, but\nwhen it comes to connections and money, she is as clean as a\npublicly traded company's stock and has no suspicious\naspects.
 
 00000000
-それだけに、僕が無駄に神経を使う必要もないし、彼女を脅迫して楽しむようなネタも見つからないだけに、この手の書類は見ても楽しくなかった。
+Therefore, there was no need for me to waste my nerves, and\nsince I couldn't find any material to enjoy by threatening\nher, looking at these kinds of documents wasn't enjoyable\neither.
 
 00000000
-最後の数枚あたりで、一つも数字が書いていない書類が見つかり、僕は興味を惹かれてその内容に詳しく目を通した。
+Towards the last few pages, I found a document that didn't\nhave any numbers written on it, and I was intrigued, so I\ncarefully read through its contents.
 
 00002000
-拓海
-なになに……『吉祥寺への報告書』　えっと、内容はと……
+Takumi
+Hmmm... What's this... "Report to Kisshouji"... Let's see, \nwhat's inside...
 
 00000000
-どうやらこれはアリサが吉祥寺一族へ向けた報告書らしく、理事長代理としての彼女が僕に発送の確認を取らせるために入れたものらしい。
+It seems that this is a report from Arisa to the Kisshouji\nfamily, and it appears that she included it to have me\nconfirm the sending as her acting chairman.
 
 00000000
-とはいえ内容はごくごく普通だ。今後この学園での優秀な卒業生を、彼女の一族の企業で積極的に雇用するための体制づくりを打診する報告書だ。
+However, the content is very ordinary. It is a report\nproposing the establishment of a system to actively employ\nexcellent graduates from this school in her family's company\nin the future.
 
 00002000
-拓海
-すごいな……海外進出もしてるアリサの企業にこの学園生での学閥を作るってことか……大企業コンツェルンはスケールが違うなあ……
+Takumi
+Wow... So Arisa's company, which is expanding overseas, is\ntrying to create a school faction with the students from\nthis academy... Big corporate conglomerates really operate\non a different scale...
 
 00000000
-興味を惹かれるというよりも感嘆してしまうが、ふとその報告書から連想したアイデアにポンと膝を打つ。
+I'm not just interested, but rather amazed by it, and\nsuddenly an idea pops into my head that I associate with\nthat report.
 
 00006000
 拓海
 そうだ……アリサの家、吉祥寺ならマスメディアにも広告を大々的に打ってるだけあって、芸能事務所の所有もあるんじゃ……
 
 00000000
-もしそうだとするなら、僕はすぐに手を打たなければいけない問題でありながらも、その状況を楽しむ絶好の手段を手に入れられる可能性がある。
+If that's the case, then I might have the potential to\nobtain a perfect means of enjoying the situation, even\nthough it's a problem that I must deal with immediately.
 
 00006000
 拓海
@@ -82,55 +82,55 @@
 0300000000000F2742474D3037
 
 00000000
-この間の初収録において、理央は快活でやや口が悪いいつも通りのキャラ作りが大受けして一気に人気ものになり、次々と仕事が舞い込んだ。
+During the recent first recording, Rio's lively and slightly\nfoul-mouthed character creation, as usual, was very well\nreceived and quickly became popular, leading to a flood of\nnew jobs.
 
 00000000
-だが、今の理央は大きな舞台に立つために、仕事をこなしつつも、学生アイドルというイメージ作りを徹底するべくこの学園に通い続けている。
+However, in order to stand on a big stage, Rio continues to\nattend this academy while fulfilling her work duties, \nthoroughly creating the image of a student idol.
 
 00000000
-学内での人気もうなぎ登りとなっているだけに、彼女の仕事熱心ぶりは余計に強まり、いつもしていた精液の採取も今は少し控えめな状態だ。
+Due to her skyrocketing popularity within the school, her\ndedication to work has intensified even more, and she has\nbeen refraining from collecting semen as much as she used\nto.
 
 00000000
-いじめの主犯格であったにも関わらず、日本中で人気者という事実が僕は気に食わない。
+Despite being the ringleader of the bullying, the fact that\nshe is popular all over Japan doesn't sit well with me.
 
 00000000
-彼女を完全に貶めて立場や夢を失わせるのは面白くなさそうだ。
+It doesn't seem fun to completely degrade her and make her\nlose her position and dreams.
 
 00000000
-そう、あの常に上から目線で、自信家ながら他人へも嫉妬し勝ち気な態度を取りつつも性に対してはぎこちないというギャップがとても愛おしい。
+Yes, that constant superiority complex, confident yet\njealous and competitive attitude towards others, and the\nawkwardness when it comes to sex... That gap is so\nendearing.
 
 00000000
-男性経験が僕しかないというのに、一度ペニスをねじ込むと、普段の高慢な態度が可愛く見えるほどによがり狂う彼女の魅力は他の女子にないものだった。
+The charm of her writhing in pleasure, her usual arrogant\nattitude becoming adorable, even though I'm the only one she\nhas had sexual experience with, is something that other\ngirls don't possess.
 
 00006000
 拓海
 そんな理央と、これからもセックスを楽しみたいし……それと、なんでだろうな、こんな気持ちになるのはばかみたいだけど……
 
 00000000
-僕は時折、理央が見せる独占欲じみた仕草に心をくすぐられ、今となっては彼女の成功を純粋に応援したいと思うようになっているのに気づく。
+I realize that I have come to be genuinely supportive of\nRio's success, despite being occasionally tickled by her\npossessive gestures.
 
 00000000
-それだけに、理央をこのままにしておくと、どこか手の届かない遠くに行ってしまうようでとても寂しい。
+"Because of that, it feels very lonely to think that Rio\nmight go somewhere far away and out of reach if I leave her\nlike this."
 
 00000000
-芸能界に行けば、僕よりもずっと素敵な男がたくさんいるだろうという焦りも相まって、今すぐにでも理央を独り占めしたい気分が燃え盛っていった。
+The anxiety that there are many more wonderful men in the\nentertainment industry than me, combined with the desire to\nmonopolize Rio right away, burned fiercely.
 
 00002000
-拓海
-よし……やることは決まったな。だとしたらすぐに行動だ……！
+Takumi
+Alright... I've made up my mind on what to do. If that's the\ncase, it's time to take action...!
 
 00000000
-僕は決意を固めると、オルゴールを片手に、この問題のキーパーソンとなるアリサを探しに行くのだった……。
+With my determination firm, I set out to find Arisa, who is\nthe key person in this issue, with a music box in hand...
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
 00003000
-理央
-よぉ……わざわざ芸能人が来てやったぞー
+Rio
+Well... Look who we have here, a celebrity coming all the\nway to see us.
 C03a05130001
 
 00000000
-理央のどこか不満そうな声が寮の自室の外から響き、僕は喜び勇んでドアを開ける。
+I eagerly open the door as Rio's dissatisfied voice echoes\nfrom outside her dorm room.
 
 03008C0000000F2753455F6130315F30303032
 
@@ -139,50 +139,50 @@ C03a05130001
 0200000001004247313130305F64
 
 00002000
-拓海
-ほら、入って入って。ずっと待ってたからさ
+Takumi
+Come on, come in. I've been waiting for you.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-はー……待つのは当然だろ…………今のアタシ、スケジュールギチギチなんだよ……
+Rio
+Ugh... It's only natural to make me wait... My schedule is\npacked right now, you know...
 C03a05130002
 
 00000000
-僕は彼女へ夜にここに来るように数日前に頼んだのだが、それが叶えられるには日数を必要とするほど仕事が混んでいたということなのだろう。
+I asked her a few days ago to come here at night, but it\nseems that her work has been so busy that it would take some\ntime for that request to be fulfilled.
 
 00000000
-撮影やテレビの仕事も増えてきた中、無理にスケジュールを合わせてくれたらしく、彼女の表情には明らかに疲れの色が見えていた。
+It seems that she went out of her way to adjust her schedule\namidst the increasing number of photo shoots and TV work, \nand there was clearly a tired expression on her face.
 
 00002000
-拓海
-まあまあ、少しゆっくりしていきなよ。疲れてるのはわかってるからさ
+Takumi
+Well, well, take it easy and relax a bit. I know you're\ntired, after all.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-ふあ～ぁ……そう、疲れてんの……で、オマエのお誘いってお茶を飲ませるってこと？
+Rio
+*sigh*... Yeah, I'm tired... So, your invitation is to have\ntea together?
 C03a05130003
 
 00002000
-拓海
-ちょっと込み入った話があってさ。理央が聞いたら、きっといいアイデアだと言ってくれるんじゃないかな、と思って
+Takumi
+I have a somewhat complicated story to tell. I thought that\nif I asked Rio, she might come up with a good idea.
 
 00003000
-理央
-あっそう……精液寄越してくれんなら相手してやるけど、それ以外のことは後日にしてくんない？　マジ眠いからさあ……
+Rio
+Oh... If you give me some semen, I'll entertain you, but can\nwe save everything else for another day? I'm seriously\nsleepy, you know...
 C03a05130004
 
 00000000
-理央は完全に冷めた態度をとっている。今までのすぐに舞い上がるような積極的な姿勢が失われていることに、正直僕は落胆を隠せなかった。
+Rio has completely taken on a cold attitude. I couldn't hide\nmy disappointment at the fact that her previously\nenthusiastic and proactive demeanor has been lost.
 
 00000000
-どうやら、責任のある仕事という優先度が、彼女の刷り込みの効果を薄れさせているのは間違いない。
+It's clear that the priority of responsible work has\ndiminished the effectiveness of her conditioning.
 
 00000000
-自ら精液を採取するというアプローチすらかけてこなくなったことがなおさらそれを伺わせている。
+It is even more evident that she has stopped making\napproaches such as collecting semen on her own.
 
 00006000
 拓海
@@ -191,74 +191,74 @@ C03a05130004
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-おーい。何ぼさっとしてんだ？　それで、要件は何？　とりあえず精液くれんの？
+Rio
+Hey there. What are you spacing out for? So, what's the\nmatter? Are you gonna give me some semen for now?
 C03a05130005
 
 00000000
-面倒なのか投げやり気味に理央は僕へ対してまくし立てる言葉をぶつけてくる。
+Rio, with a somewhat careless attitude, throws words at me, \nas if she can't be bothered.
 
 00002000
-拓海
-わかったよ、早速本題に入るね。……とりあえず、これを見てくれないかな
+Takumi
+Alright, let's get straight to the main point. ...For now, \ncould you take a look at this?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-なにこれ……名刺？　というかオマエの名前書いてね？　これがなんだってんだよ
+Rio
+What's this... a business card? Or rather, is your name\nwritten on it? What the hell is this supposed to be?
 C03a05130006
 
 00000000
-差し出した名刺を見て、理央は素っ頓狂な顔をしながら首を傾げる。
+Rio tilts her head with a bewildered expression as she looks\nat the business card I handed her.
 
 00002000
-拓海
-ほらほら……焦らないで脇に書いてある文字を見てよ。つまりはそういうことさ
+Takumi
+Hey, hey... Don't rush. Take a look at the words written on\nthe side. In other words, that's what it means.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-ん……んー…………はぁ？　芸能事務所？　つーかこんな名前の事務所、聞いたこともねーよ
+Rio
+Hm... Huh? An entertainment agency? I've never heard of a\ncompany with this name before.
 C03a05130007
 
 00002000
-拓海
-まあ、そうだね。作ったばかりなんだから
+Takumi
+Well, yeah. It's because I just made it.
 
 00000000
-マインドコントロールが解け掛けている理央は僕の言うことなら盲信するように何でも受け入れるわけではなく、猛烈に怪しむ表情で返してくる。
+Rio, whose mind control is starting to wear off, doesn't\nblindly accept everything I say as if she's under a spell.\nInstead, she returns my words with a fiercely suspicious\nexpression.
 
 00000000
-だが、これは間違いなく実在する芸能事務所であり、なおかつ多大なプロモーション力とノウハウを有している所であるのは間違いない。
+However, there is no doubt that this is a real entertainment\nagency, and furthermore, it undoubtedly possesses\nsignificant promotional power and expertise.
 
 00000000
-僕はアリサの女性地位向上という本来の目的を刺激して、社会進出をよりやりやすいようにグループが所有する芸能事務所を利用することを説いたのだ。
+I explained that by stimulating Arisa's original goal of\nimproving women's status and using the entertainment agency\nowned by the group, it would make it easier for her to\nadvance in society.
 
 00000000
-もちろん、その際はオルゴールを使用しながら、僕の語っていることが全て正しいと認識させて。
+Of course, at that time, using the music box, I will make\nsure that everything I say is recognized as true.
 
 00000000
-それにより、吉祥寺グループが所有していた芸能事務所を彼女名義にしてすぐに一度解体し、僕を社長にする形で再構築を行った。
+And so, by using the entertainment agency owned by the\nKisshouji Group and immediately dismantling it under her\nname, we reconstructed it with me as the president.
 
 00000000
-もちろん、いきなり大きな体勢でやっていける気が僕もしなかったので、そこそこ中小の規模で用意させたというわけだ。
+Of course, I didn't think I could just start off with a big\noperation, so I prepared it on a medium-sized scale.
 
 00003000
-理央
-あのよぉ……あんま舐めたことすんなよな。今は疲れてるから見逃してやっけど、元気なときにされたらただじゃ済まさないから
+Rio
+Hey... Don't underestimate me too much. I'll let it slide\nsince I'm tired right now, but if you try anything when I'm\nfeeling better, you won't get away with it.
 C03a05130008
 
 00002000
-拓海
-疑うのは当然だよね。でも、嘘だと思うなら事務所をネットで調べてみなよ
+Takumi
+It's natural to have doubts. But if you think it's a lie, \nwhy don't you try searching for the agency online?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-言われるまでもねーっての………
+Rio
+I don't need to be told that...
 C03a05130009
 
 020000000100626C
@@ -268,13 +268,13 @@ C03a05130009
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-………えっ……うそっ……マジで……実在してるし……あ、ちょっと有名な娘も所属してんの？
+Rio
+...Eh... No way... Seriously... It actually exists... Ah, \nand there are some famous girls affiliated with it too?
 C03a05130010
 
 00003000
-理央
-い、いやー…………まさかねー？　偽ページ作ったって可能性がないわけじゃないしよ……アタシ、こういう騙しのテク知り尽くしてるから
+Rio
+W-Well... It's not like there's no possibility that you\ncreated a fake page... I know all about these deceptive\ntechniques, you know...
 C03a05130011
 
 020000000100626C
@@ -284,47 +284,47 @@ C03a05130011
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-うわー……マジかよ…………ええ！？　コイツも！？
+Rio
+Wow... Seriously... Huh!? This too!?
 C03a05130012
 
 00000000
-理央は用心深く、そこに所属していたタレントのブログなどまで検索の手を伸ばしたようだが、事務所が変わったという情報が一斉に出てきて驚いていた。
+Rio was cautious and seemed to extend her search even to the\nblogs of the talents affiliated with the agency, but she was\nsurprised when the information about the change in\nmanagement suddenly came up.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-な、なぁ……アタシ、最近ＴＶにも進出してきたから……その、アタシを事務所の知名度上げのために雇う気ない？
+Rio
+H-Hey... I've recently started making appearances on TV...\nS-So, do you have any intention of hiring me to boost the\nagency's reputation?
 C03a05130013
 
 00002000
-拓海
-手のひら返し早いね
+Takumi
+You change your tune quickly, don't you?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-うっせー…………それで、どうすんだよ。アタシにわざわざ名刺を見せてきたってことはその気があるってことだろ
+Rio
+Ugh... So, what's your plan? The fact that you went out of\nyour way to show me your business card means you're serious\nabout it, right?
 C03a05130014
 
 00002000
-拓海
-まぁね。理央の才能見込んでのことだけど、ちょっとスカウトの前に理央の才能を見せてほしくてね
+Takumi
+Well, yeah. It's because I see potential in Rio's talent\nthat I wanted to see her skills before scouting her.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-何でもやってやるよ。その程度でビビってるようじゃ芸能界なんて目指してねーよ！
+Rio
+I'll do anything. If you're scared of something like that, \nthen you shouldn't aim for the entertainment industry!
 C03a05130015
 
 00000000
-自分の胸をどんと叩いて自信たっぷりに宣言する理央の姿を見て、僕はこの計画を立てて正しかったと確信する。
+Seeing Rio confidently declare with a firm tap on her chest, \nI am convinced that I made the right decision in formulating\nthis plan.
 
 00000000
-そして入念に準備したこの部屋の設備を使い、理央と僕はテストを行っていくことにするのだった……。
+And so, using the carefully prepared equipment in this room, \nRio and I decided to proceed with the test...
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

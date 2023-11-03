@@ -9,209 +9,209 @@
 0200000001004247303530305F62
 
 00002000
-拓海
-おはようございます
+Takumi
+Good morning.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-アリサ
-ええ、おはよう
+Arisa
+Yes, good morning.
 C01a04030001
 
 00003000
-友里子
-おはようございます
+Yuriko
+Good morning.
 C02a04030001
 
 00000000
-朝の理事長室。
+In the morning at the principal's office.
 
 00000000
-部屋に入ってくる僕を、既に先にいたアリサも、友里子も何の疑いを持つことなく受け入れた。
+Both Arisa and Yuriko, who were already in the room, \naccepted me without any suspicion.
 
 00000000
-正直、この部屋がここまで居心地のいいものになるとは思わなかった。
+Honestly, I didn't expect this room to become so\ncomfortable.
 
 00000000
-都合のいい思い込ませによる肩書きではあったけど、それでも偉くなった気分になってしまうからだろうか。
+It may just be a convenient assumption, but it still makes\nme feel important.
 
 00000000
-当然、今の僕がそこに相応しい存在であるとは思ってない。
+Of course, I don't think I'm a suitable presence there right\nnow.
 
 00000000
-立場が人を作るなんて話はあるけど、これだけ段階をすっ飛ばして、自分がそうなれるなんて思わない。
+"There's a saying that your position shapes you, but I don't\nthink I can become like that by skipping so many steps."
 
 00006000
 拓海
 まあ、アリサなんかは、それを実践しちゃってるのが凄いけど……
 
 00000000
-今日も今日とて、アリサは友里子と熱心に僕には理解も把握も出来ない案件をテキパキとこなしていっている。
+Today, as always, Arisa is diligently handling tasks that I\ncan't understand or grasp with Yuriko's help.
 
 00003000
-友里子
-理事会からの報告と確認は以上になります
+Yuriko
+That concludes the report and confirmation from the board of\ndirectors.
 C02a04030002
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-ありがとう。後は、教師たちの方に振り分けてこの件は大丈夫ね
+Arisa
+Thank you. After this, we'll distribute it to the teachers, \nso this matter should be fine.
 C01a04030002
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい。後はもう一つ……ご指示のあった本家の話ですが……
+Yuriko
+Yes. There's one more thing... It's about the main family\nmatter that you instructed us about...
 C02a04030003
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-やはり、介入してくる可能性は高そうなのね……？
+Arisa
+As I thought, there seems to be a high possibility of\ninterference, huh...?
 C01a04030003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-まだ直接的な人事はないでしょうが、報告内容の細分化や、規制の指示など、既に運営への介入は始まろうとしています
+Yuriko
+There may not be any direct personnel changes yet, but there\nare already indications of intervention in the form of\ndetailed reporting and instructions for regulations from the\nmanagement.
 C02a04030004
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-私達が理事に入って何が出来ると、嘗めてかかってたいたんでしょうね。相変わらず判断の遅いこと……
+Arisa
+They must have underestimated what we can do as board\nmembers. They're as slow in their judgment as ever...
 C01a04030004
 
 00003000
-友里子
-ですが、お陰でこちらも手が打ちやすいですから。あまり露骨な役員人事は出来ないでしょうし
+Yuriko
+However, thanks to that, it's easier for us to take action.\nThey probably won't be able to make any blatant personnel\nchanges, so
 C02a04030005
 
 00003000
-アリサ
-そうね……引き続き、警戒は怠らないようにして頂戴
+Arisa
+Yes... We should continue to remain vigilant and not let our\nguard down.
 C01a04030005
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-心得ました
+Yuriko
+Understood.
 C02a04030006
 
 00000000
-全て承知しているとばかりに、友里子は頼もしく頷いた。
+Yuriko nodded reassuringly as if she understood everything.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-……本当に……友里子がいなかったら、私はどうなっていたのかしらね
+Arisa
+...I wonder what would have happened to me if Yuriko wasn't\nhere...
 C01a04030006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-え……
+Yuriko
+Eh...
 C02a04030007
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-あなたが協力してくれているお陰でここまで来れた。感謝しているわ
+Arisa
+Thanks to your cooperation, I've been able to come this far.\nI'm grateful.
 C01a04030007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30352F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そんな……もったいないお言葉です
+Yuriko
+Oh... That's such a waste of kind words.
 C02a04030008
 
 00000000
-アリサの労いの言葉に、友里子は慌てて首を振って謙遜した。
+Yuriko hurriedly shook her head in modesty at Arisa's words\nof praise.
 
 00000000
-雨降って地固まるとはよく言ったものだろうか。二人の関係は、前回からより密に、強固になったようにも窺える。
+"Did they say that rain strengthens the ground? It seems\nthat the bond between the two of them has become even closer\nand stronger since last time."
 
 00006000
 拓海
 けど……
 
 00000000
-アリサは普通の女性ではない。
+Arisa is not an ordinary woman.
 
 00000000
-プライドが高く、それに伴う承認欲求の強さも人一倍。
+Arisa's pride is high, and her desire for approval is\nstronger than most.
 
 00000000
-今まで、どこであっても最頂点にいただけあって、ちやほやされるのが当たり前のような中を生きてきた。
+"I have lived in a world where being at the top and\nreceiving constant praise wherever I go has been the norm."
 
 00000000
-だが、その傍らには常に影として寄り添ってきた友里子の存在がいた。
+However, by her side, there has always been Yuriko, who has\nbeen constantly supporting her like a shadow.
 
 00000000
-アリサの威光は、その友里子が増幅させている面も少なからずある。
+Arisa's authority is undoubtedly amplified by Yuriko to some\nextent.
 
 00000000
-その友里子の能力は、アリサに優るとも劣らない……無論、それぞれの得手不得手はあれど、所々でアリサを凌ぐ一面もある。
+Yuriko's abilities are not inferior to Arisa's... Of course, \neach of them has their own strengths and weaknesses, but\nthere are also aspects where Yuriko surpasses Arisa in\ncertain areas.
 
 00000000
-これまで、そこをわざわざ指摘する人間はどこにもいなかった。
+No one has ever pointed out that aspect until now.
 
 00000000
-だからこそ、その身近な存在を意識させてやることで、気づいていなかったコンプレックスを呼び覚ましたのだ。
+That's why, by making her aware of the presence of someone\nclose to her, I awakened the complexes she hadn't noticed.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-そうだわ。久しぶりに食堂でお茶を頂きましょうか。ケーキをご馳走するわ
+Arisa
+That's a good idea. Let's have tea at the cafeteria after a\nlong time. I'll treat you to some cake.
 C01a04030008
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい、ありがとうございます。お供します
+Yuriko
+Yes, thank you very much. I will accompany you.
 C02a04030009
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-そういうことだから、私達は今日はこれで失礼するわ
+Arisa
+That's why, we'll take our leave for today.
 C01a04030009
 
 00002000
-拓海
-はいはい、お疲れ様。僕もこれで帰るから、ごゆっくりどうぞ
+Takumi
+Alright, alright. Good work today. I'll be heading home now, \nso please take your time and relax.
 
 00000000
-もちろん僕が誘われる筈もなく、自分から手を振って先に部屋を出た。
+Of course, there was no way I would be invited, so I waved\ngoodbye and left the room first.
 
 020000000100626C
 
 0200000001004247303330305F62
 
 00002000
-拓海
-…………さて、これからどうしたものかな
+Takumi
+...Well, what should I do from now on?
 
 00000000
-アリサと友里子の関係は強固になった……と見せかけて、まだどこか綻びが見える気がする。
+It seems like Arisa and Yuriko's relationship has become\nstronger... but I still feel like there are some cracks\nsomewhere.
 
 00000000
-とりあえず二人同時にする前に、また個別に切り崩していくことを考えてみようか。
+Maybe we should consider breaking them down individually\nagain before trying to bring them together at the same time.
 
 0100200002026566666563742C656666656374206B6169736F75
 
@@ -220,18 +220,18 @@ C01a04030009
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00000000
-隠れたコンプレックスが見え隠れし、家のことでも苛立ちを強めて隙を見せているアリサか。
+So Arisa, who is showing glimpses of hidden complexes and\ngrowing frustration even in household matters, huh?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00000000
-自分の能力の高さに無自覚であるが故に、アリサを不安にさせていることに気づけずにいる友里子か。
+Is Yuriko, who is unaware of her own abilities, making Arisa\nanxious without realizing it?
 
 00000000
-どちらにしても、最終的には二人揃って報いを受けさせてやる……そのことに違いはない。
+In any case, in the end, I will make sure both of them\nreceive their due reward... There is no doubt about that.
 
 00000000
-あれこれと意識を巡らせながら、僕は――
+While pondering over various things, I...
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

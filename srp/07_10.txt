@@ -11,138 +11,138 @@
 0200000001004247303530305F62
 
 00000000
-アリサを父親の前で犯し抜いてから、何日かが経過して。
+It has been several days since I violated Arisa in front of\nher father.
 
 00000000
-理事長室には、また新たな吉祥寺家の人間が訪れていた。
+In the chairman's office, another member of the Kisshouji\nfamily had come to visit.
 
 0300000000000F2742474D3039
 
 020000000100666D5F3035395F30303031
 
 00003000
-女性Ａ
-……ど、どうなってるの……これはっ……んっ、くぅっ……
+Female A
+...W-What's happening... This is... ngh, kuuh...
 C05k07100001
 
 00003000
-女性Ｂ
-か……身体が……くっ……うぅっ、どうして……っ……
+Female B
+My... body... *groan*... Why... *gasp*...
 C05l07100001
 
 00003000
-女性Ｃ
-ふざけたことはやめなさいっ！　は、離すのよっ！
+Female C
+Stop fooling around! L-Let go!
 C05m07100001
 
 00000000
-理事長室のソファに、女性が三人。両手をついた格好で、怯えた表情を見せている。
+In the chairman's office, there are three women on the sofa.\nThey are on all fours, showing frightened expressions.
 
 00000000
-意識はしっかりと保っているが、首から下は一切言うことをきかない。直前に仕込んだマインドコントロール通りの状態だ。
+I am conscious and aware, but I cannot move or speak from\nthe neck down. It is exactly as I programmed with mind\ncontrol just before.
 
 00002000
-拓海
-まぁまぁ、落ち着いて。そんなに騒いだって、誰にも聞こえやしませんよ？
+Takumi
+Well, well, calm down. Even if you make such a fuss, nobody\nwill hear you, you know?
 
 020000000100666D5F3035395F30303032
 
 00003000
-女性Ａ
-何を考えてらっしゃるのっ！　近付かないでっ、誰かっ、誰かぁーっ！
+Female A
+What are you thinking?! Don't come any closer! Someone, \nanyone!
 C05k07100002
 
 00002000
-拓海
-だから、聞こえないって言ってるのに。分からない人だなぁ
+Takumi
+I already told you that no one can hear you. You really\ndon't understand, huh?
 
 00000000
-余裕たっぷりの僕の言葉に、彼女たちがそのまま大人しくなる筈もない。
+There's no way these girls would just obediently listen to\nmy calm words.
 
 00000000
-だが、そんな必死さたっぷりの様子は、いつも言いなりになるばかりの女子たちを見ているだけに中々新鮮な反応だった。
+However, seeing these girls who are usually so obedient\nreact with such desperation was quite refreshing.
 
 00002000
-拓海
-ま、何となくこれからどうなるか分かってるなら、話が早くていいけどね
+Takumi
+Well, if you already have an idea of what's going to happen\nfrom now on, then we can cut to the chase.
 
 020000000100666D5F3035395F30303033
 
 00003000
-女性Ｂ
-…………っ……そんな……
+Female B
+... *groan* ... No way...
 C05l07100002
 
 00003000
-女性Ｃ
-ま、まさか……
+Female C
+N-No way...
 C05m07100002
 
 00002000
-拓海
-えぇと……左から吉祥寺沙也加さん、駒場綾乃さん、吉祥寺律子さん？　お嬢様に、お付きのメイド、お母さんと
+Takumi
+Um... From the left, we have Kisshouji Sayaka-san, Komaba\nAyano-san, and Kisshouji Ritsuko-san? The young lady, the\nattendant maid, and the mother.
 
 00003000
-沙也加
-ひっ……！？
+Sayaka
+Huh...!?
 C05k07100003
 
 00003000
-律子
-あ、あなたは一体何者なのっ！　何故、そんなことをっ……！
+Ritsuko
+W-Who are you?! Why would you do something like that...?!
 C05m07100003
 
 00002000
-拓海
-知ってるかって、そりゃあ分かりますよ。お家の人から直接聞いたんですから
+Takumi
+"Do you think I know? Well, of course I do. I heard it\ndirectly from someone in your family."
 
 00000000
-得体が知れぬだろう僕の言葉に、三人の表情は恐怖にひきつっていた。
+The expressions of the three of them twisted in fear at my\nincomprehensible words.
 
 00000000
-そう、僕は先日の吉祥寺家の訪問時に改めてマインドコントロールを施し、吉祥寺家の女にこの学園に来るよう指示を出したのだ。
+Yes, I applied mind control again during my recent visit to\nthe Kisshouji family and instructed the women of the\nKisshouji family to come to this school.
 
 00002000
-拓海
-ま……この間、吉祥寺家の方々がしでかした不始末をね、あなたがたに埋め合わせしてもらおうと思いまして
+Takumi
+Well... I thought I would have you make up for the mess that\nthe Kisshouji family caused the other day.
 
 020000000100666D5F3035395F30303034
 
 00003000
-沙也加
-どういうことっ？　私達が何をしたっていうんですのっ！？
+Saya
+What do you mean? What did we do?!
 C05k07100004
 
 00000000
-いかにも温室で育てられたという世間知らずそうな、アリサの異母姉に当たる沙也加が喚き散らした。
+Arisa's half-sister, Sayaka, who seemed completely sheltered\nand ignorant of the world, shouted in protest.
 
 00003000
-律子
-っ……アリサね？　そうだわ……あの子が、いよいよあの時のことを……！
+Ritsuko
+Ah... Arisa, right? That's right... That girl, she's finally\nstarting to remember what happened back then...!
 C05m07100004
 
 00000000
-かなり気性の激しそうな、アリサの義母に当たる律子がハッとしたように唇を噛む。
+Ritsuko, who serves as Arisa's stepmother and seems to have\na rather fiery temperament, bites her lip in surprise.
 
 00002000
-拓海
-ふぅーん、要するにお母さんには一応の心当たりはありますと。まあ、そう的外れって訳でもないですけど
+Takumi
+Hmmm, well, I do have a rough idea about your mother. Well, \nit's not completely off the mark.
 
 00000000
-義姉の沙也加はともかく、義母の律子であれば、当然アリサの実母についてのあれこれは把握しているだろう。
+As for Sayaka, Arisa's half-sister, she might not know much, \nbut if it's Ritsuko, Arisa's stepmother, she would naturally\nbe aware of various details about Arisa's biological mother.
 
 00000000
-これがアリサの復讐だと考えるのは自然だろうし、実際大義名分としてはちょうどいい。
+It's natural to think that this is Arisa's revenge, and in\nfact, it's a perfect justification.
 
 00002000
-拓海
-ま、どんな風に考えてもらうのも好き好きってことで、どれどれ……
+Takumi
+Well, everyone has their own way of thinking, so let's\nsee...
 
 020000000100666D5F3035395F30303033
 
 00003000
-沙也加
-ひっ！？　い、いやっ、あっ……触らないでっ！　いやぁぁぁっ！
+Saya
+Huh!? N-No, don't... don't touch me! Noooo!
 C05k07100005
 
 03008C0000000F2753455F6130395F30303031
@@ -150,153 +150,153 @@ C05k07100005
 020000000100666D5F3035395F30303037
 
 00000000
-まず、沙也加の真後ろにつき、そのスカートを捲り上げる。
+First, I will stand right behind Sayaka and lift up her\nskirt.
 
 00002000
-拓海
-おぉー、さすがに肌ツヤは綺麗だよね。うちの学生の中でもかなりのレベルじゃないかな
+Takumi
+Oh, your skin is really beautiful. It's at quite a high\nlevel even among our students, isn't it?
 
 020000000100666D5F3035395F30303038
 
 00003000
-沙也加
-見ないでっ！　あぁっ、そんな所を見てはだめっ！
+Sayaka
+Don't look! Ahh, you can't look at that kind of place!
 C05k07100006
 
 00002000
-拓海
-もちろん見てるだけじゃ終わりませんよ。ちゃんと、中身も味わいますから
+Takumi
+Of course, it won't end with just looking. I'll properly\nsavor the contents too.
 
 020000000100666D5F3035395F30303037
 
 00003000
-沙也加
-ひぃっ！？　なっ、何をしてるのっ……あっ、なにこれっ、ひっ、いやぁっ！
+Saya
+Eeek!? W-What are you doing... Ah, what's this... No, nooo!
 C05k07100007
 
 00000000
-肉棒を取り出し、軽く割れ目をなぞってやるだけで、滑稽な悲鳴が次々とこぼれ出た。
+I took out my meat rod and lightly traced along her slit, \ncausing comical screams to spill out one after another.
 
 020000000100666D5F3035395F30303039
 
 00003000
-綾乃
-ま、待ってください！　私がっ……私が代わりになりますからっ、お嬢様と奥様はどうかお許しを……！
+Ayano
+P-Please wait! I... I will take their place, so please\nforgive the young lady and the madam...!
 C05l07100003
 
 00002000
-拓海
-ん？
+Takumi
+Hm?
 
 00000000
-見かねてそんな申し出をするのは、メイドの綾乃だ。
+Ayano, the maid, couldn't bear to see that and made such a\nproposal.
 
 00000000
-そういう教育を施されてきたのか、はたまた責任感の現れなのか、声を震わせながらも気丈に身代わりを申し出てくる。
+Ayano, trembling voice and all, bravely offers to take their\nplace, whether it's because of the education she has\nreceived or a manifestation of her sense of responsibility.
 
 00002000
-拓海
-ふぅん、なかなか健気なもんで……そうだなぁ……
+Takumi
+Hmmm, quite admirable... I suppose...
 
 00003000
-沙也加
-そ、そうですわっ！　綾乃ならば許して差し上げますっ。これまでの非礼も、見逃してあげましょう！
+Saya
+Y-Yes, that's right! If it's Ayano, I will forgive her. I\nwill overlook her previous rudeness as well!
 C05k07100008
 
 020000000100666D5F3035395F30303130
 
 00003000
-律子
-そうよっ！　この子はまだ生娘で、あなたを絶対に満足させられるわ。身分もちょうどお似合いでしょうし……
+Ritsuko
+That's right! This girl is still a virgin, and she will\ndefinitely satisfy you. Her status suits you perfectly as\nwell...
 C05m07100005
 
 00003000
-沙也加
-私たちに手を出したら吉祥寺家が黙っていませんわ！　考えなおすなら、今しかありませんわよ！
+Saya
+If you lay a hand on us, the Kisshouji family won't stay\nsilent! If you want to reconsider, now is your only chance!
 C05k07100009
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-一瞬、それはこのメイドを守るための、彼女達なりの身代わりアピールなのかと思った。
+For a moment, I thought it was their way of appealing to\nprotect this maid by offering themselves as substitutes.
 
 00000000
-だが、どうやら雰囲気から察するに、本気で自分の状況も分かってないまま選民思想を振りかざしているだけらしい。
+However, judging from the atmosphere, it seems that they are\njust waving around their elitist ideology without truly\nunderstanding their own situation.
 
 00002000
-拓海
-こんな人達のお世話も大変だねぇ。ま、君も後でゆっくり可愛がってあげるからね
+Takumi
+Taking care of these kind of people is quite a hassle, huh.\nWell, I'll make sure to take care of you later, so don't\nworry.
 
 00003000
-綾乃
-あ……い、いけませんっ、どうかお嬢様はっ……！
+Ayano
+Ah... N-No, this is not acceptable! Please, don't involve\nthe young lady...!
 C05l07100004
 
 00002000
-拓海
-悪いけど、君に引き止められるだけの材料はないでしょう？　という訳で……
+Takumi
+Sorry, but I don't think you have enough material to stop\nme. So...
 
 020000000100666D5F3035395F30303039
 
 00003000
-沙也加
-ひぃっ！　ど、どうしてっ、あっ……あぁぁっ、何で私がっ！
+Saya
+Eeek! W-Why... Ah... Ahhh, why me?!
 C05k07100010
 
 00000000
-再び無防備な割れ目に肉棒を押し当てると、沙也加はヒステリックに怯えた叫びをあげた。
+Saya let out a hysterical scream as the meat rod was pressed\nagainst her defenseless slit once again.
 
 00002000
-拓海
-うーん、ちょっと触った位じゃ、全然濡れて来ないし……この緊張っぷり……沙也加は初めてなのかな？
+Takumi
+Hmm, even though I touched her a bit, she's not getting wet\nat all... This level of tension... Is Saya a virgin?
 
 00003000
-沙也加
-あっ……やめて……来ないでっ、お金なら幾らでも渡しますからっ！
+Saya
+Ah... Please stop... Don't come near me! I'll give you as\nmuch money as you want, so please...!
 C05k07100011
 
 00002000
-拓海
-お金はいいから、質問に答えてよ。ねぇ、沙也加は処女なの？
+Takumi
+Forget about the money, just answer my question. Hey, Saya, \nare you a virgin?
 
 00000000
-つんつんと入り口を勃起で小突きながら、改めて聞き直す。
+While poking at the entrance with an erect penis, I ask\nagain.
 
 00003000
-沙也加
-っ……あっ、あぁっ……！
+Saya
+*gasps* Ah... Ahh...!
 C05k07100012
 
 00002000
-拓海
-悲鳴ばかりじゃ、分からないでしょ？　早くしないと入っちゃうよ？
+Takumi
+If you keep screaming, you won't understand, right? If you\ndon't hurry, I'll enter you.
 
 020000000100666D5F3035395F30303131
 
 00003000
-沙也加
-まっ……待って！　処女ですっ！　男性経験は一度もありませんわっ、ですからっ……！
+Saya
+W-Wait! I'm a virgin! I've never been with a man before, \nso...!
 C05k07100013
 
 00002000
-拓海
-そうか、やっぱり初めてかぁ。うん、ちゃんと教えてくれてありがとう。よく言えました
+Takumi
+I see, so it's your first time after all. Well, thank you\nfor telling me honestly. You said it well.
 
 020000000100666D5F3035395F30303039
 
 00003000
-沙也加
-は……はい……
+Saya
+Y-Yes...
 C05k07100014
 
 00000000
-まるで小さい子を褒めるような僕の言葉に、沙也加は一瞬ほっと安堵の表情をみせる。
+Saya briefly shows a relieved expression, as if I were\npraising a small child.
 
 00002000
-拓海
-ま、だからどうってこともないんだけどね。んっ……！
+Takumi
+Well, it's not really a big deal, though. Mmm...!
 
 0300C21000000F275345485F495F303031
 
@@ -305,213 +305,213 @@ C05k07100014
 020000000100666D5F3035395F30303131
 
 00003000
-沙也加
-ひぎっ！？
+Saya
+Eeek!?
 C05k07100015
 
 00000000
-全くの無造作に貫かれた衝撃に、沙也加は今まで出したことのないような悲鳴を上げていた。
+The impact of being penetrated so carelessly caused Saya to\nlet out a scream like she had never done before.
 
 00002000
-拓海
-んっくっ……さすがに、キツいね。んっ、でも……入らないことも、ない、かな……んむっ
+Takumi
+Nnku... It's tight, as expected. Nn, but... I guess it's not\nimpossible to enter... Nm...
 
 020000000100666D5F3035395F30303039
 
 00003000
-沙也加
-やっ、めてぇっ！　いっ、あぁっ、痛いっ！　いやぁぁっ、来ないでぇっ！
+Saya
+S-Stop! I-It hurts! N-No, don't come!
 C05k07100016
 
 00000000
-強く押し返すような抵抗を感じながらも、ゆっくり少しずつ、着実に肉棒をめり込ませていく。
+Slowly and steadily, while feeling a resistance as if\npushing back strongly, I gradually insert my meat rod.
 
 00000000
-まだぬかるみには程遠かったが、ざらざらした感触を先端に味わいながら、やがて半ば近くまで挿入が果たされる。
+It was still far from being completely submerged, but while\nsavoring the rough sensation on the tip, eventually it was\ninserted halfway.
 
 00002000
-拓海
-ふぅぅ……中々のキツさだったけど、何とかいいとこまで入りましたよ
+Takumi
+*sigh* It was quite tight, but I managed to enter up to a\ngood point.
 
 020000000100666D5F3035395F30303131
 
 00003000
-沙也加
-うぅっ、うくっ、あぁ……どうして、ちゃんと言ったのに……何で私が……こんなことにぃ……
+Saya
+Ugh, uku, ahh... Why, even though I told you properly... Why\nme... to end up like this...
 C05k07100017
 
 00000000
-目に涙を溜めながら、嗚咽混じりに沙也加が怨嗟の言葉を口にする。
+Saya, with tears in her eyes, choked out words of\nresentment.
 
 00003000
-沙也加
-初めては……心に決めた……殿方にって……なのに……うっ、うぐっ……
+Sayaka
+I've made up my mind... to give myself to a man for the\nfirst time... and yet... ugh, ah...
 C05k07100018
 
 00002000
-拓海
-それは悪かったねぇ。だったら、その殿方を僕にしちゃったらいいんじゃない？
+Takumi
+I'm sorry about that. If that's the case, why don't you just\nchoose me as your partner?
 
 00000000
-欠片も悪びれずに言いながら、僕は再び肉棒をゆっくりと引き抜きにかかる。
+Without a hint of remorse, I slowly begin to withdraw my\nmeat rod once again.
 
 020000000100666D5F3035395F30303039
 
 00003000
-沙也加
-く……ぁっ……！　んくぅっ……
+Sayaka
+Ku... Ahh...! Nnkuu...
 C05k07100019
 
 020000000100666D5F3035395F30303132
 
 00002000
-拓海
-うわっと、こりゃ確かに初めてだ。結構、血が出ちゃったね
+Takumi
+Whoa, this is definitely my first time. Quite a bit of blood\ncame out, huh.
 
 00000000
-肉棒にも擦り切れて滲んだ赤みの雫が、トロっと付いたのがよく見える。
+The droplet of redness, worn and oozing from the rubbed meat\nrod, can be clearly seen, sticking thickly.
 
 00000000
-だが、その初めてを奪った証しを見ていると、それだけでジワジワと僕の股間に熱い疼きが広がっていくのを自覚する。
+However, as I gaze upon the proof of taking her first time, \nI become aware of a hot throbbing sensation spreading in my\ncrotch.
 
 00002000
-拓海
-ふふっ、しょうがないな……なら、ちょっとゆっくりにして労ってあげないとね
+Takumi
+Hehe, can't be helped... If that's the case, I'll have to\ntake it slow and comfort you a little.
 
 00000000
-あくまでも、行為をやめるという選択はなかった。
+There was never an option to stop the act.
 
 00000000
-窮屈な隘路を再び力ずくで押し込み、少しずつその膣道をこじ開けていく。
+I forcefully push my way through the narrow passage, \ngradually prying open her vaginal pathway.
 
 0300D21000000F275345485F505F313031
 
 020000000100666D5F3035395F30303133
 
 00003000
-沙也加
-いたっ……くぅぅぅっ……あぐっ、くぅぅぅっ……！
+Saya
+Ouch... Kuuhhh... Agghh... Kuuhhh...!
 C05k07100020
 
 00002000
-拓海
-まだかなり痛いみたいだね。僕は、このキツさ……かなりいい具合なんだけど
+Takumi
+It still seems quite painful for you. This tightness... is\nactually quite satisfying for me.
 
 020000000100666D5F3035395F30303132
 
 00003000
-沙也加
-はぁっ、ふっ……んぁ……あぁ……抜いてぇ……
+Saya
+Haa... Fuu... Nngh... Aah... I want you to pull out...
 C05k07100021
 
 00002000
-拓海
-まぁまぁ、もう少しの辛抱だよ。後ちょっとで、感じる世界がガラッと変わってくるからね
+Takumi
+Well, well, just hold on a little longer. In just a little\nwhile, the world you feel will completely change.
 
 020000000100666D5F3035395F30303133
 
 00003000
-沙也加
-ふっ、はっ、んんっ……何が……んぁっ……く！
+Saya
+Huh, ha, nngh... What is... ngh... ku!
 C05k07100022
 
 00000000
-緩やかな抽送を息も絶え絶えに堪える沙也加に、僕は少しずつ狙いを絞り、アリサの弱点と同じ場所を擦りあげる。
+I gradually narrow down my aim, rubbing against Saya, who is\nbarely enduring the gentle thrusts, in the same spot as\nArisa's weak point.
 
 00003000
-沙也加
-ひっ……んんっ、くっ、ぁぅっ……はっ……あぁ……っく！
+Saya
+Hii... Nnngh, ku... Ahh... Haa... Aah...!
 C05k07100023
 
 00002000
-拓海
-どう、そろそろ気持ちよくなって来たんじゃない？
+Takumi
+How about it? Aren't you starting to feel good now?
 
 020000000100666D5F3035395F30303132
 
 00003000
-沙也加
-んぐっ、はっ、んふっ……あっ、ふっ……んぅっ？
+Saya
+Nng... Ha... Nfu... Ah... Fuu...?
 C05k07100024
 
 00000000
-小さく首を振り続けていた沙也加の様子が、次第に変わり始めていた。
+Saya, who had been shaking her head slightly, gradually\nbegan to change her demeanor.
 
 00000000
-予め施してあったマインドコントロール。セックスを続ける程に、痛みはちゃんと快感に変化する……シンプルだが、それは覿面。
+The mind control that had been applied beforehand. As we\ncontinue having sex, the pain gradually transforms into\npleasure... It's simple, but it works like a charm.
 
 020000000100666D5F3035395F30303134
 
 00003000
-沙也加
-んぁっ……はっ、ひっ、なっ……そんな……筈、んんっ、あっ、こ、こんなの……あっ……
+Saya
+Ngh... Ha, hi, na... Like that... It shouldn't be... Nnn...\nAh, th-this kind of... Ah...
 C05k07100025
 
 00002000
-拓海
-どう？　セックス……そろそろ感じ始めて来たんじゃない？
+Takumi
+How about it? Sex... Aren't you starting to feel it soon?
 
 020000000100666D5F3035395F30303132
 
 00003000
-沙也加
-ちが……私……そんなこと、んぅっ、あ、ある筈……あっ、んひぅん！
+Saya
+No... I... There's no way... *moans* Ah, it should be... Ah, \n*gasps*!
 C05k07100026
 
 00002000
-拓海
-っと、この辺か。やっぱりアリサとはちょっとだけポイントも違うけど……でも、まぁ近いとこだよね
+Takumi
+Ah, around here. The points are a little different from\nArisa's, as expected... but well, it's still pretty close.
 
 020000000100666D5F3035395F30303134
 
 00003000
-沙也加
-はっ、んふっ、い、今の……あっ……んんっ、何で……あっ、あぁっ！
+Saya
+Hah... Nfuh... I-Is that... Ah... Nnn... Why... Ah, ahh!
 C05k07100027
 
 00000000
-苦悶の吐息は、次第に悩ましいものへと変貌し、涙を浮かべていた目も蕩け始めていた。
+The sighs of agony gradually transformed into something\ntantalizing, and the eyes that were filled with tears began\nto melt.
 
 00000000
-自分の身体に何が起こっているかわからない……だが、着実に痛みはなくなり、代わりに甘美な刺激が広がっていく。
+I don't know what's happening to my body... but the pain is\nsteadily disappearing, and in its place, a sweet sensation\nis spreading.
 
 00002000
-拓海
-おっと……濡れ方も、よくなって来たね。ほら、前よりスムーズだよ
+Takumi
+Oh... Your wetness has improved too. See, it's smoother than\nbefore.
 
 0300D21000000F275345485F505F313032
 
 00003000
-沙也加
-ふぁっ……！　なっ……そんな……ことっ、あっ、あぁっ、何でっ、あぁっ！
+Saya
+Ahh...! Ngh... Like that... I-I can't believe... Ah, ahh...\nWhy... Ahh!
 C05k07100028
 
 0200EF10054563735F4E6176695F303035
 
 00000000
-僕の言葉を否定したくても、少しずつ速くなる抽送に気づけば嬌声を上げている。
+If you try to deny my words, you'll notice that your moans\nare getting louder with each thrust.
 
 0200EF10054563735F4E6176695F303034
 
 00000000
-沙也加自身も気がついて、羞恥に頬を紅潮させていくと、いよいよもう止まらない。
+Saya herself also realizes it, and as her cheeks flush with\nembarrassment, it's finally unstoppable.
 
 0200EF10054563735F4E6176695F303033
 
 00002000
-拓海
-ふふっ、やっぱり僕はその戸惑ってるのに感じてるって表情に弱いみたい。あぁ……ジワジワ来た来た
+Takumi
+Hehe, it seems I'm weak to the expression of confusion mixed\nwith pleasure. Ah... It's gradually coming, coming.
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-久々に味わった初物の窮屈さに、もう身体も長くはもたない。
+The unfamiliar tightness that I haven't experienced in a\nwhile is already taking its toll on my body.
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-んっ……くっ……やっぱダメだ……くうぅっ！
+Takumi
+Ngh... *grunts* It's still not working... *groans*
 
 0200EF10002D
 
@@ -520,37 +520,37 @@ C05k07100028
 020000000100666D5F3035395F30303135
 
 00003000
-沙也加
-ひぁっ！？
+Saya
+Huh?!
 C05k07100029
 
 00000000
-もう少し中を楽しみたい……その気持ちもあっさりと挫け、そのまま沙也加の中に射精する。
+I want to enjoy the inside a little more... Giving in to\nthat desire easily, I ejaculate inside Saya.
 
 020000000100666D5F3035395F30303136
 
 00003000
-沙也加
-なっ、んぁっ……なっ、なにっ……あっ……ま、まさかっ……！
+Saya
+Ngh... Wha... What... Ah... No way...!
 C05k07100030
 
 00002000
-拓海
-んっ……ふっ、ごめんね。一応、先に言うのがマナーなんだろうけど、我慢出来なかったよ
+Takumi
+Ngh... *sigh* Sorry. I know it's proper to say it\nbeforehand, but I couldn't hold back.
 
 00003000
-沙也加
-あ……出されて……？　あっ、あぁっ、そんなっ、そんなのだめぇっ、いやぁぁっ！
+Sayaka
+Ah... I'm being released...? Ah, ahh... That's no good, \nthat's no good, nooo...
 C05k07100031
 
 00000000
-何が起こったか理解できないでいた沙也加が、次第に膣内射精を受けたことに気づくと、みるみるその顔が青ざめていく。
+As Sayaka, who couldn't understand what was happening, \ngradually realizes that she has been ejaculated inside, her\nface quickly pales.
 
 020000000100666D5F3035395F30303135
 
 00003000
-沙也加
-何で……あぁっ、妊娠しちゃう……どうして……あぁぁ……
+Sayaka
+Why... Ahh, I'm going to get pregnant... Why... Ahhh...
 C05k07100032
 
 0300C21000000F275345485F495F323031
@@ -558,225 +558,225 @@ C05k07100032
 020000000100666D5F3035395F30303035
 
 00002000
-拓海
-大丈夫、いざとなったら何とでも責任はとるから。という訳で、次は……
+Takumi
+Don't worry, if it comes down to it, I'll take\nresponsibility no matter what. So, next...
 
 00000000
-メイドの綾乃を飛び越えて、アリサの継母である律子のスカートを捲り上げる。
+I jump over the maid Ayano and lift up the skirt of Arisa's\nstepmother, Ritsuko.
 
 03008C0000000F2753455F6130395F30303031
 
 020000000100666D5F3035395F30303137
 
 00003000
-律子
-なっ……！？　あっ、ま、待ちなさい！　違うのっ、違うのよっ！
+Ritsuko
+Ngh...! Ah, w-wait! It's not... it's not like that!
 C05m07100006
 
 00002000
-拓海
-何が違うって言うんです？　順番ならそもそも適当ですし
+Takumi
+What do you mean by "what's different"? If we're talking\nabout order, it's arbitrary to begin with.
 
 00003000
-律子
-アリサのことでしょうっ、私が口添えするわっ、母親のことも仕方なかったことなのっ、ちゃんと言うからっ！
+Ritsuko
+You're talking about Arisa, right? I'll vouch for her. It\nwas inevitable for me as a mother, so I'll explain properly!
 C05m07100007
 
 00000000
-沙也加が犯されている時には、ろくに制止もしなかった癖に、いざ自分の番となるとこうも必死になるものか。
+Even though you didn't even try to stop it when Sayaka was\nbeing violated, now that it's your turn, you're so\ndesperate.
 
 00000000
-在りし日のアリサも、こんな小物相手に迫害されたのかと思うと、それが自分が虐げられた事実と重なって苛立ってくる。
+When I think about how Arisa from the past was also\npersecuted by such a small-minded person, it overlaps with\nthe fact that I myself was oppressed, and it frustrates me.
 
 00002000
-拓海
-アリサのことは、アリサに直接話をしたらどうですか。僕にはどっちでもいいことなんで
+Takumi
+How about talking directly to Arisa about it? It doesn't\nmatter to me either way.
 
 020000000100666D5F3035395F30303138
 
 00003000
-律子
-そんなっ……あなたはアリサの差し金で、こんなことを……うぎぃっ！？
+Ritsuko
+No way... You're the one behind Arisa, making me go through\nthis... Ughh!?!
 C05m07100008
 
 0300C21000000F275345485F495F313031
 
 00000000
-それ以上のおしゃべりは必要ないとばかり、僕はほとんど慣らしていないだろう、律子のアヌスに肉棒を突き立てていた。
+I thrust my meat rod into Ritsuko's anus as if to say that\nthere was no need for any more talking, almost as if I\nhadn't been gentle with her at all.
 
 020000000100666D5F3035395F30303137
 
 00003000
-律子
-ひっ、あぐっ、ち、違うっ！　そこっ、ああっ、そこじゃっ……！
+Ritsuko
+Ah, ugh, n-no, it's different! Not there, ah, not there...!
 C05m07100009
 
 00002000
-拓海
-あなたもオマンコが良かったですか？　でも、こっちの方が使い慣れてない感じがして……んっ、あぁ、キツキツだ
+Takumi
+Did you also prefer pussy? But, it feels like I'm not used\nto this side... Mmm, ah, it's so tight.
 
 00003000
-律子
-なっ、れてっ……うぐぁっ、駄目っ……濡れて……あひぁっ！
+Ritsuko
+Ngh... wet... ah, no... it's wet... ah!
 C05m07100010
 
 00002000
-拓海
-この感じ……やっぱり初めてですかね。うん、僕にアナル処女を捧げてくれて嬉しいですよ
+Takumi
+This feeling... Is it really your first time? Yeah, I'm\nhappy that you're giving me your anal virginity.
 
 020000000100666D5F3035395F30303138
 
 00003000
-律子
-捧げてなっ……ふぐっ、うぐぅぅ……苦しい……ぬ、抜いてぇっ……！
+Ritsuko
+Don't... please... ugh, it hurts... n-no, pull out...!
 C05m07100011
 
 00002000
-拓海
-これだけの熟れた身体もご無沙汰だと、馴染むのにかかりますよね。でも、すぐに味を思い出しますよ
+Takumi
+It takes some time to get used to a mature body like yours\nthat has been neglected. But I'll quickly remember the\ntaste.
 
 0300D21000000F275345485F505F353031
 
 020000000100666D5F3035395F30303137
 
 00000000
-入り口こそキツかったが、亀頭を咥え込んでしまえば、思ったよりその奥はスムーズだ。
+The entrance was tight, but once I slipped my glans inside, \nthe depths were smoother than I expected.
 
 00000000
-沙也加の時よりも抵抗はなく、出し入れも自然とペースが上がっていく。
+Unlike when it was Saya's turn, there is no resistance, and\nthe thrusting becomes natural and the pace increases.
 
 00003000
-律子
-はっ、んんっ、うんっ、くっ、あぁっ、んふぁっ、あぁっ……！
+Ritsuko
+Hah, nngh, ugh, kuuh, aah, nfah, aah...!
 C05m07100012
 
 00002000
-拓海
-っと……こりゃ、なかなか。食いつきもいいし、結構溜まってたんじゃないですか？
+Takumi
+Huh... this is quite something. Your response is good, and\nit seems like you've been holding back quite a bit, haven't\nyou?
 
 00003000
-律子
-ふっ、んぐっ、うぅっ……そんな……ことっ、あぐっ、んんっ……うぅぅっ
+Ritsuko
+Hah... ngh... ugh... that... ah... nngh... ughhh...
 C05m07100013
 
 00002000
-拓海
-欲求不満なら、僕がいつでもお相手しますよ。いや、いつでもは無理かな？　気が向いた時に適当にね
+Takumi
+If you're feeling sexually frustrated, I'll be your partner\nanytime. Well, maybe not anytime, but whenever I feel like\nit.
 
 00000000
-好き勝手なことを言いながらの抽送を繰り返す内、菊座のすぐ下にある陰裂が、目に見えてじゅくりと潤み始めていた。
+As he continued thrusting while saying whatever he pleased, \nthe slit beneath her buttocks visibly moistened and began to\nglisten.
 
 020000000100666D5F3035395F30303139
 
 00003000
-律子
-はっ、んんっ、あぁっ、ふっ……あぁっ、ひっ、あっ……はぁぁ……
+Ritsuko
+Hah, nngh, aah, fuu... aah, hi, ah... haa...
 C05m07100014
 
 00000000
-溢れる声も、苦しそうだったのはほんの一時。今や、それは男を知った牝の喘ぎに変貌している。
+The overflowing voice, which seemed painful for just a\nmoment. Now, it has transformed into the moans of a female\nwho has experienced a man.
 
 00002000
-拓海
-マン汁がだくだくですね。なら……こっちも味わってみますか
+Takumi
+Your pussy juices are dripping. Well then... shall I taste\nthem too?
 
 0300C21000000F275345485F495F323031
 
 020000000100666D5F3035395F30303230
 
 00003000
-律子
-んぁっ……
+Ritsuko
+Ngh...
 C05m07100015
 
 00000000
-ずるっと結合を解かれ、律子は無意識にもう止めてしまうのかと、切なげな顔をする。
+Ritsuko's face looks pained, as if she unconsciously wants\nto stop being connected.
 
 00002000
-拓海
-心配しなくても、まだ終わりませんよ。今度はご無沙汰オマンコ、しっかり味わって行きますから
+Takumi
+Don't worry, it's not over yet. This time, I'll thoroughly\nsavor your neglected pussy.
 
 0300C21000000F275345485F495F303032
 
 020000000100666D5F3035395F30303139
 
 00003000
-律子
-あふっ、んぅぅぅぅっ！　あぉっ、こっ、これぇぇぇっ！
+Ritsuko
+Ahh, nnghhh! Aahh, th-this...!
 C05m07100016
 
 00000000
-ずぶずぶと呑み込まれていく感覚に、律子はもう最初から逆らえなかった。
+The sensation of being swallowed up completely, Ritsuko\ncouldn't resist from the very beginning.
 
 00000000
-ひくんと膣壁が嬉しげに竿を迎え、亀頭には熱い愛液のぬめりがまぶされていく。
+The walls of her vagina eagerly welcome my shaft, and the\nglans is coated with the slippery warmth of her love juices.
 
 00002000
-拓海
-んっ……トロトロじゃないですか。こんな熱烈歓迎されるとは思いませんでしたよ
+Takumi
+Mmm... It's so sticky. I didn't expect such a passionate\nwelcome.
 
 0300D21000000F275345485F505F313032
 
 00003000
-律子
-あっ……んっ、あぁっ、だって……あぁっ、こんなのっ……あぁっ、あの人は……も、もうっ！
+Ritsuko
+Ahh... ngh, aah... because... aah, this kind of thing...\naah, that person... is already...!
 C05m07100017
 
 00002000
-拓海
-もう、相手にしてくれない……ですか？
+Takumi
+Are you saying you won't be my partner anymore...?
 
 00003000
-律子
-んぅっ、あっ、そうよっ、若い娘ばかりっ、んっ、あっ、ひっ、あひぃっ！
+Ritsuko
+Ngh... Ah... That's right... Only young girls... Ngh...\nAh... Hii... Ahhii!
 C05m07100018
 
 00002000
-拓海
-へぇ、一発で終わっちゃう割には、ちゃっかり物色してたんだ。こんなに具合のいいオマンコなのに勿体ない
+Takumi
+Oh, even though it ended in one shot, you were still\nsecretly looking for someone else. It's such a waste to have\nsuch a good pussy.
 
 00003000
-律子
-あっ、んぁっ、はぁぁっ！　あの人は……そんなこと全然っ、言わないのにっ、あっ、太いっ、こんなの、初めてぇっ！
+Ritsuko
+Ahh, nghh, haaah! That person... they never... say things\nlike that at all, ahh, it's thick, I've never experienced\nsomething like this before!
 C05m07100019
 
 00000000
-果たしてマインドコントロールのせいなのか、元の資質によるものか、律子はすっかりと快感に悶えていた。
+Ritsuko was completely writhing in pleasure, whether it was\ndue to mind control or her inherent nature.
 
 020000000100666D5F3035395F30303231
 
 0200EF10054563735F4E6176695F303035
 
 00003000
-沙也加
-お、お母様……
+Saya
+Oh, Mother...
 C05k07100033
 
 0200EF10054563735F4E6176695F303034
 
 00000000
-絶え絶えになっていた沙也加も、母親の見たことない姿に絶句している。
+Oh, Mother... Saya, who was on the verge of collapse, is\nspeechless at the sight of her mother's unfamiliar\nappearance.
 
 0200EF10054563735F4E6176695F303033
 
 00002000
-拓海
-全く……ここまで男に飢えてたなんてね、なら、せいぜい女の悦びでも思い出すといいよ
+Takumi
+Honestly... I never expected you to be so desperate for a\nman. Well, then, you should try to remember the pleasure of\nbeing with a woman at least.
 
 020000000100666D5F3035395F30303232
 
 0200EF10054563735F4E6176695F303032
 
 00003000
-律子
-おっ……女の……あっ、ま、まさかっ、はっ、んひぁっ！
+Ritsuko
+Oh... a woman's... ah, no way, ha, nhiyah!
 C05m07100020
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-嬉しそうに締め付けて……そういうことだよ、たっぷり出してあげるからねっ！
+Takumi
+Squeezing so happily... That's what I mean, I'll give you\nplenty of it!
 
 0200EF10002D
 
@@ -785,25 +785,25 @@ C05m07100020
 020000000100666D5F3035395F30303233
 
 00003000
-律子
-んはぁぁぁぁぁぁぁっ！　あっ……出て……んんんぅぅっんっ！
+Ritsuko
+Nhaaaaa! Ah... coming... uuhhhnnn!
 C05m07100021
 
 00000000
-しっとりと纏わりつく膣肉の蠢きに、僕は何の躊躇いもなく、その奥へと射精する。
+Without any hesitation, I ejaculate deep inside, entwined\nwith the moist and wriggling flesh of her vagina.
 
 00003000
-律子
-あ……あぁ……入って……る……んんっ、な、かっ……あぁぁ、すご……ひぁぁ……
+Ritsuko
+Ah... ah... you're... inside... mmm, it's... so... ahh, \namazing... haaah...
 C05m07100022
 
 00002000
-拓海
-ごくごく美味しそうに飲んでくれますねぇ。何年ぶりかにまた妊娠しちゃうかもしれませんねぇ
+Takumi
+You're drinking it so eagerly. It's been so long, you might\nend up getting pregnant again.
 
 00003000
-律子
-は……んんっ、あぁ……そんなことになったら……私はぁ……
+Ritsuko
+Haa... nn, ah... If something like that were to happen...\nI...
 C05m07100023
 
 0300C21000000F275345485F495F323031
@@ -811,61 +811,61 @@ C05m07100023
 020000000100666D5F3035395F30303036
 
 00000000
-怯えるというよりは、どこか満更でもなさそうに蕩けた表情を見せる律子に思わず苦笑しつつ、またずるりと肉棒を引き抜く。
+With a wry smile, unable to help himself, Takumi pulls out\nhis meat rod from Ritsuko, who shows a face that seems more\nmelted than frightened.
 
 00002000
-拓海
-さて……お待たせしちゃったかな
+Takumi
+Well... I wonder if I kept you waiting.
 
 03008C0000000F2753455F6130395F30303031
 
 020000000100666D5F3035395F30303234
 
 00003000
-綾乃
-あっ……！　あ……あぁぁぁっ……！
+Ayano
+Ah...! A... ahhhhh...!
 C05l07100005
 
 00000000
-遂に自分のスカートが捲られていく感触に、メイドの綾乃は怯えきった声を出した。
+Finally, as she felt her own skirt being lifted up, the maid\nAyano let out a frightened voice.
 
 00000000
-自分が身代わりになると言った時の気丈さはどこへやら、自由にならない身体を震わせてしまってる。
+The bravery I showed when I said I would be the substitute, \nwhere did it go? Now my body, which cannot be free, is\ntrembling.
 
 00002000
-拓海
-そんなに怯えないで。悲鳴ばっかり聞くのも何だし、君の勇気に敬意を表してちゃんと優しくするから……ん？
+Takumi
+Don't be so scared. It's not good to just hear screams all\nthe time, so out of respect for your courage, I'll be\ngentle... Hm?
 
 020000000100666D5F3035395F30303235
 
 00003000
-綾乃
-あぅんっ……！
+Ayano
+Ahh...!
 C05l07100006
 
 00000000
-何気なく割れ目に指をはわせると、既にそこはじっとりと潤み、傍目には準備を整えてしまっていた。
+As I casually ran my finger along her slit, it was already\nmoist and seemed to be prepared.
 
 00002000
-拓海
-もしかして、二人のエッチな声に興奮しちゃってた？
+Takumi
+Could it be that you were getting excited by the two of us\nmaking naughty sounds?
 
 020000000100666D5F3035395F30303236
 
 00003000
-綾乃
-そ、そんなことありません……あっ……お許し下さい……ん、ふぁ……
+Ayano
+Th-there's no such thing... Ah... Please forgive me... Mm, \nah...
 C05l07100007
 
 00000000
-自分の身体のままならなさに怯えつつも、その声にはほのかな艶っぽさが見え隠れする。
+Despite being frightened by the unfamiliarity of her own\nbody, there is a faint sensuality in her voice that comes\nand goes.
 
 00002000
-拓海
-綾乃さんも初めてなんだっけ？　とにかく力を抜けば大丈夫って……はは、そもそも力は入れられないか
+Takumi
+Ayano, this is your first time too, right? Just relax and\neverything will be fine... Haha, well, I guess you can't\nreally relax when you're so tense.
 
 00000000
-軽口を叩きながら、僕はゆっくりと潤んだ入り口から腰を沈めていく。
+While cracking jokes, I slowly sink my hips into the moist\nentrance.
 
 0100200002026566666563742C6566666563742068616B61
 
@@ -874,135 +874,135 @@ C05l07100007
 020000000100666D5F3035395F30303234
 
 00003000
-綾乃
-ひっ……んんっ……く……あっ、ぅぅぅんっ……あっ、あぁっ……！
+Ayano
+H-hnn...ku...ah, uunn...ah, aah...!
 C05l07100008
 
 00000000
-やはり、入り口はそこそこの抵抗が掛かってくるが、十分に愛液が滲んでいるせいか、思った以上にぬるんと竿が埋められる。
+As expected, there is some resistance at the entrance, but\nthanks to the ample amount of love juice seeping out, the\nrod slides in smoothly and deeper than I anticipated.
 
 020000000100666D5F3035395F30303235
 
 00003000
-綾乃
-うっ……んんんっ、あぁ……はぁっ、はぁっ……入って、んっ……あぁぁ……
+Ayano
+Ugh...nnn, ahh...hah, hah...it's entering, mmm...ahhh...
 C05l07100009
 
 00002000
-拓海
-もう少し……後ちょっとで、一番奥まで……んっ、入った……
+Takumi
+Just a little more... Almost there, all the way to the\ndeepest part... Mm, it's in...
 
 00003000
-綾乃
-はぁっ、はぁっ、ん……あふっ……んんんっ……はぁ……
+Ayano
+Haa, haa, n... Ahfu... Nnnn... Haa...
 C05l07100010
 
 00002000
-拓海
-ほら、きっちり全部ハマったよ。んっ……やっぱり血は出ちゃったね
+Takumi
+See, it's all snugly fitting in. Mm... as I thought, there's\na bit of blood.
 
 020000000100666D5F3035395F30303237
 
 00003000
-綾乃
-は……ふっ、あぁ……は、ひっ……
+Ayano
+Haa... fuu, aah... ha, hi...
 C05l07100011
 
 00000000
-初めての証しが出たのは確かだったが、その表情にあまり苦痛のニュアンスはない。
+It was certain that there was evidence of her first time, \nbut there wasn't much nuance of pain in her expression.
 
 00000000
-同時にポタポタと滴る愛液が、相当に綾乃の痛みを和らげているのは間違いなかった。
+The love juice dripping simultaneously is definitely easing\nAyano's pain considerably.
 
 00002000
-拓海
-どう、痛い？　かなり無理しちゃってる？
+Takumi
+How is it? Does it hurt? Are you pushing yourself too hard?
 
 020000000100666D5F3035395F30303238
 
 00003000
-綾乃
-んぅっ……くぁ……い、いえ……あの、だ、大丈夫……ですっ……
+Ayano
+Nngh...k-kuh...n-no...um, I-I'm...f-fine...
 C05l07100012
 
 00000000
-震え声だったが、綾乃はしっかりと首を振り、辛くないことを示してみせた。
+It was a trembling voice, but Ayano firmly shook her head, \nshowing that she wasn't in pain.
 
 00000000
-既に律子は半分喜んでいて、身代わりの役目も何もなかったが、それでも沙也加は庇わなくてはという気持ちかも知れない。
+Rio might have felt the need to protect Saya even though\nRitsuko was already half happy and had no role as a\nsubstitute.
 
 00002000
-拓海
-そっか。じゃあ、ゆっくりしていくから、辛そうなら言ってね
+Takumi
+I see. Well then, I'll take it slow, so if it's painful, let\nme know.
 
 00000000
-どう考えても巻き込まれただけのお付きのメイドさんに、そこまで酷いことをする気にはなれなかった。
+I couldn't bring myself to do such terrible things to a maid\nwho was clearly just caught up in this.
 
 00000000
-とは言え、もちろん味わわない手はない。しっかりとお尻を捕まえ、ゆっくりと腰を動かしていく。
+However, of course I can't let this opportunity pass without\nsavoring it. I firmly grasp her butt and slowly start moving\nmy hips.
 
 0300D21000000F275345485F505F313031
 
 020000000100666D5F3035395F30303239
 
 00003000
-綾乃
-んっ……ふっ、くっ、んっ、はっ……あ、あぁぁっ……！
+Ayano
+Nngh... fuu, kuh, ngh... ha... aahhh...!
 C05l07100013
 
 00002000
-拓海
-少しず～つチンポを引き抜いて……またずぶずぶっと中に入れて……と
+Takumi
+Slowly pull out my dick... and then thrust it back in...
 
 00003000
-綾乃
-あっ、はっ、あぁぁぁっ！　熱い……のっ、ひゃっ、んふぅっ……！
+Ayano
+Ah, ha, aahhh! It's hot... n-no, hya, nfuu...!
 C05l07100014
 
 00000000
-やはり痛みを訴えることはなく、聞こえるのは甘やかな嬌声と言って良かった。
+It was indeed a relief that she didn't complain of pain, and\ninstead, what I could hear was a sweet and indulgent voice.
 
 00000000
-ずるりとへばりつく肉壁を、優しく擦り立てながら、滲み出る愛液を十分に亀頭に馴染ませていく。
+Slowly rubbing against the clinging flesh walls, I gently\nspread the overflowing love juices onto the glans.
 
 020000000100666D5F3035395F30303237
 
 00003000
-綾乃
-はぁ……あっ、わらひっ、あ、ひっ、んぁっ……ひぃ……
+Ayano
+Haa... Ah, wa-wait, ah, hi-ah, nghh... hii...
 C05l07100015
 
 00002000
-拓海
-どうやら、普通に喜んでくれてるみたいだね。オマンコがヒクヒクしてるよ
+Takumi
+It seems like she's genuinely happy. Her pussy is twitching.
 
 020000000100666D5F3035395F30303239
 
 00003000
-綾乃
-あぁぅっ……そんな、んっ、は、恥ずかしいことっ……あ、うっ……！
+Ayano
+Ahh... doing something like that, mmm, it's embarrassing...\nah, ugh...!
 C05l07100016
 
 00002000
-拓海
-初めてだけど感じちゃって恥ずかしい？　大丈夫、そんな人は幾らでもいるんだから。遠慮なくチンポ感じていいんだよ
+Takumi
+Is it embarrassing for you to feel it for the first time?\nDon't worry, there are plenty of people who feel that way.\nYou can freely enjoy the sensation of my dick.
 
 00000000
-ぐちゃぐちゃと肉裂をかき回し、溢れる愛液をどんどんと馴染ませる。
+I vigorously stir the flesh walls, spreading the overflowing\nlove juices more and more.
 
 020000000100666D5F3035395F30303237
 
 00003000
-綾乃
-はっ、ひぁっ、あっあっ、はぁっ、あっ、あぁぁぁっ、こんにゃっ、こんらのっ、あっ、も、もぅっ！
+Ayano
+Hah, hiaa, ahh, haa, ah, aahhh, konya, konrano, ah, mo, mou!
 C05l07100017
 
 00002000
-拓海
-ふふ、気持ちいいなら遠慮なくイッていいからね？　僕も、また次のがもうちょっとで出せるから
+Takumi
+Hehe, if it feels good, don't hesitate to cum, okay? I can\ngo again pretty soon.
 
 00000000
-出し入れもスムーズになり、いよいよ上擦った喘ぎも余裕がなくなって来た、その時。
+As the insertion and withdrawal became smoother, and the\npanting that was rubbing against me intensified, the moment\narrived when there was no longer any room for restraint.
 
 03008C0000000F2753455F6230315F30343031
 
@@ -1015,127 +1015,127 @@ C05l07100017
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……失礼します……あの、お待たせしてしまいました……か？
+Arisa
+...Excuse me... um, did I keep you waiting...?
 C01a07100001
 
 00000000
-軽いノックと同時に部屋に入って来たアリサは、目に飛び込んで来た光景に思わず叫んでいた。
+Arisa, who entered the room with a light knock, couldn't\nhelp but scream at the scene that greeted her eyes.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-な……お、お継母様っ……？　お義姉さまもっ！？
+Arisa
+Wha... Stepmother...? And Sister-in-law too!?
 C01a07100002
 
 00002000
-拓海
-やぁ、アリサ。ちょうどいいタイミングだったね
+Takumi
+Hey, Arisa. It's perfect timing, isn't it?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-こ、これは……一体、どう、いう……
+Arisa
+Th-this is... what on earth...
 C01a07100003
 
 00002000
-拓海
-ご覧の通り、横に並べての味比べってやつかな
+Takumi
+As you can see, it's a taste comparison side by side.
 
 00002000
-拓海
-まあ彼女らが言うには、アリサの幼い日々の仕返しに来たんだろうって。そういうことにしちゃっても構わない？
+Takumi
+Well, according to them, they came here to get back at Arisa\nfor her childhood days. Is it okay to go with that?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-仕返し……って、どういう意味ですの。こんな……学園の、理事長室で……何をっ……
+Arisa
+"Revenge"... what do you mean by that? In the school's\nprincipal's office... what are you all... doing...?
 C01a07100004
 
 00002000
-拓海
-あぁ、そうか。学生がする行為としての認識から外れると、違和感が出てくるのかな？　なら、ちょうどいいかもね
+Takumi
+Ah, I see. If it deviates from the perception of what\nstudents do, it might feel strange, right? In that case, it\nmight be just right.
 
 0300D21000000F275345485F505F313032
 
 00000000
-思った以上に狼狽するアリサにニヤつきながら、僕は尚も綾乃の肉裂を突き上げる。
+While grinning at Arisa, who was more flustered than I had\nexpected, I continued thrusting into Ayano's torn flesh.
 
 020000000100666D5F3035395F30303237
 
 00003000
-綾乃
-はっ、あっ、ふっ、あっ、ひぁっ……あっ、んぁぁっ……！
+Ayano
+Hah, ah, fu, ah, hiaa... ah, nghaa...!
 C05l07100018
 
 00003000
-アリサ
-ちょうどいいって……な、何を言って……
+Arisa
+"Just right"... W-what are you saying...?
 C01a07100005
 
 00002000
-拓海
-ほら、アリサは吉祥寺家にも復讐したいみたいなことを言ってたじゃない？　だから、一足先に僕なりのアシストをね
+Takumi
+Hey, remember how Arisa said she wanted to get revenge on\nthe Kisshouji family? So, I thought I'd assist her a little\nin that regard.
 
 00003000
-沙也加
-あ……あぁぅ……許して……許してぇ……
+Sayaka
+Ah... ah, no... forgive me... forgive me...
 C05k07100034
 
 00003000
-律子
-んっ、はぁぁ……中……いっぱいなのぉ……は、ふぁ……
+Ritsuko
+Ngh... haaah... I'm... so full... Ah, fah...
 C05m07100024
 
 00000000
-アリサが入って来ても、吉祥寺家の二人はそれに気づくこともなく、それぞれの世界に溺れている。
+Even if Arisa were to come in, the two members of the\nKisshouji family wouldn't even notice her and would continue\nto be immersed in their own worlds.
 
 00002000
-拓海
-アリサも、小さい頃に苦労したんでしょう？　じゃあ、今ものうのうと権力に溺れてる女達なんて許せないよね
+Takumi
+Arisa, you must have had a hard time when you were little, \nright? So, you can't forgive those women who are still\nindulging in power, can you?
 
 00003000
-アリサ
-そ、そんなことは……それに彼女は……
+Arisa
+Th-That's not... Besides, she...
 C01a07100006
 
 00002000
-拓海
-ああ、綾乃のこと？　うん、吉祥寺家のメイドなんだっけ。一緒に送り届けてきたからついでに頂いちゃってるよ
+Takumi
+Ah, Ayano? Yeah, she's a maid for the Kisshouji family. I\nhappened to give her a ride and ended up taking her along.
 
 0200EF10054563735F4E6176695F303035
 
 00000000
-一切悪びれずに言いながら僕は、構わず腰を振りたくる。
+Without any remorse, I continue thrusting my hips without\nhesitation.
 
 0200EF10054563735F4E6176695F303034
 
 00003000
-綾乃
-はっ、あっ、んぁっ、あひぁっ……！
+Ayano
+Hah, ah, nghaa...!
 C05l07100019
 
 0200EF10054563735F4E6176695F303033
 
 00002000
-拓海
-初めてらしいんだけど、結構エッチの素質があるみたいでさ。沙也加なんか、嫌々叫んでたのに、綾乃はすぐに感じて優秀だったよ
+Takumi
+It seems like she has quite the potential for being lewd, \neven though it's her first time. Sayaka was screaming\nreluctantly, but Ayano immediately felt it and was\nexceptional.
 
 0200EF10054563735F4E6176695F303032
 
 00003000
-アリサ
-な……何で……そんなこと……
+Arisa
+Wha... Why... something like that...
 C01a07100007
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-アリサの時も結構感じるのは早かったかな？　っと、ちょっと待ってね。ジワっと来ちゃったから、とりあえず一発……
+Takumi
+Did Arisa also start feeling it quite early? Well, wait a\nmoment. I'm starting to feel it slowly, so let's just go for\none shot...
 
 0200EF10002D
 
@@ -1144,27 +1144,27 @@ C01a07100007
 020000000100666D5F3035395F30303330
 
 00003000
-綾乃
-あっ……！　なっ……か……はっ、んひぁぁぁぁぁっ……！
+Ayano
+Ah...! Ngh... it's... hah, *moans*!
 C05l07100020
 
 00000000
-絶句するアリサに構わず、たっぷりの精液を綾乃の膣奥に解き放つ。
+I release a plentiful amount of semen deep inside Ayano's\nvagina, ignoring Arisa who is at a loss for words.
 
 020000000100666D5F3035395F30303331
 
 00003000
-綾乃
-んぁぁ……ひゅごい……あふっ、ぁ……きもひぃぃれふぅ……
+Ayano
+Nghaa... it's so intense... ah, ah... it feels so good...
 C05l07100021
 
 00002000
-拓海
-喜んでくれて何よりだよ。もう、君も精液中毒になっちゃうかもしれないね
+Takumi
+I'm glad you're enjoying it. You might become addicted to\nsemen just like me.
 
 00003000
-綾乃
-ふぁっ……ふ……
+Ayano
+*gasps*... *breathes heavily*...
 C05l07100022
 
 0300C21000000F275345485F495F323031
@@ -1176,130 +1176,130 @@ C05l07100022
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00000000
-ずるりと肉棒を引き抜き、どろりと溢れる精液を横目に、僕はアリサへと向き直る。
+I pull out my meat rod smoothly, glancing at the overflowing\nsemen, and turn towards Arisa.
 
 00002000
-拓海
-さて……お待たせアリサ。君も期待してきたんでしょう？　パンツを脱いで並んだら？
+Takumi
+Well... Sorry to keep you waiting, Arisa. You were also\nlooking forward to this, right? How about taking off your\npanties and lining up?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……な…………
+Arisa
+...Uh...
 C01a07100008
 
 00002000
-拓海
-お家のことは僕が適当にやっておくからさ。何も考えないで一緒に仲良くよがってみるのもいいんじゃない？
+Takumi
+I'll take care of things at home, so why don't we try\ngetting along without thinking too much? It might be nice to\nenjoy ourselves together.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30362F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あなた……んっ、く……あっ……わ、私は……く……ぅっ……
+Arisa
+You... ngh... ah... w-well, I... ku... ugh...
 C01a07100009
 
 00000000
-挑発的な言葉が、次々とアリサの心に突き刺さり、思考の違和感を増していく。
+Provocative words pierce Arisa's heart one after another, \nincreasing the sense of discord in her thoughts.
 
 00000000
-そして――
+And then--
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-っ……
+Arisa
+*gasps*...
 C01a07100010
 
 00000000
-眉間を押さえ、小さく首を振った瞬間、アリサは全てを思い出したかのように目を見開いた。
+Arisa opened her eyes wide as if she had remembered\neverything, pressing her forehead and shaking her head\nslightly.
 
 00002000
-拓海
-おっと……その表情、また何かを思い出しちゃったって……そんな顔かな？
+Takumi
+Oh... that expression, did you remember something again? Is\nthat the face you make when something comes to mind?
 
 00003000
-アリサ
-あなたっ……うっ……！？
+Arisa
+You... ugh...!?
 C01a07100011
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00000000
-無意識にアリサの手が僕の頬を叩こうとした瞬間、その動きがビクリと強く固まった。
+In the moment when Arisa's unconscious hand was about to\nslap my cheek, her movement suddenly froze with a strong\ntwitch.
 
 00002000
-拓海
-ふふっ、前にも一度こんなことがあったの……覚えてる？
+Takumi
+Hehe, something like this happened before... Do you\nremember?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-っく……か、身体が……うっ、っく……！
+Arisa
+*ngh*... M-my body... ugh... *ngh*...!
 C01a07100012
 
 00002000
-拓海
-念のため最近掛け直しておいたんだ。また、きっとこういうことがあるだろうってね
+Takumi
+Just to be safe, I called you recently. I knew something\nlike this would happen again.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-く……ぅっ……戻しなさいっ……この、卑怯者っ！
+Arisa
+Ugh... Return it... You coward!
 C01a07100013
 
 00002000
-拓海
-気の強さが戻ってきたみたいだね。それでこそ、アリサだよ
+Takumi
+It seems like your strong-willed nature has returned. That's\nthe Arisa I know.
 
 02006F100900
 
 0200E6000000090000000000000000006400640064006400E803E803F40166696C746572303031
 
 00000000
-悠然とオルゴールを取り出しながら、僕はニヤリと笑った。
+While calmly taking out the music box, I smirked.
 
 02007F10
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それはっ……！　わ……私のっ……！
+Arisa
+That...! My...!
 C01a07100014
 
 00002000
-拓海
-アリサの目的は吉祥寺家への復讐だったよね？　それを代行してあげた訳だから、今度は僕の分も付き合ってもらうよ
+Takumi
+Arisa's goal was to seek revenge on the Kisshouji family, \nright? Since I acted as her proxy, this time you'll have to\naccompany me for my sake too.
 
 00000000
-冷たい宣告を前に僕はまたいつものルーチンでイヤホンを耳につけていく。
+In the face of the cold declaration, I once again put on my\nearphones with my usual routine.
 
 00002000
-拓海
-何でも言いなりになるのも悪くはないけど、やっぱり張り合いがなくてね
+Takumi
+It's not necessarily a bad thing to be obedient to\neverything, but it lacks excitement, you know.
 
 00002000
-拓海
-けど、だからって刷り込みを解いて自由にさせてたらどうなっちゃうか分からないし……
+Takumi
+But if I were to undo the conditioning and let you be free, \nI don't know what would happen...
 
 00002000
-拓海
-その辺の加減をいろいろ実験させてもらおうかなって。協力、よろしくね
+Takumi
+Maybe I should experiment with various degrees around that\narea. Cooperation, please.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あ…………！
+Arisa
+Ah...!
 C01a07100015
 
 00000000
-耳を塞ぐ手段はどこにもない。流れ始めるオルゴールは、新たな受難の始まりだった。
+There is no way to block my ears. The music box that starts\nplaying marks the beginning of a new ordeal.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

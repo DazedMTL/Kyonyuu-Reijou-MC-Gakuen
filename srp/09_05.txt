@@ -7,90 +7,90 @@
 0200000001004247303230305F62
 
 00000000
-一見、以前と変わらない学園の光景。
+The scenery of the school seems unchanged at first glance.
 
 00002000
-拓海
-ちょっと疲れたかな
+Takumi
+I'm feeling a bit tired, I guess.
 
 00000000
-以前であればこの言葉一つで身体を使った奉仕をクラスメイトにしてもらっていたが、今ではそんなことはしてもらえない。
+In the past, with just these words, my classmates would have\ngladly offered their bodies for service. But now, I can't\nexpect such a thing anymore.
 
 00000000
-というのも理事長の地位をアリサへ返し、マインドコントロールもほぼなかったことにしたからだ。
+It's because I returned the position of chairman to Arisa\nand made it seem like there was almost no mind control.
 
 00000000
-やろうと思えば手元にあるオルゴールでいつでも性欲の赴くままに生活ができる。
+If I wanted to, I could live my life indulging in my sexual\ndesires anytime with the music box I have at hand.
 
 00000000
-でも僕はその気持ちも性欲も一人の女の子へ向けることを選んだ。
+But I chose to direct those feelings and desires towards one\ngirl.
 
 03008C0000000F2753455F6130365F30313031
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-よっと、予鈴だからセーフだな！　出席には問題なし！
+Rio
+Oh, it's the bell, so I'm safe! No problem with attendance!
 C03a09050001
 
 00000000
-予鈴が鳴り終わる前に、理央が学校内に駆け込んでくるが……その格好は見事に撮影によく使っていた私服姿。
+Before the pre-bell rings finish, Rio rushes into the\nschool... and her appearance is remarkably similar to the\ncasual clothes she often wore during our photo shoots.
 
 0200BC000100032C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433033615F30325F305F305F305F30322F2D3236332F302E37362F302E37362C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-アリサ
-予鈴の時点で席についていないなら遅刻扱いになりますわよ
+Arisa
+If you're not in your seat by the pre-bell, you'll be\nconsidered late.
 C01a09050001
 
 00003000
-友里子
-制服を着用しないとは……余罪を重ねています
+Yuriko
+Not wearing the school uniform... You're accumulating more\noffenses.
 C02a09050001
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E37362C2D
 
 00003000
-理央
-まあまあ、仕事が忙しいから目をつぶってくれよ、な？
+Rio
+Well, well, since I'm busy with work, can you turn a blind\neye to it?
 C03a09050002
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30322F2D3236332F302E37362F302E37362C2D
 
 00003000
-理央
-ちゃーんと出席日数は足りるようにしとくから
+Rio
+Don't worry, I'll make sure my attendance days are enough.
 C03a09050003
 
 0200BC000100032C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D2C2D
 
 00003000
-アリサ
-神泉さん……私が言いたいのはそういうことではなくてですね……
+Arisa
+Kamiizumi-san... What I want to say is not about that...
 C01a09050002
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
-理央
-あ、そーだ……大事なことがあったんだったわ……おいこらっ、池ノ上
+Rio
+Oh, right... There was something important... Hey, wait a\nminute, Ikenoue...
 C03a09050004
 
 00003000
-理央
-今日はのんびり授業受けてないで収録付き合って貰う約束だったろ
+Rio
+Today, we had a promise to spend the day recording instead\nof attending classes leisurely, right?
 C03a09050005
 
 00002000
-拓海
-ん？　んー……あ、そうだそうだ！　そうだった！　ごめんごめん、うっかり忘れるところだったよ
+Takumi
+Hm? Hmm... Ah, that's right, that's right! I remember now!\nSorry, sorry, I almost forgot.
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30332F2D39352F312F312C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-ま、待ちなさい……！　まだ話は終わってっ……
+Arisa
+W-Wait...! The conversation isn't over yet...
 C01a09050003
 
 02008C00010000
@@ -98,10 +98,10 @@ C01a09050003
 03008C0000000F2753455F6130315F30303035
 
 00000000
-理央はアリサの言葉に構わず、僕の手を引いて教室を出て行く。
+Rio, without paying attention to Arisa's words, takes my\nhand and leaves the classroom.
 
 00000000
-颯爽とした彼女の姿には、取り巻きの生徒からの声援が投げかけられ、一緒にいた僕自身も嬉しくなってしまった。
+Her gallant figure was met with cheers from the surrounding\nstudents, and even I, who was with her, couldn't help but\nfeel happy.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -110,67 +110,67 @@ C01a09050003
 0200000001004247303330305F62
 
 00002000
-拓海
-走ったりして大丈夫？　ドラマの役作りの訓練厳しくて疲れてるでしょ
+Takumi
+Are you okay running around? The training for the drama role\nmust be tough and tiring, right?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-だなぁ……オーディションがうまく行き過ぎちゃったせいで、予定よりも台詞の多い役が当たっちゃったしな
+Rio
+Yeah... Because the audition went too well, I ended up\ngetting a role with more lines than planned.
 C03a09050006
 
 00000000
-実はあの時オーディションで理央のことを気に入ってくれたディレクターというのが、彼女がモデルで活躍していた時からのファンだったらしい。
+Actually, it seems that the director who liked Rio during\nthe audition was a fan of hers since she was active as a\nmodel.
 
 00000000
-さらに演技力が誰よりもずば抜けていると太鼓判を押されたのだ。
+I was praised for having acting skills that were far\nsuperior to anyone else's.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E3736
 
 00003000
-理央
-でもよ、こんないい配役もらっちゃって申し訳ない気持ちでいっぱいかな……
+Rio
+But you know, I can't help but feel sorry for getting such a\ngood role...
 C03a09050007
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
-理央
-知ってるつもりだったけど業界のこと分かっちゃいなかったのか、足引っ張りまくりだし……
+Rio
+I thought I knew, but I didn't really understand the\nindustry, so I ended up being a huge burden...
 C03a09050008
 
 00002000
-拓海
-ああ、オーディションの時に同席した人へ役を譲ろうとディレクターに掛け合ったってのは聞いてたよ
+Takumi
+Ah, I heard that you spoke to the director about giving your\nrole to someone who was present during the audition.
 
 00002000
-拓海
-だからこそ余計に感心されてたみたいだけど
+Takumi
+That's why they seemed even more impressed.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E3736
 
 00003000
-理央
-分不相応ってのかなぁ……みょーに上手くいきすぎててサッパリとしない
+Rio
+I wonder if it's too much for me... It went surprisingly\nwell, and I can't feel satisfied at all.
 C03a09050009
 
 00002000
-拓海
-まぁまぁ……折角、新人女優が誕生したわけだから、これからも頑張っていこうよ
+Takumi
+Well, well... Since a new actress has been born with great\neffort, let's continue to do our best from now on.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-そ、そうだな……オマエが居てくれんだし、アタシもっと頑張るよ
+Rio
+Y-Yeah... Since you're here, I'll work even harder.
 C03a09050010
 
 00000000
-理央は申し訳無さそうに呟く。
+Rio murmurs with a sense of apology.
 
 00000000
-その表情こそ僕にとってはただ笑顔で手を握られるよりも心がくすぐられてしまう。
+That expression, for me, tickles my heart more than just\nbeing held hands with a smile.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

@@ -7,90 +7,90 @@
 0200000001004247303430305F63
 
 00000000
-こはるは夕暮れの中庭で座り、孤独に黄昏れていた。
+Koharu sat in the courtyard at dusk, feeling lonely as the\nevening darkened.
 
 00002000
-拓海
-まだ帰ってなかったの？
+Takumi
+You haven't come back yet?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あっ……うんっ、今帰っても……
+Koharu
+Ah... Yeah, even if I go back now...
 C04a05170001
 
 00000000
-僕はこはるのその言葉で彼女の考えていることを全て悟る。
+I understand everything she's thinking from Koharu's words.
 
 00000000
-この学園が全寮制だけに、自由時間がある今、女子寮に戻ると楽しそうに会話をする女子達の輪に入れなくて辛い思いをするということなのだろう。
+It seems that because this school is a boarding school, \nduring free time like now, Koharu feels lonely as she is\nunable to join the lively conversations of the girls in the\ngirls' dormitory.
 
 00002000
-拓海
-もしかして理央からひどいことをされてるとか……？
+Takumi
+Could it be that Rio is doing something terrible to you...?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-そ、そんなことないよ……理央さんから直接何かされてるってことはないんだけど……
+Koharu
+N-No, it's not like that... Rio-san isn't doing anything to\nme directly...
 C04a05170002
 
 00000000
-僕は自分が巻いた種とはいえ、理央にこはるが暴力などを受けていないという事実を知ってほっとする。
+I feel relieved knowing the fact that Koharu is not being\nsubjected to any violence from Rio, even though I am partly\nresponsible for the situation.
 
 00000000
-だが、女子のカリスマ的な理央がこはると和解していても、胸の大きさで女性の価値が決まるというマインドコントロールの力は未だに絶大らしい。
+However, it seems that the power of mind control, which\ndetermines a woman's worth based on the size of her breasts, \nis still immense, even if Rio, the charismatic girl among\nthe girls, has reconciled with Koharu.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-でも……そのっ……池ノ上くんこそいいの……？　私と仲良くしてたりしたら、辛い目に遭うんじゃ……
+Koharu
+But... um... Takumi-kun, is it really okay for you...? If\nyou become close with me, you might end up in a difficult\nsituation...
 C04a05170003
 
 00002000
-拓海
-僕は全く構わないよ……それに、やっぱり放っておけないよ
+Takumi
+I don't mind at all... Besides, I can't just leave you\nalone.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-そう、なんだ……それは心強いな……
+Koharu
+Yeah, that's reassuring...
 C04a05170004
 
 00000000
-あれだけ僕が味方になると告げたにも関わらず、こはるはまた気弱な態度になっている。それだけクラス内での孤立といじめの辛さが応えているのだろう。
+Despite me telling her that I'll be on her side, Koharu is\nonce again showing a timid attitude. It must be because\nshe's feeling the pain of isolation and bullying within the\nclass.
 
 00000000
-僕はオルゴールを手に入れる前の自分と今のこはるが被ると思うだけに、もっと優しくしてあげたいという気持ちが余計に募った。
+The feeling of wanting to be even kinder to Koharu has grown\nstronger, especially because I can't help but see\nsimilarities between her now and how I was before I obtained\nthe music box.
 
 00002000
-拓海
-仲間に入れないのは辛いと思うけどさ、その胸がこはるの価値を高めているのは事実なんだし……それを卑下したら、余計女子達は怒ると思うよ
+Takumi
+I understand that it's tough not being able to fit in with\nthe group, but the fact is that your breasts are enhancing\nKoharu's value... If you belittle that, I think the girls\nwill get even angrier.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-その考えは無かったかも……えっと、じゃあ……理央さんみたいに、堂々と振る舞えばいいのかな？　でも、それはちょっと……
+Koharu
+Maybe I didn't consider that... Um, then... should I behave\nconfidently like Rio-san? But, that's a little...
 C04a05170005
 
 00002000
-拓海
-はは、理央は自分の魅力を活かす方法を知り尽くしてるから自信たっぷりなんだよ
+Takumi
+Haha, Rio is full of confidence because she knows how to\nmake the most of her charm.
 
 00002000
-拓海
-だから、こはるにもっと自信を持ってもらうお手伝いをしてあげる
+Takumi
+So, I'll help Koharu gain more confidence.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-え……？　どういうこと？
+Koharu
+Eh...? What do you mean?
 C04a05170006
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
@@ -100,32 +100,32 @@ C04a05170006
 0200000001004247313130305F64
 
 00003000
-こはる
-池ノ上くんの部屋、相変わらず綺麗だね……
+Koharu
+Takumi-kun, your room is still as clean as ever...
 C04a05170007
 
 00000000
-彼女は僕の部屋のベッドに腰を下ろし、なんだかそわそわとした態度をしていた。
+She sat down on my bed and seemed to be acting restless for\nsome reason.
 
 00000000
-ベッドという箇所がセックスを露骨に連想してしまうのかもしれない。期待してくれてるなら、僕には好都合だけど。
+The mention of the bed might be making her blatantly\nassociate it with sex. If she's expecting something, it's\nconvenient for me.
 
 00003000
-こはる
-そ、そのっ……ご、ごめんなさいっ、私、黙ったままでっ……こんなのちょっと、退屈だよね
+Koharu
+U-Um... I-I'm sorry... I've been silent... It's a little...\nboring, isn't it?
 C04a05170008
 
 00002000
-拓海
-男子の部屋に女子が一人で来たら緊張するのは当たり前なんだから、気にしないで
+Takumi
+It's natural to feel nervous when a girl comes alone to a\nguy's room, so don't worry about it.
 
 00002000
-拓海
-……なんなら、リラックスがてらお風呂でも入ろうか？
+Takumi
+...If you want, how about we take a bath to relax?
 
 00003000
-こはる
-う、うん…………うん？　えっ？
+Koharu
+U-um... um? Huh?
 C04a05170009
 
 0100200002026566666563742C656666656374207363656E655F656E64

@@ -7,52 +7,52 @@
 0200000001004247313030305F62
 
 00000000
-吉祥寺家の視察が入ってから、数ヶ月が経過した。
+It has been several months since the inspection of the\nKisshouji family.
 
 00000000
-学園にこれといった変化は訪れず、僕による学園支配は継続したままだった。
+There were no significant changes in the school, and my\ndomination over the school continued as before.
 
 00000000
-生徒の殆どは、吉祥寺家の人間が訪れたことも、学園存続の危機が迫っていたことも何も知ることはなかった。
+Most of the students were unaware of the visit from the\nKisshouji family or the impending crisis threatening the\ncontinuation of the school.
 
 00000000
-だが、その間、全く学園内外で動きがなかった訳ではない。
+However, during that time, there were not completely no\nmovements inside and outside the school.
 
 00000000
-施したマインドコントロールと、現実との齟齬がどの程度だったかは知らないが、アリサの父が療養するという情報が入って来た。
+I don't know to what extent the mind control was effective\nand how much it deviated from reality, but I received\ninformation that Arisa's father will be undergoing\ntreatment.
 
 00000000
-友里子……並びに、彼女の両親が事実上のスパイとして持ち込んだ話によれば、かなり精神的に不安定な状態に陥っていたらしく――
+Yuriko... According to the story brought in by her parents, \nwho are essentially spies, it seems that she has become\nquite mentally unstable--
 
 00000000
-自分は無能だと、ブツブツと呟きながら、時折狂ったように喚き散らす……到底、仕事の出来る状況ではなかったらしい。
+I seemed to be in a state where I couldn't possibly work, \nmuttering to myself that I was incompetent and occasionally\nscreaming like a madman.
 
 00000000
-すぐに吉祥寺家では、速やかに次期当主の選定を含めた様々な人事に追われることになった。
+The Kisshouji family immediately became busy with various\npersonnel matters, including the selection of the next heir.
 
 00000000
-実のところ、アリサの父親のワンマンぶりを快く思っていなかった者は多かったらしく。
+Actually, it seems that many people were not pleased with\nArisa's father's authoritarian behavior.
 
 00000000
-まあ、あれ程分かりやすい男尊女卑っぷりを見せつけていれば、今の世の中で反感を抱かれるのは当然かも知れないが――
+Well, it's only natural that he would be met with resentment\nin today's world if he continues to display such obvious\nmale chauvinism--
 
 00000000
-いずれにしても、傍流とされていたアリサが、次期吉祥寺家の当主候補に挙がる程には、お家騒動は荒れたものになったらしい。
+In any case, it seems that the family turmoil has become\nquite chaotic to the point where Arisa, who was considered a\nsideline, is now being considered as a candidate for the\nnext head of the Kisshouji family.
 
 00000000
-そこに、オルゴールがもたらしたマインドコントロールの影響がどの程度あったか……それは、多くを語るところではないだろう。
+The extent of the influence of the mind control brought\nabout by the music box... it's not something that can be\neasily explained.
 
 00000000
-だが、少なくとも、本家への会合にアリサが呼ばれるようになり、また僕がお供をする度に、少しずつ情勢が変化し――
+"However, at the very least, Arisa started being invited to\nthe meetings at the main house, and each time I accompanied\nher, the situation gradually changed--"
 
 00000000
-いつの間にか、アリサが次期当主である形に収まりつつあることは、確かな変化の一つとして事実だった。
+"Unbeknownst to me, it had become a fact that Arisa was\ngradually being settled as the next head of the family."
 
 00000000
-まだ学生ということで、アリサ自身は学業を全うした上で、その後の責務を果たしていくという方向になるらしい。
+It seems that since Arisa is still a student, she will\nfulfill her academic responsibilities first and then proceed\nwith her subsequent duties.
 
 00000000
-つまり、彼女が目指していた復讐と家の乗っ取りは、彼女の思惑とは大きくずれつつも、果たされようとしていた。
+In other words, her revenge and takeover of the family that\nshe had been aiming for were being fulfilled, albeit\ndeviating greatly from her original intentions.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -61,44 +61,44 @@
 0200000001004247303130305F62
 
 00002000
-女教師
-では、今日はここまで。皆さん、予習復習を忘れないように
+Female Teacher
+Well then, that's all for today. Everyone, don't forget to\nreview and prepare for the next class.
 
 0300000000000F2742474D3033
 
 0200000001004247303230305F62
 
 00000000
-授業が終わると、張り詰めた緊張感がふっと解け、皆が一斉にざわつき始める。
+When class is over, the tense atmosphere suddenly dissipates\nand everyone starts to buzz with excitement.
 
 00002000
-拓海
-んーーーっ……さて……と
+Takumi
+Hmm... Well...
 
 00002000
-女子Ａ
-池ノ上くん、お疲れ様。あの……今日は……？
+Girl A
+Takumi-kun, good work. Um... about today...?
 
 00002000
-拓海
-あ、あぁ、ごめんね。今日は、これからちょっと色々あるんで……昼休みの分だけでおしまいってことで
+Takumi
+Ah, um... sorry. I have a few things to take care of after\nthis... so let's just end it with what we covered during\nlunch break.
 
 00002000
-女子Ｂ
-えぇー、あ、じゃあ明日の朝は大丈夫ですよね？
+Girl B
+Oh, um... then tomorrow morning is okay, right?
 
 00002000
-拓海
-あー、うん。その、絶対って約束は出来ないけど、一応ね
+Takumi
+Ah, yeah. Well, I can't make any absolute promises, but for\nnow, yeah.
 
 00002000
-女子Ｂ
-分かりましたっ、明日の朝に！
+Girl B
+Understood! Tomorrow morning then!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a07050001
 
@@ -107,13 +107,13 @@ C01a07050001
 0200000001004247303230305F62
 
 00000000
-ちらりとトゲのある視線が僕を見たような気がしたが、とりあえず気づかないことにした。
+I felt a fleeting gaze with a hint of thorns looking at me, \nbut for now, I decided to pretend not to notice.
 
 00000000
-色々と日常が忙しくなっていく最中、まだ僕の性欲を吐き出す支配体制は大きく変わっていない。
+Amidst the various busyness of daily life, the system that\nallows me to release my sexual desires has not changed\nsignificantly.
 
 00000000
-そろそろアリサ一筋になろうかという位には、その比率を高めてはいるのだが、現状のマインドコントロール解除には至っていない。
+It's getting to the point where I should focus solely on\nArisa, but I haven't reached the point of releasing the\ncurrent mind control completely.
 
 0300000000000F2742474D3037
 
@@ -122,34 +122,34 @@ C01a07050001
 解くタイミングを逃がしちゃったというか……今の雰囲気も気に入ってるからなぁ……
 
 00000000
-なんてことをアリサの前では言えないが、何となく黙認されている……それが、今の状態だった。
+I couldn't say such things in front of Arisa, but it seemed\nlike she silently acknowledged it... That was the current\nsituation.
 
 00000000
-そんなアリサへの周囲の視線も、一時期のどん底状態から大きく変わっていた。
+The surrounding gazes towards Arisa, which were once filled\nwith disdain, had undergone a significant change.
 
 00000000
-まず精液採取が下手であるというレッテルが剥がされ、友里子との比較評価も落ち着きを取り戻していた。
+The label of being bad at semen collection was first\nremoved, and the comparative evaluation with Yuriko had also\nregained stability.
 
 00000000
-それは、元々友里子が比較を望んでいなかった点もあるし、そもそも他の分野においてはアリサは基本優秀なのだ。
+"Well, there were also points where Yuriko didn't want to be\ncompared in the first place, and in other areas, Arisa is\ngenerally excellent."
 
 00000000
-それでいて、以前ほど傲慢な態度を見せなくなった……力をひけらかすこともなく、自然体でいるようになったことも大きい。
+And yet, she no longer displays the arrogant attitude she\nhad before... It's also significant that she stopped showing\noff her power and started being more natural.
 
 00000000
-更にもう一つ、吉祥寺家にまつわる噂が表に出てきたこともあった。
+Furthermore, there was another rumor that surfaced regarding\nthe Kisshouji family.
 
 00000000
-そう……ここ最近のお家騒動は、テレビや新聞などでも報道され、その中でアリサの名前も当主候補として出るようになったのだ。
+"I see... Recently, the family turmoil has been reported in\nthe media such as TV and newspapers, and Arisa's name has\nalso started to be mentioned as a candidate for the head of\nthe family."
 
 00000000
-流石にそれだけの人物を、表立って邪険にしようとする程度胸のある者はいない。
+"No one has the audacity to openly dismiss someone of that\ncaliber."
 
 00000000
-むしろ、今までの迫害を訴えられては困ると、白々しくゴマすりを始める女子が続出する始末。
+"On the contrary, there has been a flood of girls who, in a\nhypocritical manner, have started to curry favor, saying\nthat they would be troubled if they were accused of the\npersecution they had faced until now."
 
 00000000
-例え学校の中でも、社会の縮図というものは、分かりやすく露見するものだとつくづく今度の件で思い知るのだった。
+I realized once again through this incident that even within\nthe school, it is a clear reflection of society.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -158,56 +158,56 @@ C01a07050001
 0200000001004247303230305F62
 
 00000000
-もう一度ちらりとアリサの方を見ると、ごく自然な感じで友里子と話をしていた。
+I glanced at Arisa once again, and she was engaged in a\nnatural conversation with Yuriko.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-アリサ
-友里子……この間、お願いしていた件だけれども……
+Arisa
+Yuriko... about the favor I asked you the other day...
 C01a07050002
 
 00003000
-友里子
-はい、全て完了しています。後で、お届けに上がればよろしいですか？
+Yuriko
+Yes, everything is complete. Shall I come deliver it later?
 C02a07050001
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-そうね……お願いするわ。それはそれとして、また別件があるのだけど……
+Arisa
+I see... I have another matter to discuss aside from that...
 C01a07050003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-大丈夫です。なんなりと
+Yuriko
+It's alright. Anything you need, just let me know.
 C02a07050002
 
 00000000
-友里子とアリサの仲は、随分と回復をみせていた。
+The relationship between Yuriko and Arisa had shown\nsignificant improvement.
 
 00000000
-未だ素直になりきれない面もあるのか、公務以外ではぎこちなさを見せることもあるのだが――
+There are still times when she can't fully be herself and\nshe can appear awkward outside of official duties--
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-では、進めてちょうだい。頼りにしているわ
+Arisa
+Well then, please proceed. I'm counting on you.
 C01a07050004
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-はい……お任せ下さい
+Yuriko
+Yes... Leave it to me.
 C02a07050003
 
 00000000
-ちょっとしたやり取りの端々に、もう殆ど大丈夫だと……そう言える信頼関係の片鱗が見え隠れするようになっていた。
+In the small exchanges here and there, I could catch\nglimpses of a budding trust where we could almost say that\neverything was alright.
 
 02008C00010000
 
@@ -216,84 +216,84 @@ C02a07050003
 いい方向に転んでくれたみたいだな……
 
 00000000
-二人を分断したのは他でもない僕自身だが、今となっては、もうそうする理由もない。
+The one who separated the two of them was none other than\nmyself, but now, there is no reason to do so anymore.
 
 00000000
-さり気なく仕事を振り、徐々に関係を取り戻させ、今はすっかり元の鞘に収まりつつある。
+Gradually assigning work in a subtle manner, they have been\nable to restore their relationship, and now it has\ncompletely returned to its original state.
 
 00000000
-まあ、友里子が僕に遠慮して、多少距離を置いているのが、少しだけ変わった所と言えるだろうか。
+Well, you could say that Yuriko has been a little less\nreserved with me and has kept a bit of distance.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-さて……それでは、まだ残ってる仕事を片付けなくてはなりませんわね……
+Arisa
+Well then... I still have some remaining work to take care\nof, don't I...
 C01a07050005
 
 00000000
-何となく僕に聞こえるように、アリサがふぅとため息をついてみせる。
+Arisa let out a small sigh as if she wanted me to hear it\nsomehow.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-理事長……色々と溜まっている手続きがあるんですが……手伝っていただけますわね？
+Arisa
+Chairman... There are various procedures that have piled\nup... Could you help me with them?
 C01a07050006
 
 00002000
-拓海
-はいはい……そりゃあ、もちろん。僕たちの学校のことなんだから、喜んで
+Takumi
+Yeah yeah... Of course. It's about our school, so I'll\ngladly help.
 
 0200E60000000000000001FF0000BAFF4B004B0064006400E803E803F401666D5F433031615F30335F305F305F305F3032
 
 00003000
-アリサ
-いいお返事ですわ。それでは、参りましょうか
+Arisa
+That's a good response. Well then, shall we proceed?
 C01a07050007
 
 00000000
-そうするしかない返事に、得たりと微笑み、アリサはぎゅっと僕の片腕を掴み少し大胆に胸を寄せてくる。
+In response to my only option, Arisa smiles and tightly\ngrabs my arm, boldly pressing her chest against me.
 
 00002000
-拓海
-お、おーい、アリサ。そんなにくっつけなくても、ちゃんと行くから
+Takumi
+H-Hey, Arisa. You don't have to get so close, I'll go\nproperly.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D37302F312F31
 
 00003000
-アリサ
-ええ、分かっていますわ。これはほんの気持ちの表われですから
+Arisa
+Yes, I understand. This is just a small expression of my\nfeelings.
 C01a07050008
 
 00000000
-さりげないクラスメートへの牽制なんだろうか、見せつけるようにピッタリと側に寄り添い、僕は手を引かれて教室を出る。
+It's probably a subtle way of warning our classmates, as if\nto show off, she sticks closely by my side, and I let her\nlead me out of the classroom.
 
 020000000100626C
 
 00000000
-今まであまり見せることのなかった嫉妬心のような動きが何だか無性に心地いい。
+It feels strangely pleasant to see movements like jealousy\nthat she hasn't shown much before.
 
 00000000
-一体、いつの間にこんなことになっていったんだろう。
+I wonder when did things end up like this.
 
 00000000
-憎んで復讐を目論んでいた相手に惹かれ、そして楽しみを邪魔されない為に結果的にアリサを助け……。
+I was drawn to the person who hated and sought revenge, and\nin order to not have our enjoyment interrupted, I ended up\nhelping Arisa...
 
 00000000
-そして、今やもうアリサが側にいることが当たり前になり、ずっと一緒にいたいと思うようにさえなってしまった。
+And now, it has become natural for Arisa to be by my side, \nand I have even come to want to be with her all the time.
 
 00000000
-まだ、マインドコントロールの影響は、そこかしこに残っている。
+The influence of mind control still lingers everywhere.
 
 00000000
-それを解除してしまえば、一体どういう形に転んでいくのか、もう自分でも分からない。
+If I were to release it, I have no idea how things would\nturn out.
 
 00000000
-けれど、一度全てを精算した方がいいのかもしれない。
+However, it might be better to settle everything once and\nfor all.
 
 00000000
-アリサに手を引かれながら、僕はそんなことを考えるようになっていた。
+While being led by Arisa, I had started to think about such\nthings.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

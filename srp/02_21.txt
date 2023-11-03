@@ -7,36 +7,36 @@
 0200000001004247303230305F62
 
 00002000
-拓海
-よし……今日も頑張るか、っと……
+Takumi
+Alright... I'll do my best today, and...
 
 00000000
-僕は登校して教室に入るが、今まで僕を冷たい目で見ていた周囲の女子に親しげに挨拶をするのも抵抗があり、静かに自分の席につこうとする。
+I go to school and enter the classroom, but I feel\nresistance in greeting the girls around me who have been\nlooking at me coldly until now. I quietly try to take my\nseat.
 
 00000000
-すると、僕の姿を見て、こはるが少し恥ずかしそうな表情のまま近寄ってきて小動物を思わせる小さな動きで会釈してきた。
+Then, upon seeing me, Koharu approached with a slightly\nembarrassed expression and greeted me with a small, animal-\nlike gesture, reminiscent of a small creature.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-池ノ上君？　ええと、その……この間はありがとう……その、私なんかに時間を割いてくれて……
+Koharu
+Takumi-kun? Um, well... thank you for the other day... um, \nfor taking the time for someone like me...
 C04a02210001
 
 00002000
-拓海
-お礼を言うのは僕の方だよ。あの時は本当にありがとう
+Takumi
+The one who should be thanking is me. Thank you so much for\nthat time.
 
 00000000
-こはるを呼び出して、あんな恥ずかしいことをさせてしまったのを改めて思い出し、取り乱しながらお礼を言う。
+I call out to Koharu and, remembering how I made her do\nsomething so embarrassing, I apologize while getting\nflustered.
 
 00003000
-こはる
-よかった……でも、ムリしないでね。私は恩返しされるような大したことなんて何もしてないんだから……それじゃ……
+Koharu
+Thank goodness... But please don't push yourself. I haven't\ndone anything significant enough to deserve a favor in\nreturn... Well then...
 C04a02210002
 
 00000000
-こはるは、こうやって人前で僕と話をすることすら恐れ多いと言わんばかりに、即座に話を切り上げて自分の席へと戻ってしまう。
+Koharu, as if fearing even talking to me in public like\nthis, immediately cuts off the conversation and returns to\nher seat.
 
 0200E600000000000000E8FE9CFFE8FE4400440044004400E8030000F401666D5F433034615F30335F305F305F305F3031
 
@@ -45,16 +45,16 @@ C04a02210002
 なんとか、こはるの気持ちを僕に向けさせるようないい方法はないかなあ……義務で優しくされてると寂しいし……
 
 00000000
-オルゴールの力を使って『僕のことを好きになる』という刷り込みをかけることまで考えたが、効果を知り尽くしているとは言いがたい。
+I considered using the power of the music box to "make her\nfall in love with me," but it's hard to say that I fully\nunderstand its effectiveness.
 
 00000000
-刷り込みが未来永劫続くという保証がないということだ。
+This means that there is no guarantee that the brainwashing\nwill continue forever.
 
 00000000
-なんとか僕へ好意を向けてくれるいいお膳立てはないだろうか。
+Is there any way for you to set up a favorable situation for\nme?
 
 00000000
-こはるの方を見ると、彼女は物静かで僕に義務で優しくしてくれていたとはいえ、自分の女友達もいて、今は会話を楽しそうに交わしている。
+When I look at Koharu, she is quiet and has been kind to me\nout of obligation, but she also has her own female friends\nand now she seems to be enjoying a conversation with them.
 
 00006000
 拓海
@@ -65,33 +65,33 @@ C04a02210002
 0200000001004247303230305F62
 
 00002000
-女子学生Ａ
-はあっ……こないださあ、彼氏と一緒に服を買いに行ったんだけど、もっと肩の出た服のほうが好きだとか言ってたんだよねー……
+Female Student A
+Haa... The other day, you know, I went shopping for clothes\nwith my boyfriend, and he said he likes outfits that show\nmore shoulder...
 
 00002000
-女子学生Ｂ
-あー、それ無神経にも程があるー！　肩を出す服って、おっぱい大きくなきゃ似合わないってのわかってないんだー
+Female Student B
+Ahh, that's just insensitive! They don't understand that\noutfits that show the shoulders only look good if you have\nbig breasts!
 
 00002000
-女子学生Ａ
-そうそう！　その彼氏の好きな服ってどれもしっかり胸のカップが作ってある服なの！　お前はおっぱいと付き合いたいのかー！　って思ったよ
+Female Student A
+That's right! All the clothes that he likes are made with\nwell-fitted cups for the chest! Are you trying to date\nbreasts or something?! That's what I thought.
 
 00002000
-女子学生Ｂ
-露骨に胸が大きい女の子がいいって言う男子は少ないけどさ……服の趣味とかがそっちに偏ってる人っているよね……いいなあ、福永さん……
+Female Student B
+There aren't many guys who openly say they prefer girls with\nbig breasts... but there are people whose fashion\npreferences lean towards that... Lucky Koharu...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-え、ええっ……！？　い、いやっ、私そういうのよくわからないよ……彼氏とか、いた事ないし……
+Koharu
+E-eh...!? N-no, I don't really understand that kind of\nthing... I've never had a boyfriend or anything...
 C04a02210003
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-ほら、胸が大きければモテてるわけじゃないでしょ……？　男の人の趣味なんて結構人それぞれじゃないかなあ
+Koharu
+You know, having big breasts doesn't necessarily mean you'll\nbe popular...? Men's preferences vary from person to person, \ndon't they?
 C04a02210004
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
@@ -99,10 +99,10 @@ C04a02210004
 0200000001004247303230305F62
 
 00000000
-僕だけがこはるの味方になってあげる。
+"I'll be the only one to support Koharu."
 
 00000000
-僕にしてくれたようなことをこはるにしてあげるビジョンを思い描くとイヤホンを耳に装着してオルゴールの蓋を開けた。
+I imagined a vision of doing something for Koharu that she\ndid for me, so I put on my earphones and opened the lid of\nthe music box.
 
 0300000000000F2742474D3036
 
@@ -113,20 +113,20 @@ C04a02210004
 03008C0000000F2753455F6130385F30323034
 
 00002000
-拓海
-おっぱいが大きいってことはそれだけ男性からより多くの好感を持たれる
+Takumi
+Having big breasts means that you will be more liked by men.
 
 00002000
-拓海
-つまり僕からの好感が高くなっていくってこと
+Takumi
+In other words, the favorability towards me will increase.
 
 00002000
-拓海
-大きければ大きいだけ、僕からの好感が高くなっていくから女性の価値もそれだけ高くなっていくよね
+Takumi
+The bigger they are, the higher my favorability towards\nwomen will be, so their value also increases.
 
 00002000
-拓海
-だから、皆は自分よりも大きい、誰よりも大きいおっぱいは羨ましくて仕方がなくなる
+Takumi
+That's why everyone becomes uncontrollably envious of\nbreasts that are bigger than their own, bigger than anyone\nelse's.
 
 02007F10
 
@@ -137,32 +137,32 @@ C04a02210004
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00000000
-僕はそう言ってオルゴールを閉じてクラスの女子全体への刷り込みを終了した。
+I said that and closed the music box, completing the\nimprinting on all the girls in the class.
 
 00002000
-女子生徒Ａ
-福永さんは悩みがなくていいよね～？　牛みたいにご立派な大きなおっぱいしてるんだもんね
+Female Student A
+Koharu-san, you're so lucky, aren't you? You have such\nsplendid big breasts like a cow.
 
 00002000
-女子生徒Ｂ
-それだけのおっぱいなら、馬鹿な男がいくらでも寄ってくるよねえ～？　ま、私はそういうのゴメンだけど
+Female Student B
+If you have breasts like that, stupid guys will come\nflocking to you, right? Well, I'm not into that kind of\nthing though.
 
 00002000
-女子生徒Ｃ
-そーそー、大きすぎても微妙だし。デブみたいに見えるから、おしゃれじゃないもん
+Female Student C
+Yeah, yeah, even if they're too big, it's kind of subtle.\nThey make you look fat, so it's not fashionable.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-えっ……ちょ、ちょっとっ……みんなっ……
+Koharu
+Eh... W-wait... everyone...
 C04a02210005
 
 00000000
-一斉にこはるには今まで仲が良かったクラスメイトからの負け惜しみ混じりの憎まれ口が十字砲火の如く浴びせられていく。
+Koharu is bombarded with bitter words mixed with sour grapes\nfrom classmates she had been close with until now.
 
 00000000
-突然のことにうろたえるこはるだが、その表情は明らかに落ち込みが見えていた。
+Koharu, who was taken aback by the sudden turn of events, \nclearly showed a depressed expression.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -173,75 +173,75 @@ C04a02210005
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-どうして……なんでこんなことになったのかな……はああ……
+Koharu
+Why... why did things turn out like this... sigh...
 C04a02210006
 
 00000000
-こはるは夕暮れの校舎裏で花壇の縁に座り、沈んだ表情で悲しそうな溜め息をついていた。
+Koharu sat on the edge of a flower bed behind the school\nbuilding at dusk, sighing sadly with a depressed expression.
 
 00000000
-あれから数日の間、こはるは胸のことでクラスメイトから執拗な迫害を与えられ、取り付く島もなく一人で時間を過ごすことしかできなかった。
+Since then, for several days, Koharu has been relentlessly\npersecuted by her classmates because of her breasts, and she\ncould do nothing but spend time alone with nowhere to turn.
 
 00000000
-もともとこはるは、アリサや理央みたいに攻撃的に開き直れるタイプでもないだけに悩みを抱え込むしか方法がない。
+Koharu is not the type to confront her problems aggressively\nlike Arisa or Rio, so she has no choice but to keep her\nworries to herself.
 
 00000000
-いくらなんでもやり過ぎたかと思ったが、こはるにも罪はあるのだからと考え割り切って話しかける。
+I thought I might have gone too far, but considering that\nKoharu is also at fault, I decided to approach her and talk\nit out.
 
 00002000
-拓海
-まだ帰ってなかったの？　なんか元気がなさそうだけど……
+Takumi
+You're still not home? You seem a bit down...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あっ……そ、そのっ、今は……私に構わないほうがいいよ……みんなからとばっちりを受けるかもしれないから……
+Koharu
+Ah... W-well, right now... it's better if you don't pay\nattention to me... I might get caught up in the crossfire\nfrom everyone...
 C04a02210007
 
 00002000
-拓海
-そんなこと気にしないでいいよ。僕はこはるの味方でいたいと思ってるから。僕だって助けられてた時があったんだからさ……
+Takumi
+You don't have to worry about that. I want to be on Koharu's\nside. There were times when I was helped too, you know...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-で、でもっ……私、こんなに大きな胸をしてて……ちょっと気持ち悪いってみんなに言われてそうなんじゃないかと思って……
+Koharu
+B-But... with breasts this big... I'm afraid everyone might\nthink it's a bit gross and say so...
 C04a02210008
 
 00002000
-拓海
-こはるのおっぱいは本当に素敵だよ。そうでもなかったら、わざわざ招いて精液をあげたりしないよ
+Takumi
+Koharu, your breasts are really wonderful. If they weren't, \nI wouldn't go out of my way to invite you and give you my\nsemen.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-そう……かな……？　でも、みんなの言ってることも間違ってないよ……
+Koharu
+Yeah... maybe... But what everyone is saying isn't wrong\neither...
 C04a02210009
 
 00002000
-拓海
-それなら、今すぐ証拠を見せてあげるよ。こはるのおっぱいでどれだけ射精できるか……確かめさせてあげる
+Takumi
+If that's the case, then I'll show you the evidence right\nnow. I'll let you see how much I can ejaculate with Koharu's\nbreasts... I'll make sure to confirm it for you.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-う、うんっ……嬉しい、な……池ノ上くんにそこまで言ってもらえて少し元気になったかも
+Koharu
+Y-Yeah... I'm happy... Takumi-kun saying that to me... It\nmade me feel a little better.
 C04a02210010
 
 00002000
-拓海
-それじゃちょっと脱いで
+Takumi
+Then, why don't you take off your clothes for a bit?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-え？　ここで？
+Koharu
+Huh? Here?
 C04a02210011
 
 0100200002026566666563742C656666656374207363656E655F656E64

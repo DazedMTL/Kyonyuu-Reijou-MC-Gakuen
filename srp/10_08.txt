@@ -9,193 +9,193 @@
 0200000001004247303430305F62
 
 00000000
-こはるがマインドコントロールに気付いた時に、その対策を急いで出そうと決めた。
+Koharu decided to quickly come up with a countermeasure when\nshe realized she was being mind-controlled.
 
 00000000
-だけどその方法が思いつかず中庭で黄昏ていた。
+But she couldn't come up with a method and was sulking in\nthe courtyard at dusk.
 
 00002000
-拓海
-どうしようかな……
+Takumi
+What should I do...
 
 00000000
-焦りが苛立ちを生み、さらに焦りを募らせた結果でアイディアなんて出ることもなかった。
+The frustration bred irritation, and as a result of the\nmounting impatience, no ideas came to mind.
 
 00000000
-一晩、もう一晩と時間も経ってしまいこはるの告白から数日が経った。
+Several days had passed since Koharu's confession, with each\nnight feeling longer than the last.
 
 05008200F4010000
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-授業も近いというのに何たるザマを晒しているのですか、全く……
+Arisa
+What a disgraceful sight you're showing, even though class\nis about to start... Honestly...
 C01a10080001
 
 00002000
-拓海
-アリサか、おはよう……遅刻寸前だけど何をしてるの？
+Takumi
+Arisa, good morning... You're almost late, but what are you\ndoing?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-質問をするよりも貴方が授業をボイコットというのはあってはならないことでは？
+Arisa
+Isn't boycotting class something that shouldn't be done\nrather than asking questions?
 C01a10080002
 
 00002000
-拓海
-……う、うん、そうだね
+Takumi
+...Uh, yeah, that's right.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-はぁ……自身の立場をよく理解してみてはいかがですか
+Arisa
+Sigh... How about trying to understand your own position\nbetter?
 C01a10080003
 
 00002000
-拓海
-わかってるよ……
+Takumi
+I understand...
 
 00002000
-拓海
-それよりも……いつもより言葉に棘が感じられるけど、なにか嫌なことでもあった？
+Takumi
+But more importantly... I can sense a sharper edge in your\nwords than usual. Is there something bothering you?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a10080004
 
 00003000
-アリサ
-お家のことで少々…………慌ただしいといえばいいのかしら
+Arisa
+It's a bit... hectic at home, I suppose.
 C01a10080005
 
 00000000
-どうやらアリサは実家との確執が余計に強まる事態に巻き込まれたようだが、僕は今までこはるのことが大事で、そちらには一切関与していなかった。
+It seems that Arisa has gotten caught up in a situation\nwhere the conflict with her family has intensified. However, \nI have always prioritized Koharu, and I have not been\ninvolved in that matter at all.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あまり……上手くいかないものだわ……
+Arisa
+Things aren't going very well...
 C01a10080006
 
 00002000
-拓海
-へー……アリサの弱音なんて珍しいね
+Takumi
+Oh... It's rare to hear Arisa complain like this.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-からかうのでしたら、今なら怒りますわよ
+Arisa
+If you're teasing me, I'll get angry now, you know.
 C01a10080007
 
 00002000
-拓海
-そういうつもりじゃないよ……ただ、僕も悩んでてね……
+Takumi
+That's not what I meant... It's just that, I'm also\ntroubled, you know...
 
 00002000
-拓海
-まぁ、そういうこと！　アリサも、行動してたら何とかなるもんだから頑張りなよ
+Takumi
+Well, that's the spirit! Arisa, if you take action, things\nwill work out somehow, so do your best.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-え、ええ……お心遣い感謝しますわ
+Arisa
+Oh, um... Thank you for your concern.
 C01a10080008
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それで……貴方はいったい何が悩みなんですの？
+Arisa
+So... what exactly is troubling you?
 C01a10080009
 
 00002000
-拓海
-あ……それは……
+Takumi
+Ah... well...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-私には労いをしておいて、ご自身は一人で抱えるのはどうかと
+Arisa
+Please spare me your sympathy and try not to bear everything\non your own.
 C01a10080010
 
 00002000
-拓海
-そうかもね……うん、そうだね
+Takumi
+Yeah, that might be true... Yeah, you're right.
 
 00002000
-拓海
-じゃあ、聞いて欲しいんだけど…………どうしても手放したくないものがあるんだ……
+Takumi
+Well, I want you to listen... There's something that I just\ncan't let go of...
 
 00002000
-拓海
-それを手放さないといけないかもしれない……
+Takumi
+I might have to let go of it...
 
 05008200F4010000
 
 00002000
-拓海
-アリサだったらどうする？
+Takumi
+What would you do, Arisa?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-はあ……かなり分かり辛い例え話でしたけど、随分くだらないことでお悩みのようで
+Arisa
+Haa... It was quite a difficult metaphor to understand, but\nit seems like you're troubled by something really trivial.
 C01a10080012
 
 00002000
-拓海
-これでも僕は必死なんだけどね
+Takumi
+Even though it may not seem like it, I'm really desperate.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-拍子抜けですわね
+Arisa
+How disappointing.
 C01a10080013
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-そんな大切な物ならば、手放さないようにしておけばいいのではないかしら
+Arisa
+If it's something that important to you, shouldn't you try\nnot to let go of it?
 C01a10080014
 
 00000000
-何を当然のことを言っているのか。アリサはそんな顔をして僕を見つめてくる。
+What are you saying as if it's obvious? Arisa looks at me\nwith that kind of expression.
 
 0300000000000F2742474D3037
 
 02008C00010000
 
 00002000
-拓海
-ああ……そうか……確かにそうだ
+Takumi
+Ah... I see... You're right.
 
 00002000
-拓海
-最初から手放さないようにしておけば万事解決じゃないか
+Takumi
+If I make sure not to let go of it from the beginning, \nwouldn't everything be resolved?
 
 00002000
-拓海
-どうしてそんな簡単なことを……僕は……
+Takumi
+Why would you say something so simple... I...
 
 00000000
-天啓を得た。そう表現できるほどの閃きをアリサから与えられた。
+I have received a divine revelation. Arisa has given me such\na brilliant inspiration that can be expressed as such.
 
 00000000
-そうなればすることは一つだけ。
+If that's the case, there is only one thing to do.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

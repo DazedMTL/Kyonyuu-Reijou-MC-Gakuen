@@ -13,201 +13,201 @@
 0200000001004247313130305F62
 
 00003000
-友里子
-失礼します……
+Yuriko
+Excuse me...
 C02a08040001
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00002000
-拓海
-ああ、うん。こっちだよ。入って
+Takumi
+Ah, yeah. It's this way. Come in.
 
 00000000
-その日の夜、友里子は僕に呼ばれ、しずしずと部屋へやって来た。
+That night, Yuriko was called by me and she came to my room\nquietly.
 
 00002000
-拓海
-そこのベッドでも何でも、適当な所に座って
+Takumi
+You can sit anywhere, even on that bed.
 
 00003000
-友里子
-はい……
+Yuriko
+Yes...
 C02a08040002
 
 00000000
-言われるままに、友里子はちょこんとベッドに腰掛けるが、その表情は見るからに沈みきっており、少し痛々しささえ感じてしまう。
+Yuriko obediently sits on the bed, her expression clearly\nshowing her deep sadness, which even gives off a hint of\npain.
 
 00002000
-拓海
-えぇと……一応昼間の話をちょっとしようと思ったんだけど、もしかして相当落ち込んでる？
+Takumi
+Um... I was thinking of talking about what happened during\nthe day, but are you feeling really down?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-…………大丈夫……です
+Yuriko
+...I'm...fine.
 C02a08040003
 
 00002000
-拓海
-ここまで大丈夫じゃなさそうに言われてもなぁ
+Takumi
+Even if you say that I don't seem to be okay up until now...
 
 00000000
-アリサに対しての本音をぶち撒けたところまでは良かったが、その後でこれだけへこむとは思わなかった。
+I was glad that I could honestly express my true feelings to\nArisa, but I didn't expect to feel this down afterwards.
 
 00000000
-今からあの時の言葉の真意を伝えようにも、どれだけ聞く耳を持ってくれるやら。
+I wonder how willing she'll be to listen, even if I try to\nconvey the true meaning of those words from back then.
 
 00006000
 拓海
 まぁ、僕も正直びっくりしたけどね……
 
 00000000
-友里子は、もっと盲従的にアリサについていっているものだと思っていた。
+I thought Yuriko would be more blindly obedient to Arisa.
 
 00000000
-だから、アリサが決めたことなら……そういう形で、とにかくアリサについて行く。それが信条だと思っていたのに。
+So, if it's something Arisa has decided... I thought my\ncreed was to follow her no matter what, in that way.
 
 00000000
-あくまでも、アリサを吉祥寺家の上に立たせる……それだけ強い意志を持っていたってことだろうか。
+Is it just that I had such a strong determination to let\nArisa stand above the Kisshouji family, no matter what?
 
 00000000
-別に友里子を侮っていた訳じゃないが、その芯の強さを見せつけられると、改めて友里子が魅力的に見えて堪らなくなって来る。
+It's not that I underestimated Yuriko, but when she shows\nher inner strength, I can't help but find her even more\nattractive.
 
 00002000
-拓海
-友里子はさ……アリサが誰かの下につくっていうのが我慢できないの？
+Takumi
+Yuriko... Can't you tolerate the idea of Arisa being under\nsomeone else?
 
 00000000
-隣に腰掛けながら、僕は試すように友里子にそんなことを聞いてみる。
+While sitting next to her, I try asking Yuriko about that.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
+Yuriko
 ………………
 C02a08040004
 
 00000000
-だが、友里子は難しい表情のまま、中々答えを出そうとしない。
+However, Yuriko remains with a difficult expression and\ndoesn't seem to want to give an answer easily.
 
 00002000
-拓海
-アリサがそうだって認めたとしても、それは……やっぱり本意じゃない？
+Takumi
+Even if Arisa acknowledges it, that still... isn't it\nagainst her true intentions?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-それは……全く別の問題です……
+Yuriko
+That... is an entirely different issue...
 C02a08040005
 
 00002000
-拓海
-別の問題？
+Takumi
+A different issue?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-吉祥寺家のトップが替わるという話……仮に本当だとすれば、それは私たちにとって悪い話ではありません
+Yuriko
+The talk of the Kisshouji family's leadership changing... If\nit were to be true, it wouldn't be a bad thing for us.
 C02a08040006
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-ですが、それがいい話になるとも限らない。あくまでも、それは一時的な動きでしかありません
+Yuriko
+However, it's not guaranteed that it will turn out to be a\ngood thing. It's just a temporary move, after all.
 C02a08040007
 
 00002000
-拓海
-あくまでも、最後に上に立つのはアリサ……か
+Takumi
+In the end, it's Arisa who will stand at the top, right?
 
 00003000
-友里子
-……もちろん、アリサが納得しているならば……その意志は私の意志でもあります。ですが、今のアリサは迷っている……
+Yuriko
+...Of course, if Arisa is satisfied... her will is also my\nwill. However, Arisa is currently hesitating...
 C02a08040008
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-周囲のノイズを気にすることはないと……ですが、私が至らないせいで……それも上手く伝えられなくて……
+Yuriko
+I shouldn't be concerned about the surrounding noise... but\nbecause of my incompetence... I also couldn't convey it\nproperly...
 C02a08040009
 
 00002000
-拓海
-なるほどね……
+Takumi
+I see...
 
 00000000
-結局、友里子はアリサのコンプレックスを知りながら尚、信頼しているんだろう。
+In the end, Yuriko still trusts Arisa despite knowing her\ninsecurities, right?
 
 00000000
-僕がどれだけマインドコントロールでアリサは無能であるという認識を与えても、その強い柱は折れていないのだ。
+No matter how much I try to implant the perception that\nArisa is incompetent through mind control, that strong\npillar remains unbroken.
 
 00000000
-だとすれば、後はもう一つ……確認しておくことがある。
+If that's the case, there is one more thing... that needs to\nbe confirmed.
 
 00002000
-拓海
-ねぇ、友里子個人として一つ、聞いていいかな？
+Takumi
+Hey, Yuriko, can I ask you something as an individual?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……何でしょうか
+Yuriko
+...What is it?
 C02a08040010
 
 00002000
-拓海
-もし、そのトップが僕だって言ったら……どうかな？
+Takumi
+If I were to say that I want to be at the top... what would\nyou think?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30352F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-え……？
+Yuriko
+Huh...?
 C02a08040011
 
 00000000
-一瞬、驚きの表情を見せた友里子は、次の瞬間、あぁと何かを悟ったように小さく頷いた。
+Yuriko, who showed a momentary expression of surprise, then\nin the next moment, nodded slightly as if realizing\nsomething.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-そうなんですね……もしや、という思いはありましたけど、まさか本当にそうだったなんて……
+Yuriko
+I see... I had a feeling, but I never thought it would\nactually be true...
 C02a08040012
 
 00002000
-拓海
-僕は仮定の話をしてるんだよ？
+Takumi
+I'm just talking hypothetically, you know?
 
 00003000
-友里子
-昼間の方も同じことを言いました。では……私達の意志を確認するために、回りくどい手を使われたんですね……
+Yuriko
+You said the same thing during the day as well. So... you\nused a roundabout way to confirm our intentions, huh...
 C02a08040013
 
 00002000
-拓海
+Takumi
 …………
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-今更、私の意志なんかどうでもいいでしょう。私をどうにかしたみたいに……好きになさればいいじゃないですか……
+Yuriko
+It's too late now, my intentions don't matter anymore, \nright? You can do whatever you want with me... as if you're\ntrying to get rid of me...
 C02a08040014
 
 00002000
-拓海
-好きにすれば……ね
+Takumi
+Do as you please...
 
 00000000
-挑発的な言葉と共に、僅かに漏れた真情の吐露に、僕は友里子の身体をベッドへと押し倒した。
+With provocative words and a slight slip of true feelings, I\npushed Yuriko's body onto the bed.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -220,374 +220,374 @@ C02a08040014
 020000000100666D5F3036335F30303033
 
 00003000
-友里子
-んっ…………
+Yuriko
+Mmm...
 C02a08040015
 
 00000000
-ストッキングに包まれた美脚を抱え込み、その滑らかな感触を再度堪能する。
+I embrace the beautiful legs wrapped in stockings and once\nagain enjoy the smooth sensation.
 
 00002000
-拓海
-ちゃんと新しいのに替えたんだね。２枚続けて引き裂く訳にはいかないかなぁ
+Takumi
+You properly replaced it with a new one, huh? I guess I\ncan't just tear two of them in a row, can I?
 
 00003000
-友里子
-別に……好きになさればいいでしょう。命令されればいいんです……
+Yuriko
+It's not like... you can do as you please. If you command\nme, that would be fine...
 C02a08040016
 
 00002000
-拓海
-そんな投げやりに言わないでよ。友里子だって本当は欲しいクセに
+Takumi
+Don't say it so casually. Even Yuriko actually wants it.
 
 020000000100666D5F3036335F30303038
 
 00000000
-ぴっちりと閉じられた太ももに、ぐっと自分のペニスを挟み込み、ゆっくり軽く上下する。
+I tightly sandwiched my penis between her closed thighs and\nslowly moved it up and down.
 
 020000000100666D5F3036335F30303037
 
 00003000
-友里子
-また……んっ、そんなやり方……ですか……
+Yuriko
+Again... mmm, is that the way... you're going to do it...?
 C02a08040017
 
 00000000
-散々尻ズリをされて炙られた身体は、挿入の期待に反応したが、さっきと同じ素股状態に友里子は小さくため息をつく。
+Yuriko's body, which had been thoroughly stimulated by the\nass rubbing, responded with anticipation for penetration, \nbut she let out a small sigh as she found herself in the\nsame thigh job position as before.
 
 00002000
-拓海
-欲しかったら、いつもみたいにおねだりしないと。オマンコはもう食べたがってるみたいじゃない？
+Takumi
+If you want it, you'll have to beg like you always do.\nDoesn't your pussy seem like it's already craving to be\neaten?
 
 020000000100666D5F3036335F30303038
 
 00003000
-友里子
-んっ……それは……んっ、ふ……
+Yuriko
+Mmm... That's... Mmm, ah...
 C02a08040018
 
 00002000
-拓海
-さっきは声も出せなくてモヤモヤしてたでしょ。ここなら、どんなことを言っても大丈夫だよ？
+Takumi
+Earlier, you couldn't even make a sound and were feeling\nfrustrated, right? Here, you can say anything you want, no\nmatter what it is.
 
 00003000
-友里子
+Yuriko
 …………
 C02a08040019
 
 00000000
-いつもなら、しっかりと切り替えて淫らなおねだりも平気でしてみせる友里子だったが、今日は心がまだ収まり切らない。
+Yuriko, who would usually switch gears and shamelessly make\nlewd demands without hesitation, still couldn't fully calm\nher heart today.
 
 00000000
-心の中でアリサのことを考えているのか、疼きを覚えながらも集中できていない雰囲気だ。
+It seems like you're not able to concentrate, even though\nyou're feeling a throbbing sensation, because you're\nthinking about Arisa in your heart.
 
 00002000
-拓海
-やれやれ、そんな場合じゃないって感じかな……
+Takumi
+Well well, it seems like this isn't the right time for\nthat...
 
 00003000
-友里子
-……申し訳……ありません
+Yuriko
+...I'm sorry...
 C02a08040020
 
 00002000
-拓海
-いや……友里子はいつもよくやってくれてるから。こんな時もあるよ
+Takumi
+No... Yuriko always does well for me. There are times like\nthis too.
 
 00003000
-友里子
-……されないの……ですか
+Yuriko
+...You won't do it...?
 C02a08040021
 
 00002000
-拓海
-友里子がその気にならないならね
+Takumi
+If Yuriko isn't in the mood for it...
 
 00003000
-友里子
-その気に……なっていない訳では……
+Yuriko
+It's not that I'm not in the mood...
 C02a08040022
 
 00000000
-葛藤の只中にいるのか、友里子は押し倒されたままもじもじと腰を揺らす。
+In the midst of her inner conflict, Yuriko, still being\npinned down, timidly wiggles her hips.
 
 00000000
-むにゅっと太ももが勃起を擦って心地いいが、僕はぐっと堪えて友里子に尋ねた。
+I endured it and asked Yuriko, even though rubbing against\nher erect thigh felt good.
 
 00002000
-拓海
-ねぇ、私をどうにかしたって言うのは……どういう意味？
+Takumi
+Hey, what do you mean by saying you want to do something to\nme?
 
 020000000100666D5F3036335F30303037
 
 00003000
-友里子
-……貴方が……私に何かをしたことは分かっています……
+Yuriko
+...I know that you did something to me...
 C02a08040023
 
 00000000
-僅かに発情の吐息をこぼしながら、友里子は途切れ途切れにそう答えた。
+Yuriko answered intermittently, while letting out a faint\nsigh of arousal.
 
 00003000
-友里子
-今……こうしている間も、ずっと疼いたままなんです
+Yuriko
+Even now... it's been throbbing the whole time.
 C02a08040024
 
 00003000
-友里子
-私の身も心も、精液を欲しがってる……それは間違いありません。でも……どうしてそうなのか……
+Yuriko
+My body and heart are craving for your semen... There is no\nmistake about that. But... why is it like this...
 C02a08040025
 
 00003000
-友里子
-私の中にある強い気持ち……アリサと貴方と……でも、貴方のことが分からない……
+Yuriko
+There's a strong feeling inside me... towards Arisa and\nyou... but I don't understand you...
 C02a08040026
 
 00003000
-友里子
-貴方はいつの間にか、どこかで私の中に強く入り込んできた……
+Yuriko
+You somehow, at some point, forcefully entered inside me...
 C02a08040027
 
 00003000
-友里子
-ずっとアリサのために……それだけを思っていた私に、全く違う悦びが生まれていることに気づいて……
+Yuriko
+I've always been thinking only about Arisa... but I've\nrealized that a completely different pleasure is being born\nwithin me...
 C02a08040028
 
 00003000
-友里子
-ですが、同時にアリサのことが分からなくなって……
+Yuriko
+But at the same time, I've become unsure about Arisa...
 C02a08040029
 
 020000000100666D5F3036335F30303132
 
 00003000
-友里子
-分からないんです……っ……自分で自分が……今の気持ちも、アリサのことも大切なのに……！
+Yuriko
+I don't understand... *gasps*... even my own feelings...\nboth the current ones and my feelings towards Arisa... are\nimportant to me...!
 C02a08040030
 
 00000000
-声を震わせ、友里子は顔を隠しながら小さく呻いた。
+Yuriko trembled in her voice and let out a small moan while\nhiding her face.
 
 020000000100666D5F3036335F30303133
 
 00003000
-友里子
-貴方に抱かれて……セックスしている間、私の心は悦びに満ちています……
+Yuriko
+Being embraced by you... while having sex, my heart is\nfilled with joy...
 C02a08040031
 
 020000000100666D5F3036335F30303132
 
 00003000
-友里子
-ですが、そうすればするほどアリサの気持ちが離れていく……貴方が何かをしたんです……それに私は逆らえない……
+Yuriko
+However, the more I do that, the more Arisa's feelings drift\naway... You did something... and I can't resist it...
 C02a08040032
 
 00002000
-拓海
+Takumi
 ………………
 
 00000000
-友里子は、アリサという強い芯がある故に、自分の異変に気づいていたのだ。
+Yuriko noticed her own changes because of the strong\npresence of Arisa.
 
 00000000
-うっすらとした感覚だけで、僕への違和感にたどり着き、しかし、身も心も逆らえずにいる。
+I arrived at a sense of unease towards myself only faintly, \nbut I can't resist it both physically and emotionally.
 
 00000000
-つまり、友里子はもう堕ちている……ただ、一つアリサという憂いを理性に繋ぎ止めて。
+So, Yuriko has already fallen... but she's holding onto the\nworry of Arisa as a single thread of reason.
 
 00000000
-今までアリサのことばかり見ていたと思っていた友里子が。
+Yuriko, who thought she had only been focused on Arisa until\nnow...
 
 00000000
-例え支配下の中での出来事とは言え、僕のことを意識していてくれたことが思った以上に嬉しかった。
+Even though it happened under your control, the fact that\nyou were aware of me made me happier than I expected.
 
 00000000
-そして、同時に友里子が一人、板挟みの状況にずっと煩悶していたことも思い知る。
+And at the same time, Yuriko realizes that she has been\nconstantly tormented by being caught in the middle.
 
 00000000
-全ては僕が相反させていた状況。で、あるならば……導いてやれる答えは一つしかない。
+Everything was a situation that I had been contradicting.\nAnd if that's the case... there is only one answer that can\nguide us.
 
 00002000
-拓海
-友里子……アリサのことは僕に任せてくれないかな？
+Takumi
+Yuriko... Can you leave Arisa to me?
 
 020000000100666D5F3036335F30303133
 
 00003000
-友里子
-え……？
+Yuriko
+Huh...?
 C02a08040033
 
 020000000100666D5F3036335F30303038
 
 00000000
-そっと顔から腕をどけ、僅かに滲んだ涙を指先で拭ってやる。
+I gently move my arm away from my face and wipe away the\nfaintly blurred tears with my fingertips.
 
 00002000
-拓海
-僕を受け入れることで、アリサを失うかもしれない……友里子はそれが心配なんだよね？
+Takumi
+Yuriko... Are you worried that by accepting me, you might\nlose Arisa?
 
 00003000
-友里子
-それは……
+Yuriko
+Well...
 C02a08040034
 
 00002000
-拓海
-そんな風にはさせないよ。僕を選ぶことでアリサを失わせたりはしない。信じて
+Takumi
+I won't let that happen. By choosing me, you won't lose\nArisa. Trust me.
 
 00003000
-友里子
-…………不思議です
+Yuriko
+...It's strange.
 C02a08040035
 
 00002000
-拓海
-不思議……？
+Takumi
+Strange...?
 
 00003000
-友里子
-貴方の言葉には明確な根拠も何もありません。なのに……強く心が揺さぶられます……
+Yuriko
+Your words have no clear basis or anything. And yet... my\nheart is strongly shaken...
 C02a08040036
 
 00003000
-友里子
-ずっと、私は振り回されていた気がします……でも、今はそれでもいいと思ってる……
+Yuriko
+I feel like I've been tossed around all this time... but\nnow, I think it's okay...
 C02a08040037
 
 00003000
-友里子
-……信じても……いいですか
+Yuriko
+...Can I believe in you...?
 C02a08040038
 
 00000000
-僅かな逡巡の後、友里子は恐る恐るそう尋ねた。
+After a moment of hesitation, Yuriko timidly asked.
 
 00003000
-友里子
-私が貴方に差し上げられるものは……この身体しかありませんが、アリサのことを……助けて頂けますか
+Yuriko
+The only thing I can offer you... is my body. But, can you\nhelp Arisa...?
 C02a08040039
 
 00002000
-拓海
-本当にアリサのことが大事なんだね、友里子は
+Takumi
+Yuriko, you really care about Arisa, don't you?
 
 00003000
-友里子
-……はい。大切な存在です
+Yuriko
+...Yes. She is an important presence.
 C02a08040040
 
 00002000
-拓海
-羨ましいよ。僕もいつか友里子にそう言ってもらえる人になりたいもんだ
+Takumi
+I'm envious. I want to become someone who can hear those\nwords from Yuriko someday.
 
 00003000
-友里子
-……え……？
+Yuriko
+...Eh...?
 C02a08040041
 
 00002000
-拓海
-友里子がアリサのことを大事に思う位に、僕も友里子のことを大事に思ってるってこと
+Takumi
+Just like how Yuriko cares about Arisa, I also care about\nYuriko a lot.
 
 00003000
-友里子
-私……を？
+Yuriko
+Me...?
 C02a08040042
 
 00002000
-拓海
-そこまで不思議そうな顔をしなくても
+Takumi
+You don't have to make such a puzzled face about it.
 
 020000000100666D5F3036335F30303037
 
 00003000
-友里子
-ですが……私なんか、何の魅力も……んぁ……！？
+Yuriko
+But... I don't have any charm or anything... Ah...!?
 C02a08040043
 
 00002000
-拓海
-それなら、こんな風になってないし
+Takumi
+If that's the case, then I wouldn't be like this.
 
 00000000
-太ももに挟まれたままの肉棒が、今更のようにピンと自己主張をする。
+The meat rod, still trapped between my thighs, stands erect\nas if asserting itself now.
 
 020000000100666D5F3036335F30303038
 
 00003000
-友里子
-んっ……あ……
+Yuriko
+Mmm... Ah...
 C02a08040044
 
 00002000
-拓海
-別に身体だけってことじゃないからね。友里子は魅力的だよ、本当に
+Takumi
+It's not just about the body, you know. Yuriko is charming, \nreally.
 
 00003000
-友里子
-……こんな状態で言われても説得力がありません……
+Yuriko
+...Even if you say that in this state, it lacks\npersuasiveness...
 C02a08040045
 
 00002000
-拓海
-はは……まぁ。正直、大分我慢出来なくなってて……
+Takumi
+Haha... Well, honestly, I've become quite impatient...
 
 00003000
-友里子
-んっ……でも、そう言って頂けるのは……嬉しい、かも知れません
+Yuriko
+Mmm... But, to hear you say that... it might make me happy.
 C02a08040046
 
 00002000
-拓海
-うん、ゆっくり分かってもらえればいいや。それより……ちょっと、一回離れようか。ホントに出ちゃいそうかも……
+Takumi
+Yeah, it's fine if you understand it slowly. But more\nimportantly... Hey, let's take a step back for a moment. I\nmight really end up...
 
 0300191000000F275345485F565F30325F5930315F41
 
 00003000
-友里子
-構いません……出して下さい……んっ……
+Yuriko
+It's okay... Please release it... Mmm...
 C02a08040047
 
 00000000
-途端、ぎゅっと太ももに力が込められ、亀頭に心地よい圧迫感が訪れる。
+At that moment, a strong pressure is applied to my thighs, \ngiving a pleasant sensation to the glans.
 
 00002000
-拓海
-ちょっ……あっ、えっ……急にそんな、お……
+Takumi
+Wait... Ah, huh... Suddenly, like that, oh...
 
 00003000
-友里子
-私には……こんなことしか出来ませんが……それでも、喜んでいただけるなら……
+Yuriko
+I can only do something like this... but if it makes you\nhappy...
 C02a08040048
 
 0200EF10054563735F4E6176695F303035
 
 00000000
-むにゅむにゅと動く太ももが、みっちりと竿に食い込み、カリ首を柔らかく刺激する。
+The thighs moving softly and tightly pressing against the\nshaft, gently stimulating the glans.
 
 0200EF10054563735F4E6176695F303034
 
 00002000
-拓海
-あっ……うっ、いや、ホントに出るって……
+Takumi
+Ah... Uh, no, it's really going to come out...
 
 0200EF10054563735F4E6176695F303033
 
 00003000
-友里子
-はい……掛けて下さい……いつもみたいに、いっぱい精液浴びせて下さい……
+Yuriko
+Yes... Please release it... Like always, shower me with lots\nof semen...
 C02a08040049
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-摺り寄せられる友里子の腰つきは完全に本気だった。
+Yuriko's hip movements as she presses against me were\ncompletely serious.
 
 0200EF10054563735F4E6176695F303031
 
 00000000
-何より、悩ましい吐息と共に求められる言葉には逆らえず――
+I couldn't resist the words that were demanded with a\ntantalizing sigh above all else--
 
 0200EF10002D
 
@@ -596,84 +596,84 @@ C02a08040049
 020000000100666D5F3036335F30303139
 
 00003000
-友里子
-んんっ！　は……あぁ……あったかいです……
+Yuriko
+Nngh! Hah... Ahh... It's warm...
 C02a08040050
 
 00000000
-堪え切れずに漏れた精液が、友里子の柔肌にへばりついていく。
+The semen that couldn't be held back leaks out and sticks to\nYuriko's soft skin.
 
 00002000
-拓海
-はぁぁ……まさか、こんなにあっさり出ちゃうなんて……
+Takumi
+Haa... I can't believe it, it came out so easily...
 
 020000000100666D5F3036335F30303136
 
 00003000
-友里子
-話をしてる時も、ずっと大きいままでしたから……ふふ……
+Yuriko
+It stayed big the whole time we were talking... hehe...
 C02a08040051
 
 00002000
-拓海
-あ……その笑顔いいね
+Takumi
+Ah... That smile looks nice.
 
 020000000100666D5F3036335F30303138
 
 00003000
-友里子
-え……？　あ……も、もう……あまり見ないで下さい……
+Yuriko
+Eh...? Ah... P-Please... don't look at me so much...
 C02a08040052
 
 00000000
-涙をこぼしたり、優しい笑顔になったり、今日は友里子の感情の振れ幅が大きくて楽しい。
+Yuriko's emotions have been fluctuating greatly today, from\nshedding tears to displaying gentle smiles. It's been\nenjoyable witnessing such a wide range of emotions from her.
 
 00002000
-拓海
-出ちゃったけど、まだ全然収まらないや……ね、友里子
+Takumi
+It came out, but it still won't settle down at all... right, \nYuriko?
 
 020000000100666D5F3036335F30303136
 
 00003000
-友里子
-はい……私も、ずっと……身体が疼いたまま……堪らないです……
+Yuriko
+Yes... I've been... aching all this time... It's\nunbearable...
 C02a08040053
 
 00000000
-そっと手が股間へと導かれ、さりげない求めの意志が告げられる。
+Gently, my hand is guided to your crotch, silently conveying\na subtle desire.
 
 00002000
-拓海
-それじゃ脱がして……えぇと……
+Takumi
+Then, let me undress you... um...
 
 00003000
-友里子
-構いません……破いて下さい。そういう風にされるのも……嫌いではないので……
+Yuriko
+It's fine... Please tear it apart. Being treated like\nthat... I don't dislike it either...
 C02a08040054
 
 03008C0000000F2753455F6130395F30303033
 
 00002000
-拓海
-……友里子……っ
+Takumi
+...Yuriko...
 
 00000000
-ドキリとする言葉に誘われ、僕は勢い任せにストッキングを引き裂いていく。
+I am enticed by your thrilling words, and I tear apart your\nstockings with reckless abandon.
 
 00002000
-拓海
-入れるよ
+Takumi
+I'll put it in.
 
 00003000
-友里子
-はい……お願い、します……
+Yuriko
+Yes... Please... I'm begging you...
 C02a08040055
 
 00000000
-ショーツをずらすと、もうそこはこんこんと蜜が溢れて止まらずにいる。
+When I slide down your panties, honey is already overflowing\nthere, continuously and without stopping.
 
 00000000
-ぬかるみに誘われるまま、僕は一気に腰を沈め、友里子の中へ入っていった。
+I sank my hips in one go, lured by the muddy sensation, and\nentered Yuriko.
 
 0300C21000000F275345485F495F303031
 
@@ -682,46 +682,46 @@ C02a08040055
 0300191000000F275345485F565F30325F5830315F41
 
 00003000
-友里子
-あ……はっ、あぁぁぁ……は、ぁぁぁぁぁぁぁぁんっ！
+Yuriko
+Ah...hah, aaaaah...haaaahhhhh!
 C02a08040056
 
 00000000
-ずぶりと――焦がれていたモノがようやく求める場所に挿し込まれ、友里子は強く身体を仰け反らせながら絶頂に達した。
+Yuriko reached climax, her body arching strongly as the\nthing she had been longing for was finally inserted into the\nplace it desired.
 
 020000000100666D5F3036335F30303234
 
 00003000
-友里子
-はぁ……んっ、ふっ……あぁ、ずっと……お待ちして、いました……
+Yuriko
+Haa...ngh, fuu... Ah, I've been... waiting for this...
 C02a08040057
 
 00002000
-拓海
-うん、分かるよ。友里子のオマンコが大歓迎してくれてるの
+Takumi
+Yeah, I understand. Yuriko's pussy is giving me a warm\nwelcome.
 
 00003000
-友里子
-はぁ……んっ、行儀の悪いオマンコで申し訳ありません……でも、あぁ……オチンポ欲しかったんです……
+Yuriko
+Haa...ngh, I apologize for my indecent pussy... but, ahh...\nI wanted a dick so badly...
 C02a08040058
 
 00000000
-すっかりと身を委ね、友里子は謝罪の言葉と裏腹に、積極的に膣壁を蠢かせる。
+Yuriko completely surrenders herself and, contrary to her\nwords of apology, actively moves her vaginal walls.
 
 00003000
-友里子
-貴方のことを信じさせて下さい……私の身体を隅々まで征服して……全てを染み込ませて……
+Yuriko
+Please make me believe in you... Conquer every corner of my\nbody... Immerse yourself in everything...
 C02a08040059
 
 00002000
-拓海
-うん、染みこませるよ……僕の気持ち、友里子に全部……
+Takumi
+Yeah, I'll make you feel it... All of my feelings, I'll\nimmerse them in you, Yuriko...
 
 00000000
-たまにはオーソドックスに、だけど徹底的に。
+Sometimes, in a conventional but thorough way.
 
 00000000
-火の着いた身体は、自然にそのピストンを速めていく。
+The burning body naturally speeds up its piston.
 
 0300D21000000F275345485F505F313032
 
@@ -730,77 +730,77 @@ C02a08040059
 020000000100666D5F3036335F30303235
 
 00003000
-友里子
-んっ、はっ、あっ……あぁっ……あぁっ、オチンポ……お、大きい……！
+Yuriko
+Nn, ha, ah... aah... aah, a dick... it's... big...!
 C02a08040060
 
 00002000
-拓海
-友里子の中が窮屈だからじゃない？　いつもよりずっと強く締め付けてくるよ
+Takumi
+Is it because Yuriko's insides feel tight? It's squeezing\nmuch tighter than usual.
 
 020000000100666D5F3036335F30303234
 
 00003000
-友里子
-あ……ふっ、そ、そうかもしれません……んっ、オマンコ……止められないんです……
+Yuriko
+Ah... Fuu, th-that might be true... Nn, my pussy... I can't\nstop it...
 C02a08040061
 
 00000000
-こくんと頷くと同時に、またひくんと媚肉が嬉しそうに締まっていく。
+As I nodded silently, Yuriko's flesh tightened happily once\nagain.
 
 020000000100666D5F3036335F30303233
 
 00003000
-友里子
-不思議な気持ちです……気持ちいいだけじゃなくて、ホッとするような……あったかい感じが広がって……
+Yuriko
+It's a strange feeling... Not just pleasurable, but also\ncomforting... A warm sensation spreading...
 C02a08040062
 
 020000000100666D5F3036335F30303234
 
 00003000
-友里子
-あぁ、な、中……熱い……こんな感覚……は、初めてぇ……
+Yuriko
+Ah, i-it's inside... hot... this sensation... it's, the\nfirst time...
 C02a08040063
 
 00000000
-いつもと違う感覚に包まれる友里子の上擦った声が、同時に僕にもドキドキする高揚感をもたらしてくれる。
+Yuriko's voice, filled with a sensation different from\nusual, as it brushes against me, simultaneously brings a\nthrilling excitement to me as well.
 
 00002000
-拓海
-友里子もそんな風に思うんだね。僕も何だかドキドキしてるよ
+Takumi
+Yuriko, you feel the same way, don't you? I'm also feeling a\nbit excited.
 
 020000000100666D5F3036335F30303235
 
 00003000
-友里子
-貴方も……あっ、んんっ……オマンコすごい……んっ、オチンポの熱が……中で、広がってっ……！
+Yuriko
+You too... Ah, ah... your dick feels amazing... Ah, the heat\nof your cock... it's spreading inside me...!
 C02a08040064
 
 00002000
-拓海
-友里子の熱もすごいよ。ねっとりしたのが、ずっと絡んで……ふはぁ……
+Takumi
+Yuriko's heat is incredible too. It's so sticky and\nentwined... *sigh*...
 
 020000000100666D5F3036335F30303234
 
 00003000
-友里子
-は……んんっ、あふっ、も、もっとしますか……？　んっ、こうして……お腹に力を……んんっ！
+Yuriko
+Haa... Nnn, ah... M-More...? Mmm, like this... I'll tighten\nmy stomach... Nnn!
 C02a08040065
 
 00002000
-拓海
-おぉっ……先っぽにヌルヌルがキュッと来て……うは……
+Takumi
+Oh... The tip is getting slippery and tight... Ugh...
 
 020000000100666D5F3036335F30303231
 
 00003000
-友里子
-んっ、ふふ……今までいっぱいして頂きましたから……多少は技も磨かれたかも知れません……
+Yuriko
+Nn, hehe... Since I've received plenty of it until now... I\nmight have polished my skills a bit...
 C02a08040066
 
 00002000
-拓海
-多少なんてもんじゃ……なら、僕も……ここを
+Takumi
+If it's just a little... then I... here...
 
 020000000100666D5F3036335F30303235
 
@@ -809,43 +809,43 @@ C02a08040066
 0300191000000F275345485F565F30325F4930335F41
 
 00003000
-友里子
-んぉんっ！　わ、私の……弱い場所……やっぱり全部ご存知です……はっ、ひぁぉっ、つ、続けて……は、ぁっ！
+Yuriko
+Nngh! M-My... sensitive spot... You really know\neverything... Hah, ah... continue... Haa, ah!
 C02a08040067
 
 00000000
-単純な上下動をしているだけの筈だったのに、いつの間にか互いのウィークポイントを責めるゲームになっていく。
+It was supposed to be a simple up and down motion, but\nbefore we knew it, it turned into a game of targeting each\nother's weak points.
 
 00003000
-友里子
-はっ、ひっ、あひっ、はぁんっ、あぁ……何も考えられません……こんな、凄すぎるの……あ、ふぁ……あぁ……
+Yuriko
+Hah, hi, ah, haan, ahh... I can't think of anything... This\nis... too amazing... Ah, faa... ahh...
 C02a08040068
 
 00002000
-拓海
-考えなくていいよ。感じて、受け入れてくれればそれでいい。友里子の中……最高だ……
+Takumi
+You don't have to think. Just feel it, accept it. Inside\nYuriko... it's the best...
 
 020000000100666D5F3036335F30303234
 
 00003000
-友里子
-はっ、ひっ、あひっ、わ、私もっ……貴方のオチンポッ、最高……ですぅっ！　あっ、ふっ、あぁぁぁっ！
+Yuriko
+Hah, hi, ah, wa, me too... Your dick... it's the best...!\nAh, fu, ahhh!
 C02a08040069
 
 00000000
-艶めかしい喘ぎ声を聞きながら、断続的に訪れる熱い収縮を味わううち、またすぐに新たな射精感がこみ上げて止まらない。
+While listening to the enchanting moans, I continue to\nexperience the hot contractions that come intermittently, \nand a new sense of ejaculation wells up immediately and\ndoesn't stop.
 
 0200EF10054563735F4E6176695F303035
 
 00002000
-拓海
-出すよ……友里子。今度は中に直接……僕の全部……出すからっ
+Takumi
+I'm going to cum... Yuriko. This time, directly inside...\nall of me... I'm going to cum.
 
 0200EF10054563735F4E6176695F303034
 
 00003000
-友里子
-はっ、あひっ、来てっ、んんっ、下さいっ……私の……いやらしいオマンコの中にっ、貴方の濃い精液っ……全部出して！
+Yuriko
+Hah, ah, come, nngh, please... inside... my... lewd pussy...\nrelease all of your thick semen!
 C02a08040070
 
 020000000100666D5F3036335F30303235
@@ -853,20 +853,20 @@ C02a08040070
 0200EF10054563735F4E6176695F303033
 
 00003000
-友里子
-い、いっぱい……オマンコ締め付けますからっ、ごくごく……子宮でっ、お汁飲みますからっ、全部ぅっ！
+Yuriko
+I-I'll tighten my pussy... and gulp it all down... I'll\ndrink your juices in my womb... all of it!
 C02a08040071
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-言葉通りの淫らな吸着に、もう僕の我慢など何の意味もない。
+The obscene suction, just as the words imply, renders my\nrestraint meaningless.
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-出るっ……友里子っ、飲めっ……！
+Takumi
+I'm cumming... Yuriko, drink it...!
 
 0200EF10002D
 
@@ -875,31 +875,31 @@ C02a08040071
 020000000100666D5F3036335F30303330
 
 00003000
-友里子
-くっ、あぁっ、んぁぁぁぁぁぁぁぁぁぁーーーーーーっ！！
+Yuriko
+Kuh, aahh, nnnaaaaaaaaahhhhhhhhh!!
 C02a08040072
 
 00000000
-溢れる愛液を掻き分けながら、今まで味わったことのない勢いで精液が放たれていくのを意識する。
+I am aware of the semen being released with a force I have\nnever experienced before, as I push aside the overflowing\nlove juices.
 
 00003000
-友里子
-あっ、出て……るっ、来て……ますっ、はぁぁ……んっ、熱いの……お腹にぃ……
+Yuriko
+Ah, it's coming out... coming... inside... it's hot... in my\nstomach...
 C02a08040073
 
 00000000
-ビクビクと全身をのたうたせながら、友里子は堪えていたもの全てを解き放つかのように声を震わせる。
+Yuriko trembles and shakes her entire body, as if releasing\neverything she had been holding back, her voice quivering.
 
 020000000100666D5F3036335F30303236
 
 00003000
-友里子
-まだ……足りないです。もっといっぱい中に下さい。もっとオマンコして下さい……
+Yuriko
+Not yet... It's not enough. Please fill me up more. Please\ndo more to my pussy...
 C02a08040074
 
 00002000
-拓海
-友里子……うん、僕もまだまだ全然し足りないよ
+Takumi
+Yuriko... Yeah, I'm still far from satisfied.
 
 0300D21000000F275345485F505F323032
 
@@ -908,64 +908,64 @@ C02a08040074
 020000000100666D5F3036335F30303239
 
 00003000
-友里子
-んぁぅっ！　あっ、ふっ、はいっ、あぁっ、トロトロの中っ、オチンポかき回してぇっ！
+Yuriko
+Ngh! Ah, fuu, yes, aah, inside this sticky mess, stir my\ndick around!
 C02a08040075
 
 00000000
-友里子の正直な求めの言葉に、再び抽送のスイッチが入り、ぐちゅぐちゅと膣内がかき混ぜられる。
+Yuriko's honest plea reignites the thrusting switch, \nstirring and mixing inside her wet and sticky vagina.
 
 020000000100666D5F3036335F30303330
 
 00003000
-友里子
-はっ、んっ、ふっ、あっ、擦れるっ、んっ、オチンポッ、グリグリえぐれて来ます！　はっ、あっ、あぁっ！
+Yuriko
+Hah, nngh, fuu, ah, it's rubbing, nngh, a dick, grinding and\ndigging in! Hah, ah, aah!
 C02a08040076
 
 00002000
-拓海
-んっ……凄い音だね。やらしい汁だらけで、ね、聞こえるでしょ？
+Takumi
+Mmm... What an amazing sound. It's covered in lewd juices, \nyou know? Can you hear it?
 
 020000000100666D5F3036335F30303236
 
 00003000
-友里子
-は、はいっ、聞こえますっ。私のオマンコから鳴ってるっ、じゅぽじゅぽっ、恥ずかしい音っ、こ、興奮しますっ！
+Yuriko
+Y-Yes, I can hear it! It's coming from my pussy, making\nsquelching sounds... It's embarrassing, but it's arousing\nme!
 C02a08040077
 
 00003000
-友里子
-もっと鳴らしてっ、んひぅ、ドスケベオマンコのはしたない音っ、いっぱいさせて下さいっ！
+Yuriko
+Make it sound more, nhiu, the indecent sound of my lewd\npussy, please make it fill up more!
 C02a08040078
 
 00002000
-拓海
-んくっ……いつもの友里子の感じが出てきたね。させるよ、ずっと友里子は僕のものだからっ！
+Takumi
+Mmm... Yuriko, your usual sensations are coming out. I'll\nmake you feel it, because you've always been mine, Yuriko!
 
 020000000100666D5F3036335F30303330
 
 00003000
-友里子
-あっ、ふっ、はいっ、私は貴方のモノですっ、これからも、ずっと私を貴方のモノにして下さいっ、んぁひぃっ！
+Yuriko
+Ah, fuu, yes, I am yours, please continue to make me yours\nforever, ah, nahi!
 C02a08040079
 
 00000000
-僕の征服欲求の言葉に頷きながら、友里子の秘唇がひくひくと新たな精液を催促する。
+While nodding in response to my words of conquest, Yuriko's\nsecret lips twitch and urge for more fresh semen.
 
 00002000
-拓海
-あぁ……また出したくなってきた。友里子に種付け……していいんだね？
+Takumi
+Ah... I feel like releasing again. Is it okay for me to\nimpregnate Yuriko...?
 
 020000000100666D5F3036335F30303239
 
 00003000
-友里子
-はい……出して下さい……また、ビュルビュル浴びたくて堪らなくなってる欲張りオマンコォ……
+Yuriko
+Yes... Please release inside me... My greedy pussy can't\nresist wanting to be soaked again, *burbly burbly*...
 C02a08040080
 
 00003000
-友里子
-トロトロの濃いザーメン、子宮まで届けて……種付け……妊娠させて下さい…………
+Yuriko
+Please deliver thick, creamy semen all the way to my womb...\nImpregnate me... Please make me pregnant...
 C02a08040081
 
 020000000100666D5F3036335F30303330
@@ -975,70 +975,70 @@ C02a08040081
 0300191000000F275345485F565F30325F4930335F41
 
 00003000
-友里子
-溢れるまでお腹いっぱいにして、ザーメンアクメ……させて下さい……あっ、ひっ、あっ、あひぁんっ！
+Yuriko
+Please fill me up until I overflow, with a semen climax...\nAh, hi-, ah, ahian!
 C02a08040082
 
 00000000
-友里子の言葉を耳にしながら、腰は暴走気味にスパートを掛けていた。
+While hearing Yuriko's words, my hips were accelerating\nuncontrollably.
 
 020000000100666D5F3036335F30303239
 
 00003000
-友里子
-はぁんっ、すごいっ、オチンポすごいですっ！　中でっ、ぐりぐり扱かれてっ、身体、跳ねるのっ、あひぁぁっ！
+Yuriko
+Ahh, it's amazing! Your dick feels incredible! It's moving\ninside me, rubbing against me, and my body is bouncing...\nAh, ah, ahh!
 C02a08040083
 
 00002000
-拓海
-友里子も凄いよっ、んっ、しっかりチンポがロックされてる……どこまで行っても、ヌルヌルがへばりついて来る……！
+Takumi
+Yuriko, you're amazing... Mmm, your pussy is tightly\ngripping my dick... No matter how far I go, it's always\nslippery and clinging to me...!
 
 00003000
-友里子
-あぁっ、んふっ、嬉しいですっ……ちゃんと、出来てますか？　オマンコ、気持ちいいですか？
+Yuriko
+Ahh, nfuu, I'm so happy... Are you doing it properly? Does\nmy pussy feel good?
 C02a08040084
 
 00002000
-拓海
-最高だよ……ずっとこうしていたいのに……でも、気持ち良すぎて……こんなの……！
+Takumi
+It's the best... I want to stay like this forever... But it\nfeels so good... This is unbelievable...!
 
 00003000
-友里子
-はっ、んっ、あふっ、いいんです……これから、また何度でも……して頂きますからっ……あっ、んふっ！
+Yuriko
+Hah, nn, afu, it's fine... From now on, no matter how many\ntimes... please do it to me... Ah, nfu!
 C02a08040085
 
 0200EF10054563735F4E6176695F303035
 
 00003000
-友里子
-その度に、オチンポ喜んで頂けるように、オマンコ頑張りますからっ、ですから……このまま、中にっ！
+Yuriko
+Every time, I'll do my best to make your dick happy, so...\nplease, inside me...
 C02a08040086
 
 0200EF10054563735F4E6176695F303034
 
 00000000
-繰り返しのおねだりを前に、もう焦らしも我慢も必要ない。せり上がる感覚を、そのまま友里子に伝えるだけ。
+There's no need for teasing or holding back anymore in the\nface of your repeated pleas. Just convey the sensation of\nrising to Yuriko as it is.
 
 0200EF10054563735F4E6176695F303033
 
 00002000
-拓海
-んっ、あぁ……出るっ……出るよっ、友里子は？
+Takumi
+Ngh, ah... I'm coming... I'm coming, Yuriko...
 
 020000000100666D5F3036335F30303330
 
 0200EF10054563735F4E6176695F303032
 
 00003000
-友里子
-はいっ、私も……イキますっ、すぐにオマンコイキますからっ、一緒にっ、はっ、あぁんっ！
+Yuriko
+Yes, I'm... going to cum... I'll cum right away, so let's do\nit together... haah... aahh!
 C02a08040087
 
 0200EF10054563735F4E6176695F303031
 
 00002000
-拓海
-一緒だ、友里子っ、くっ、行くよ……くうぅぅっ、飲めっ、うぉぉっ！
+Takumi
+Together, Yuriko... Ngh, I'm... going... kuuhhh, take it...\nohhh!
 
 020000000100666D5F3036335F30303239
 
@@ -1049,72 +1049,72 @@ C02a08040087
 020000000100666D5F3036335F30303334
 
 00003000
-友里子
-んぁひぃっ、イクゥゥゥゥゥゥゥゥゥゥゥん！！
+Yuriko
+Ahh, I'm cummingggggg!!
 C02a08040088
 
 00000000
-ぐっと肉棒を一番深くまで押し込んで、ありったけの気持ちを全て友里子の奥へと流しこむ。
+I push my meat rod deep inside Yuriko, pouring all of my\nfeelings into her depths.
 
 00003000
-友里子
-は……あぁぁ……とぷんって出てます、んっ、熱いの……気持ちいいです……
+Yuriko
+Ah... Ahh... It's... coming out... Mmm, it's hot... Feels\ngood...
 C02a08040089
 
 00000000
-もう憂いの表情もなく、流れこむ感触にうっとりと微笑みを浮かべる友里子。
+Yuriko, with a blissful smile on her face, no longer showing\nany signs of sadness, as she revels in the sensation flowing\nthrough her.
 
 00000000
-そのとろんとした幸せそうな表情に、僕は今まで感じたことのない不思議な満足感を覚えていた。
+I felt a strange sense of satisfaction that I had never\nexperienced before, as I looked at her blissful expression\nfilled with that sticky happiness.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
 00002000
-拓海
-んっ……
+Takumi
+Ngh...
 
 00000000
-珍しく疲れてまどろみに沈んだ友里子をそっと寝かせ、僕は窓から夜空を見上げる。
+I gently put Yuriko, who had fallen into a rare tired\nslumber, to bed and looked up at the night sky from the\nwindow.
 
 0300000000000F2742474D3034
 
 0200000002004247303030305F64
 
 00002000
-拓海
-ずっと一緒に……か
+Takumi
+Together forever... right?
 
 00000000
-僕のマインドコントロールに支配され、友里子は秘めていた肉欲を開花させ、同時にアリサとの関係に迷うことになった。
+Yuriko, under the control of my mind, unleashed her hidden\ncarnal desires and found herself torn between her\nrelationship with Arisa.
 
 00000000
-そして僕もまた、復讐から始まった友里子との関係に迷い、今や全く逆の気持ちになろうとしている。
+And now, I find myself conflicted about my relationship with\nYuriko, which began with revenge, and I'm starting to feel\ncompletely opposite emotions.
 
 00000000
-そして、勢いのままアリサ達の野望を手助けすると約束し、しっかりと気持ちを通わせてしまった。
+And so, I made a promise to assist Arisa and the others in\ntheir ambitions, and we deeply connected with each other, \ncarried away by the momentum.
 
 00002000
-拓海
-まぁ……後には引けないよなぁ……
+Takumi
+Well... there's no turning back now, huh...
 
 00000000
-これから、本格的に吉祥寺家に踏み込んで行かなくちゃならない。
+From now on, I have to step into the Kisshouji family in\nearnest.
 
 00000000
-本当にうまくいくのかどうか、正直まだまだ全然分からないけど。
+I honestly still have no idea if things will really go well\nor not.
 
 00002000
-拓海
-でも……それに見合う男にならないとな……
+Takumi
+But... I have to become a man worthy of that...
 
 00000000
-支えてもらうことばかり考えていたけど、それよりもしっかりと為すべきことを果たして友里子に振り向いてもらいたい。
+I've been thinking only about relying on her, but more than\nthat, I want to fulfill my responsibilities and make Yuriko\nturn to me.
 
 00000000
-目的が明確に定まると、ぶるっと小さな武者震いが身体に走る。
+When my purpose becomes clear, a small shiver runs through\nmy body.
 
 00000000
-それは、今までずっとわだかまっていた心に、新たな決意が刻み込まれた瞬間だった。
+It was the moment when a new determination was engraved in\nthe heart that had been tangled up until now.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

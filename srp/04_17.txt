@@ -7,23 +7,23 @@
 020000000100626C
 
 00000000
-アリサと友里子……二人の関係を崩す為に、友里子へのアプローチもやはり必要になるだろう。
+Arisa and Yuriko... In order to break their relationship, it\nwill also be necessary to approach Yuriko.
 
 00000000
-だが、ただ友里子を籠絡すればそれでいいかと言えばどうだろうか。
+However, I wonder if it's enough to just seduce Yuriko.
 
 00000000
-あくまでもアリサに孤立を意識させる……そんなやり方じゃないと効果は薄い。
+"It's not enough to just make Arisa feel isolated... The\neffectiveness will be weak if we don't use a different\napproach."
 
 00002000
-拓海
-出来れば、アリサのプライドをくすぐるやり方……上手くいけばいいけど……
+Takumi
+If possible, a way to tickle Arisa's pride... It would be\ngreat if it works out...
 
 00000000
-まあ、頭の中で色々考えを巡らせても、やってみなくちゃどう転ぶかは分からない。
+Well, even if I think about various things in my head, I\nwon't know how it will turn out until I try it.
 
 00000000
-僕は早速、一つ思いついたことを行動に移すことにした。
+I immediately decided to put one idea that came to mind into\naction.
 
 03002000B80B
 
@@ -34,78 +34,78 @@
 0200000001004247303330305F62
 
 00002000
-拓海
-やあ、アリサ。ちょっといいかな？
+Takumi
+Hey, Arisa. Can I talk to you for a moment?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-…………何ですの
+Arisa
+...What is it?
 C01a04170001
 
 00000000
-相変わらずのご機嫌斜め具合で、アリサは僕のことを睨みつけてきた。
+Arisa glared at me with her usual grumpy expression.
 
 00000000
-まぁ、これ位の方が想定に近いからいいんだけど。
+Well, this is closer to what I expected, so it's fine.
 
 00002000
-拓海
-えっと……実はちょっと時間を貰いたいんだけど……いいかな？
+Takumi
+Um... Actually, I was wondering if I could have a little bit\nof your time... Is that okay?
 
 00003000
-アリサ
+Arisa
 ………………
 C01a04170002
 
 00000000
-精液採取をチラつかせなければ、アリサは大抵は冷たい返事を寄越して終わる。
+If I don't hint at collecting semen, Arisa will usually\nrespond with a cold answer and end the conversation.
 
 00000000
-高い目線から、僕への嫌悪たっぷりのイヤミが来る……そう思っていたのだが。
+I thought I would receive disdainful sarcasm from her high\nand mighty attitude towards me... But it seems I was\nmistaken.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……構いませんわ。一体、どんな用件かしら
+Arisa
+...I don't mind. What is it that you want?
 C01a04170003
 
 00002000
-拓海
-え？　い、いいの……？
+Takumi
+Huh? I-Is it okay...?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-何を驚いていますの？　用事があるなら、早く言えばいいでしょう？
+Arisa
+Why are you so surprised? If you have something to say, just\nsay it already, right?
 C01a04170004
 
 00002000
-拓海
-あ……あぁ、うん。その……精液、採取の話で……ちょっと
+Takumi
+Ah... Ah, yeah. Um... It's about collecting semen... Just a\nlittle...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あぁ……また、私にして欲しいということかしら？　仕方ないわね、それも王京学園の生徒の努めなんだから
+Arisa
+Ah... So, you want me to do it again? I suppose I have no\nchoice. It's also the duty of a student at Oukeyo Academy, \nafter all.
 C01a04170005
 
 00000000
-仄かに頬を紅潮させたアリサは、すんなりと了承しあっけなく頷いた。
+Arisa, with a slight blush on her cheeks, readily agreed and\nnodded without hesitation.
 
 00000000
-もちろん精液採取については、何だかんだで引き受けていたアリサだが、ここまで素直に受け入れるのも珍しい。
+Of course, Arisa had been reluctantly accepting the semen\ncollection task one way or another, but it's rare for her to\naccept it so readily like this.
 
 00006000
 拓海
 まぁ、それならそれでいいか……友里子のことはまた後で考えて……
 
 00000000
-行き当たりばったりに考えを変えようとした矢先――
+Just as I was about to change my mind on a whim--
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -116,32 +116,32 @@ C01a04170005
 03008C0000000F2753455F6230335F30303031
 
 00002000
-生徒Ａ
-あっ……久我さんよ！
+Student A
+Ah... It's Kuga-san!
 
 00002000
-生徒Ｂ
-これから部活かしら？　スラっとしてて……素敵……！
+Student B
+Are you going to club activities now? You're so slender...\nand wonderful...!
 
 00000000
-何やら急に廊下の奥が騒がしくなったかと思うと、弓を持った友里子が通りかかっていた。
+Just as I thought the hallway was suddenly getting noisy, \nYuriko, holding a bow, happened to pass by.
 
 00000000
-後ろにはやはり弓道部らしい生徒達が群がり、きゃあきゃあと友里子を持て囃しながら歩いてくる。
+Behind me, a group of students who seemed to be from the\narchery club gathered and walked, cheering and teasing\nYuriko with "kyaa kyaa".
 
 00006000
 拓海
 そう言えば友里子は弓道部だったんだっけ……それも、エース級の腕前だったとか……
 
 00000000
-大会でも常に上位の成績を収めているとかで、それが友里子の学内評価を更に上げていることは言うまでもない。
+It goes without saying that Yuriko's internal evaluation has\nbeen further elevated by the fact that she consistently\nachieves top rankings in tournaments.
 
 00002000
-拓海
-天は二物を与えずなんて、つくづく大嘘だよな……でも、これだけギャラリーがいるのは好都合かも……
+Takumi
+It's a complete lie that the heavens don't give you two\nthings... But having such a big audience might actually be\nconvenient...
 
 00000000
-先日の一件でアリサと友里子は和解したとは言え、まだ気持ちに引っ掛かるものはあるだろう。
+After the incident the other day, although Arisa and Yuriko\nhave reconciled, there are still lingering feelings.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -152,100 +152,100 @@ C01a04170005
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a04170006
 
 00000000
-見れば、アリサも友里子に気づいたのか、その表情が幾分強張っているようにも見える。
+Upon seeing that, it seems that Arisa also noticed Yuriko, \nas her expression appears somewhat tense.
 
 00000000
-正に今が絶好のタイミング……僕は、アリサの肩をポンと叩く。
+This is the perfect timing... I lightly tap Arisa's\nshoulder.
 
 00002000
-拓海
-ごめんね、やっぱり今日はいいや
+Takumi
+Sorry, I think I'll pass on today after all.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-は……？　どういうつもりなの？
+Arisa
+Huh...? What do you mean by that?
 C01a04170007
 
 00002000
-拓海
-いや、どうもこうも……友里子の方に採取してもらうことにしたから
+Takumi
+Well, you see... I've actually decided to have Yuriko take\ncare of it instead.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-なっ……
+Arisa
+Ngh...
 C01a04170008
 
 00002000
-拓海
-何となく、そういう気分になっちゃったってことで。また、アリサには改めてお願いするからさ
+Takumi
+Somehow, I just felt like doing it that way. So, I'll ask\nArisa again another time.
 
 00000000
-それが随分と身勝手で、ルールもへったくれもない物言いなのは分かっていた。
+I knew that it was quite selfish and that there was no\nregard for the rules in that statement.
 
 00000000
-だが、元々精液採取についてはそもそも僕が一方的に作り上げた、僕の為だけにある都合のいいルール。
+However, the rules regarding semen collection were\noriginally something I unilaterally created, a convenient\nrule that exists only for my sake.
 
 00000000
-機会を与えられたなら、逆らわずに応える。そうでない時は、いつそうなってもいいように備える。それだけ。
+If given the opportunity, I will respond without resistance.\nAnd if not, I will prepare myself so that I can be ready at\nany time. That's all.
 
 00000000
-アリサにしても、ただキャンセルというだけならば、そこまで文句を言われることもなかったろう。
+Even if it was just a cancellation, Arisa wouldn't have had\nto complain so much.
 
 00000000
-だが、一度アリサにお願いすると見せかけて、友里子に乗り換える……。
+However, I pretended to ask Arisa once and then switched to\nYuriko...
 
 00000000
-プライドの高いアリサに屈辱を与える行為を、果たして受け入れられるものか。
+Can Arisa, who has such high pride, truly accept an act that\nhumiliates her?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……っ……
+Arisa
+... *sigh*...
 C01a04170009
 
 00002000
-拓海
-久我さん、ちょっといいかな？　少し急で申し訳ないけど、今から精液採取をお願いしたいんだけど
+Takumi
+Yuriko-san, can I talk to you for a moment? I apologize for\nthe suddenness, but I would like to ask you to collect semen\nstarting from now.
 
 00000000
-僕はアリサをその場に置いて、友里子へと声を掛ける。
+I leave Arisa behind and call out to Yuriko.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-精液……あ……えぇ……分かりました。その、これから部活なので手早くお願い出来ますか？
+Yuriko
+Semen... Ah... Um... I understand. Since I have club\nactivities after this, can you please make it quick?
 C02a04170001
 
 00000000
-例え急な提案でも、精液の言葉が出れば友里子に否やはない。分かりきったことだ。
+Even if it's a sudden proposal, there's no way Yuriko would\nrefuse if it's about semen. It's something I already knew.
 
 00002000
-拓海
-もちろん。そうだね、後ろの子たちにも協力してもらえば早く終わるかな？
+Takumi
+Of course. Yeah, if we can get the others in the back to\nhelp too, we might be able to finish quickly, right?
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-分かりました。それでは……あっ、アリ……吉祥寺さん
+Yuriko
+Understood. Well then... Ah, Arisa... Kisshouji-san.
 C02a04170002
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
-アリサ
-……失礼するわ……
+Arisa
+...Excuse me...
 C01a04170010
 
 02008C00010000
@@ -255,66 +255,66 @@ C01a04170010
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-えっ……あっ、あのっ、アリサ！
+Yuriko
+Eh... Ah, um, Arisa!
 C02a04170003
 
 00000000
-スッと踵を返すアリサに気づいた友里子は、思わず名前を呼んで呼び止めようとする。
+Yuriko, who noticed Arisa turning on her heels, \ninstinctively called out her name and tried to stop her.
 
 00002000
-拓海
-ちょっと、どこへ行くつもりなの？
+Takumi
+Hey, where are you planning to go?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-今、アリサ……き、吉祥寺さんが……
+Yuriko
+Now, Arisa... Ki-Kisshouji-san...
 C02a04170004
 
 00002000
-拓海
-あぁ……何か用事があるんでしょう？　邪魔したら悪いから、放っておいてあげようよ
+Takumi
+Ah... Do you have something to do? I don't want to disturb\nyou, so I'll leave you alone.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-ですが……
+Yuriko
+However...
 C02a04170005
 
 00002000
-拓海
-今、久我さんが考えるべきは、僕の精液を搾り取ることだよ。ほら、こっちに。君たちもおいで
+Takumi
+Now, what Yuriko should be thinking about is extracting my\nsemen. Come on, over here. You too, come here.
 
 00002000
-生徒Ａ
-あ……わ、私達も……？
+Student A
+Ah... W-Will we also...?
 
 00002000
-生徒Ｂ
-はい……分かりました……！
+Student B
+Yes... I understand...!
 
 00000000
-思わぬ呼びかけだったのか、後ろの女子たちも俄然その気になってテンションを上げていく。
+It was an unexpected call, and the girls behind also became\nexcited and raised their tension.
 
 00002000
-拓海
-さあ、行くよ。気になるなら、後で話をしてみたら？
+Takumi
+Alright, let's go. If you're curious, why don't we talk\nabout it later?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
-友里子
-……ええ……
+Yuriko
+...Yes...
 C02a04170006
 
 00000000
-まだ後ろ髪を引かれる様子だったが、僕の指示には逆らえない。
+She still seemed reluctant to leave, but she couldn't defy\nmy instructions.
 
 00000000
-友里子は、チラチラとアリサが去った廊下の方を見やりながら、結局何も判らぬまま僕に連れられていくのだった。
+Yuriko, while glancing at the hallway where Arisa had left, \nended up being led by me without understanding anything in\nthe end.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

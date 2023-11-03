@@ -7,74 +7,74 @@
 0200000001004247303430305F62
 
 00002000
-拓海
-お……あれは
+Takumi
+Oh... that is...
 
 00000000
-昼休み、中庭をぶらついていると、アリサが下級生達と何やら楽しげに談笑している姿が目に入った。
+During lunch break, as I wandered around the courtyard, I\nnoticed Arisa happily chatting with some underclassmen.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-笹塚さんに、長沼さんだったわね。前回の実力考査……素晴らしい成績だったわ
+Arisa
+It was Nagasuna-san, right? Your performance on the previous\nproficiency test... was excellent.
 C01a04090001
 
 00002000
-笹塚
-は、はいっ！　ありがとうございますっ
+Sasazuka
+Y-Yes! Thank you very much!
 
 00002000
-長沼
-憧れの吉祥寺先輩に褒めてもらえるなんて……すごく光栄です！
+Nagasuma
+It's such an honor to receive praise from my admired senior, \nKisshouji-senpai... I'm really grateful!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あら……ふふっ、憧れだなんて、何だか少し照れくさいわね
+Arisa
+Oh... hehe, being admired is a little embarrassing, isn't\nit?
 C01a04090002
 
 00002000
-笹塚
-そんなこと！　吉祥寺先輩は、私達みんなの憧れですっ
+Sasazuka
+No way! Kisshouji-senpai is the idol of all of us!
 
 00002000
-長沼
-勉強もスポーツも万能で……行動力があって、先生なんかよりずっと大人っていうか……素敵です！
+Nagasuma
+You're amazing at both studying and sports... You're\nproactive, more mature than the teachers... You're\nwonderful!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-ありがとう。でも、あなた達も今のまま努力していけば、きっと素晴らしい女性になれるわ
+Arisa
+Thank you. But if you all continue to work hard as you are\nnow, I'm sure you'll become wonderful women.
 C01a04090003
 
 00002000
-笹塚
-本当ですか？
+Sasazuka
+Is that true?
 
 00003000
-アリサ
-もちろんよ。優秀な女性はもっと表舞台へ出て行くべき。その為にも、日々の研鑽を怠らないようにね
+Arisa
+Of course. Outstanding women should step onto the stage even\nmore. So, make sure not to neglect your daily training.
 C01a04090004
 
 00002000
-長沼
-はい！　これからも頑張って、少しでも吉祥寺先輩に近づけるようになりたいです！
+Nagasuma
+Yes! I'll do my best from now on to get closer to Kisshouji-\nsenpai, even just a little bit!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-ふふっ、頼もしい言葉ね。ええ、期待しているわ
+Arisa
+Hehe, those are reassuring words. Yes, I have high\nexpectations.
 C01a04090005
 
 00000000
-何だかいかにも女子校が舞台の漫画に出てきそうなワンシーンって奴だろうか。
+I wonder if this is the kind of scene that would appear in a\nmanga set in an all-girls school.
 
 00000000
-遠巻きに見ている分には、絵になる微笑ましい光景と言えるかもしれないが……。
+From a distance, it might be considered a picturesque and\nheartwarming scene to observe...
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -83,123 +83,123 @@ C01a04090005
 0200000001004247303430305F62
 
 00002000
-拓海
-ふん……憧れの先輩ね……
+Takumi
+Hmph... My admired senpai, huh...
 
 00000000
-未だアリサの本性も知らず、キラキラ目を輝かせている後輩の姿を見るとモヤモヤする。
+Seeing the juniors with sparkling eyes, still unaware of\nArisa's true nature, makes me feel uneasy.
 
 00000000
-所詮、ちょっと成績が良かったから目を掛けられているだけで、一度成績が落ちればもう見向きもされないと分かっているのか。
+So, you're just being noticed because your grades are a\nlittle good. Do you know that once your grades drop, no one\nwill pay attention to you anymore?
 
 00000000
-何よりアリサ自身だ。学園中の生徒を道具のように考えていたクセに、よくも取り澄ました顔で、あんな言葉が出てくるものだ。
+It's especially Arisa herself. She used to think of all the\nstudents in the school as tools, yet she has the audacity to\nsay those words with a composed face.
 
 00002000
-拓海
-これは、しっかりとアリサの実態を教えこんでやらないといけないよね……
+Takumi
+I have to make sure to properly teach Arisa about her true\nnature...
 
 00000000
-湧き上がるどす黒い感情のまま、すぐに一つのイメージが思いつく。
+The moment that dark, sinister emotion wells up within me, a\nsingle image immediately comes to mind.
 
 00000000
-せっかくの機会だ。アリサの醜態をもっと広めてやるのも面白い。
+This is a great opportunity. It would be interesting to\nspread Arisa's disgrace even more.
 
 00002000
-拓海
-面白そうな話をしてるね。やっぱり、これからの世の中は女性進出が鍵だよね
+Takumi
+You're having an interesting conversation. Indeed, the key\nto the future is women's advancement, isn't it?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-はい……？
+Arisa
+Yes...?
 C01a04090006
 
 00002000
-笹塚
-あ……この人は……
+Sasazuka
+Ah... This person...
 
 00002000
-長沼
-池ノ上……先輩……？
+Nagasuma
+Ikenoue... Senpai...?
 
 00000000
-いきなりの割り込みに、訝しげな顔で僕を見る３人。分かりきっていたが、歓迎されている雰囲気は全くない。
+The three of them look at me with puzzled expressions as I\nsuddenly interrupt. It's clear that they were not expecting\nme, and there is no welcoming atmosphere at all.
 
 00000000
-アリサは目に見えて不機嫌に、そして後輩たちは少し怯えるようにして僕を見ている。
+Arisa looks visibly displeased, and the underclassmen are\nlooking at me with a hint of fear.
 
 00002000
-拓海
-いや、優秀な女性がもっと表舞台に出て行くべきだって話でしょう？　僕も全く同感でさ
+Takumi
+No, it's a conversation about how excellent women should be\nmore prominent, right? I completely agree.
 
 00002000
-拓海
-その為にはもっともっと精液を摂取して、社会的に地位を高めていかないといけないよね？
+Takumi
+In order to do that, we have to consume more and more semen\nand elevate our social status, right?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……何を言うのかと思えば、そんな今更分かりきったことを……
+Arisa
+...If you're going to say something, it's such an obvious\nthing to say now...
 C01a04090007
 
 00002000
-笹塚
-もちろん……私達もそのつもりですけど……
+Sasazuka
+Of course... We also have that intention...
 
 00002000
-拓海
-あっと、こりゃあ釈迦に説法だったかな。や、せっかくだし社会進出のお手本を見せてあげればと思ったからさ
+Takumi
+Ah, this is like preaching to the choir. Well, since we're\nalready here, I thought I'd show you an example of women's\nadvancement in society.
 
 00002000
-長沼
-えっ……それって……あの、もしかして……
+Nagasuma
+Huh... That means... Um, could it be...
 
 00002000
-拓海
-君たちはまだアリサが精液採取するところを見たことないんだよね？　ちょうどいいから、今から見せてもらったら？
+Takumi
+You guys haven't seen Arisa collecting semen yet, have you?\nIt's perfect timing, so how about I show you right now?
 
 00002000
-笹塚
-あ……そ、そんなこと……いいんですか？
+Sasazuka
+Ah... I-Is it really okay to do something like that?
 
 00002000
-長沼
-こういうのって放課後に選ばれた人だけが見られるって……
+Nagasuma
+"Isn't this something that only the chosen ones get to see\nafter school...?"
 
 00002000
-拓海
-うん、君たちは優秀なんでしょう？　だから特別にね。どうかな、吉祥寺さん？
+Takumi
+Yeah, you guys are excellent, right? So, just for you. What\ndo you think, Kisshouji-san?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……そうですわね。彼女達の為になることなら、私も見せてさしあげることに異存はありませんわ
+Arisa
+...Yes, I suppose so. If it's something that will benefit\nthem, I have no objections to showing it as well.
 C01a04090008
 
 00000000
-下級生の期待感に気を良くしたのか、アリサもあっさりと承諾する。
+Arisa readily agrees, perhaps buoyed by the anticipation of\nthe underclassmen.
 
 00003000
-アリサ
-でしたら、早速始めましょうか？　何をしてますの、ほら、早くオチンポをお出しなさい
+Arisa
+Well then, shall we start right away? What are you waiting\nfor? Hurry up and show us your dick.
 C01a04090009
 
 00002000
-拓海
-はいはい……分かってますよ
+Takumi
+Yeah yeah... I understand.
 
 00000000
-こんな時にもしっかり上から目線の催促に、またイラッとさせてくれる。
+In times like this, she never fails to irritate me with her\ncondescending demands.
 
 00000000
-こうなったら、徹底的にアリサに分からせてやらなきゃ気が済まない。
+If it's come to this, I won't be satisfied until I\nthoroughly make Arisa understand.
 
 00000000
-僕はそっとオルゴールを手にし、特別な刷り込みをこの３人に行うことにした。
+I quietly took the music box in my hand and decided to give\nthese three a special conditioning.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

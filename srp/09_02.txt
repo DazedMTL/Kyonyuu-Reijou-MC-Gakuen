@@ -7,11 +7,11 @@
 0200000001004247303430305F62
 
 00002000
-拓海
-うっ……結構眠いな……
+Takumi
+Ugh... I'm pretty sleepy...
 
 00000000
-僕は目を擦りながら、早朝から学園の中庭へと向かう。
+Rubbing my eyes, I make my way to the school courtyard early\nin the morning.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E3736
 
@@ -24,253 +24,253 @@
 0200E600000000000000F9FE0000A1FF4C004C0064006400E803E803F401666D5F433033615F30325F305F305F305F3035
 
 00003000
-理央
-おせーよ。どんだけアタシが待ったと思ってんだ
+Rio
+Geez, you're so slow. How long do you think I've been\nwaiting?
 C03a09020001
 
 00002000
-拓海
-もう来てくれたの……？
+Takumi
+You've already come...?
 
 00000000
-集合までにはまだ余裕があるにも関わらず理央は佇んでいた。
+Despite there still being plenty of time until the meeting, \nRio was standing there.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
-理央
-ちょっとだけ早く起き過ぎてな……呼び出しだから少し早めに来ようと思っただけだよ……
+Rio
+I just woke up a little too early... Since it was a summons, \nI thought I'd come a bit earlier, that's all...
 C03a09020002
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
-理央
-文句あんのかよ
+Rio
+Do you have a problem with that?
 C03a09020003
 
 00002000
-拓海
-い、いや……文句は無いよ。殊勝な心がけじゃないかな
+Takumi
+N-No... I don't have any complaints. It's a commendable\nattitude, isn't it?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
-理央
-こんなんは芸能人として当然の礼儀だろ、褒められたってそんなに嬉しい訳……ねーよ……
+Rio
+This is just basic etiquette for a celebrity, you know. It's\nnot like I'm that happy to be praised... not at all...
 C03a09020004
 
 00000000
-そう言いながら視線を明後日の方に向けたり、髪を指で触ったりする。
+While saying that, she averted her gaze as if looking into\nthe distant future and touched her hair with her finger.
 
 00000000
-そわそわとした落ち着きのない態度に、僕はつい頬を綻ばせた。
+I couldn't help but smile at her restless and unsettled\ndemeanor.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
-理央
-なにニヤニヤしてんだよ……バカにする気か……？
+Rio
+What are you grinning about... Are you trying to make fun of\nme...?
 C03a09020005
 
 00002000
-拓海
-馬鹿にしてるわけじゃないよ。ただ、随分理央の見方が変わったなーって思った
+Takumi
+I'm not making fun of you. I just thought that my perception\nof Rio has changed quite a bit.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
-理央
-……あっ？　どういう見方を今までしてたのか聞いていいか……？
+Rio
+...Huh? Can I ask what kind of perception you had of me\nuntil now...?
 C03a09020006
 
 00000000
-こんなやり取りをしているだけで僕の気持ちも高揚してしまう。
+Just by having this kind of exchange, my feelings become\nexhilarated.
 
 00000000
-選択は間違ってなかったのだ。
+The choice was not wrong.
 
 00000000
-復讐なんて選ばないほうがきっとこれからも楽しくなるのだと僕は理央の顔を見てそう思った。
+I looked at Rio's face and thought that choosing not to seek\nrevenge would surely make things more enjoyable from now on.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
-理央
-そ、それで……今日はどんな用事なんだよ、こんな朝っぱらから
+Rio
+S-So... what kind of business do you have this early in the\nmorning?
 C03a09020007
 
 00000000
-照れ隠しのような表情の理央は急かすように説明を求めてくる。
+Rio, with a shy expression that seemed to hide her\nembarrassment, hurriedly asked for an explanation.
 
 00002000
-拓海
-さて、呼び出した理由なんだけど……急で悪いけど今日はドラマのオーディションを受けてきてよ
+Takumi
+Well, the reason I called you here... Sorry for the\nsuddenness, but could you come and audition for a drama\ntoday?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
-理央
-へいへい……また入社試験とか、そういう…………
+Rio
+Hey hey... Is it another entrance exam or something like\nthat...?
 C03a09020008
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D39352F312F31
 
 00003000
-理央
-…………えっ、今オーディションっつった？
+Rio
+...Huh, did you say audition just now?
 C03a09020009
 
 00002000
-拓海
-うん。あ、あと理央はもう僕の事務所所属にしておいたから
+Takumi
+Yeah. Oh, and I already had Rio join my agency.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
-理央
-ちょ、ちょちょちょ、ちょっとマジなの？　……本気で言ってる！？
+Rio
+W-Wait, wait, wait, are you serious? ...Are you really\nsaying that?!
 C03a09020010
 
 00003000
-理央
-オマエ、頭おかしくなったんじゃないの！？
+Rio
+Have you gone crazy or something?!
 C03a09020011
 
 00002000
-拓海
-僕はいつでも真面目だよ。それに、理央には挑戦するだけの条件が備わってると思ってるけど？
+Takumi
+I'm always serious. Besides, I think Rio has the\nqualifications to take on the challenge, don't you think?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
-理央
-でもよっ……お膳立てしてくれてんだろうけど、これは自信ねーよ……
+Rio
+But... even though you've made the arrangements, I don't\nhave any confidence in this...
 C03a09020012
 
 00003000
-理央
-大恥かくだけならいいけど、身の程知らずって思われて仕事を干されたりなんかしたら……
+Rio
+It's one thing to be deeply embarrassed, but if people start\nthinking I'm presumptuous and I end up losing work or\nsomething...
 C03a09020013
 
 00002000
-拓海
-大丈夫、オーディションに落ちたとしても社長として無能な僕が独断でやったっていう噂を広める算段になってるから
+Takumi
+Don't worry, even if you fail the audition, I've planned to\nspread rumors that it was my own incompetence as the\npresident that led to it.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
-理央
-それはそれでどうなんだよ…………んで、どういう腹積もりでアタシなんだ？
+Rio
+Well, what's the deal with that... So, what's your intention\nin choosing me?
 C03a09020014
 
 00002000
-拓海
-今回のオーディションは是非押さえておきたい案件ってことが方針で決まったんだ
+Takumi
+This time, it was decided as a policy that we should\ndefinitely secure this audition.
 
 00002000
-拓海
-でも、駆け出し中だからドラマの端役でもお眼鏡に適う人材が不足しててね
+Takumi
+However, because we're just starting out, there's a shortage\nof talent that fits even the minor roles in dramas.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
-理央
-いろいろ居ただろ、ＨＰで顔になるほどのやつらが
+Rio
+There were various people, those who are prominent enough to\nbe the face of the company on the website.
 C03a09020015
 
 00002000
-拓海
-いやー……そういう人たちは別業務が忙しいというか……端役ならやりたくないってゴネて
+Takumi
+Well... those people are busy with other tasks... or rather, \nthey're reluctant to take on minor roles.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D39352F312F31
 
 00003000
-理央
-お、おう……なんだかんだで運営しようとオマエも努力してんだな
+Rio
+W-Well... it seems like you're also making an effort to\nmanage things, huh?
 C03a09020016
 
 00002000
-拓海
-そ、それでね、理央は僕からの難しいテストをクリアしたからいけると思ったんだ
+Takumi
+S-So, you see, I thought Rio would be able to do it because\nshe passed a difficult test from me.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
-理央
-いやいやいや！　何が『それで』だよ、全く理解できない！
+Rio
+No, no, no! What do you mean by "with that"? I completely\ndon't understand!
 C03a09020017
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
-理央
-アタシ、素人だぞ……モデルやってるけど、そういうのはいきなりは無理ってもんだろ
+Rio
+I'm an amateur, you know... Even though I do modeling, it's\nimpossible to suddenly do something like that.
 C03a09020018
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
-理央
-向いてないとか、ゴネてるとか言っても他に人材が居るんだろ……だいぶ無茶してないか、池ノ上
+Rio
+Even if you say that I'm not suitable or that I'm being\nstubborn, there are other talented people, right? Isn't it a\nbit unreasonable, Ikenoue?
 C03a09020019
 
 00002000
-拓海
-部下にも同じことを言われた
+Takumi
+I was told the same thing by my subordinates.
 
 00002000
-拓海
-だけど、勝算はあるよ。理央はそれを信じてくれるだけでいいから
+Takumi
+But there is a chance of success. I just need Rio to believe\nin it.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
-理央
-はぁー…………その自信はどこから来んだよ、一体さ……
+Rio
+Sigh... Where on earth does that confidence come from...
 C03a09020020
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
-理央
-まぁ、目指してたことだし、それが早いか遅いかの違いってもんか……
+Rio
+Well, it's something I've been aiming for, so I guess it's\njust a matter of whether it happens sooner or later...
 C03a09020021
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
-理央
-いーよ、やってやんよ……オマエの期待にしっかり応えてやるからな
+Rio
+Fine, I'll do it... I'll respond to your expectations\nproperly.
 C03a09020022
 
 00002000
-拓海
-理央ならそう言ってくれると思ってたよ。オファーをかけてよかった
+Takumi
+I thought Rio would say that. I'm glad I made the offer.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D39352F312F31
 
 00003000
-理央
-ははっ……言ってくれんじゃん……アタシの気持ちを利用しやがってよ……
+Rio
+Haha... You're saying it, aren't you... Taking advantage of\nmy feelings...
 C03a09020023
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30362F2D39352F312F31
 
 00003000
-理央
-うっ…………って、アタシっ……どうして泣いてんだよ……おかしいなっ……
+Rio
+Ugh... why am I... crying? This is strange...
 C03a09020024
 
 00002000
-拓海
-さてと、決意を持ってたし……たっぷりとは言えないけどまだ時間はあるからオーディションに向けて最後の対策をしていこう
+Takumi
+Well then, I've made up my mind... Though I can't say I'm\nfully prepared, there's still time, so let's make the final\npreparations for the audition.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30322F2D39352F312F31
 
 00003000
-理央
-おうっ……！　池ノ上、よろしくなっ！
+Rio
+Alright...! Ikenoue, count on me!
 C03a09020025
 
 0100200002026566666563742C656666656374207363656E655F656E64

@@ -9,356 +9,356 @@
 0200000001004247303530305F62
 
 00002000
-拓海
-おはようございまーす……ん？
+Takumi
+Good morning... Huh?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……ですから、何度も言っているように問題はありません！　調査でしたら、まずこちらで確認をしてから……！
+Arisa
+...As I've said multiple times, there is no problem! If it's\nabout the investigation, we should confirm it here first...!
 C01a04130001
 
 00003000
-アリサ
-証拠隠滅……？　馬鹿なことを仰らないで下さい！　私達を何だと思っているんですか！
+Arisa
+Destroying evidence...? Please don't say such foolish\nthings! What do you think of us?
 C01a04130002
 
 00000000
-理事長室に顔を出すと、先に来ていたアリサが電話口で何やら語気荒くまくしたてている真っ最中だった。
+When I showed up at the chairman's office, Arisa, who had\narrived earlier, was in the midst of a heated phone\nconversation, speaking loudly and passionately.
 
 00003000
-アリサ
-……分かりました。そこまで仰るなら、好きになさって下さい。但し、こちらでご協力は出来ませんからそのおつもりで
+Arisa
+...I understand. If you insist on doing that, please go\nahead. However, I cannot cooperate with you on that matter.
 C01a04130003
 
 00003000
-アリサ
-もちろん、あまり勝手な真似をするようでしたら、別途委員会に報告を出して、然るべき対応を取らせていただきますので
+Arisa
+Of course, if you continue to act on your own accord, I will\nreport it to the committee separately and take appropriate\naction.
 C01a04130004
 
 03008C0000000F2753455F6330315F30303034
 
 00000000
-最後は電話口の返答も待たず、アリサは一方的に電話を切ってしまった。
+Without waiting for a response on the other end of the\nphone, Arisa unilaterally hung up.
 
 00003000
-アリサ
-はぁっ……全く……どこまでも邪魔をしてっ……！
+Arisa
+Ugh... Seriously... Always getting in the way...!
 C01a04130005
 
 00002000
-拓海
-……また、随分と荒れてるね。何かあったの？
+Takumi
+...Hmm, things seem quite chaotic. Did something happen?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-え？　あっ……あなた、いつから……？
+Arisa
+Eh? Ah... You, since when...?
 C01a04130006
 
 00002000
-拓海
-いや、今さっきだけど……よっぽど腹に据えかねることがあったのかな？
+Takumi
+No, just a moment ago... Did something really get on your\nnerves?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……それは……
+Arisa
+...That is...
 C01a04130007
 
 00000000
-少し躊躇するアリサだったが、やがてゆっくりと口を開いた。
+Arisa, who hesitated for a moment, slowly opened her mouth.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-その、理事長であるあなたに相談もなく決めてしまって申し訳ないですけど……
+Arisa
+Um, I'm sorry for deciding without consulting you, who is\nthe chairman...
 C01a04130008
 
 00003000
-アリサ
-本家の方から、学園の様子が少しおかしいという情報があって、視察と人員の派遣を告げられましたの……
+Arisa
+I received information from the main office that there are\nsome strange things happening at the school, so they\ninstructed me to conduct an inspection and dispatch\npersonnel...
 C01a04130009
 
 00002000
-拓海
-様子がおかしい……？
+Takumi
+Something seems strange...?
 
 00003000
-アリサ
-生徒達の外出時に風紀の乱れがあったとか……もちろん、学校側でもある程度把握している範囲のことですが……
+Arisa
+It seems there was a disturbance in discipline during the\nstudents' outings... Of course, the school is aware of it to\nsome extent...
 C01a04130010
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-要するに、どんな理由をつけてでもいいから、本格的に介入したいと……そういう腹積もりなのですわ
+Arisa
+In short, I am determined to intervene in a thorough manner, \nno matter what reasons I come up with... That's the\nintention behind it.
 C01a04130011
 
 00002000
-拓海
-なるほどね……無理やりねじ込んでくるって感じか……
+Takumi
+I see... It feels like they're trying to forcefully insert\nthemselves...
 
 00000000
-いくら全寮制の学校でも、外部にまで完全にマインドコントロールの支配が及ぶ訳ではない。
+Even though it's a boarding school, it doesn't mean that the\ncomplete mind control domination extends to the outside.
 
 00000000
-学校内ではこれまでの認識通りにするなどの、外出時の対策・対応も念入りに施してはいたが、完璧ではなかったか――
+The school had been implementing thorough measures and\nresponses during outings to ensure things were done\naccording to the previous understanding, but it wasn't\nperfect, was it?
 
 00006000
 拓海
 それとも、とにかく理由は何であれ、ちょっとした一件を理由に強引に介入、粛清をしてしまうと……
 
 00000000
-巨大グループが手段を選ばないとなれば、それこそでっち上げから介入してくることさえ十分有り得るだろう。
+If a large group doesn't hesitate to use any means\nnecessary, it's highly possible that they would even\nintervene by fabricating evidence.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a04130012
 
 00000000
-それでなくても、最近学内でのアリサの立場はいいものとは言えなかった。
+Besides, Arisa's position within the school hasn't been good\nrecently.
 
 00000000
-実力を兼ね備えた権力者……そんなイメージが、僕のマインドコントロールによって崩壊させられたからだ。
+A powerful figure with both ability and authority... that\nimage was shattered by my mind control.
 
 00000000
-今や、腹心だった友里子によって支えられている愚将……極端だが、そんな印象を持つ生徒までいる。
+Now, even the foolish general who was once supported by\nYuriko, his trusted confidant... It may be extreme, but\nthere are even students who have such an impression.
 
 00000000
-本人もそれを気にしてか、友里子に頼るまいという意識を強め、それが余計に彼女の心労を深めていた。
+It seems that Arisa herself is aware of this, as she has\nbeen consciously trying not to rely on Yuriko, which only\nadds to her mental burden.
 
 00002000
-拓海
-それで……これからどうするの？
+Takumi
+So... What are you going to do from now on?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-どうもこうもありませんわ。本家から介入があろうが、今の体制を変える理由はありませんもの……
+Arisa
+There's really nothing we can do about it. Even if there is\ninterference from the main family, there's no reason to\nchange the current system...
 C01a04130013
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-しっかりと監視をつけて、早いうちにご退場いただくまでですわ
+Arisa
+We'll keep a close watch on them and make sure they leave as\nsoon as possible.
 C01a04130014
 
 00002000
-拓海
-友里子の力は借りなくていいの？
+Takumi
+Do we really not need to rely on Yuriko's power?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それは……この程度のことで、あの子に頼ってばかりでは……
+Arisa
+That's... relying on her for something like this...
 C01a04130015
 
 00000000
-今、友里子は理事長室に立ち寄ることをやめている。
+Yuriko has stopped visiting the principal's office recently.
 
 00000000
-本人は依然としてアリサのことが気になって仕方ないようだったが、今のアリサの意識が強すぎて、友里子自身が遠慮している現状だった。
+It seemed that Yuriko was still very concerned about Arisa, \nbut the current situation was such that Arisa's\ndetermination was too strong, causing Yuriko herself to hold\nback.
 
 00000000
-だからこそ、この問題は理事長という肩書きを奪い上げた僕の問題としてものしかかって来る。
+That's why this issue falls solely on me, who took away the\ntitle of chairman.
 
 00006000
 拓海
 アリサと友里子を分断させたのはいいとして……このタイミングはあんまり良くないよな……
 
 00000000
-引き続き外の折衝をしているアリサが今の調子では、本家への対応も満足にできるとは言い難い。
+Arisa, who is continuing to negotiate outside, is currently\nnot in a condition where she can handle the response to the\nmain family satisfactorily.
 
 00000000
-いっそ、僕がオルゴールの力を使って直接前に出る……まだ、あまり今の地盤が固まってるとは言えないけど、それしかないだろうか。
+ Takumi: Maybe I should step forward directly using the\npower of the music box... Even though the current foundation\nis not yet fully solidified, is there no other choice?
 
 00006000
 拓海
 だとしたら、アリサへのことも先に済ませておかないと……かな
 
 00000000
-いずれはそうするべきだったことが、少しだけ早くなるだけと思えばいい。
+We should have done it eventually, so you can think of it as\njust happening a little earlier.
 
 00000000
-腹積もりが出来ると、僕はポンとアリサの肩を叩く。
+When I have made up my mind, I will casually tap Arisa on\nthe shoulder.
 
 00002000
-拓海
-心配しなくてもいいよ。外からのことは僕が何とかするから
+Takumi
+You don't have to worry. I'll take care of things from the\noutside.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-え……？　あなたが……？
+Arisa
+Eh...? You...?
 C01a04130016
 
 00002000
-拓海
-うん。これでも、一応は理事長だしね。任せて貰えるかな？
+Takumi
+Yeah. After all, I am still the chairman. Can you leave it\nto me?
 
 00003000
-アリサ
-え……えぇ
+Arisa
+Eh...?
 C01a04130017
 
 00000000
-思いもよらない僕の言葉に、アリサは少し戸惑いつつも頷かざるを得なかった。
+Arisa couldn't help but be a little bewildered by my\nunexpected words, but she had no choice but to nod.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
 00000000
-それから数日――
+And then, a few days passed--
 
 0300000000000F2742474D3033
 
 0200000001004247303330305F62
 
 00000000
-昼休みになり、僕は廊下でアリサが通り掛かるのを待っていた。
+It was lunch break, and I was waiting in the hallway for\nArisa to pass by.
 
 00000000
-一人で行動するようになってから、アリサはあまり人通りの多い中央の廊下を使わなくなっていた。
+Since starting to act alone, Arisa has stopped using the\ncrowded central hallway.
 
 00000000
-それは、何となく感じるようになった風当たりの強さを意識してのことだろうが、それでも目立つ存在であることに違いはない。
+It may be because I have become more aware of the strong\natmosphere around me, but there is no denying that I still\nstand out.
 
 00000000
-チラチラと他の生徒達の視線が廊下の先に向けられると、思った通り、アリサがゆっくりとこちらに近づいて来る。
+As the glances of other students were directed towards the\nend of the hallway, just as I expected, Arisa slowly\napproached me.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あら……
+Arisa
+Oh...
 C01a04130018
 
 00002000
-拓海
-吉祥寺アリサ……待ってたよ
+Takumi
+Arisa Kisshouji... I've been waiting for you.
 
 00000000
-廊下のど真ん中に立ちはだかる僕に、アリサは怪訝そうな顔をする。
+Arisa looked at me with a puzzled expression as I stood in\nthe middle of the hallway.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-こんな場所で何か御用かしら
+Arisa
+What business do you have in a place like this?
 C01a04130019
 
 00002000
-拓海
-もちろん。池ノ上拓海ではなく、王京学園の理事長として君に通告がある
+Takumi
+Of course. Not as Ikenoue Takumi, but as the chairman of\nOukeyo Academy, I have an announcement for you.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-通告……？
+Arisa
+An announcement...?
 C01a04130020
 
 00002000
-拓海
-吉祥寺アリサ。君を理事長権限において、成績不振者の反省房である家畜小屋送りとする
+Takumi
+Arisa Kisshouji. Under the authority of the chairman, I will\nsend you to the reflection room for underperforming\nstudents, which is known as the "livestock shed".
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-な……いきなり、何を言ってますの！？
+Arisa
+W-What are you saying all of a sudden!?
 C01a04130021
 
 00002000
-拓海
-君に与えた機会と、実際の精液採取の実績を比較した際、他の生徒達より著しく効率が悪いと判明したんだ
+Takumi
+It has been determined that when comparing the opportunity\ngiven to you and the actual achievement of semen collection, \nyour efficiency is significantly lower than that of other\nstudents.
 
 00003000
-アリサ
-なっ…………
+Arisa
+Wha...
 C01a04130022
 
 00002000
-拓海
-君が、理事長補佐という立場だからといって……いや、そんな立場だからこそ尚更、特別な便宜を図ることは出来ない
+Takumi
+Just because you hold the position of assistant chairman\ndoesn't mean... No, precisely because of that position, I\ncannot grant you any special privileges.
 
 00000000
-スッと手を上げると、僕の後ろに控えていた運動部に所属する生徒達がずいっとアリサの元へ近づいていく。
+As I raised my hand, the students who belonged to the sports\nclub and were standing behind me approached Arisa in a\nstraight line.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-今、ここで……それがあなたの答えですの……？
+Arisa
+Is that your answer... right here, right now...?
 C01a04130023
 
 00002000
-拓海
-大丈夫、本家への対応はちゃんとしてみせるよ。だからこそ、ね
+Takumi
+Don't worry, I'll handle the response to the main family\nproperly. That's why, you see...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-……っ！　離しなさいっ！　私を誰だと思って……くぅっ！
+Arisa
+...! Let go of me! Who do you think I am... ugh!
 C01a04130024
 
 00000000
-拘束しようとする生徒達を一喝するアリサだったが、多勢に無勢で縄を掛けられては、もう抵抗のしようもない。
+Arisa, who shouted at the students trying to restrain her, \nwas outnumbered and helpless as they tied her up.
 
 00002000
-拓海
-それじゃ、手はず通りに
+Takumi
+Well then, according to the plan...
 
 00002000
-生徒Ａ
-分かりました、理事長様
+Student A
+Understood, Chairman.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a04130025
 
 00002000
-生徒Ｂ
-ま……当然の報いよね。今まで好き勝手にしてたんでしょ……？
+Student B
+W-Well... It's only natural, isn't it? You've been doing as\nyou please all this time, right...?
 
 00002000
-生徒Ｃ
-権力を笠に着て……いい気味だわ……
+Student C
+Acting all high and mighty with your power... How conceited.
 
 00000000
-周囲からはヒソヒソと口さがない言葉が聞こえてくる。
+I can hear whispers and murmurs from the people around.
 
 00000000
-アリサは小さく俯いたまま、もう何も言わず連行されるままになっていた。
+Arisa remained silent, bowing her head as she was taken away\nwithout saying anything.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
 0300000000000F2742474D3033
 
 00000000
-それから半日が経過した。
+Half a day has passed since then.
 
 00000000
-夜も更け、世話役に指名した学生たちも既に寮に戻っている時間。
+The night grew late, and it was time for the students who\nhad been appointed as caretakers to return to the dormitory.
 
 00000000
-僕は一人、小屋へと足を運んでいた。
+I walked alone towards the cabin.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -367,171 +367,171 @@ C01a04130025
 0200000001004247303930305F64
 
 00000000
-春とはいえ、夜はまだ冷えるこの時期は、入り込むすきま風も馬鹿にならない。
+Even though it's spring, the nights are still chilly at this\ntime of year, so you can't underestimate the draft that\nsneaks in.
 
 00000000
-ひんやりとした空気を肌に感じながら、僕は小屋の隅っこへと近づいていく。
+Feeling the cool air against my skin, I approached the\ncorner of the cabin.
 
 00000000
-備え付けられたランプを付けて、照らされた先には、丸くなった肌色がひとつ。
+I turned on the lamp that was provided and in the\nilluminated area, there was one person curled up with a\nflesh-colored appearance.
 
 00000000
-敷き詰められた藁の上で、アリサは首輪に繋がれ、小さく身を縮めながらうずくまって眠っていた。
+Arisa was sleeping curled up, tied to a collar, on top of a\nstraw mat.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30362F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
+Arisa
 ………………
 C01a04130026
 
 00000000
-この家畜小屋に生徒を繋ぐ時は、制服を与えず、下着姿にする決まりにしてある。
+When tying students in this livestock shed, it is customary\nto leave them in their underwear without giving them their\nuniforms.
 
 00000000
-だが、アリサにはそれよりも更に厳しい措置としして、全裸に首輪だけという格好だった。
+However, for Arisa, there was an even stricter measure, \nwhich was to have her completely naked with only a collar.
 
 00000000
-最後に往生際悪く暴れたのか、手首や足には痛々しい赤みが残っている。
+It seems like she struggled and resisted until the end, as\nthere are painful red marks on her wrists and legs.
 
 00000000
-たった半日であっても、この環境であれば著しく憔悴するだろう。
+Even if it's only half a day, in this environment, one would\nnoticeably become exhausted.
 
 00000000
-だが、今静かに目を閉じているアリサは、何とも言えない美しさを湛えており、その姿に僕は言いようのない興奮を覚えていた。
+However, Arisa, who is now quietly closing her eyes, is\nfilled with an indescribable beauty, and her appearance\nfills me with an inexplicable excitement.
 
 00002000
-拓海
-アリサ……アリサ、起きて
+Takumi
+Arisa... Arisa, wake up.
 
 00000000
-張り詰める股間の催促に押され、僕はアリサに呼びかけながら、その身体を起こしてやる。
+Pressured by the demanding arousal in my crotch, I call out\nto Arisa and help her sit up.
 
 00000000
-耳にはいつもの通りのイヤホン。そして手にはいつものオルゴール。
+In her ears were the usual earphones, and in her hands was\nthe usual music box.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-う……んんっ……な……に……うるさい……わね……
+Arisa
+Ugh... What... so noisy...
 C01a04130027
 
 00000000
-ふてぶてしくもよく寝ていたのか、アリサは小さく呻きながらゆっくりと目を開く。
+Arisa, who was sleeping soundly with an air of defiance, \nslowly opens her eyes while letting out a small groan.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-あ…………
+Arisa
+Ah...
 C01a04130028
 
 00002000
-拓海
-気がついた……？
+Takumi
+Are you awake...?
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-ママの……オルゴール……
+Arisa
+Mom's... music box...
 C01a04130029
 
 00000000
-ぼんやりと呟いたアリサの眼の焦点が合わさり、少しずつ意識がクリアになっていく。
+Arisa muttered absentmindedly, and her eyes gradually\nfocused, becoming more clear.
 
 00000000
-そして、それから暫くの沈黙の後……アリサは、自分がどうして今、このような境遇に置かれているのかを悟ったようだった。
+And then, after a brief silence... Arisa seemed to realize\nwhy she was in this situation.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-そう……そういうこと。何か、心に引っ掛かっていることは……こんなことだったなんてね……
+Arisa
+I see... So that's what it is. Something was bothering me...\nI never thought it would be something like this...
 C01a04130030
 
 00000000
-僕が手にしているオルゴールを見ながら、アリサは自嘲気味に力なく首を振った。
+While looking at the music box in my hand, Arisa weakly\nshook her head with a self-deprecating expression.
 
 00000000
-もうじたばたと足掻くことも、悪態をつくこともない。ただ、自分が無力に敗れていたことをしみじみと噛みしめる。
+There is no more struggling or complaining. Instead, I\ndeeply reflect on my own powerlessness and defeat.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-よりにもよってあなただったなんてね……もしかして、こんなことを言うのも初めてじゃないのかしら……？
+Arisa
+Of all people, it had to be you... I wonder if this is the\nfirst time I've said something like this...?
 C01a04130031
 
 00002000
-拓海
-さあ、どうだろうね
+Takumi
+Well, I wonder how it is...
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-それで……？　こんな時間に、わざわざ私を見に来ただけではないのでしょう……？
+Arisa
+So...? You didn't come all the way here just to see me at\nthis hour, right...?
 C01a04130032
 
 00000000
-半ば投げやりに、アリサは自分の肌を隠そうともせず、僕を真っ直ぐに見つめ直す。
+Arisa looked straight at me without trying to hide her skin, \nseemingly resigned.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-セックスでも何でも……やりたいことをしてしまったらどう？
+Arisa
+What if we did whatever we wanted... like having sex or\nsomething?
 C01a04130033
 
 00002000
-拓海
-もちろん。今日で、アリサを完全に僕の所有物にするつもりだけど……
+Takumi
+Of course. Today, I intend to make Arisa completely mine...
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-ふん……こんなやり方で、私の心まで奪ったつもりでいるなんて思わないことだわ……
+Arisa
+Hmph... Don't think that you can steal my heart with such a\nmethod...
 C01a04130034
 
 00002000
-拓海
-そりゃ、思わないよ。まだ、僕はアリサの本質を見てないからね
+Takumi
+Well, I wouldn't think that. I haven't seen Arisa's true\nessence yet.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
-アリサ
-本質……？　あなたに、私の何が分かるって言うの
+Arisa
+True essence...? What makes you think you understand\nanything about me?
 C01a04130035
 
 00002000
-拓海
-だから、それを知るために、またこれを使わせてもらうのさ
+Takumi
+That's why, in order to know that, I'll use this again.
 
 0200E60000000000000001FF0000BAFF4B004B0064006400E803E803F401666D5F433031615F30355F305F305F305F3034
 
 00000000
-そっとオルゴールを差し出すと、アリサはハッと身じろぎし、慌てて耳を塞ごうとする。
+I gently offer the music box, and Arisa flinches and\nhurriedly tries to cover her ears.
 
 00000000
-だが、僕はその手をしっかりと押さえ込み、それを許さない。
+However, I firmly restrain her hand and won't allow it.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30332F2D37302F312F31
 
 00003000
-アリサ
-っ……離して！　もう、こんなものを使わなくたって十分でしょう！
+Arisa
+L-Let go! I don't need something like this anymore, right?!
 C01a04130036
 
 00002000
-拓海
-それは、僕が決めることだよ。その頑なさが、どこから来るのか……見極めさせてもらうから
+Takumi
+That's something I'll decide. I want to figure out where\nthat stubbornness of yours comes from...
 
 00000000
-嫌がるアリサに構わず、僕はイヤホンのボリュームを上げ、同時にオルゴールを鳴らした。
+Ignoring Arisa's resistance, I increased the volume of the\nearphones and simultaneously played the music box.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

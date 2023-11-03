@@ -7,21 +7,21 @@
 0200000001004247303530305F62
 
 00002000
-拓海
-平和っていいもんだねー……争い事もなくストレスもない
+Takumi
+Peace is such a wonderful thing... No conflicts, no stress.
 
 00002000
-拓海
-こういう時間を過ごすのも本当に悪くないと思うんだ。そう思わない？
+Takumi
+I really don't think spending time like this is a bad thing.\nDon't you think so too?
 
 00000000
-静かな理事長室で椅子に深々と背中を預けながら、疲れも心地よいとばかりに幸せそうに深い息をつく。
+In the quiet chairman's office, I lean back deeply in the\nchair, feeling both tired and content, taking deep breaths\nas if in bliss.
 
 00000000
-学園内で劇的な変化があっただけに、僕は毎日忙しいのだが、こうやってゆっくりとしていられる時間がほんとうにいつも待ち遠しく感じられていた。
+"I've been busy every day due to the dramatic changes in the\nschool, but I've always looked forward to this time when I\ncan relax like this."
 
 00000000
-学園で何があろうと僕だけは何も変わらない。その事実を知っているのは……今は自分だけではなかった。
+"No matter what happens at school, I am the only one who\nremains unchanged. But now, I am not the only one who knows\nthat fact."
 
 0300000000000F2742474D3038
 
@@ -34,320 +34,320 @@
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30355F305F305F305F3036
 
 00003000
-アリサ
-ゲスめ……！
+Arisa
+You're such a jerk...!
 C01a11010001
 
 00003000
-こはる
-……もう、こんなのやだぁ……
+Koharu
+...I've had enough of this...
 C04a11010001
 
 00003000
-友里子
-…………っ……
+Yuriko
+......
 C02a11010001
 
 00003000
-理央
-クソ野郎っ……オマエ、ぜってー殺してやるっ……
+Rio
+You bastard... I swear, I'll definitely kill you...
 C03a11010001
 
 00000000
-部屋の隅に立たされていた四人は、余裕綽々に振る舞う僕を見て一人ひとり個性的な反応を見せていた。
+The four of them, who had been standing in the corner of the\nroom, each showed a unique reaction as they watched me\nbehave with ease.
 
 00002000
-拓海
-なかなかしぶといよね４人とも
+Takumi
+You four are quite persistent, aren't you?
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30355F305F305F305F3034
 
 00003000
-アリサ
-あなたは本当に最低極まりないわね……
+Arisa
+You truly are the lowest of the low...
 C01a11010002
 
 00003000
-アリサ
-男という劣等生物は愚かで浅ましい救いようのない欠陥品
+Arisa
+Men, as inferior beings, are foolish, despicable, and\nirredeemable defective products.
 C01a11010003
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30355F305F305F305F3033
 
 00003000
-アリサ
-そう、男なんて女性の足下にも及ばない低俗なのよ……
+Arisa
+That's right, men are vulgar beings who can't even compare\nto women...
 C01a11010004
 
 00002000
-拓海
-ふーん
+Takumi
+Hmmm...
 
 00000000
-アリサは冷たくドスを利かせた声で思いつくままに羅列していくが、僕はそれでも涼しげに言葉を受け止めていく。
+Arisa coldly lists off her thoughts in a threatening tone, \nbut I calmly take in her words.
 
 00002000
-拓海
-まあ、確かに……こんなことしてるから僕は最低だね
+Takumi
+Well, certainly... I am the lowest for doing something like\nthis.
 
 00002000
-拓海
-でも、男を虐げる環境を自ら作り上げたのに気づけば乗っ取られててどんな気持ち？
+Takumi
+But how does it feel to have your own environment, where you\noppress men, taken over without even realizing it?
 
 0200E60001000100000000006AFFFCFE4B004B004B004B00E803E8030000666D5F433032615F30355F305F305F305F3037
 
 00003000
-友里子
-…………っう！
+Yuriko
+...Ugh!
 C02a11010002
 
 00000000
-その言葉にアリサに加担していた友里子は目を反らした。
+Yuriko, who had been siding with Arisa, averted her gaze at\nthose words.
 
 0200E60001000200000000009600F9FE4C004C004C004C00E803E8030000666D5F433033615F30355F305F305F305F3034
 
 00003000
-理央
-ちょっと、待てって……マジでアリサは、アタシらに何かしてたってことか？
+Rio
+Wait a minute... Are you saying that Arisa has done\nsomething to us?
 C03a11010002
 
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30355F305F305F305F3034
 
 00003000
-こはる
-初めてそんなこと聞いたっ……私たちに何かされてたの……？
+Koharu
+This is the first time I've heard something like that...\nHave we been subjected to something...?
 C04a11010002
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30355F305F305F305F3037
 
 00003000
-アリサ
-そ、それはっ……
+Arisa
+W-Wait...
 C01a11010005
 
 00000000
-激昂して僕に反論したアリサは顔をひきつらせて慌てるが、マインドコントロールが効いているがためにそこから逃げ出すことができない。
+Arisa, who passionately argued back at me, grimaces and\npanics, but she can't escape from there because the mind\ncontrol is effective.
 
 00000000
-彼女の計画概要をもとより知っていた友里子は目を背けるように俯き、理央とこはるは、自分がこんな目に遭う理由を探してアリサに視線を向けた。
+Yuriko, who knew the outline of her plan from the beginning, \naverted her gaze and looked down, while Rio and Koharu\nturned their gaze towards Arisa, searching for the reason\nwhy they were experiencing this.
 
 00002000
-拓海
-アリサが学園の全員を利用して僕を貶めなければ、こんなことはしてないよ
+Takumi
+If Arisa hadn't used everyone in the school to degrade me, I\nwouldn't be doing something like this.
 
 00002000
-拓海
-本当に……マインドコントロールは便利だよ
+Takumi
+Truly... mind control is convenient.
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30355F305F305F305F3034
 
 00003000
-アリサ
-んっ…………
+Arisa
+*gasps*...
 C01a11010006
 
 00000000
-アリサはぐうの音も出せないのか、屈辱のあまり身体を震わせる。
+Arisa, unable to make a sound of protest, trembles with\nhumiliation.
 
 0200E60001000200000000009600F9FE4C004C004C004C00E803E8030000666D5F433033615F30355F305F305F305F3033
 
 00003000
-理央
-おいおいおいっ！　ってことは、あれかよ！？　アリサのくだらない目的に付き合わされてとばっちり食らってんのかよ
+Rio
+Hey hey hey! So you're saying... we're getting caught up in\nArisa's stupid agenda and suffering the consequences, huh?
 C03a11010003
 
 00003000
-理央
-全部アリサのせいじゃね！　どーしてくれんだよマジでっ！
+Rio
+It's all because of Arisa! Seriously, how could she do this\nto us?!
 C03a11010004
 
 00000000
-アリサの様子から、僕の言葉が全て事実であると悟った理央はアリサを一方的にまくし立てる。
+Rio, realizing that my words were all true from Arisa's\nbehavior, starts berating Arisa unilaterally.
 
 00000000
-自分自身が僕にしていたことはもちろん棚に上げて。
+I'll put aside what I myself have done to me, of course.
 
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30355F305F305F305F3034
 
 00003000
-こはる
-え……ええ……池ノ上くん……アリサさんに……ええ？　じゃあ、私っ……
+Koharu
+Eh...ehh...Ikenoue-kun...to Arisa-san...ehh? Then, me...
 C04a11010003
 
 00000000
-こはるは今までの自分の意識が僕だけでなくアリサにまで操作されていた事実に、自我を失ったかのような狼狽を見せていた。
+Koharu, upon realizing the fact that her own consciousness\nhad been manipulated not only by me but also by Arisa, \nshowed a state of confusion as if she had lost her sense of\nself.
 
 00002000
-拓海
-うんうん……みんないい顔してるよ。それじゃあ……これからもっと面白いものを見せてあげる
+Takumi
+Mhm, everyone's looking so pleased. Well then... from now\non, I'll show you even more interesting things.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
 0200000001004247303330305F62
 
 00002000
-拓海
-さあ、ここだ。みんな入って入って
+Takumi
+Alright, this way. Everyone, come on in.
 
 0300000000000F2742474D3037
 
 0200000001004247313330305F62
 
 00000000
-先導するようにして中に入って行くと、教室中に色気づいた歓声が立ち上った。
+As I led the way and entered, a wave of seductive cheers\nfilled the entire classroom.
 
 00002000
-女子学生Ａ
-あああっ……いらっしゃったわ……今日は私達に精液を注いでくださいますのね
+Female Student A
+Ahh... you've arrived... today, you will give us your semen, \nwon't you?
 
 00002000
-女子学生Ｂ
-さっきまでオナニーしてたけどっ……目の前に居てくれるだけでもっと捗っちゃう……はあっ、あああ……
+Female Student B
+I-I was just masturbating a moment ago... but having you\nright in front of me makes it even more exciting... haaah, \naaahhh...
 
 00002000
-女子学生Ｃ
-私のお口をお便所みたいにしてっ……理事長の精液、たくさん注いでください……
+Female Student C
+Treat my mouth like a toilet... Please pour lots of the\nchairman's semen into it...
 
 00000000
-授業中にも関わらず、僕が入ったことで教室は淫猥な雰囲気に包まれていく。
+Despite being in the middle of class, the classroom becomes\nenveloped in a lewd atmosphere as I enter.
 
 00000000
-甘い吐息を漏らす者、自ら股間をいじり始めるもの、僕に触れない距離で舌を突き出して精液を求めるものなど、酒池肉林を超えた空間へと変容していた。
+The space had transformed into a realm beyond debauchery, \nfilled with those who let out sweet sighs, those who began\ntouching themselves, and those who extended their tongues in\nanticipation of my semen, all while keeping a distance from\nme.
 
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30355F305F305F305F3034
 
 00003000
-こはる
-なに、これ……
+Koharu
+What is this...
 C04a11010004
 
 0200E60001000100000000006AFFFCFE4B004B004B004B00E803E8030000666D5F433032615F30355F305F305F305F3034
 
 00003000
-友里子
-こんなの……痛ましすぎる……
+Yuriko
+This is... too disturbing...
 C02a11010003
 
 00000000
-こはると友里子は、久々に対面した変わり果てたクラスメイトたちを直視できず、目を背けながら嘆いていた。
+Koharu and Yuriko couldn't bear to look directly at their\nclassmates, who had changed so much since they last saw\nthem, and lamented while averting their eyes.
 
 0200E60001000200000000009600F9FE4C004C004C004C00E803E8030000666D5F433033615F30355F305F305F305F3033
 
 00003000
-理央
-オマエら、バカじゃねーのかよッ、何やってんだ……！　こんな変態じみたことやめろっ……！
+Rio
+Are you guys idiots? What the hell are you doing...! Stop\nthis perverted nonsense...!
 C03a11010005
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30355F305F305F305F3033
 
 00003000
-アリサ
-いい加減目を覚ましなさい……！　あなた達はこの男に操られているだけにすぎないのですよ！
+Arisa
+Wake up already...! You're nothing more than puppets being\ncontrolled by this man!
 C01a11010007
 
 00000000
-対して理央とアリサの瞳からはまだ闘争心は失われておらず、彼女たちは必死にクラスメイトたちにこの状況の異常さを訴え続ける。
+Rio and Arisa, on the other hand, still had a fighting\nspirit in their eyes and continued desperately trying to\nconvey the abnormality of this situation to their\nclassmates.
 
 00002000
-女子学生Ａ
-…………？
+Female Student A
+.........?
 
 00002000
-女子学生Ｂ
-吉祥寺さんたち、何言ってるの？
+Female Student B
+What are you saying, Kisshouji-san?
 
 00002000
-女子学生Ｃ
-さあ……ちょっと疲れてるんじゃないかな
+Female Student C
+Well... maybe you're just tired.
 
 00000000
-だが、彼女たちの説得にもかかわらず、女子たちは一体何を言っているのかと逆に困惑してしまっていた。
+However, despite their efforts to persuade them, the girls\nwere instead confused about what they were saying.
 
 00002000
-女子学生Ｄ
-私達に女性たちはもっと性の快楽を積極的に求めるべきだと教えてくれたんですよ
+Female Student D
+They taught us that women should actively seek sexual\npleasure more.
 
 00002000
-女子学生Ｅ
-そうそう！　理事長の精液はすっごくアタシたちのオマンコを感じさせてくれるしぃ……女として当然の幸せ与えてくれる
+Female Student E
+That's right! The chairman's semen makes us feel so good in\nour pussies... It naturally gives us the happiness that\nevery woman deserves.
 
 00002000
-女子学生Ｆ
-社会的地位を約束されるのであれば、この学園で最も相応しいことだと思いますが、それに賛同しないのは愚かではなくて？
+Female Student F
+If it promises us social status, wouldn't it be the most\nappropriate thing to do in this school? Isn't it foolish not\nto agree with that?
 
 00000000
-学生たちは全く四人の話や反応に興味を示すことなく、僕に与えられる快楽の素晴らしさを休みなく並べ立て続けていく。
+The students continue to relentlessly extol the pleasures\nbestowed upon me without showing any interest in the words\nor reactions of the four of them.
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30355F305F305F305F3034
 
 00003000
-アリサ
-こんなっ……屈辱を当然のように……
+Arisa
+This... humiliation as if it's natural...
 C01a11010008
 
 0200E60001000200000000009600F9FE4C004C004C004C00E803E8030000666D5F433033615F30355F305F305F305F3034
 
 00003000
-理央
-誰かっ……マシなやつはいないのかよっ！？　おいったら！？
+Rio
+Is there anyone... anyone decent here?! Hey, answer me!
 C03a11010006
 
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30355F305F305F305F3036
 
 00003000
-こはる
-うそっ……こんなひどいよ……みんな正気に戻ってよ……
+Koharu
+No way... This is so terrible... Everyone, please come back\nto your senses...
 C04a11010005
 
 0200E60001000100000000006AFFFCFE4B004B004B004B00E803E8030000666D5F433032615F30355F305F305F305F3033
 
 00003000
-友里子
-っ！？　あれは一体なにごとです！？
+Yuriko
+Huh!? What on earth is happening here!?
 C02a11010004
 
 00000000
-友里子は教室の後ろで繋がれている学生がいることに気がついたらしい。
+Yuriko seems to have noticed that there is a student tied up\nat the back of the classroom.
 
 00002000
-拓海
-さすがはアリサより優秀な友里子だ。目ざとく見つけてくれてありがとう
+Takumi
+Yuriko, you truly are more excellent than Arisa. Thank you\nfor keenly noticing and finding it.
 
 00002000
-拓海
-今日はね、あの子達で楽しもうと思ってるんだ
+Takumi
+Today, I'm thinking of having fun with those girls.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
 0200000001004247313330305F62
 
 00000000
-そう言って教室の後ろへと歩みを進めていく。
+Saying that, he walks towards the back of the classroom.
 
 00000000
-教室の後ろに繋がれて自由の利かないままに寝かされている三人の女子に近づくと、視線を合わせるべく屈みこんだ。
+As I approach the three girls who are tied up and lying\nthere, unable to move freely, I crouch down to meet their\ngaze.
 
 00000000
-三人の格好は他の女子と違わず全裸で首輪をつけている状態であり、少し冷えるのか各々身体を震わせていた。
+The three of them are in the same state as the other girls, \ncompletely naked with collars around their necks, and they\nwere trembling slightly, perhaps feeling a bit cold.
 
 00003000
-拘束女子Ａ
-ひっ！？　近寄らないでっ……！　男なんてムリっ……！
+Restrained Girl A
+Eek! Don't come any closer...! Men are impossible...!
 C05n11010001
 
 00003000
-拘束女子Ｂ
-自分が拘束される意味が理解できません……！　早く解放したらどうなんですか……
+Restrained Girl B
+I can't understand the meaning of being restrained...! How\nabout releasing us quickly...?
 C05o11010001
 
 00003000
-拘束女子Ｃ
-やだっ、やだよぉっ、こんなのっ……！　エッチぃ事は、結婚するまでしちゃダメってママから言われてるのに……！
+Restrained Girl C
+No, nooo, this is so...! I've been told by my mom that I\ncan't do anything lewd until I get married...!
 C05p11010001
 
 00002000
-拓海
-えーと……須賀崎さん、浮田さん、湯沢さんかな。それだけ元気が良いなら、たっぷり僕の精液採取をしてもらえるよね
+Takumi
+Um... Sugasaki-san, Uchida-san, and Yuzawa-san, right? If\nyou're all feeling so energetic, then you can help me\ncollect plenty of my semen, can't you?
 
 01003000
 

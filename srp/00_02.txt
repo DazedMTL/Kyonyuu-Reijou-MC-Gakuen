@@ -7,211 +7,211 @@
 0200000001004247303430305F63
 
 00002000
-拓海
-はぁ…………
+Takumi
+*sighs*
 
 00000000
-夕方、僕は一人中庭の隅にあるベンチで深々とため息をついた。
+In the evening, I let out a deep sigh alone on a bench in\nthe corner of the courtyard.
 
 00000000
-一人トイレで汚れを拭い、それでもまだ少し不快感が残っているのは、さっきのショックを引きずっているからだろうか。
+I wonder if the reason why I still feel a little\nuncomfortable, even after wiping away the dirt in the\nbathroom by myself, is because I'm still lingering on the\nshock from earlier.
 
 00000000
-頭の中はまだグルグルと眩暈がして、うまく焦点が定まらない。
+"My head is still spinning, and I can't focus properly."
 
 00000000
-あれだけの女子の前で射精してしまった恥ずかしさが、今もジクジクと心を苛む。
+The embarrassment of ejaculating in front of all those girls\nstill lingers in my heart, making me feel uneasy even now.
 
 00000000
-結局逃げてしまえるのだったら、取り返しがつかなくなる前に逃げてしまえばよかったのだ。
+If I could have escaped in the end, I should have run away\nbefore it became irreversible.
 
 00000000
-今更後悔しても仕方ないが、あの時の僕は、逃げるという発想に全くたどり着くことはなかった。
+"It's no use regretting it now, but at that time, I never\neven considered the idea of running away."
 
 00000000
-あれから午後の授業の間、僕はずっとトイレにこもり、授業もサボってしまった。
+Since then, during the afternoon classes, I've been holed up\nin the bathroom and ended up skipping class.
 
 00000000
-共学化のために設けられた数少ない男子トイレだったが、さすがに女子が入ってくることもなく、ある意味一番の安息の地だった。
+It was one of the few male restrooms established for\ncoeducation, and as expected, no girls ever entered. In a\nway, it was the most peaceful place.
 
 00000000
-だが、ずっと留まれる訳でもなく、巡り巡って中庭まで来てしまった。
+However, I couldn't stay there forever, and I ended up\ncoming all the way to the courtyard.
 
 00000000
-これからまた寮に戻って、食堂の片隅で食事をとって、部屋に籠もるまで……また、厳しい視線に晒されなくてはならない。
+"From now on, I have to go back to the dormitory, have a\nmeal in a corner of the cafeteria, and lock myself in my\nroom... I'll have to endure those harsh stares again."
 
 00000000
-それがどうにも憂鬱で、普段から人気の少ないこの場所で無為の時間を過ごしている。
+"And that's why I feel so gloomy, spending idle time in this\nusually unpopular place."
 
 00002000
-拓海
-どうして、こんなことになっちゃったんだろう……
+Takumi
+Why did things end up like this...
 
 00000000
-特別奨学枠という言葉に誘われ、進路を決定したのは他ならない自分だ。
+It was none other than myself who was enticed by the words\n"special scholarship quota" and made the decision about my\nfuture path.
 
 00000000
-だけど、まさかその特別奨学枠が、男としてただ一人だけだったとは思わなかった。
+However, I never expected that the special scholarship quota\nwould only be for one person, and that person would be me, \nthe only male.
 
 00002000
-拓海
-そもそも、なんで僕だったんだろう……？
+Takumi
+Why was it me in the first place...?
 
 00000000
-今も授業のレベルはついていけないという程でもなかったけれど、模範生となるには程遠く、むしろ下から数えた方が早い位。
+Even now, I wasn't at a level where I couldn't keep up with\nthe classes, but I was far from being a model student. In\nfact, it would be quicker to count from the bottom.
 
 00000000
-最初から僕以外の応募がなかった……その可能性も考えたが、面接の時に他にも何人かの男子生徒がいたのは間違いない。
+There were no other applicants besides me from the\nbeginning... I considered that possibility, but there were\ndefinitely other male students during the interview.
 
 00000000
-彼らが落とされたとして、僕が残ったのが成績によるものだったとは、正直自分でも考えにくい。
+It's honestly hard for me to believe that I was the one who\nremained based on my grades, assuming they were dropped.
 
 00002000
-拓海
-理由なんて、誰も教えてくれないし……
+Takumi
+No one will tell me the reason...
 
 00000000
-一度、先生を通してどうして自分が選ばれたのか聞こうとしたこともある。
+There was a time when I tried to ask the teacher through why\nI was chosen.
 
 00000000
-しかし、理事長の決定ですということ以外に返事はなく、もちろん理事長への面談も、生徒一人に取れる時間はないと門前払いだった。
+However, there was no response other than that it was the\nchairman's decision, and of course, there was no time for a\nmeeting with the chairman as they said they couldn't spare\ntime for just one student.
 
 00000000
-このまま、卒業までずっとこんな重苦しい状態が続くんだろうか……。
+Will this heavy atmosphere continue until graduation...?
 
 00000000
-考えるだけで気が滅入り、また深いため息を吐き出したその時。
+As I pondered, feeling disheartened, and let out another\ndeep sigh...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あっ、ここにいたんだ……
+Koharu
+Ah, there you are...
 C04a00020001
 
 00002000
-拓海
-えっ……？　あっ、福永さんっ！？
+Takumi
+Huh...? Ah, Fukunaga-san!?
 
 00000000
-ベンチの後ろから声を掛けられ、僕はびくりと腰を浮かせた。
+I was startled and lifted my hips as a voice called out to\nme from behind the bench.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-あ、ごめんっ、驚かせちゃった……？
+Koharu
+Ah, sorry, did I startle you...?
 C04a00020002
 
 00002000
-拓海
-あ……いや、そ、そんなことは……ない、けど……
+Takumi
+Ah...no, it's not...like that...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
-こはる
-えと……よかったら、隣……いい？
+Koharu
+Um... if it's okay... can I sit next to you?
 C04a00020003
 
 00002000
-拓海
-え、あっ、あぁっ、うん、その、どうぞ……
+Takumi
+Uh, ah, um, yeah, sure, go ahead...
 
 00003000
-こはる
-ありがと。じゃ……ちょっとだけお邪魔します
+Koharu
+Thank you. Well then... I'll just intrude for a little\nwhile.
 C04a00020004
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3136302F302E38352F302E3835
 
 00000000
-ちょこんと隣に腰掛けられて、全く違う緊張が高まってくる。
+She sat down next to me, and a completely different tension\nbegan to rise.
 
 00000000
-あんな姿を見せた後、一体何を話せばいいのか……口ごもっていると、福永さんの方からぽつりと口が開かれた。
+After seeing such a sight, I wondered what I should say...\nAs I hesitated, Fukunaga-san spoke up from her side.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-……あの、ね……気にすること、ないと思う……
+Koharu
+Um... I don't think you need to worry about it...
 C04a00020005
 
 00002000
-拓海
-え……？
+Takumi
+Huh...?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-つまり……その、昼間の……こと……
+Koharu
+In other words... about what happened during the day...
 C04a00020006
 
 00002000
-拓海
-あ…………えと……
+Takumi
+Uh... um...
 
 00000000
-福永さんはそれ以上細かく言及しなかったが、僕の失態のことを言っているのは間違いなかった。
+Fukunaga-san didn't elaborate further, but there was no\ndoubt that she was referring to my blunder.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-本当に……ごめんなさい。私……何もしてあげられなくて……
+Koharu
+I'm really... sorry. I... couldn't do anything for you...
 C04a00020007
 
 00002000
-拓海
-え……あっ、そ、そんな！　福永さんは全然悪くないよ！
+Takumi
+Eh... Ah, no, it's not like that! Fukunaga-san is not at\nfault at all!
 
 00003000
-こはる
-でも……本当なら、誰かが止めなくちゃいけないことなのに……私……
+Koharu
+But... even though someone should have stopped it... I...
 C04a00020008
 
 00002000
-拓海
-その気持ちだけで十分だよ。大体、あんな所で僕なんか庇ったら、今度は福永さんが何をされるか……
+Takumi
+Your feelings alone are enough. Besides, if I had tried to\nprotect you in a place like that, who knows what Fukunaga-\nsan would have gone through...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-それでも、私……おかしいと思うし……
+Koharu
+Even so, I... I still think it's strange...
 C04a00020009
 
 00002000
-拓海
-福永さん……
+Takumi
+Fukunaga-san...
 
 00000000
-もう、その言葉だけで、どれだけ心が安らいでくれただろうか。
+Those words alone have brought so much peace to my heart.
 
 00000000
-何よりも、福永さんは僕を軽蔑してはいなかった。
+Above all else, Fukunaga-san did not despise me.
 
 00000000
-僕が、福永さんの胸元を見て密かに興奮を募らせていたことを知っても尚、彼女は僕を心配してくれているのだ。
+Even knowing that I secretly became excited by looking at\nFukunaga-san's cleavage, she still worries about me.
 
 00000000
-全く味方のいない学園内で、彼女だけが優しい言葉を掛けて、自分に出来る精一杯の気持ちで慰めてくれている。
+In a school where I have no allies, she alone speaks kind\nwords and comforts me with all her might.
 
 00002000
-拓海
-あの……さ。どうして、そんなに僕に優しくしてくれるの……？
+Takumi
+Um... hey. Why are you so kind to me like this...?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-え……どうしてって……言われても……
+Koharu
+Eh... Even if you ask me why...
 C04a00020010
 
 00000000
-僕の問いかけに、福永さんは困ったように顔を逸らしてしまった。
+Fukunaga-san averted her gaze with a troubled expression\nwhen I asked her.
 
 00006000
 拓海
@@ -220,175 +220,175 @@ C04a00020010
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3136302F302E38352F302E3835
 
 00003000
-こはる
+Koharu
 ………………
 C04a00020011
 
 00000000
-口ごもってしまった福永さんの表情は、気のせいだろうか、心なし赤くなったように見える。
+Fukunaga-san's expression, as she stumbled over her words, \nseemed to turn slightly red, but maybe it was just my\nimagination.
 
 00000000
-これって、つまり……僕のことが好きで……だから、何くれとなく気を配ってくれている……？
+So, in other words... you like me... and that's why you're\ntaking care of me without any particular reason...?
 
 00000000
-そう考えれば、わざわざ僕をここまで探してくれたことにも説明がつく……いや、そうでもなければ説明がつかない。
+If I think about it that way, it explains why you went out\nof your way to find me... No, if it wasn't for that, it\nwouldn't make sense.
 
 00006000
 拓海
 けど……そんなの、女の子の口からいきなり言える訳ないよな……
 
 00000000
-だとしたら、僕の方がちゃんと意志を伝えなくちゃ……。
+If that's the case, then I need to properly convey my\nintentions...
 
 00000000
-彼女のような優しい子が側にいてくれるなら、この学園での生活も楽しくなるかもしれない。
+If there is a kind girl like her by my side, maybe my life\nat this school will become enjoyable.
 
 00000000
-気持ちが逸るのを抑えきれないまま、僕は福永さんの方に向き直る。
+Unable to suppress my overflowing emotions, I turn towards\nFukunaga-san.
 
 00002000
-拓海
-あの……さ、福永さん
+Takumi
+Um... hey, Fukunaga-san.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-うん、なに？
+Koharu
+Yeah, what is it?
 C04a00020012
 
 00002000
-拓海
-その……僕も……福永さんと同じ気持ちかも……
+Takumi
+Um... I might have the same feelings as Fukunaga-san...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-え？　同じ……って？
+Koharu
+Eh? The same... feelings?
 C04a00020013
 
 00002000
-拓海
-だから……その、何となく福永さんのことが気になるって言うか……
+Takumi
+So... um, it's just that I've been somewhat curious about\nFukunaga-san...
 
 00002000
-拓海
-気がついたら、自然に目で追っちゃうって言うか……これって、もしかして……好きってことなのかなって
+Takumi
+Before I knew it, I found myself naturally following you\nwith my eyes... Could it be that... I might actually... like\nyou?
 
 00003000
-こはる
-え……あ、あの……
+Koharu
+Eh... U-um...
 C04a00020014
 
 00002000
-拓海
-も、もし、福永さんさえ良ければ……僕……その、福永さんと……
+Takumi
+I-if, if it's okay with Fukunaga-san... I... um... with\nFukunaga-san...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-ちょっと待って、池ノ上くん。私は別に、そういうつもりじゃ……
+Koharu
+Wait a minute, Ikenoue-kun. I don't really have that kind of\nintention...
 C04a00020015
 
 00002000
-拓海
-え……？
+Takumi
+Eh...?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-私はアリサさんに、困った人がいたら気遣ってあげてくれって言われて……何となくそうしなきゃって気がしただけで……
+Koharu
+Arisa-san told me to take care of anyone who's in trouble...\nI just felt like I should do it somehow...
 C04a00020016
 
 00002000
-拓海
-アリサさんって……吉祥寺さん……？
+Takumi
+Arisa-san... Kisshouji-san...?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-だから、その……池ノ上くんの気持ちとはちょっと違うって言うか……ご、ごめんなさいっ！
+Koharu
+So, um... I mean, my feelings are a little different from\nyours, I'm sorry!
 C04a00020017
 
 00000000
-最後まで言葉を伝えきれることなく拒絶され、そこで初めて自分が完全な暴走状態になっていたことを自覚する。
+I realize for the first time that I had completely lost\ncontrol and entered a state of frenzy, being rejected\nwithout being able to convey my feelings until the end.
 
 00002000
-拓海
-あ……う、ううん。ご、ごめん……何だか変なこと言っちゃって
+Takumi
+Ah... n-no. S-sorry... I feel like I said something weird.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3136302F302E38352F302E3835
 
 00003000
-こはる
-ううん、あの、思ったより元気そうでよかった。じゃあ、私……もう行くから
+Koharu
+No, um, I'm glad to see you're doing better than I thought.\nWell then, I'll... go now.
 C04a00020018
 
 02008C00010000
 
 00002000
-拓海
-あっ…………
+Takumi
+Ah...
 
 00000000
-走り去っていく福永さんを追いかけることも出来ず、僕は茫然と見送るしかなかった。
+I could only watch in a daze as Fukunaga-san ran off without\nbeing able to chase after her.
 
 00002000
-拓海
-バカ……僕って奴は、どうして……そんな調子に乗って……
+Takumi
+Idiot... Why did I... get carried away like that...
 
 00000000
-一人で勝手に特別な想いかもなんて期待して、ものの見事に玉砕して。
+I foolishly expected to have special feelings all by myself, \nbut ended up being completely crushed.
 
 00000000
-しかも、脈なんて全くない完全な拒絶だったじゃないか……。
+And on top of that, it was a complete rejection with\nabsolutely no signs of interest...
 
 00002000
-拓海
-吉祥寺さんに……気遣ってあげてくれ？　何だよ、それ……元はと言えば、吉祥寺さんが今の状態にしたクセに……
+Takumi
+Can you please be considerate of Kisshouji-san? What's with\nthat... It's all because of Kisshouji-san that we're in this\nsituation...
 
 00000000
-訳が分からなかったが、確かなことは、福永さんには本当に同情心しかなかったということだ。
+I truly only had sympathy for Fukunaga-san.
 
 00000000
-一度答えを迫ってしまった以上、もうそれが覆されることなんかありはしない。
+Once I've pressed for an answer, there's no way it can be\noverturned.
 
 00000000
-灯されると思った光は再び闇に飲み込まれ、深い絶望の中に沈んでいく。
+The light that I thought had been lit is once again\nswallowed by darkness, sinking into deep despair.
 
 00002000
-拓海
-もうイヤだ……こんな学校……来なけりゃよかった……
+Takumi
+I've had enough... I wish I never came to this school...
 
 00000000
-いっそ、やめてやろうか……そんなことも思ってみるけど。
+Maybe I should just quit... I've even thought about that.
 
 00000000
-だが、特別奨学枠で入ったのに途中退学でもしたとなれば、どうしたって問題児のレッテルが貼られるだろう。
+However, if I were to drop out even after entering through\nthe special scholarship program, I would undoubtedly be\nlabeled as a problem child.
 
 00000000
-今からいい編入先が見つかるとも思えないし、そうなれば将来の展望……進学も就職も絶望的だ。
+I can't imagine finding a good transfer destination from now\non, and if that happens, my future prospects... both for\nfurther education and employment, look hopeless.
 
 00000000
-ことは一人だけの問題じゃない。推薦した学校や、父さんにも泥を塗ることになる。
+This is not just a problem for one person. It will also\ntarnish the reputation of the school that recommended me and\neven bring shame to my father.
 
 00002000
-拓海
-ダメだ……ここを出たって、状況は何も変わりゃしないんだ……
+Takumi
+It's no use... Even if I leave this place, the situation\nwon't change at all...
 
 00000000
-どうしてそう思うのか……自分で根拠も何も分からないが、きっとそうなるだろうという確信だけが胸に残る。
+I don't know why I feel that way... I have no basis or\nevidence, but I am convinced that it will surely turn out\nthat way.
 
 00002000
-拓海
-結局……卒業までじっと耐えるしかないのか……
+Takumi
+In the end... I guess I just have to endure until\ngraduation...
 
 00000000
-たどり着いた苦々しい結論に、僕はまた眩暈が強くなっていくのを感じていた。
+I could feel my dizziness intensifying as I arrived at a\nbitter conclusion.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

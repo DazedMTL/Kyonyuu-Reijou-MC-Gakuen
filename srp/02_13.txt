@@ -7,151 +7,151 @@
 0200000001004247303430305F63
 
 00002000
-拓海
-ふうっ……ちょっと疲れたなあ……
+Takumi
+Phew... I'm feeling a bit tired...
 
 00000000
-オルゴールの力で、生き地獄そのものだった学校生活はいい形へと変わったが、少し僕も調子に乗りすぎたのは自覚していた。
+With the power of the music box, my hellish school life has\ntransformed into something better, but I was aware that I\nhad gotten a little too carried away.
 
 00000000
-いくら僕が女子に興味のある年頃の男って言ったって、ひっきりなしに射精してとねだられてしまったらたまったものではない。
+No matter how much I said I'm a guy at the age where I'm\ninterested in girls, it's not good if I'm constantly begged\nto ejaculate.
 
 00000000
-授業にはどうしても出なくてはいけないし、授業中にクラスメイトの女子に迫られてはこっちもついていけなくなるのは明白だった。
+It was clear that I had to attend classes and that I\nwouldn't be able to keep up if I was constantly being\napproached by female classmates during class.
 
 00006000
 拓海
 だからこそクラスのみんなには、アリサが施したマインドコントロールからあまり状況を変えない刷り込みをしておいたってのはあるけど……
 
 00000000
-休み時間となれば他のクラスの女子と出会う確率が高いため、僕は体力に余裕を持たせたいときは人があまり来ないこの中庭をよく利用していた。
+During break time, since the chances of encountering girls\nfrom other classes are high, I often used this courtyard\nwhere not many people come when I wanted to give myself some\nphysical rest.
 
 00002000
-拓海
-今日はどれぐらい休めるかなあ……
+Takumi
+I wonder how much I can rest today...
 
 00000000
-僕が溜め息をついたには理由がある。この安全地帯を脅かしうる存在を現時点で処理しきれていないからだ。
+There is a reason why I sighed. It's because I haven't\ncompletely dealt with the existence that can threaten this\nsafe zone at the moment.
 
 00002000
-取り巻きＡ
-あいつ、ここにいるんじゃないですかね？　ここしか探してないところないですもん
+Lackey A
+Isn't he here? We've searched everywhere else, so this is\nthe only place left.
 
 00002000
-取り巻きＢ
-だよねえ、女子ばかりいるところにはこの時間は来ない……ってなったらこの辺しか
+Lackey B
+Yeah, he wouldn't come to a place where there are only girls\nat this time... so this area is the only
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-お手伝いマジでサンキューな。いやー、一日に一度はあいつで楽しまないと一日が終わった気がしないっつーか？
+Rio
+Thanks for helping me out. Well, you know, if I don't have\nfun with that guy at least once a day, it doesn't feel like\nthe day is complete, you know?
 C03a02130001
 
 00002000
-拓海
-うわ……ここも嗅ぎつけられた……
+Takumi
+Oh no... They've sniffed me out here too...
 
 00000000
-遠くから理央ご一行の声が聞こえて、僕は顔をしかめて肩を震え上がらせた。
+I heard Rio and her group's voices from afar, and I frowned, \nmy shoulders trembling.
 
 00000000
-とは言え、僕をからかって楽しむなら徹底する理央のことだ。ここに目星をつけている以上、退路は取り巻きで完全に固めているだろう。
+However, if it's about teasing and having fun with me, it's\nRio who will thoroughly do it. Since they have set their\nsights on me here, they have most likely completely\nsurrounded the area with their lackeys.
 
 00000000
-僕は少し不本意かつ不愉快ではあったが、平然を装って、彼女が近づいてくるのを中庭で待ち続けた。
+I was a little reluctant and uncomfortable, but I calmly\nwaited for her to approach me in the courtyard.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-あれー池ノ上じゃーん、偶然だね。アタシも今日は中庭でゆっくり休みたくてねー
+Rio
+Oh, it's Takumi! What a coincidence. I also wanted to take a\nbreak and relax in the courtyard today.
 C03a02130002
 
 00002000
-拓海
-あ、ああ……そうなんだ。ゆっくり休んでいけばいいんじゃないの
+Takumi
+Ah, ah... Is that so? You should just take it easy and rest.
 
 00000000
-理央は何食わぬ顔でそう言って近寄ってくる……と言うよりはわざと僕を苛立たせて、難癖をつける取っ掛かりを探しているのは明白だった。
+Rio approached me with an innocent face... or rather, it was\nclear that she was intentionally trying to irritate me and\nfind a pretext to pick a fight.
 
 00002000
-拓海
-じゃあ、僕はそろそろ帰るから理央はゆっくり休んでいってよ。それじゃ……
+Takumi
+Well then, I'm going home soon, so Rio, take your time and\nrest. Well then...
 
 00000000
-僕がそう言って立ち上がろうとすると、理央はニヤリと笑って周囲の取り巻きに目配せし、僕が逃げないように取り囲んだ。
+As I tried to say that and stand up, Rio smirked and\nexchanged glances with her entourage, surrounding me so that\nI couldn't escape.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-まあまあ、ゆっくりしてきな。それともアレ？　オマエはアタシのフェロモンにクラクラしてて、近くにいられるだけでチンポビンビン？
+Rio
+Well, well, take your time and relax. Or maybe... Could it\nbe that you're getting all dizzy from my pheromones and your\ndick is getting hard just from being near me?
 C03a02130003
 
 00002000
-拓海
-いや、そういうわけじゃないけど……ほら、忙しいからさ……
+Takumi
+No, it's not like that... You see, I'm busy...
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-そう言って、トイレに駆け込んでおっきしたオチンチンシコシコ～とかすんの？　アタシのおっぱいとか想像しちゃって
+Rio
+Are you saying that you'll run into the bathroom and jerk\noff your little dick while imagining my boobs?
 C03a02130004
 
 00000000
-そう言って理央は両脇を占めて自分の乳房を強調しつつ上半身をくねらせて揺らしていく。
+Rio said that and occupied both sides, emphasizing her own\nbreasts while wriggling her upper body and shaking them.
 
 00000000
-僕は、いくら気に食わない相手が繰り出している罠だと気づいても、男としての本能としてうっかりそれに視線を取られてしまった。
+Even though I realized it was a trap set by an opponent I\ndidn't particularly like, as a man, my instincts got the\nbetter of me and I unintentionally fell into its gaze.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-見てる見てるっ、アタシのおっぱい見てコーフンしてるマジでキモー
+Rio
+Look, look! You're totally getting all excited from staring\nat my boobs, you're seriously gross!
 C03a02130005
 
 00002000
-取り巻きＡ
-バッチェ見てましたよ。性犯罪の素養が有りますよね、こいつ
+Lackey A
+I was watching, you know. This guy definitely has the\npotential for sexual crimes, doesn't he?
 
 00002000
-取り巻きＢ
-オチンチンとかもう勃っちゃってたりして？　ほら、ズボン下ろして確かめちゃえ
+Lackey B
+Is your dick already getting hard? Come on, pull down your\npants and let's check.
 
 00000000
-完全に毎度ながらの展開が安全地帯を侵食する如く繰り広げられつつあった。
+The unfolding of events, as always, was gradually\nencroaching upon the safe zone.
 
 00000000
-ちょっと前までの僕なら泣きそうになってされるがままだったが、今でもイライラすることには変わりない。
+In the past, I would have been on the verge of tears and\njust let it happen, but even now, I can't help but feel\nfrustrated.
 
 00006000
 拓海
 クラスメイトとうまく折り合いをつけるためには、弱めのマインドコントロールをするしかないけど、理央もセットで巻き込まれるんだよなあ……
 
 00000000
-クラスメイトの女子は基本的に僕を避けるようにしてくれるから扱いやすいのだが、理央だけはむしろ調子に乗って積極的に弄りを続けてくる。
+Rio is the only one who actually enjoys teasing me and\ncontinues to do so, even though most of my female classmates\ngenerally avoid me, making it easier for me to deal with\nthem.
 
 00000000
-それに、僕もそこまでＭというわけではないし、理央のやることは僕を喜ばせるというよりも傷めつけて喜ぶフシがあるだけに、付き合うのもストレスだ。
+Besides, I'm not that much of a masochist, and Rio's actions\ndon't really please me as much as they hurt me. It's more\nlike she enjoys tormenting me, which just adds to the stress\nof being with her.
 
 00000000
-なんとか、うまく理央だけを個別にマインドコントロールをして、日常生活のバランスをとる方法はないか……僕は焦りながらも頭をフル回転させた。
+Somehow, I desperately racked my brain, wondering if there\nwas a way to individually mind control only Rio and maintain\na balance in my daily life.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-あれぇ？　言い訳しないんだー？　これはおっぱい見てコーフンしてたってことを認めてんの？　正直者のチンポで確認してやっか
+Rio
+Huh? You're not gonna make excuses? Are you admitting that\nyou got all excited from staring at my boobs? Let's confirm\nit with an honest dick, shall we?
 C03a02130006
 
 00000000
-理央はこれで材料は揃ったとばかりに、取り巻きに僕の肩を押さえつけさせ、真正面から近づいてくる。
+Rio, as if she had all the necessary ingredients, had her\nlackeys hold my shoulders down and approached me head-on.
 
 00000000
-僕はその時に名案が思いつき、オルゴールをやおら取り出すと、スマホのイヤホンを耳に取り付けて蓋を開いた。
+At that moment, I came up with a brilliant idea and promptly\ntook out a music box. I attached the earphones of my\nsmartphone and opened the lid.
 
 0300000000000F2742474D3036
 
@@ -164,54 +164,54 @@ C03a02130006
 0200BC000100012C666D5F433033625F30335F305F305F305F30312F2D3235302F302E37332F302E3733
 
 00003000
-理央
-あっ……うっ、あ、ああああ……
+Rio
+Ah...uh, ah, aaaaah...
 C03a02130007
 
 00000000
-意気揚々と僕に迫ろうとしていた理央は、自分の目的も忘れたかのように呆然とした表情をする。
+Rio, who was approaching me confidently, suddenly froze with\na bewildered expression as if she had forgotten her own\npurpose.
 
 02007F10
 
 0200BC000100012C666D5F433033625F30335F305F305F305F30312F2D3235302F302E37332F302E3733
 
 00002000
-拓海
-理央は僕を弄りたいし虐げたい。それが楽しみ、そうだよね？
+Takumi
+Rio wants to toy with me and oppress me. That's what she\nenjoys, right?
 
 0200BC000100012C666D5F433033625F30335F305F305F305F30332F2D3235302F302E37332F302E3733
 
 00003000
-理央
-弄るの楽しい……
+Rio
+It's fun to tease...
 C03a02130008
 
 00002000
-拓海
-だったら、僕相手より抵抗できない人間がいるよね？　理央が自分自身を弄ったら、抵抗しようがないよね
+Takumi
+In that case, there must be someone who can't resist when\nRio messes with them, right? If Rio were to toy with\nherself, there would be no way to resist, right?
 
 00002000
-拓海
-今まで僕をいじめてた理央が、逆に理央が僕から弄られたら、もっと楽しくなるよ
+Takumi
+If Rio, who has been bullying me all this time, were to be\ntoyed with by me instead, it would be even more enjoyable.
 
 0200BC000100012C666D5F433033625F30335F305F305F305F30312F2D3235302F302E37332F302E3733
 
 00003000
-理央
-もっと楽しい……
+Rio
+It would be even more fun...
 C03a02130009
 
 00002000
-拓海
-理央を僕がいじめる。それが一番、僕を弄る最高の方法。分かったら頷いてみて
+Takumi
+I will bully Rio. That's the best way to toy with me. If you\nunderstand, try nodding.
 
 00003000
-理央
-ん……
+Rio
+Mmm...
 C03a02130010
 
 00000000
-こくんと理央の首が前後する。
+Rio's head nods up and down.
 
 03008C0000000F2753455F6230325F30303032
 
@@ -220,45 +220,45 @@ C03a02130010
 0200BC000100012C666D5F433033615F30335F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
-理央
-はっ……？　あ、ああっ、ちょっとっ！　何アタシから目を逸らしてんだよ。今日も池ノ上のチンポの具合をわざわざ見てやろうって言ってんだよ！
+Rio
+Huh...? Ah, ah, wait! Why are you looking away from me? I'm\ntelling you that I want to see how Takumi's dick is doing\ntoday too!
 C03a02130011
 
 00002000
-拓海
-ふーん、そうなんだ
+Takumi
+Oh, I see.
 
 00000000
-僕はわざとそっけない態度をとって、洗脳したとおりに理央が動くかどうか探りを入れる。
+I deliberately adopt a cold attitude to see if Rio will act\nas brainwashed.
 
 00003000
-理央
-んだと？　精液いっぱい出せるチンポだからってちょっと生意気すぎ
+Rio
+What did you say? Just because you have a dick that can\nproduce a lot of semen, you're getting a little too cocky.
 C03a02130012
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
-理央
-さーてと、聞き分けのないオマエはどうしたやろうかなあ～、何をさせたら、情けなくオロオロすんのかな～
+Rio
+Well then, what should I do with someone who doesn't listen?\nI wonder what would make them feel pathetic and flustered~
 C03a02130013
 
 00000000
-僕はやや違和感のあった理央の言葉の変化を聞き逃さず、ここぞとばかりに要求を述べてみることにした。
+I didn't miss the slight change in Rio's words, so I decided\nto seize the opportunity and express my demands.
 
 00002000
-拓海
-じゃあさ、僕の顔に理央のマンコを押し付けてよ？　それでヒイヒイ言わせてあげるからさ
+Takumi
+Hey, how about pressing Rio's pussy against my face? I'll\nmake you moan and squirm.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
-理央
-はっはーん？　自分から弄られたいだなんて殊勝になったな。よし、たっぷりしてやる……うんや、違うか。やられてやるってーの
+Rio
+Hahaha? So you've become quite eager to be toyed with, huh?\nAlright, I'll give you plenty... no, that's not it. I'll\nmake you regret underestimating me.
 C03a02130014
 
 00000000
-そう言って理央は僕の手を強引に引っ張り上げ、中庭の芝生の上へと誘導していくのだった。
+Saying that, Rio forcefully pulled my hand and led me up to\nthe grassy courtyard.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

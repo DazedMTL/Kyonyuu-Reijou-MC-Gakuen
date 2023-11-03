@@ -11,83 +11,83 @@
 020000000100666D5F3037305F30303031
 
 00002000
-ディレクター
-それではこれよりオーディションを開始します
+Director
+Now, let's begin the audition.
 
 00002000
-ディレクター
-若い順番の方から呼ぶので、呼ばれた人から質問に答えてください
+Director
+We will call you in order of age, so please answer the\nquestions when your name is called.
 
 00000000
-テレビ局のスタジオでオーディションが開始された。
+The audition began in the TV studio.
 
 020000000100666D5F3037305F30303034
 
 00003000
-理央
-んっ…………ふぅぅぅぅぅ……
+Rio
+Mmm... *sigh*
 C03a09030001
 
 020000000100666D5F3037305F30303031
 
 00002000
-ディレクター
-じゃあ１番の人……自分がこの役を演じるとしたら、どんな点が大事だと思います？
+Director
+Alright, the first person... If you were to play this role, \nwhat do you think is important?
 
 00002000
-１番の子
-はい、このキャラは少し窮屈な環境の中で、抑圧された不安を抱くと思います
+Number 1
+Yes, I think this character would feel suppressed anxiety in\na somewhat cramped environment.
 
 00002000
-１番の子
-表面では不文律に笑顔で従いながらも、人目のつかないところでストレスの片鱗を見せることを重視します
+Number 1
+I prioritize showing glimpses of stress in private while\nobediently smiling according to unwritten rules on the\nsurface.
 
 00002000
-ディレクター
-なかなか素晴らしい。よく想像しましたね
+Director
+That's quite impressive. You imagined it well.
 
 00000000
-オーソドックスながらにも、ケチのつけようのない質疑応答だった。目の前でそれを聞かされた理央も思わず表情が余計に強張っていく。
+It was an orthodox yet flawless question and answer session.\nAs Rio listened to it in front of her, her expression\ninvoluntarily became even more tense.
 
 00002000
-ディレクター
-はい、じゃあ次に２番の人お願いします。公正を期すため質問は同じです。回答お願いします
+Director
+Alright, next is person number 2. We will ask the same\nquestion to ensure fairness. Please give your answer.
 
 00002000
-２番の子
-はい、私が考えるにはリラックスした世界特有のだらしなさに染まっていく姿を描くのが大事だと思います……
+Child number 2
+Yes, I think it is important to depict the transformation\ninto a relaxed world's unique carefree attitude...
 
 00003000
-理央
+Rio
 …………
 C03a09030002
 
 00000000
-２番目の女の子すら回答にそつがなく、理央はどんどん焦りの色合いが強くなっていた。
+Even the second girl answered flawlessly, and Rio's sense of\nurgency was growing stronger and stronger.
 
 00000000
-それでけに理央の表情は真剣さを増していく。
+And so, Rio's expression becomes even more serious.
 
 00006000
 拓海
 それだけに……無性にムラムラする
 
 00000000
-独特な緊張がそうさせるのだろうか。
+Does this unique tension make it so?
 
 00000000
-理央の顔を見ていると、その真剣な表情につい悪戯したくてたまらなくなっていた。
+As I looked at Rio's face, I couldn't help but feel a\nmischievous urge due to her serious expression.
 
 00002000
-ディレクター
-それでは７番の人、同じ質問ですが、回答をどうぞ
+Director
+Now, person number 7, same question, please give your\nanswer.
 
 00000000
-そうしている間にも順番は回り続け、理央の番へとなっていた。
+While this was happening, the turn continued to rotate, and\nit was now Rio's turn.
 
 00003000
-理央
-はいっ、このキャラになのですが……ん、んんっ……
+Rio
+Yes, umm, regarding this character... umm... umm...
 C03a09030003
 
 020000000100666D5F3037305F30303037
@@ -95,201 +95,201 @@ C03a09030003
 0300191000000F275345485F565F30335F5830315F41
 
 00000000
-僕は理央の質疑応答の順番になったのを見計らって、彼女の背後へと近づき耳を舐め始める。
+I waited for my turn in Rio's Q&A session and approached her\nfrom behind, starting to lick her ear.
 
 00000000
-唐突にくすぐったさが襲いかかったことで息こそ飲んだものの、さすがの集中力で声を震わせるようなことは決してなかった。
+The sudden ticklish sensation attacked me, causing me to\ncatch my breath, but thanks to my exceptional concentration, \nI never let my voice tremble.
 
 00003000
-理央
-私が思いますに……ふぅ……良き友人としてなんでも打ち明けられる……んっ……相談相手という印象が強かったです……
+Rio
+In my opinion... *sigh*... I felt that I could confide in\nhim as a good friend... *mm*... He gave me the impression of\nbeing a reliable person to talk to...
 C03a09030004
 
 020000000100666D5F3037305F30303130
 
 00003000
-理央
-ぁんっ……親友……ひぅ……そう、親友という立ち位置をしっかり意識することが大事ではないでしょうか
+Rio
+Ahh... a close friend... hnn... Yes, I think it's important\nto firmly be aware of the position of being close friends, \ndon't you think?
 C03a09030005
 
 00002000
-ディレクター
-ふむっ……なるほどねー……興味深い
+Director
+Hmmm... I see... Very interesting.
 
 00002000
-ディレクター
-もう少し７番さんの見解を聞かせてもらえますか？
+Director
+Could you please share your opinion a little more, Person\nnumber 7?
 
 020000000100666D5F3037305F30303037
 
 00003000
-理央
-んっ……はいっ、例えば生活の時間を……んんっ……共にするということについてですが……
+Rio
+Mmm... Yes, for example, about spending time together in our\ndaily lives... Mmm...
 C03a09030006
 
 00000000
-オーディションが始まる前にオルゴールで、周囲の人たち全員に僕の存在を意に介さない、エッチな事はアピールの一種という刷り込みをしておいた。
+Before the audition started, I had ingrained in everyone's\nminds that I wouldn't pay attention to anyone around me and\nthat doing naughty things was a form of appeal, using a\nmusic box.
 
 00003000
-理央
-一緒というのが、意外にも絆を作るきっかけとなりやすいです……んぁっ……好きな食べ物が同じ、とか……くぅっ……
+Rio
+Being together can surprisingly become a catalyst for\ncreating bonds... *ah*... Like having the same favorite\nfood... *kuu*...
 C03a09030007
 
 00000000
-僕はまだまだこの程度なら彼女は参らないと判断し、僕はトドメとばかりに舌先を細めて尖らせ、耳の穴に侵入を試みていった。
+I judged that if I stayed at this level, she wouldn't\nsurrender, so I narrowed and sharpened the tip of my tongue, \nas if delivering the finishing blow, and attempted to invade\nher ear canal.
 
 020000000100666D5F3037305F30303039
 
 00003000
-理央
-はあっ……です、ので……特別なきっかけなどなく……あぁ……共通点で仲が良いということを見せられるのであれば……ひぁ……
+Rio
+Haa... Well, um... without any special triggers... ahh... if\nwe can show that we have a good relationship based on common\ninterests... hia...
 C03a09030008
 
 020000000100666D5F3037305F30303130
 
 00003000
-理央
-特別な役作りは必要……ぃや……ないと思います……親友として支える面というのが……んっ……このキャラの重要性……ですぅ……
+Rio
+I don't think any special role-playing is necessary... um...\nas a close friend, the aspect of supporting each other...\nmmm... is the importance of this character... yes...
 C03a09030009
 
 00000000
-理央でもこの執拗な責めには無反応でいられなかったらしく、上ずった吐息を漏らしながら、質疑応答の声が震え始めてしまった。
+Rio couldn't remain unresponsive to this persistent blame, \nand as she let out a strained sigh, her voice during the Q&A\nbegan to tremble.
 
 00002000
-ディレクター
-大変おもしろい見解ですね……ところで、ガチガチに緊張でもしてます？
+Director
+That's a very interesting perspective... By the way, are you\nfeeling extremely nervous?
 
 020000000100666D5F3037305F30303037
 
 00003000
-理央
-い、いえー、それほどでもありませんよ
+Rio
+N-No, it's not that extreme, you know.
 C03a09030010
 
 03002910
 
 00002000
-ディレクター
-なんでも初めてのオーディションだとか……それじゃあ確かに緊張しますよ
+Director
+I heard it's your first audition... In that case, it's\ncertainly nerve-wracking.
 
 020000000100666D5F3037305F30303032
 
 020000000100666D5F3037305F30303031
 
 00000000
-理央は耳を責め立てられても案外効かないものなのかという疑問と欲求不満を僕は抱かざるを得ず、僕は一旦彼女から離れた。
+I couldn't help but feel a sense of doubt and frustration\nabout whether or not Rio was unaffected by having her ears\nteased, so I decided to temporarily separate from her.
 
 00006000
 拓海
 んー……理央が耳を責められても感じないだけで、他の女の子はそうじゃないのかも？
 
 00000000
-そう思って未だに順番が回ってきていない、緊張のあまり身体を震わせていた素人臭さのある女の子に近づく。
+Approaching a girl who still hasn't had her turn, trembling\nwith nervousness and exuding an amateurish aura.
 
 00000000
-そして、僕は息を止めながら彼女の耳元に口を寄せて狙いを定めると、一気に甘く噛み付き耳たぶをしゃぶりあげていった
+And then, while holding my breath, I approached her ear and\naimed carefully, then gently bit and sucked on her earlobe\nall at once.
 
 00002000
-９番の子
-ひいあああああんっ！？　な、何いいっ！？
+Child Number 9
+Hiiiiii! W-What are you doing!?
 
 00000000
-僕の舌先が耳に触れた瞬間、部屋全体に反響するほどの素っ頓狂な叫び声が発せられ、僕どころか周囲のみんなが全員、肩を一斉にすくませる。
+As soon as my tongue touched her ear, a wild scream echoed\nthroughout the room, causing not only me but everyone around\nto flinch in unison.
 
 00000000
-その声を聞いてさっきまで真面目そうながらにも温厚な表情をしていたディレクターが眉を吊り上げ、静かな怒りを発し始める。
+The director, who had a serious yet gentle expression until\njust now, raised his eyebrows upon hearing that voice and\nbegan to express quiet anger.
 
 00002000
-９番の子
-す、すみませんっ！　何か耳にっ……虫が触ったみたいで、驚いて……
+Child Number 9
+S-Sorry! It felt like something touched my ear, like a bug, \nso I got scared...
 
 00002000
-ディレクター
-そんな唐突に大声を上げるほど平常心を乱すのなら演技以前の問題ですよ……もう、君はいいから帰りなさい
+Director
+If you're going to disrupt your composure to the point of\nshouting like that out of the blue, it's a problem beyond\nacting... Enough, just go home already.
 
 00002000
-９番の子
-そ、そんな……う、ううっ、ひぐっ、ぐすっ……わかり、ましたっ……すみませんでした……
+Child Number 9
+T-Tha...that... u-uhh, *sniffle*, *sob*, I und-understood...\nI'm sorry...
 
 00000000
-その女の子は退出を命じられたことで泣きながらオーディション会場から帰ることになってしまう。
+The girl was ordered to leave and ended up crying as she\nleft the audition venue.
 
 00000000
-さすがにやり過ぎたと感じた僕は、心の中で謝罪しつつ、今度は彼女を自分の事務所に所属させてあげようと決心した。
+I felt like I had gone too far, so while apologizing in my\nheart, I made up my mind to have her join my agency this\ntime.
 
 00006000
 拓海
 理央は耳をねちっこく責めても平常心のままってすごいな……じゃあ……
 
 00000000
-僕は先ほどの出来事を反省するどころか、逆に考えをエスカレートさせてしまうのを止めきれず、理央にもう一度近づいていく。
+I couldn't stop myself from escalating my thoughts instead\nof reflecting on the previous incident, so I approached Rio\nonce again.
 
 00002000
-ディレクター
-ちょっと長くなって申し訳ない。７番の人、質問は以上なので、８番の人お願いします
+Director
+I apologize for taking a bit longer. That's all for the\nquestions for Number 7, so let's move on to Number 8, \nplease.
 
 00000000
-僕は質疑応答が終わって彼女の緊張が解けた所を見計らい再び耳をゆっくりと舐め始めていく。
+I waited for the end of the Q&A session and for her\nnervousness to subside, then I slowly began licking her ear\nagain.
 
 020000000100666D5F3037305F30303130
 
 0300191000000F275345485F565F30335F5830315F41
 
 00003000
-理央
-ふっ……あ……はあっ……はあんっ……
+Rio
+Huh...ah...haa...haan...
 C03a09030011
 
 00000000
-理央は安堵の息をつくのに合わせて喘ぎ声を混ぜ込みながら、表情を緩ませて先程より素直に快楽を感じていく。
+Rio's expression relaxed as she let out a mixture of sighs\nof relief and moans, and she began to feel pleasure more\nopenly than before.
 
 00002000
-拓海
-よく頑張ったね……今から僕がご褒美を上げるよ……ほらっ……
+Takumi
+You did well... Now I'll give you a reward... Here it\ncomes...
 
 020000000100666D5F3037305F30303134
 
 00003000
-理央
-ぇえっ……？　んんっ……ふうっ……
+Rio
+Eh...? Nn... Fuu...
 C03a09030012
 
 00000000
-僕は理央の狼狽に構わず、股間へと手を突っ込み、パンツの中にまで指先を差し込んでいく。
+I disregarded Rio's panic and plunged my hand into her\ncrotch, sliding my fingertips into her panties.
 
 00000000
-ほんのりと熱を帯びたマンコの縦筋に僕は指を割り入らせ、クリトリスごと膣口の浅い部分を中指全体で刺激していった。
+I let my fingers slip into the slightly heated slit of her\npussy, and I stimulated the shallow part of her vagina along\nwith her clitoris using my entire middle finger.
 
 020000000100666D5F3037305F30303139
 
 0300D21000000F275345485F4B5F303031
 
 00002000
-拓海
-なんだ、声をほとんど出さなかったから感じてなかったのかと思ったけど、ちゃんと濡れてたんじゃないか
+Takumi
+I thought you weren't feeling anything because you hardly\nmade any noise, but it seems like you were properly wet, \nweren't you?
 
 020000000100666D5F3037305F30303230
 
 0300191000000F275345485F565F30335F5830325F41
 
 00003000
-理央
-う、ううっ……はうっ……あはっ……ふああっ……くっ、ううっ……
+Rio
+U-uhh... haa... hah... fuuaa... ku, uuhh...
 C03a09030013
 
 00003000
-理央
-はうっ……ふあっ……はあっ……ふうっ……あ、ああ……
+Rio
+Hau...fua...haa...fuut...a-ah...
 C03a09030014
 
 00000000
-理央は集中力を取り戻すことができないようで、甘い吐息を漏らしながら恍惚とした表情になってきた。
+Rio seems unable to regain her concentration, and she starts\nto have a blissful expression while letting out sweet sighs.
 
 020000000100666D5F3037305F30303137
 
 00003000
-理央
-くっ……ふうっ……ふあっ……ひゃ……さすがにっ……これ以上は……ヤバイって……いい加減にっ……
+Rio
+*huff*... *pant*... *sigh*... *gasp*... I-I can't... this\nis... dangerous... you should stop...
 C03a09030015
 
 020000000100666D5F3037305F30303132
@@ -297,39 +297,39 @@ C03a09030015
 0300191000000F275345485F565F30335F5830315F41
 
 00002000
-拓海
-理央なら大丈夫だよ……だから、我慢してる所を見せてよ……
+Takumi
+It's okay, Rio... So, show me where you're holding back...
 
 020000000100666D5F3037305F30303139
 
 00003000
-理央
-アタシ、さっきの子みたいにはなりたくない……だから、やめろって……
+Rio
+I don't want to become like the girl from earlier... So, \nplease stop...
 C03a09030016
 
 00000000
-いつも強権的な理央が泣きそうになりながら弱音を吐いているのを見て僕は逆に興奮が募ってしまい、もっと彼女の反応を見たいと思ってしまう。
+Seeing Rio, who is usually authoritative, on the verge of\ntears and voicing her complaints, I couldn't help but get\nexcited instead, and I found myself wanting to see more of\nher reactions.
 
 00002000
-拓海
-これは僕からの最終試験だから絶対に我慢してみせて。こんなとこで恥ずかしいのを我慢できないようじゃこれからも絶対うまくいかないから
+Takumi
+This is the final test from me, so you absolutely have to\nendure it. If you can't bear the embarrassment in a\nsituation like this, things will never go well for you from\nnow on.
 
 020000000100666D5F3037305F30303137
 
 00003000
-理央
-そ、そういう、もんかよっ……って尚更今じゃなくてもいいだろうが……
+Rio
+Th-That's not... necessary right now...
 C03a09030017
 
 00000000
-僕は理央の自尊心と挑戦心をくすぐるように、うまく理由をこじつけていくが、彼女は僕の言うことなら素直に信じるせいか、納得したように頷く。
+I skillfully come up with excuses that tickle Rio's pride\nand sense of challenge, but perhaps because she believes\neverything I say, she nods in understanding.
 
 00000000
-先ほどの女の子のように理央も声を上げてしまえば大変なことになるのは僕も重々承知しているが、それでもこのシチュエーションでの興奮は見逃せない。
+I am well aware that if Rio were to raise her voice like the\ngirl earlier, it would be a serious situation. However, I\ncan't overlook the excitement in this situation.
 
 00002000
-拓海
-ほら、僕が我慢できなくなったのも最近可愛くなった理央の所為なんだから……
+Takumi
+You see, it's because Rio has become so cute recently that I\ncan't resist anymore...
 
 020000000100666D5F3037305F30303138
 
@@ -338,118 +338,118 @@ C03a09030017
 0300191000000F275345485F565F30335F5830325F41
 
 00003000
-理央
-意味、わかんねーよ……ひぁ……あぁ、はあっ、んっ……
+Rio
+I don't understand the meaning... hia... aah, haa, nn...
 C03a09030018
 
 020000000100666D5F3037305F30303138
 
 00000000
-理央は表情を引き締め直し、肩を怒らせるようにして背筋を真っすぐ伸ばして上半身を引き締める。
+Rio tightens her expression, furrows her shoulders, and\nstraightens her back to tighten her upper body.
 
 00003000
-理央
-んんっ……はあっ……あはっ……ああっ、くふっ
+Rio
+Nn... Haa... Ahaha... Aah... Kufu
 C03a09030019
 
 00000000
-僕は手始めとばかりに、愛液ですでに濡れていた指先をクリトリスへと押し当てて、ボタンを連打するように振動を加えていく。
+I start off by pressing my fingers, which were already wet\nwith love juices, against her clitoris, and add vibrations\nas if rapidly pressing a button.
 
 00000000
-理央は一番敏感な性感帯をいきなり責められたことで流石に身動ぎしてしまい、膝を閉じて内股になりながらも表情をほとんど崩さず耐えていった。
+Rio, being suddenly stimulated in her most sensitive\nerogenous zone, couldn't help but squirm and close her\nknees, but she endured it without hardly changing her\nexpression.
 
 00002000
-拓海
-そうそう、その意気……質問が終わった後も真剣そうな理央を審査員の人も絶対見てるはずだから、気を抜かないで……
+Takumi
+That's right, that spirit... Even after the questions are\nover, the judges must be watching Rio, who looks so serious.\nSo don't let your guard down...
 
 020000000100666D5F3037305F30303137
 
 00003000
-理央
-ぃう……んはっ……わかってるよ……ふっ……はあっ……ああ……
+Rio
+I-uh... I understand... *huff*... *sigh*... ah...
 C03a09030020
 
 00003000
-理央
-ふううっ……はあっ……ふああっ……はあんっ、くふっ、んんんっ……
+Rio
+Fuu...haa...fuaa...hann, kufu, nn...
 C03a09030021
 
 00002000
-拓海
-理央っ……それじゃあ、本気で行くよっ……しっかり声を抑えてね
+Takumi
+Rio... In that case, I'll go all out... Make sure to keep\nyour voice down.
 
 020000000100666D5F3037305F30303139
 
 00003000
-理央
-えっ……まだ、するつもりなのかよっ……これ以上は……
+Rio
+Huh... You're still planning to do it... We shouldn't go any\nfurther than this...
 C03a09030022
 
 00003000
-理央
-んんんっ……ふっ、はあっ、あふううっ、くううっ、んんんんーっ……！
+Rio
+Nnnn... Fuu, haa... Afuuu, kuuhh... Nnnnnn...!
 C03a09030023
 
 00000000
-僕はＧスポットに当てていた指に固く力を込め、手首の前後運動で何度も引っ掻くようにして、敏感な性感帯であるそこを乱暴に攻め立てていく。
+I firmly apply pressure to the finger that was targeting the\nG-spot, and with a back and forth motion of the wrist, I\nrepeatedly scratch it as if to tease that sensitive\nerogenous zone, and aggressively attack it.
 
 020000000100666D5F3037305F30303230
 
 00003000
-理央
-ひうっ……くっ……あ、あっ……！　うぐっ、むうっ……うううっ、はうっ、あ、ああ……
+Rio
+Hiu... Ku... Ah, ah...! Ugu, muu... Uuuu, hau... Ah, aah...
 C03a09030024
 
 00003000
-理央
-池ノ上っ……こ、これ以上はっ、あ、アタシっ……う、ううっ……はああっ……
+Rio
+Takumi... I-I can't take it anymore... I-I... *sob*...\n*sigh*... ah...
 C03a09030025
 
 00002000
-拓海
-そんなこと言って指を締め付けてきてるよ……もっとして欲しいんでしょ
+Takumi
+You're saying that, but you're tightening your grip on my\nfinger... You want me to do more, don't you?
 
 020000000100666D5F3037305F30303137
 
 00003000
-理央
-ちげーよ……う、ううっ……くふっ、はっ、あ、あああ……
+Rio
+No way... U-uhh... *giggle*... *sigh*... ah, aahh...
 C03a09030026
 
 00003000
-理央
-くっ、ううっ……あぐっ……身体がっ……気が狂いそうっ……うぐうっ……
+Rio
+*Gasp*... *Moan*... My body... feels like it's going\ncrazy... *Grunts*...
 C03a09030027
 
 020000000100666D5F3037305F30303230
 
 00003000
-理央
-くっ……ううっ……このままじゃ、本当に……失格になる……
+Rio
+Kuh... Uu... If we continue like this, I'll really... become\ndisqualified...
 C03a09030028
 
 00002000
-拓海
-ダメだよしっかり我慢しないと……
+Takumi
+You can't do that, you have to endure it...
 
 020000000100666D5F3037305F30303139
 
 00003000
-理央
-ひぁぁぁぁ……ふうっ……ふぁぁぁっ……
+Rio
+Hiaaaa... Fuu... Faaaah...
 C03a09030029
 
 00003000
-理央
-イキそうっ……あぁ、んんっ……このままイ、クぅ……あんっ、んはっ、はあ……
+Rio
+I'm about to come... Ah, nngh... Like this, I... Ahh...
 C03a09030030
 
 00000000
-僕は最後のトドメとして強く手首を引いた。
+I pulled back my wrist strongly as the final blow.
 
 00003000
-理央
-んんっ、んくぅ……んぅぅぅぅぅぅぅぅぅぅぅっ……
+Rio
+Nnn, nkuu... nnuuuuuuuuu...
 C03a09030031
 
 0100200002026566666563742C656666656374207A6563686F75
@@ -457,42 +457,42 @@ C03a09030031
 020000000100666D5F3037305F30303138
 
 00003000
-理央
-はあっ……あ、あああっ……イッちゃっ、たああ……ふうっ……はぁっ……
+Rio
+Haa... A-ahhh... I'm... I'm gonna... cum... fuu... haa...
 C03a09030032
 
 00000000
-理央は噛み締めた唇で声を抑えつつもついに絶頂に達し、椅子の座面と背もたれで力の抜けきった身体を支えていた。
+Rio, with tightly clenched lips, finally reached climax\nwhile suppressing her voice, supporting her completely\nrelaxed body with the seat and backrest of the chair.
 
 00000000
-だが、彼女は椅子から滑り落ちてしまわないように、すぐに脚が震えるほどに無理やり力を入れて、靴底を床に強く押さえつけていった。
+However, in order to prevent herself from slipping off the\nchair, she immediately exerted force so strong that her legs\ntrembled, forcefully pressing the soles of her shoes against\nthe floor.
 
 00000000
-理央は絶頂の快感が顔に出ないように表情を繕っているものの、心ここにあらずと言わんばかりに呆けてしまい、周囲から明らかに浮いた状態になっていた。
+Rio, while trying to hide the pleasure of climax from\nshowing on her face, ended up looking absent-minded as if\nher mind was elsewhere, clearly standing out from her\nsurroundings.
 
 00002000
-ディレクター
-７番の人どうしましたか？　何か様子が先程からおかしいようですが
+Director
+What happened to Number 7? Their behavior has been strange\nsince earlier.
 
 020000000100666D5F3037305F30303230
 
 00003000
-理央
-ふぁえっ……！？　いえっ、なんでもありませんっ……緊張しすぎてしまっていたようです……あははー……
+Rio
+Fuahh...!? Oh no, it's nothing... I just got a little too\nnervous... Ahaha...
 C03a09030033
 
 00000000
-理央は、不意に声をかけられるものの、緊張しすぎて声を裏返させることなく、丁寧な口調ですぐに応対してみせる。
+Rio, despite being unexpectedly approached, quickly responds\nwith a polite tone without letting her voice falter due to\nexcessive nervousness.
 
 00002000
-ディレクター
-それなら……緊張している子がトイレに行きたがっているようですし、一旦休憩を挟みましょうか
+Director
+In that case... It seems like the nervous one needs to go to\nthe bathroom, so should we take a break for now?
 
 00000000
-ディレクターが冗談ぽく提案することで、理央は少し恥ずかしそうな顔を見せる。
+With a joking tone, the director makes a suggestion, causing\nRio to show a slightly embarrassed expression.
 
 00000000
-彼女が持ち前の我慢強さと豪胆さで適切な対処をしたことに僕は今更ながらに安堵の息をつき、調子に乗りすぎてしまったちょっとだけ反省した。
+I let out a sigh of relief, realizing that she had handled\nthe situation with her usual patience and boldness. I felt a\nlittle regretful for getting carried away.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 
