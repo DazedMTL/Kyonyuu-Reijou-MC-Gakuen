@@ -71,8 +71,8 @@ That's great! This might actually match quite well.
 0300000000000F2742474D3130
 
 00006000
-拓海
-なんだろうな……ちょっとイラっとする……
+Takumi
+I wonder what it is... It's kind of irritating...
 
 00000000
 It's the first time I've seen Rio in work mode, but is she\ntrying to make an impression on everyone around her by\nsaying "we're starting the shoot now"?
@@ -118,8 +118,8 @@ Well then, let's quickly finish the shoot so we don't\ninconvenience everyone in
 C03a05090003
 
 00006000
-拓海
-すごいな……これがプロの撮影ってやつなんだ……性格がアレでも人気モデルってのは間違いない事実なんだな
+Takumi
+Wow... This is what a professional shoot looks like... It's\na fact that she's a popular model despite her personality.
 
 00000000
 It's my first time at a model photoshoot location.

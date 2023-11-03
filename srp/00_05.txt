@@ -128,8 +128,8 @@ Yes. I will take care of the response later, so...
 C02a00050002
 
 00006000
-拓海
-吉祥寺さんに……久我さん……？
+Takumi
+Kisshouji-san... Kuga-san...?
 
 00000000
 It was none other than the two classmates who entered the\nroom for some reason.
@@ -205,8 +205,8 @@ Yuriko
 C02a00050007
 
 00006000
-拓海
-理事長……だって……？
+Takumi
+Chairperson...you mean...?
 
 0300000000000F2742474D3130
 
@@ -307,8 +307,8 @@ Understood.
 C02a00050017
 
 00006000
-拓海
-な……何なんだこれ……
+Takumi
+W-What is this...
 
 00000000
 Just the fact that Kisshouji-san is the chairman is already\nsurprising, but my head starts spinning from the subsequent\nconversation.
@@ -767,8 +767,8 @@ Kisshouji-san takes a step forward and approaches me.
 There is a small sense of unease there... I unconsciously\nfelt it.
 
 00006000
-拓海
-切り札は自分の手にあるんだ……後は一か八か……試すしかない……
+Takumi
+I have my trump card in my hand... It's a gamble... I have\nno choice but to try...
 
 00000000
 I press the button in my pocket and increase the volume of\nthe music flowing from my earphones.
@@ -939,8 +939,8 @@ C01a00050055
 And yet, the fact that her attitude towards me hadn't\nchanged at all created a rather unnatural situation.
 
 00006000
-拓海
-つまり……僕の命令を聞くことは当たり前と思っていても、僕への感情が変わってる訳じゃないってことか……
+Takumi
+So... even if she thinks it's only natural to follow my\norders, it doesn't mean her feelings towards me have\nchanged, huh...
 
 00000000
 However, I became convinced with this.

@@ -114,8 +114,8 @@ This is the crucial moment... I carefully observed Yuriko-\nsan's behavior and w
 After a while, I caught a glimpse of Yuriko-san glancing at\nher watch, and then subtly pressing her hand against her\near.
 
 00006000
-拓海
-耳栓をしたんだ……てことは
+Takumi
+So you put in earplugs... I guess that means...
 
 0300000000000F2742474D3036
 
@@ -210,8 +210,8 @@ With a vacant gaze, Yuriko nodded without hesitation and\nimmediately started ma
 Of course, I will firmly stand by her side and confirm that\nexchange.
 
 00005000
-アリサ
-もしもし、友里子？　首尾はどう？
+Arisa
+Hello, Yuriko? How did it go?
 C01a00090001
 
 00003000
@@ -220,8 +220,8 @@ Yes... Yes, there are no problems. However...
 C02a00090007
 
 00005000
-アリサ
-ですが……？　何かあったの？
+Arisa
+But...? Did something happen?
 C01a00090002
 
 00003000
@@ -232,8 +232,8 @@ C02a00090008
 03008C0000000F2753455F6130385F30323034
 
 00005000
-アリサ
-……友里子？　っ……あ
+Arisa
+...Yuriko? Ah...
 C01a00090003
 
 00000000
@@ -252,8 +252,8 @@ Yes... Arisa... Could you please come back to the classroom?
 C02a00090009
 
 00005000
-アリサ
-……ええ……今、戻るわ……
+Arisa
+...Yes... I'll come back now...
 C01a00090004
 
 00000000
@@ -404,8 +404,8 @@ The other students have also returned to the usual scenery\nat first glance, and
 02008C00010000
 
 00006000
-拓海
-僕についての言及は何もしてなかったからな……すぐにそこが変化する訳じゃないんだよな……
+Takumi
+I haven't mentioned anything about myself, so there won't be\nany immediate changes there...
 
 00000000
 I also had concerns about what might happen if I drastically\naltered their consciousness.

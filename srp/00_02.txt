@@ -214,8 +214,8 @@ C04a00020010
 Fukunaga-san averted her gaze with a troubled expression\nwhen I asked her.
 
 00006000
-拓海
-この反応……まさか、福永さんは……僕のこと……
+Takumi
+This reaction... Could it be, Fukunaga-san... about me...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3136302F302E38352F302E3835
 
@@ -234,8 +234,8 @@ So, in other words... you like me... and that's why you're\ntaking care of me wi
 If I think about it that way, it explains why you went out\nof your way to find me... No, if it wasn't for that, it\nwouldn't make sense.
 
 00006000
-拓海
-けど……そんなの、女の子の口からいきなり言える訳ないよな……
+Takumi
+But... there's no way a girl would suddenly say something\nlike that, right?
 
 00000000
 If that's the case, then I need to properly convey my\nintentions...

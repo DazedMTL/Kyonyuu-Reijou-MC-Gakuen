@@ -16,8 +16,8 @@ Takumi
 Even though it's just a little before the early morning bell\nrings, I stifle my sleepiness and let out a yawn in the\nclassroom.
 
 00006000
-拓海
-少し眠い……まあ自分で選んだことだし、しょうがないけど……
+Takumi
+I'm a little sleepy... Well, I chose this myself, so I guess\nit can't be helped...
 
 00000000
 "Even though I've entrusted the duties as the student\ncouncil president to Arisa, I still need to check the\ndocuments. On top of that, I have another task now, so I\ndon't have enough sleep."
@@ -48,14 +48,14 @@ C03a09010002
 0200BC000100012C666D5F433033615F30335F305F305F305F30372F2D3236332F302E37362F302E3736
 
 00006000
-拓海
-んっ……？
+Takumi
+Hm...?
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00006000
-拓海
-気のせい？　理央が僕の方を見てる
+Takumi
+Is it just my imagination? Rio is looking at me.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30372F2D3236332F302E37362F302E3736
 
@@ -162,12 +162,12 @@ Just when I thought she was getting closer to me, she\nquickly threw out some pa
 0300000000000F2742474D3032
 
 00006000
-拓海
-理央は事務所に所属したいっていう気持ちは強いはず
+Takumi
+Rio must have a strong desire to belong to the office.
 
 00006000
-拓海
-それにしても、さっきは僕のことを気にしていたような気がしてたけど……考えすぎかな……
+Takumi
+Nevertheless, earlier it felt like she was concerned about\nme... Maybe I'm just overthinking...
 
 00000000
 Rio's reaction earlier was just like something you would see\nin a shoujo manga, where she was clearly conscious of the\nopposite sex.
@@ -179,8 +179,8 @@ However, Rio is surprisingly calculating and can become\ncunning when it comes t
 If we were to say that it was just an act to enter the\noffice, then it might indeed be true.
 
 00006000
-拓海
-まあ、はっきりな答えが出る問題じゃなくて両方の要素があるんだろうけど……理央の中ではどっちの思いが強いのかな
+Takumi
+Well, it's not a question with a clear answer, but I wonder\nwhich feeling is stronger in Rio's heart, both elements must\nbe present...
 
 00000000
 I can't help but become interested in things like that.
@@ -196,8 +196,8 @@ Then, the image of Rio passionately demanding me from the\nother day came to min
 I can't help but get aroused.
 
 00006000
-拓海
-そろそろ自分の気持ちに答えを出さないといけないかな……
+Takumi
+I guess it's about time I give an answer to my own\nfeelings...
 
 00000000
 I'm not patient enough to endure it silently.

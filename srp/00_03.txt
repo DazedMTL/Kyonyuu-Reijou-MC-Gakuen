@@ -56,8 +56,8 @@ Ah... Even Fukunaga-san, who arrived before me, noticed me\nand gave a small bow
 Today, without any allies... I reluctantly put the earphones\nthat I had secretly hidden in my pocket and put them on my\nears.
 
 00006000
-拓海
-これも見つかったら、即没収されるだろうけど……
+Takumi
+If this is found, it will surely be confiscated\nimmediately...
 
 00000000
 Nevertheless, rather than wearing down my nerves by\nwhispering behind my back... That's what I thought, so I\ndiscreetly started playing music while hiding the earphones\nin my hands.
@@ -162,15 +162,15 @@ I hunched over, pressing my head down, and secretly adjusted\nmy earphones befor
 Soon, the sound of the music box, which has become a regular\nmorning ritual, began to play through the broadcast.
 
 00006000
-拓海
-う……んんっ……
+Takumi
+Uhh...
 
 00000000
 Immediately after that, a strong dizziness struck my head, \nand for a moment, my consciousness started to fade.
 
 00006000
-拓海
-今の……これもストレスのせいかな……クラクラして気持ち悪い……
+Takumi
+That... Could this be because of stress? I feel dizzy and\nnauseous...
 
 00000000
 The music flowing from my left ear restores my blurred\nconsciousness.
@@ -216,8 +216,8 @@ In an instant, I turned my gaze towards the day after\ntomorrow and pretended to
 Eventually, as Yuriko looked around the classroom, she\ngently placed her hand on her ear and pulled something out.
 
 00006000
-拓海
-……あれは……耳栓……？
+Takumi
+...Are those...earplugs...?
 
 00000000
 The music box-like melody had stopped without anyone\nnoticing, but everyone still remained in a dazed state.
@@ -241,47 +241,47 @@ C02a00030004
 After finishing her report on the phone, she soon hangs up\nand then――
 
 00005000
-アリサ
-皆さん、おはようございます
+Arisa
+Good morning, everyone.
 C01a00030001
 
 00006000
-拓海
-え……この声、吉祥寺さん……？
+Takumi
+Huh...? This voice, Kisshouji-san...?
 
 00000000
 The voice that continued to flow through the broadcast was\nnone other than Kisshouji-san's.
 
 00006000
-拓海
-教室に来ないで……どういうこと？
+Takumi
+Don't come to the classroom... What's going on?
 
 00000000
 As I was thinking that, Kisshouji-san's voice resonated even\nmore.
 
 00005000
-アリサ
-今朝も、わたくし達の心構えをしっかりと再確認いたしましょう
+Arisa
+Let us firmly reaffirm our mindset once again this morning.
 C01a00030002
 
 00005000
-アリサ
-あなた方、王京学園の生徒は、数多くの優れた女子の中から選ばれた特別な人間です
+Arisa
+You all, the students of Oukyo Academy, are special\nindividuals chosen from among many outstanding girls.
 C01a00030003
 
 00005000
-アリサ
-その優れた力は、来るべき男女の地位が逆転した時に、遺憾なく発揮されるものでなくてはなりません
+Arisa
+That exceptional power must be demonstrated flawlessly when\nthe positions of men and women are reversed in the future.
 C01a00030004
 
 00005000
-アリサ
-新たな生命を産み出し、育むことが出来る女性こそが、至高の存在であると認識しなさい
+Arisa
+Recognize that women who can give birth to and nurture new\nlife are the supreme beings.
 C01a00030005
 
 00006000
-拓海
-……な、何だこれ……今まで、こんな放送なかったよな……？
+Takumi
+...W-What is this...? We've never had a broadcast like this\nbefore, right...?
 
 00000000
 It's like some kind of religious enlightenment... I look\naround again at the words with that kind of content.
@@ -290,23 +290,23 @@ It's like some kind of religious enlightenment... I look\naround again at the wo
 The girls around me, Fukunaga-san and Kamiizumi-san\nincluded, still seem to be wandering their gaze\nabsentmindedly, and I can't tell if they're actually\nlistening to the conversation.
 
 00005000
-アリサ
-役に立たない下等な男は虐げられ、踏みにじられて当然の存在です
+Arisa
+Useless and inferior men should be oppressed and trampled\nupon as a matter of course.
 C01a00030006
 
 00005000
-アリサ
-今日も、そのことをしっかりと念頭に置き、いつものようにクラスの生贄を虐げなさい
+Arisa
+Today as well, keep that in mind and oppress the sacrificial\nlambs in our class as usual.
 C01a00030007
 
 00005000
-アリサ
-ただし、福永こはる……あなただけは、生贄が壊れたり、逃げたりしないよう、ある程度のケアをするように
+Arisa
+However, Fukunaga Koharu... I expect you to take some care\nso that the sacrificial lamb doesn't break or run away.
 C01a00030008
 
 00005000
-アリサ
-もちろん、それ以上の極端な接触は禁じます。男はすぐに勘違いする生き物。肝に銘じておくように
+Arisa
+Of course, any excessive physical contact is prohibited. Men\nare creatures who easily misunderstand. Keep that in mind.
 C01a00030009
 
 00002000
@@ -407,8 +407,8 @@ Takumi
 After that, the teacher entered the classroom at the usual\ntiming without any changes, and homeroom started as usual.
 
 00006000
-拓海
-……何だったんだ、さっきのは……
+Takumi
+...What was that just now...
 
 00000000
 While she behaved as if nothing had happened, I couldn't\nhide my inner turmoil.

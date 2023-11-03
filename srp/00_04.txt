@@ -59,23 +59,23 @@ Above all--
 0200000001004247303130305F62
 
 00005000
-アリサ
-役に立たない下等な男は虐げられ、踏みにじられて当然の存在です
+Arisa
+Useless and inferior men like you deserve to be oppressed\nand trampled upon.
 C01a00030006
 
 00005000
-アリサ
-今日も、そのことをしっかりと念頭に置き、いつものようにクラスの生贄を虐げなさい
+Arisa
+Today as well, keep that in mind and continue to oppress the\nsacrificial lambs of the class as usual.
 C01a00030007
 
 00005000
-アリサ
-ただし、福永こはる……あなただけは、生贄が壊れたり、逃げたりしないよう、ある程度のケアをするように
+Arisa
+However, Fukunaga Koharu... I will make sure to take care of\nyou to some extent, so that the sacrificial lamb doesn't\nbreak or run away.
 C01a00030008
 
 00005000
-アリサ
-もちろん、それ以上の極端な接触は禁じます。男はすぐに勘違いする生き物。肝に銘じておくように
+Arisa
+Of course, any extreme physical contact is strictly\nprohibited. Men are creatures who easily misunderstand\nthings. Keep that in mind.
 C01a00030009
 
 0200000001004247313130305F62
@@ -101,8 +101,8 @@ However, this morning's incident was much more clear...\nThere was a distinct an
 "In the first place, even though I myself was being\npersecuted, I somehow resigned myself to the idea that it\nwas just how things were... and accepted it."
 
 00006000
-拓海
-だけど、昨日は違った……あの時の僕が、普段と決定的に違っていたことは、イヤホンだ
+Takumi
+But yesterday was different... What was decisive and\ndifferent about me at that time was the earphones.
 
 00000000
 And what comes to mind is the sound of the music box that\nplays every morning.

@@ -198,8 +198,8 @@ C02a02070010
 Yuriko's expression remains unchanged. Her sharp gaze is\ncarefully observing my expression as if assessing me.
 
 00006000
-拓海
-もしかして……マズったかな……？
+Takumi
+Could it be... Did I mess up...?
 
 00003000
 Yuriko

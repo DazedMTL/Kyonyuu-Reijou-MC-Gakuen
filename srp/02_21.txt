@@ -41,8 +41,8 @@ Koharu, as if fearing even talking to me in public like\nthis, immediately cuts 
 0200E600000000000000E8FE9CFFE8FE4400440044004400E8030000F401666D5F433034615F30335F305F305F305F3031
 
 00006000
-拓海
-なんとか、こはるの気持ちを僕に向けさせるようないい方法はないかなあ……義務で優しくされてると寂しいし……
+Takumi
+I wonder if there's any way I can make Koharu's feelings\nturn towards me... It's lonely to be treated kindly out of\nobligation...
 
 00000000
 I considered using the power of the music box to "make her\nfall in love with me," but it's hard to say that I fully\nunderstand its effectiveness.
@@ -57,8 +57,8 @@ Is there any way for you to set up a favorable situation for\nme?
 When I look at Koharu, she is quiet and has been kind to me\nout of obligation, but she also has her own female friends\nand now she seems to be enjoying a conversation with them.
 
 00006000
-拓海
-そうだ……オルゴールを手に入れる前の僕みたいな状況に追いやれば……
+Takumi
+I got it... If I can put her in a situation like how I was\nbefore getting the music box...
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
