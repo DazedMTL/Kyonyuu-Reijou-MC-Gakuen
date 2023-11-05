@@ -179,7 +179,7 @@ C02a08090010
 
 00002000
 Takumi
-Stand tall and show off with confidence. If you don't have\nthe mindset to proudly flaunt it,
+Stand tall and show off with confidence. If you don't have\nthe mindset to proudly flaunt it.
 
 020000000100666D5F3036365F30303037
 
