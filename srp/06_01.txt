@@ -7,16 +7,16 @@
 020000000100626C
 
 00000000
-The days continued where my classmates in the classroom, and\neven female teachers outside the hallway, would send me\npassionate gazes.
+The days continued where my classmates in the classroom、 and even female\nteachers outside the hallway、 would send me passionate gazes.
 
 00000000
-"The days continued where, depending on my mood, I would\nrespond to requests if desired, and conversely, if I felt\nlike it, I would casually indulge in releasing my sexual\ndesires."
+"The days continued where、 depending on my mood、 I would respond to requests if\ndesired、 and conversely、 if I felt like it、 I would casually indulge in\nreleasing my sexual desires."
 
 00000000
-There haven't been any major issues, and so far there hasn't\nbeen any intervention from the Kisshouji family, who manages\nthe school.
+There haven't been any major issues、 and so far there hasn't been any\nintervention from the Kisshouji family、 who manages the school.
 
 00000000
-"I was spending each day smoothly to the point where\neverything was going too smoothly."
+"I was spending each day smoothly to the point where everything was going too\nsmoothly."
 
 03002000B80B
 
@@ -31,38 +31,38 @@ Takumi
 *sigh*...
 
 00000000
-I take a seat in the chairman's office and let out a sigh of\nrelief.
+I take a seat in the chairman's office and let out a sigh of relief.
 
 00000000
-"Even though I can spend my days as I please, with the\nincreasing attention, mentally, I've been experiencing quite\ntense days."
+"Even though I can spend my days as I please、 with the increasing attention、 \nmentally、 I've been experiencing quite tense days."
 
 00000000
-Until I obtained the music box, the boys' restroom... and at\nbest, my own room, were the only places of solace. But now, \nthis chairman's office has become a calming place.
+Until I obtained the music box、 the boys' restroom... and at best、 my own room、 \nwere the only places of solace. But now、  this chairman's office has become a\ncalming place.
 
 00002000
 Takumi
-Well...finally, tonight.
+Well...finally、 tonight.
 
 00000000
-Arisa, Yuriko, Rio, Koharu...
+Arisa、 Yuriko、 Rio、 Koharu...
 
 00000000
-In order to continue this school life, I must give special\ntreatment to those four.
+In order to continue this school life、 I must give special treatment to those\nfour.
 
 00000000
-That's why I've called them to my room tonight. In order to\ndo something "special" for them.
+That's why I've called them to my room tonight. In order to do something\n"special" for them.
 
 0300000000000F2742474D3037
 
 00002000
 Takumi
-It's okay... It will surely go well... Just like it has been\nso far.
+It's okay... It will surely go well... Just like it has been so far.
 
 00000000
-As I calm my heart while looking at the music box, I sink my\nbody deep into the chair and close my eyes.
+As I calm my heart while looking at the music box、 I sink my body deep into the\nchair and close my eyes.
 
 00000000
-I surrender myself to the soon-to-come drowsiness and\ngradually fall into a deep sleep...
+I surrender myself to the soon-to-come drowsiness and gradually fall into a deep\nsleep...
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -76,23 +76,23 @@ I surrender myself to the soon-to-come drowsiness and\ngradually fall into a dee
 
 00003000
 Rio
-Geez, calling me out at night... You're still acting all\nhigh and mighty, huh?
+Geez、 calling me out at night... You're still acting all high and mighty、 huh?
 C03a06010001
 
 00002000
 Takumi
-Hey, Rio. I don't really get this whole "acting all high and\nmighty" mode, but you're here earlier than expected. You're\nthe first one.
+Hey、 Rio. I don't really get this whole "acting all high and mighty" mode、 but\nyou're here earlier than expected. You're the first one.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30352F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-W-Well, it's not like... I was just bored, that's all... And\nbeing the first one here, it's no big deal, you know?
+W-Well、 it's not like... I was just bored、 that's all... And being the first one\nhere、 it's no big deal、 you know?
 C03a06010002
 
 00002000
 Takumi
-It means exactly what it sounds like. I've called out other\ngirls today, so did something happen?
+It means exactly what it sounds like. I've called out other girls today、 so did\nsomething happen?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
@@ -102,7 +102,7 @@ It's not like... you can do whatever you want.
 C03a06010003
 
 00000000
-Her attitude is as usual, but she doesn't have that\nunbearable air about her like before. She seems restless and\nfidgety.
+Her attitude is as usual、 but she doesn't have that unbearable air about her\nlike before. She seems restless and fidgety.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E3736
 
@@ -123,10 +123,10 @@ Shut up. Don't say whatever you want.
 C03a06010005
 
 00000000
-Rio shook her head slightly, behaving suspiciously as if she\nhad hit the mark a little.
+Rio shook her head slightly、 behaving suspiciously as if she had hit the mark a\nlittle.
 
 00000000
-Despite her continued snarky remarks, there is a lack of\nstrength in her voice. In reality, it was obvious that she\nwas nervous.
+Despite her continued snarky remarks、 there is a lack of strength in her voice.\nIn reality、 it was obvious that she was nervous.
 
 03008C0000000F2753455F6230315F30343031
 
@@ -153,7 +153,7 @@ C02a06010002
 
 00002000
 Takumi
-As expected of Yuriko. You're right on time, 15 minutes\nbefore the scheduled meeting. You're so meticulous.
+As expected of Yuriko. You're right on time、 15 minutes before the scheduled\nmeeting. You're so meticulous.
 
 0200BC000100022C2D2C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -163,17 +163,17 @@ So it wasn't just me... Is that what you're saying?
 C02a06010003
 
 00000000
-Yuriko, who has an exceptional sense of intuition, somehow\nrealizes the intention behind being called and murmurs\nsoftly.
+Yuriko、 who has an exceptional sense of intuition、 somehow realizes the\nintention behind being called and murmurs softly.
 
 00000000
-Unlike Rio's restless appearance, there is a somewhat\nmelancholic expression on her face. Could it be because of\nher current mental state?
+Unlike Rio's restless appearance、 there is a somewhat melancholic expression on\nher face. Could it be because of her current mental state?
 
 00000000
-In the midst of a relationship that hasn't improved at all\nwith Arisa, I'm strangely being praised by other students\nand I'm caught in a dilemma.
+In the midst of a relationship that hasn't improved at all with Arisa、 I'm\nstrangely being praised by other students and I'm caught in a dilemma.
 
 00003000
 Rio
-It seems like there's been a lot going on lately, huh?
+It seems like there's been a lot going on lately、 huh?
 C03a06010007
 
 0200BC000100022C2D2C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E3735
@@ -194,25 +194,25 @@ C03a06010008
 
 00003000
 Yuriko
-I'm not quite sure what you want to say, but...
+I'm not quite sure what you want to say、 but...
 C02a06010005
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E37362C2D
 
 00003000
 Rio
-Oh, I see. Well, never mind then.
+Oh、 I see. Well、 never mind then.
 C03a06010009
 
 0200BC000100022C2D2C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a06010006
 
 00000000
-Perhaps I thought there would be some conversation happening\nto some extent, but as expected, there is no lively\nconversation between these two and an awkward atmosphere\nfills the air.
+Perhaps I thought there would be some conversation happening to some extent、 but\nas expected、 there is no lively conversation between these two and an awkward\natmosphere fills the air.
 
 03008C0000000F2753455F6230315F30343031
 
@@ -224,69 +224,69 @@ Perhaps I thought there would be some conversation happening\nto some extent, bu
 
 00003000
 Koharu
-Ah... um, excuse me... I'm sorry...
+Ah... um、 excuse me... I'm sorry...
 C04a06010001
 
 00000000
-In the midst of all that, timidly and hesitantly, Koharu\ncame over.
+In the midst of all that、 timidly and hesitantly、 Koharu came over.
 
 0200BC000100032C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E37352C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E37362C666D5F433034615F30325F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Ah, um... Rio-san... Yuriko-san too... Ah, cou-could it be\nthat I'm late...?
+Ah、 um... Rio-san... Yuriko-san too... Ah、 cou-could it be that I'm late...?
 C04a06010002
 
 00002000
 Takumi
-No, you're not late. It's still before the scheduled time, \nso it's okay.
+No、 you're not late. It's still before the scheduled time、  so it's okay.
 
 0200BC000100032C2D2C2D2C666D5F433034615F30325F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Ah... Takumi-kun... Th-thank goodness. Um... everyone was\ncalled, right?
+Ah... Takumi-kun... Th-thank goodness. Um... everyone was called、 right?
 C04a06010003
 
 0200BC000100032C2D2C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E37362C2D
 
 00003000
 Rio
-Koharu-chan, do you have any idea why you were called?
+Koharu-chan、 do you have any idea why you were called?
 C03a06010010
 
 0200BC000100032C2D2C2D2C666D5F433034615F30325F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Huh...? Ah, why...? Well, um, I was just told by Ikenoue-kun\nto come to the room...
+Huh...? Ah、 why...? Well、 um、 I was just told by Ikenoue-kun to come to the\nroom...
 C04a06010004
 
 0200BC000100032C2D2C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E37362C2D
 
 00003000
 Rio
-But, don't you have a rough idea of what this is about?
+But、 don't you have a rough idea of what this is about?
 C03a06010011
 
 0200BC000100032C2D2C2D2C666D5F433034615F30325F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Um... Ah, well... I'm not sure... That, um... ahaha...
+Um... Ah、 well... I'm not sure... That、 um... ahaha...
 C04a06010005
 
 00000000
-Koharu, who was being evasive with her words, had a slightly\nflushed face, indicating that she had come with some\nexpectations.
+Koharu、 who was being evasive with her words、 had a slightly flushed face、 \nindicating that she had come with some expectations.
 
 00000000
-While surprised by the presence of a previous guest, it\nseems that she doesn't think her expectations were\ncompletely off.
+While surprised by the presence of a previous guest、 it seems that she doesn't\nthink her expectations were completely off.
 
 0200BC000100032C2D2C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E37362C2D
 
 00003000
 Rio
-You seem to have a pretty good idea. In that case, it's\nabout time...
+You seem to have a pretty good idea. In that case、 it's about time...
 C03a06010012
 
 0200BC000100032C666D5F433032615F30325F305F305F305F30352F2D3236302F302E37352F302E37352C2D2C2D
@@ -300,7 +300,7 @@ C02a06010007
 Rio's words made Yuriko tense up.
 
 00000000
-"Indeed, as those words suggest--"
+"Indeed、 as those words suggest--"
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -310,14 +310,14 @@ Rio's words made Yuriko tense up.
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a06010001
 
 00000000
-Without even knocking, quietly entering the room was none\nother than Arisa.
+Without even knocking、 quietly entering the room was none other than Arisa.
 
 00000000
-A few minutes before the promised time. As the last one...\nAlthough it was late for Arisa, she still managed to keep\nthe time, which is characteristic of her after all.
+A few minutes before the promised time. As the last one... Although it was late\nfor Arisa、 she still managed to keep the time、 which is characteristic of her\nafter all.
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30325F305F305F305F3033
 
@@ -336,63 +336,63 @@ C02a06010008
 
 00003000
 Arisa
-...You called us all together... I already have a pretty\ngood idea of what you're thinking.
+...You called us all together... I already have a pretty good idea of what\nyou're thinking.
 C01a06010002
 
 00002000
 Takumi
-As expected of Arisa... is what I want to say, but it seems\nlike everyone else has a vague idea as well.
+As expected of Arisa... is what I want to say、 but it seems like everyone else\nhas a vague idea as well.
 
 0200E60001000200000000009600F9FE4C004C004C004C00E803E8030000666D5F433033615F30325F305F305F305F3032
 
 00003000
 Rio
-In times like this, it's all about taking the plunge, right?\nWell, as long as I can get what I want, I'm fine with that.
+In times like this、 it's all about taking the plunge、 right? Well、 as long as I\ncan get what I want、 I'm fine with that.
 C03a06010013
 
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30325F305F305F305F3037
 
 00003000
 Koharu
-Um... So, um, is it okay like that?
+Um... So、 um、 is it okay like that?
 C04a06010006
 
 0200E60001000100000000006AFFFCFE4B004B004B004B00E803E8030000666D5F433032615F30325F305F305F305F3038
 
 00003000
 Yuriko
-It's not enough to do it alone... It really seems like\nsomething you would think about...
+It's not enough to do it alone... It really seems like something you would think\nabout...
 C02a06010009
 
 00002000
 Takumi
-Haha, everyone is perceptive, aren't they? That's right, \nsince I skipped collecting during the day today, I thought\nI'd give all you talented ones a generous amount of semen.
+Haha、 everyone is perceptive、 aren't they? That's right、  since I skipped\ncollecting during the day today、 I thought I'd give all you talented ones a\ngenerous amount of semen.
 
 00000000
-And at the same time, I will put them under even deeper mind\ncontrol and make them all mine...
+And at the same time、 I will put them under even deeper mind control and make\nthem all mine...
 
 00000000
-Without saying anything, I silently observe everyone's\nexpressions.
+Without saying anything、 I silently observe everyone's expressions.
 
 0200E60001000000000000003EFE01FF4B004B004B004B00E803E8030000666D5F433031615F30325F305F305F305F3033
 
 00003000
 Arisa
-Hmph, there's no need for you to act all high and mighty.\nIt's your duty, after all. How about we start right away?
+Hmph、 there's no need for you to act all high and mighty. It's your duty、 after\nall. How about we start right away?
 C01a06010003
 
 00000000
-Arisa, with her usual haughty attitude, but with a faint\ntremor of anticipation in her voice.
+Arisa、 with her usual haughty attitude、 but with a faint tremor of anticipation\nin her voice.
 
 0200E60001000100000000006AFFFCFE4B004B004B004B00E803E8030000666D5F433032615F30325F305F305F305F3037
 
 00003000
 Yuriko
-So, we need four people to make you ejaculate... We need to\ndetermine our roles properly, don't we?
+So、 we need four people to make you ejaculate... We need to determine our roles\nproperly、 don't we?
 C02a06010010
 
 00000000
-Yuriko, while maintaining a calm atmosphere, occasionally\nglances at Arisa with a worried expression.
+Yuriko、 while maintaining a calm atmosphere、 occasionally glances at Arisa with\na worried expression.
 
 0200E60001000200000000009600F9FE4C004C004C004C00E803E8030000666D5F433033615F30325F305F305F305F3031
 
@@ -402,27 +402,27 @@ With all of us together... can we properly handle your dick?
 C03a06010014
 
 00000000
-Rio, with a provocative smile on her face, becomes acutely\naware of her crotch.
+Rio、 with a provocative smile on her face、 becomes acutely aware of her crotch.
 
 0200E6000100030000000000C201E8FE4400440044004400E803E8030000666D5F433034615F30325F305F305F305F3035
 
 00003000
 Koharu
-U-Um... I-I guess if we work hard and extract a lot, it'll\nbe fine, right...?
+U-Um... I-I guess if we work hard and extract a lot、 it'll be fine、 right...?
 C04a06010007
 
 00000000
-While casually listening, Koharu's impressive breasts sway\ngently.
+While casually listening、 Koharu's impressive breasts sway gently.
 
 00000000
-In the face of a harem situation, I slowly undress while\nsoothing my rock-hard meat rod.
+In the face of a harem situation、 I slowly undress while soothing my rock-hard\nmeat rod.
 
 00002000
 Takumi
-Alright, I'll give you my semen, so let's all enjoy it\ntogether.
+Alright、 I'll give you my semen、 so let's all enjoy it together.
 
 00000000
-As they gazed at my rock-hard erection, the girls all began\nto deepen their arousal in unison.
+As they gazed at my rock-hard erection、 the girls all began to deepen their\narousal in unison.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

@@ -31,14 +31,14 @@ C01a00080002
 
 00003000
 Yuriko
-No, I thought you were coming back a little late... so I\ncame to check on you.
+No, I thought you were coming back a little late... so I came to check on you.
 C02a00080002
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Ah... I just remembered that I have some documents that need\nto be organized quickly.
+Ah... I just remembered that I have some documents that need to be organized\nquickly.
 C01a00080003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
@@ -50,7 +50,7 @@ C02a00080003
 
 00003000
 Arisa
-It's fine. After all, I have to go through them anyway.\nThank you.
+It's fine. After all, I have to go through them anyway. Thank you.
 C01a00080004
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
@@ -71,24 +71,24 @@ C01a00080005
 
 00003000
 Yuriko
-Ah... No, um... There was nothing... particularly unusual, \nright?
+Ah... No, um... There was nothing... particularly unusual,  right?
 C02a00080005
 
 00003000
 Arisa
-Oh... That's quite a roundabout way of saying it for you. I\nwonder what you mean by that?
+Oh... That's quite a roundabout way of saying it for you. I wonder what you mean\nby that?
 C01a00080006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-No... If it's nothing, then it's fine. It must have been my\nimagination.
+No... If it's nothing, then it's fine. It must have been my imagination.
 C02a00080006
 
 00003000
 Arisa
-There's no need to overthink. If there's something that\nbothers you even a little, don't hesitate to tell me.
+There's no need to overthink. If there's something that bothers you even a\nlittle, don't hesitate to tell me.
 C01a00080007
 
 00003000
@@ -100,7 +100,7 @@ C02a00080007
 
 00003000
 Yuriko
-Yes, you're right. Maybe it's better to be cautious about\nwhat lies ahead.
+Yes, you're right. Maybe it's better to be cautious about what lies ahead.
 C02a00080008
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
@@ -112,24 +112,24 @@ C01a00080008
 
 00003000
 Yuriko
-Yes. I believe that obstacles will definitely arise as we\nproceed with the plan.
+Yes. I believe that obstacles will definitely arise as we proceed with the plan.
 C02a00080009
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Yes... It's hard to be optimistic and think that everything\nwill go smoothly, isn't it?
+Yes... It's hard to be optimistic and think that everything will go smoothly, \nisn't it?
 C01a00080009
 
 00003000
 Yuriko
-Of course, I will do my best to eliminate any obstacles.\nHowever, the chairman only has one body...
+Of course, I will do my best to eliminate any obstacles. However, the chairman\nonly has one body...
 C02a00080010
 
 00003000
 Arisa
-So... you're saying that I should have a way to protect\nmyself in case of an emergency?
+So... you're saying that I should have a way to protect myself in case of an\nemergency?
 C01a00080010
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
@@ -143,7 +143,7 @@ C02a00080011
 
 00003000
 Arisa
-No, well, most of the time Yuriko is with me, so I'm not\nworried.
+No, well, most of the time Yuriko is with me, so I'm not worried.
 C01a00080011
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
@@ -157,17 +157,17 @@ C02a00080012
 
 00003000
 Arisa
-However, you're right. It might be better to always keep our\nimportant trump card close at hand... that might be a good\nidea.
+However, you're right. It might be better to always keep our important trump\ncard close at hand... that might be a good idea.
 C01a00080012
 
 00003000
 Arisa
-I understand. From now on, let's carry this with us just in\ncase.
+I understand. From now on, let's carry this with us just in case.
 C01a00080013
 
 00003000
 Yuriko
-Yes, you're right. It might be better for the time being. We\ncould have a safe in the room as well...
+Yes, you're right. It might be better for the time being. We could have a safe\nin the room as well...
 C02a00080013
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
@@ -179,14 +179,14 @@ C01a00080014
 
 00003000
 Yuriko
-Then, your bag. Would it be alright if I usually carry it\nfor you?
+Then, your bag. Would it be alright if I usually carry it for you?
 C02a00080014
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Yes, leave it to me. Please make sure I can always access it\nif something happens.
+Yes, leave it to me. Please make sure I can always access it if something\nhappens.
 C01a00080015
 
 00003000
@@ -221,7 +221,7 @@ Takumi
 ………………
 
 00000000
-I quietly crawl out from behind the hiding spot, making sure\nto confirm that the two of them have left the room while\nholding the music box that was taken out from the safe.
+I quietly crawl out from behind the hiding spot, making sure to confirm that the\ntwo of them have left the room while holding the music box that was taken out\nfrom the safe.
 
 00002000
 Takumi
@@ -232,25 +232,25 @@ Well... I wonder if the time to act will come after this...?
 0200E6000000090000000000000000006400640064006400E803E803F40166696C746572303031
 
 00000000
-With a smirk on my face, I gaze intently at the music box in\nmy hands that is almost identical to the one Arisa had.
+With a smirk on my face, I gaze intently at the music box in my hands that is\nalmost identical to the one Arisa had.
 
 00000000
-Yes, this is a dummy with the same design that was prepared\njust in case the secret of the music box is revealed.
+Yes, this is a dummy with the same design that was prepared just in case the\nsecret of the music box is revealed.
 
 00000000
-And... although Arisa believes it, the thing in my hands\nright now is the real hypnotic music box.
+And... although Arisa believes it, the thing in my hands right now is the real\nhypnotic music box.
 
 00000000
-When I heard about its existence from Arisa, who was in a\nmind-controlled state after our intimate moment, my next\nmove had already been decided.
+When I heard about its existence from Arisa, who was in a mind-controlled state\nafter our intimate moment, my next move had already been decided.
 
 00000000
-I will make them recognize the dummy as the real one, and\nfrom now on, I will be the one using the decisive trump\ncard.
+I will make them recognize the dummy as the real one, and from now on, I will be\nthe one using the decisive trump card.
 
 00000000
-I wonder just how effective it is, and how much I can master\nit.
+I wonder just how effective it is, and how much I can master it.
 
 00000000
-There are still many things that I won't know until I try, \nbut I absolutely cannot let go of this trump card.
+There are still many things that I won't know until I try,  but I absolutely\ncannot let go of this trump card.
 
 02007F10
 
@@ -258,19 +258,19 @@ There are still many things that I won't know until I try, \nbut I absolutely ca
 
 00002000
 Takumi
-With this... I can repay everything that has been done to me\nuntil now...
+With this... I can repay everything that has been done to me until now...
 
 00000000
-Considering that I was the target, not even a trace of guilt\narises.
+Considering that I was the target, not even a trace of guilt arises.
 
 00000000
-The ones who directly confronted me, the ones who continued\nto turn a blind eye, and of course, the mastermind who\nmanipulated everything behind the scenes.
+The ones who directly confronted me, the ones who continued to turn a blind eye, \nand of course, the mastermind who manipulated everything behind the scenes.
 
 00000000
-The first door has already been opened. Now, what should I\ndo next...?
+The first door has already been opened. Now, what should I do next...?
 
 00000000
-I couldn't contain the smile that welled up inside me as I\nheld Arisa's first time, my dark emotions boiling over.
+I couldn't contain the smile that welled up inside me as I held Arisa's first\ntime, my dark emotions boiling over.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

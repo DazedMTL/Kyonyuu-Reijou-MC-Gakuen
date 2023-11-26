@@ -11,10 +11,10 @@
 0200000001004247303530305F62
 
 00000000
-It has been several days since I violated Arisa in front of\nher father.
+It has been several days since I violated Arisa in front of her father.
 
 00000000
-In the chairman's office, another member of the Kisshouji\nfamily had come to visit.
+In the chairman's office、 another member of the Kisshouji family had come to\nvisit.
 
 0300000000000F2742474D3039
 
@@ -22,7 +22,7 @@ In the chairman's office, another member of the Kisshouji\nfamily had come to vi
 
 00003000
 Female A
-...W-What's happening... This is... ngh, kuuh...
+...W-What's happening... This is... ngh、 kuuh...
 C05k07100001
 
 00003000
@@ -36,35 +36,35 @@ Stop fooling around! L-Let go!
 C05m07100001
 
 00000000
-In the chairman's office, there are three women on the sofa.\nThey are on all fours, showing frightened expressions.
+In the chairman's office、 there are three women on the sofa. They are on all\nfours、 showing frightened expressions.
 
 00000000
-I am conscious and aware, but I cannot move or speak from\nthe neck down. It is exactly as I programmed with mind\ncontrol just before.
+I am conscious and aware、 but I cannot move or speak from the neck down. It is\nexactly as I programmed with mind control just before.
 
 00002000
 Takumi
-Well, well, calm down. Even if you make such a fuss, nobody\nwill hear you, you know?
+Well、 well、 calm down. Even if you make such a fuss、 nobody will hear you、 you\nknow?
 
 020000000100666D5F3035395F30303032
 
 00003000
 Female A
-What are you thinking?! Don't come any closer! Someone, \nanyone!
+What are you thinking?! Don't come any closer! Someone、  anyone!
 C05k07100002
 
 00002000
 Takumi
-I already told you that no one can hear you. You really\ndon't understand, huh?
+I already told you that no one can hear you. You really don't understand、 huh?
 
 00000000
-There's no way these girls would just obediently listen to\nmy calm words.
+There's no way these girls would just obediently listen to my calm words.
 
 00000000
-However, seeing these girls who are usually so obedient\nreact with such desperation was quite refreshing.
+However、 seeing these girls who are usually so obedient react with such\ndesperation was quite refreshing.
 
 00002000
 Takumi
-Well, if you already have an idea of what's going to happen\nfrom now on, then we can cut to the chase.
+Well、 if you already have an idea of what's going to happen from now on、 then we\ncan cut to the chase.
 
 020000000100666D5F3035395F30303033
 
@@ -80,7 +80,7 @@ C05m07100002
 
 00002000
 Takumi
-Um... From the left, we have Kisshouji Sayaka-san, Komaba\nAyano-san, and Kisshouji Ritsuko-san? The young lady, the\nattendant maid, and the mother.
+Um... From the left、 we have Kisshouji Sayaka-san、 Komaba Ayano-san、 and\nKisshouji Ritsuko-san? The young lady、 the attendant maid、 and the mother.
 
 00003000
 Sayaka
@@ -94,17 +94,17 @@ C05m07100003
 
 00002000
 Takumi
-"Do you think I know? Well, of course I do. I heard it\ndirectly from someone in your family."
+"Do you think I know? Well、 of course I do. I heard it directly from someone in\nyour family."
 
 00000000
-The expressions of the three of them twisted in fear at my\nincomprehensible words.
+The expressions of the three of them twisted in fear at my incomprehensible\nwords.
 
 00000000
-Yes, I applied mind control again during my recent visit to\nthe Kisshouji family and instructed the women of the\nKisshouji family to come to this school.
+Yes、 I applied mind control again during my recent visit to the Kisshouji family\nand instructed the women of the Kisshouji family to come to this school.
 
 00002000
 Takumi
-Well... I thought I would have you make up for the mess that\nthe Kisshouji family caused the other day.
+Well... I thought I would have you make up for the mess that the Kisshouji\nfamily caused the other day.
 
 020000000100666D5F3035395F30303034
 
@@ -114,35 +114,35 @@ What do you mean? What did we do?!
 C05k07100004
 
 00000000
-Arisa's half-sister, Sayaka, who seemed completely sheltered\nand ignorant of the world, shouted in protest.
+Arisa's half-sister、 Sayaka、 who seemed completely sheltered and ignorant of the\nworld、 shouted in protest.
 
 00003000
 Ritsuko
-Ah... Arisa, right? That's right... That girl, she's finally\nstarting to remember what happened back then...!
+Ah... Arisa、 right? That's right... That girl、 she's finally starting to\nremember what happened back then...!
 C05m07100004
 
 00000000
-Ritsuko, who serves as Arisa's stepmother and seems to have\na rather fiery temperament, bites her lip in surprise.
+Ritsuko、 who serves as Arisa's stepmother and seems to have a rather fiery\ntemperament、 bites her lip in surprise.
 
 00002000
 Takumi
-Hmmm, well, I do have a rough idea about your mother. Well, \nit's not completely off the mark.
+Hmmm、 well、 I do have a rough idea about your mother. Well、  it's not completely\noff the mark.
 
 00000000
-As for Sayaka, Arisa's half-sister, she might not know much, \nbut if it's Ritsuko, Arisa's stepmother, she would naturally\nbe aware of various details about Arisa's biological mother.
+As for Sayaka、 Arisa's half-sister、 she might not know much、  but if it's\nRitsuko、 Arisa's stepmother、 she would naturally be aware of various details\nabout Arisa's biological mother.
 
 00000000
-It's natural to think that this is Arisa's revenge, and in\nfact, it's a perfect justification.
+It's natural to think that this is Arisa's revenge、 and in fact、 it's a perfect\njustification.
 
 00002000
 Takumi
-Well, everyone has their own way of thinking, so let's\nsee...
+Well、 everyone has their own way of thinking、 so let's see...
 
 020000000100666D5F3035395F30303033
 
 00003000
 Saya
-Huh!? N-No, don't... don't touch me! Noooo!
+Huh!? N-No、 don't... don't touch me! Noooo!
 C05k07100005
 
 03008C0000000F2753455F6130395F30303031
@@ -150,38 +150,38 @@ C05k07100005
 020000000100666D5F3035395F30303037
 
 00000000
-First, I will stand right behind Sayaka and lift up her\nskirt.
+First、 I will stand right behind Sayaka and lift up her skirt.
 
 00002000
 Takumi
-Oh, your skin is really beautiful. It's at quite a high\nlevel even among our students, isn't it?
+Oh、 your skin is really beautiful. It's at quite a high level even among our\nstudents、 isn't it?
 
 020000000100666D5F3035395F30303038
 
 00003000
 Sayaka
-Don't look! Ahh, you can't look at that kind of place!
+Don't look! Ahh、 you can't look at that kind of place!
 C05k07100006
 
 00002000
 Takumi
-Of course, it won't end with just looking. I'll properly\nsavor the contents too.
+Of course、 it won't end with just looking. I'll properly savor the contents too.
 
 020000000100666D5F3035395F30303037
 
 00003000
 Saya
-Eeek!? W-What are you doing... Ah, what's this... No, nooo!
+Eeek!? W-What are you doing... Ah、 what's this... No、 nooo!
 C05k07100007
 
 00000000
-I took out my meat rod and lightly traced along her slit, \ncausing comical screams to spill out one after another.
+I took out my meat rod and lightly traced along her slit、  causing comical\nscreams to spill out one after another.
 
 020000000100666D5F3035395F30303039
 
 00003000
 Ayano
-P-Please wait! I... I will take their place, so please\nforgive the young lady and the madam...!
+P-Please wait! I... I will take their place、 so please forgive the young lady\nand the madam...!
 C05l07100003
 
 00002000
@@ -189,80 +189,80 @@ Takumi
 Hm?
 
 00000000
-Ayano, the maid, couldn't bear to see that and made such a\nproposal.
+Ayano、 the maid、 couldn't bear to see that and made such a proposal.
 
 00000000
-Ayano, trembling voice and all, bravely offers to take their\nplace, whether it's because of the education she has\nreceived or a manifestation of her sense of responsibility.
+Ayano、 trembling voice and all、 bravely offers to take their place、 whether it's\nbecause of the education she has received or a manifestation of her sense of\nresponsibility.
 
 00002000
 Takumi
-Hmmm, quite admirable... I suppose...
+Hmmm、 quite admirable... I suppose...
 
 00003000
 Saya
-Y-Yes, that's right! If it's Ayano, I will forgive her. I\nwill overlook her previous rudeness as well!
+Y-Yes、 that's right! If it's Ayano、 I will forgive her. I will overlook her\nprevious rudeness as well!
 C05k07100008
 
 020000000100666D5F3035395F30303130
 
 00003000
 Ritsuko
-That's right! This girl is still a virgin, and she will\ndefinitely satisfy you. Her status suits you perfectly as\nwell...
+That's right! This girl is still a virgin、 and she will definitely satisfy you.\nHer status suits you perfectly as well...
 C05m07100005
 
 00003000
 Saya
-If you lay a hand on us, the Kisshouji family won't stay\nsilent! If you want to reconsider, now is your only chance!
+If you lay a hand on us、 the Kisshouji family won't stay silent! If you want to\nreconsider、 now is your only chance!
 C05k07100009
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-For a moment, I thought it was their way of appealing to\nprotect this maid by offering themselves as substitutes.
+For a moment、 I thought it was their way of appealing to protect this maid by\noffering themselves as substitutes.
 
 00000000
-However, judging from the atmosphere, it seems that they are\njust waving around their elitist ideology without truly\nunderstanding their own situation.
+However、 judging from the atmosphere、 it seems that they are just waving around\ntheir elitist ideology without truly understanding their own situation.
 
 00002000
 Takumi
-Taking care of these kind of people is quite a hassle, huh.\nWell, I'll make sure to take care of you later, so don't\nworry.
+Taking care of these kind of people is quite a hassle、 huh. Well、 I'll make sure\nto take care of you later、 so don't worry.
 
 00003000
 Ayano
-Ah... N-No, this is not acceptable! Please, don't involve\nthe young lady...!
+Ah... N-No、 this is not acceptable! Please、 don't involve the young lady...!
 C05l07100004
 
 00002000
 Takumi
-Sorry, but I don't think you have enough material to stop\nme. So...
+Sorry、 but I don't think you have enough material to stop me. So...
 
 020000000100666D5F3035395F30303039
 
 00003000
 Saya
-Eeek! W-Why... Ah... Ahhh, why me?!
+Eeek! W-Why... Ah... Ahhh、 why me?!
 C05k07100010
 
 00000000
-Saya let out a hysterical scream as the meat rod was pressed\nagainst her defenseless slit once again.
+Saya let out a hysterical scream as the meat rod was pressed against her\ndefenseless slit once again.
 
 00002000
 Takumi
-Hmm, even though I touched her a bit, she's not getting wet\nat all... This level of tension... Is Saya a virgin?
+Hmm、 even though I touched her a bit、 she's not getting wet at all... This level\nof tension... Is Saya a virgin?
 
 00003000
 Saya
-Ah... Please stop... Don't come near me! I'll give you as\nmuch money as you want, so please...!
+Ah... Please stop... Don't come near me! I'll give you as much money as you\nwant、 so please...!
 C05k07100011
 
 00002000
 Takumi
-Forget about the money, just answer my question. Hey, Saya, \nare you a virgin?
+Forget about the money、 just answer my question. Hey、 Saya、  are you a virgin?
 
 00000000
-While poking at the entrance with an erect penis, I ask\nagain.
+While poking at the entrance with an erect penis、 I ask again.
 
 00003000
 Saya
@@ -271,18 +271,18 @@ C05k07100012
 
 00002000
 Takumi
-If you keep screaming, you won't understand, right? If you\ndon't hurry, I'll enter you.
+If you keep screaming、 you won't understand、 right? If you don't hurry、 I'll\nenter you.
 
 020000000100666D5F3035395F30303131
 
 00003000
 Saya
-W-Wait! I'm a virgin! I've never been with a man before, \nso...!
+W-Wait! I'm a virgin! I've never been with a man before、  so...!
 C05k07100013
 
 00002000
 Takumi
-I see, so it's your first time after all. Well, thank you\nfor telling me honestly. You said it well.
+I see、 so it's your first time after all. Well、 thank you for telling me\nhonestly. You said it well.
 
 020000000100666D5F3035395F30303039
 
@@ -292,11 +292,11 @@ Y-Yes...
 C05k07100014
 
 00000000
-Saya briefly shows a relieved expression, as if I were\npraising a small child.
+Saya briefly shows a relieved expression、 as if I were praising a small child.
 
 00002000
 Takumi
-Well, it's not really a big deal, though. Mmm...!
+Well、 it's not really a big deal、 though. Mmm...!
 
 0300C21000000F275345485F495F303031
 
@@ -310,50 +310,50 @@ Eeek!?
 C05k07100015
 
 00000000
-The impact of being penetrated so carelessly caused Saya to\nlet out a scream like she had never done before.
+The impact of being penetrated so carelessly caused Saya to let out a scream\nlike she had never done before.
 
 00002000
 Takumi
-Nnku... It's tight, as expected. Nn, but... I guess it's not\nimpossible to enter... Nm...
+Nnku... It's tight、 as expected. Nn、 but... I guess it's not impossible to\nenter... Nm...
 
 020000000100666D5F3035395F30303039
 
 00003000
 Saya
-S-Stop! I-It hurts! N-No, don't come!
+S-Stop! I-It hurts! N-No、 don't come!
 C05k07100016
 
 00000000
-Slowly and steadily, while feeling a resistance as if\npushing back strongly, I gradually insert my meat rod.
+Slowly and steadily、 while feeling a resistance as if pushing back strongly、 I\ngradually insert my meat rod.
 
 00000000
-It was still far from being completely submerged, but while\nsavoring the rough sensation on the tip, eventually it was\ninserted halfway.
+It was still far from being completely submerged、 but while savoring the rough\nsensation on the tip、 eventually it was inserted halfway.
 
 00002000
 Takumi
-*sigh* It was quite tight, but I managed to enter up to a\ngood point.
+*sigh* It was quite tight、 but I managed to enter up to a good point.
 
 020000000100666D5F3035395F30303131
 
 00003000
 Saya
-Ugh, uku, ahh... Why, even though I told you properly... Why\nme... to end up like this...
+Ugh、 uku、 ahh... Why、 even though I told you properly... Why me... to end up\nlike this...
 C05k07100017
 
 00000000
-Saya, with tears in her eyes, choked out words of\nresentment.
+Saya、 with tears in her eyes、 choked out words of resentment.
 
 00003000
 Sayaka
-I've made up my mind... to give myself to a man for the\nfirst time... and yet... ugh, ah...
+I've made up my mind... to give myself to a man for the first time... and yet...\nugh、 ah...
 C05k07100018
 
 00002000
 Takumi
-I'm sorry about that. If that's the case, why don't you just\nchoose me as your partner?
+I'm sorry about that. If that's the case、 why don't you just choose me as your\npartner?
 
 00000000
-Without a hint of remorse, I slowly begin to withdraw my\nmeat rod once again.
+Without a hint of remorse、 I slowly begin to withdraw my meat rod once again.
 
 020000000100666D5F3035395F30303039
 
@@ -366,23 +366,23 @@ C05k07100019
 
 00002000
 Takumi
-Whoa, this is definitely my first time. Quite a bit of blood\ncame out, huh.
+Whoa、 this is definitely my first time. Quite a bit of blood came out、 huh.
 
 00000000
-The droplet of redness, worn and oozing from the rubbed meat\nrod, can be clearly seen, sticking thickly.
+The droplet of redness、 worn and oozing from the rubbed meat rod、 can be clearly\nseen、 sticking thickly.
 
 00000000
-However, as I gaze upon the proof of taking her first time, \nI become aware of a hot throbbing sensation spreading in my\ncrotch.
+However、 as I gaze upon the proof of taking her first time、  I become aware of a\nhot throbbing sensation spreading in my crotch.
 
 00002000
 Takumi
-Hehe, can't be helped... If that's the case, I'll have to\ntake it slow and comfort you a little.
+Hehe、 can't be helped... If that's the case、 I'll have to take it slow and\ncomfort you a little.
 
 00000000
 There was never an option to stop the act.
 
 00000000
-I forcefully push my way through the narrow passage, \ngradually prying open her vaginal pathway.
+I forcefully push my way through the narrow passage、  gradually prying open her\nvaginal pathway.
 
 0300D21000000F275345485F505F313031
 
@@ -395,7 +395,7 @@ C05k07100020
 
 00002000
 Takumi
-It still seems quite painful for you. This tightness... is\nactually quite satisfying for me.
+It still seems quite painful for you. This tightness... is actually quite\nsatisfying for me.
 
 020000000100666D5F3035395F30303132
 
@@ -406,21 +406,21 @@ C05k07100021
 
 00002000
 Takumi
-Well, well, just hold on a little longer. In just a little\nwhile, the world you feel will completely change.
+Well、 well、 just hold on a little longer. In just a little while、 the world you\nfeel will completely change.
 
 020000000100666D5F3035395F30303133
 
 00003000
 Saya
-Huh, ha, nngh... What is... ngh... ku!
+Huh、 ha、 nngh... What is... ngh... ku!
 C05k07100022
 
 00000000
-I gradually narrow down my aim, rubbing against Saya, who is\nbarely enduring the gentle thrusts, in the same spot as\nArisa's weak point.
+I gradually narrow down my aim、 rubbing against Saya、 who is barely enduring the\ngentle thrusts、 in the same spot as Arisa's weak point.
 
 00003000
 Saya
-Hii... Nnngh, ku... Ahh... Haa... Aah...!
+Hii... Nnngh、 ku... Ahh... Haa... Aah...!
 C05k07100023
 
 00002000
@@ -435,16 +435,16 @@ Nng... Ha... Nfu... Ah... Fuu...?
 C05k07100024
 
 00000000
-Saya, who had been shaking her head slightly, gradually\nbegan to change her demeanor.
+Saya、 who had been shaking her head slightly、 gradually began to change her\ndemeanor.
 
 00000000
-The mind control that had been applied beforehand. As we\ncontinue having sex, the pain gradually transforms into\npleasure... It's simple, but it works like a charm.
+The mind control that had been applied beforehand. As we continue having sex、 \nthe pain gradually transforms into pleasure... It's simple、 but it works like a\ncharm.
 
 020000000100666D5F3035395F30303134
 
 00003000
 Saya
-Ngh... Ha, hi, na... Like that... It shouldn't be... Nnn...\nAh, th-this kind of... Ah...
+Ngh... Ha、 hi、 na... Like that... It shouldn't be... Nnn... Ah、 th-this kind\nof... Ah...
 C05k07100025
 
 00002000
@@ -455,57 +455,57 @@ How about it? Sex... Aren't you starting to feel it soon?
 
 00003000
 Saya
-No... I... There's no way... *moans* Ah, it should be... Ah, \n*gasps*!
+No... I... There's no way... *moans* Ah、 it should be... Ah、  *gasps*!
 C05k07100026
 
 00002000
 Takumi
-Ah, around here. The points are a little different from\nArisa's, as expected... but well, it's still pretty close.
+Ah、 around here. The points are a little different from Arisa's、 as expected...\nbut well、 it's still pretty close.
 
 020000000100666D5F3035395F30303134
 
 00003000
 Saya
-Hah... Nfuh... I-Is that... Ah... Nnn... Why... Ah, ahh!
+Hah... Nfuh... I-Is that... Ah... Nnn... Why... Ah、 ahh!
 C05k07100027
 
 00000000
-The sighs of agony gradually transformed into something\ntantalizing, and the eyes that were filled with tears began\nto melt.
+The sighs of agony gradually transformed into something tantalizing、 and the\neyes that were filled with tears began to melt.
 
 00000000
-I don't know what's happening to my body... but the pain is\nsteadily disappearing, and in its place, a sweet sensation\nis spreading.
+I don't know what's happening to my body... but the pain is steadily\ndisappearing、 and in its place、 a sweet sensation is spreading.
 
 00002000
 Takumi
-Oh... Your wetness has improved too. See, it's smoother than\nbefore.
+Oh... Your wetness has improved too. See、 it's smoother than before.
 
 0300D21000000F275345485F505F313032
 
 00003000
 Saya
-Ahh...! Ngh... Like that... I-I can't believe... Ah, ahh...\nWhy... Ahh!
+Ahh...! Ngh... Like that... I-I can't believe... Ah、 ahh... Why... Ahh!
 C05k07100028
 
 0200EF10054563735F4E6176695F303035
 
 00000000
-If you try to deny my words, you'll notice that your moans\nare getting louder with each thrust.
+If you try to deny my words、 you'll notice that your moans are getting louder\nwith each thrust.
 
 0200EF10054563735F4E6176695F303034
 
 00000000
-Saya herself also realizes it, and as her cheeks flush with\nembarrassment, it's finally unstoppable.
+Saya herself also realizes it、 and as her cheeks flush with embarrassment、 it's\nfinally unstoppable.
 
 0200EF10054563735F4E6176695F303033
 
 00002000
 Takumi
-Hehe, it seems I'm weak to the expression of confusion mixed\nwith pleasure. Ah... It's gradually coming, coming.
+Hehe、 it seems I'm weak to the expression of confusion mixed with pleasure.\nAh... It's gradually coming、 coming.
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-The unfamiliar tightness that I haven't experienced in a\nwhile is already taking its toll on my body.
+The unfamiliar tightness that I haven't experienced in a while is already taking\nits toll on my body.
 
 0200EF10054563735F4E6176695F303031
 
@@ -525,7 +525,7 @@ Huh?!
 C05k07100029
 
 00000000
-I want to enjoy the inside a little more... Giving in to\nthat desire easily, I ejaculate inside Saya.
+I want to enjoy the inside a little more... Giving in to that desire easily、 I\nejaculate inside Saya.
 
 020000000100666D5F3035395F30303136
 
@@ -536,21 +536,21 @@ C05k07100030
 
 00002000
 Takumi
-Ngh... *sigh* Sorry. I know it's proper to say it\nbeforehand, but I couldn't hold back.
+Ngh... *sigh* Sorry. I know it's proper to say it beforehand、 but I couldn't\nhold back.
 
 00003000
 Sayaka
-Ah... I'm being released...? Ah, ahh... That's no good, \nthat's no good, nooo...
+Ah... I'm being released...? Ah、 ahh... That's no good、  that's no good、 nooo...
 C05k07100031
 
 00000000
-As Sayaka, who couldn't understand what was happening, \ngradually realizes that she has been ejaculated inside, her\nface quickly pales.
+As Sayaka、 who couldn't understand what was happening、  gradually realizes that\nshe has been ejaculated inside、 her face quickly pales.
 
 020000000100666D5F3035395F30303135
 
 00003000
 Sayaka
-Why... Ahh, I'm going to get pregnant... Why... Ahhh...
+Why... Ahh、 I'm going to get pregnant... Why... Ahhh...
 C05k07100032
 
 0300C21000000F275345485F495F323031
@@ -559,10 +559,10 @@ C05k07100032
 
 00002000
 Takumi
-Don't worry, if it comes down to it, I'll take\nresponsibility no matter what. So, next...
+Don't worry、 if it comes down to it、 I'll take responsibility no matter what.\nSo、 next...
 
 00000000
-I jump over the maid Ayano and lift up the skirt of Arisa's\nstepmother, Ritsuko.
+I jump over the maid Ayano and lift up the skirt of Arisa's stepmother、 Ritsuko.
 
 03008C0000000F2753455F6130395F30303031
 
@@ -570,89 +570,89 @@ I jump over the maid Ayano and lift up the skirt of Arisa's\nstepmother, Ritsuko
 
 00003000
 Ritsuko
-Ngh...! Ah, w-wait! It's not... it's not like that!
+Ngh...! Ah、 w-wait! It's not... it's not like that!
 C05m07100006
 
 00002000
 Takumi
-What do you mean by "what's different"? If we're talking\nabout order, it's arbitrary to begin with.
+What do you mean by "what's different"? If we're talking about order、 it's\narbitrary to begin with.
 
 00003000
 Ritsuko
-You're talking about Arisa, right? I'll vouch for her. It\nwas inevitable for me as a mother, so I'll explain properly!
+You're talking about Arisa、 right? I'll vouch for her. It was inevitable for me\nas a mother、 so I'll explain properly!
 C05m07100007
 
 00000000
-Even though you didn't even try to stop it when Sayaka was\nbeing violated, now that it's your turn, you're so\ndesperate.
+Even though you didn't even try to stop it when Sayaka was being violated、 now\nthat it's your turn、 you're so desperate.
 
 00000000
-When I think about how Arisa from the past was also\npersecuted by such a small-minded person, it overlaps with\nthe fact that I myself was oppressed, and it frustrates me.
+When I think about how Arisa from the past was also persecuted by such a small-\nminded person、 it overlaps with the fact that I myself was oppressed、 and it\nfrustrates me.
 
 00002000
 Takumi
-How about talking directly to Arisa about it? It doesn't\nmatter to me either way.
+How about talking directly to Arisa about it? It doesn't matter to me either\nway.
 
 020000000100666D5F3035395F30303138
 
 00003000
 Ritsuko
-No way... You're the one behind Arisa, making me go through\nthis... Ughh!?!
+No way... You're the one behind Arisa、 making me go through this... Ughh!?!
 C05m07100008
 
 0300C21000000F275345485F495F313031
 
 00000000
-I thrust my meat rod into Ritsuko's anus as if to say that\nthere was no need for any more talking, almost as if I\nhadn't been gentle with her at all.
+I thrust my meat rod into Ritsuko's anus as if to say that there was no need for\nany more talking、 almost as if I hadn't been gentle with her at all.
 
 020000000100666D5F3035395F30303137
 
 00003000
 Ritsuko
-Ah, ugh, n-no, it's different! Not there, ah, not there...!
+Ah、 ugh、 n-no、 it's different! Not there、 ah、 not there...!
 C05m07100009
 
 00002000
 Takumi
-Did you also prefer pussy? But, it feels like I'm not used\nto this side... Mmm, ah, it's so tight.
+Did you also prefer pussy? But、 it feels like I'm not used to this side... Mmm、 \nah、 it's so tight.
 
 00003000
 Ritsuko
-Ngh... wet... ah, no... it's wet... ah!
+Ngh... wet... ah、 no... it's wet... ah!
 C05m07100010
 
 00002000
 Takumi
-This feeling... Is it really your first time? Yeah, I'm\nhappy that you're giving me your anal virginity.
+This feeling... Is it really your first time? Yeah、 I'm happy that you're giving\nme your anal virginity.
 
 020000000100666D5F3035395F30303138
 
 00003000
 Ritsuko
-Don't... please... ugh, it hurts... n-no, pull out...!
+Don't... please... ugh、 it hurts... n-no、 pull out...!
 C05m07100011
 
 00002000
 Takumi
-It takes some time to get used to a mature body like yours\nthat has been neglected. But I'll quickly remember the\ntaste.
+It takes some time to get used to a mature body like yours that has been\nneglected. But I'll quickly remember the taste.
 
 0300D21000000F275345485F505F353031
 
 020000000100666D5F3035395F30303137
 
 00000000
-The entrance was tight, but once I slipped my glans inside, \nthe depths were smoother than I expected.
+The entrance was tight、 but once I slipped my glans inside、  the depths were\nsmoother than I expected.
 
 00000000
-Unlike when it was Saya's turn, there is no resistance, and\nthe thrusting becomes natural and the pace increases.
+Unlike when it was Saya's turn、 there is no resistance、 and the thrusting\nbecomes natural and the pace increases.
 
 00003000
 Ritsuko
-Hah, nngh, ugh, kuuh, aah, nfah, aah...!
+Hah、 nngh、 ugh、 kuuh、 aah、 nfah、 aah...!
 C05m07100012
 
 00002000
 Takumi
-Huh... this is quite something. Your response is good, and\nit seems like you've been holding back quite a bit, haven't\nyou?
+Huh... this is quite something. Your response is good、 and it seems like you've\nbeen holding back quite a bit、 haven't you?
 
 00003000
 Ritsuko
@@ -661,24 +661,24 @@ C05m07100013
 
 00002000
 Takumi
-If you're feeling sexually frustrated, I'll be your partner\nanytime. Well, maybe not anytime, but whenever I feel like\nit.
+If you're feeling sexually frustrated、 I'll be your partner anytime. Well、 maybe\nnot anytime、 but whenever I feel like it.
 
 00000000
-As he continued thrusting while saying whatever he pleased, \nthe slit beneath her buttocks visibly moistened and began to\nglisten.
+As he continued thrusting while saying whatever he pleased、  the slit beneath\nher buttocks visibly moistened and began to glisten.
 
 020000000100666D5F3035395F30303139
 
 00003000
 Ritsuko
-Hah, nngh, aah, fuu... aah, hi, ah... haa...
+Hah、 nngh、 aah、 fuu... aah、 hi、 ah... haa...
 C05m07100014
 
 00000000
-The overflowing voice, which seemed painful for just a\nmoment. Now, it has transformed into the moans of a female\nwho has experienced a man.
+The overflowing voice、 which seemed painful for just a moment. Now、 it has\ntransformed into the moans of a female who has experienced a man.
 
 00002000
 Takumi
-Your pussy juices are dripping. Well then... shall I taste\nthem too?
+Your pussy juices are dripping. Well then... shall I taste them too?
 
 0300C21000000F275345485F495F323031
 
@@ -690,11 +690,11 @@ Ngh...
 C05m07100015
 
 00000000
-Ritsuko's face looks pained, as if she unconsciously wants\nto stop being connected.
+Ritsuko's face looks pained、 as if she unconsciously wants to stop being\nconnected.
 
 00002000
 Takumi
-Don't worry, it's not over yet. This time, I'll thoroughly\nsavor your neglected pussy.
+Don't worry、 it's not over yet. This time、 I'll thoroughly savor your neglected\npussy.
 
 0300C21000000F275345485F495F303032
 
@@ -702,24 +702,24 @@ Don't worry, it's not over yet. This time, I'll thoroughly\nsavor your neglected
 
 00003000
 Ritsuko
-Ahh, nnghhh! Aahh, th-this...!
+Ahh、 nnghhh! Aahh、 th-this...!
 C05m07100016
 
 00000000
-The sensation of being swallowed up completely, Ritsuko\ncouldn't resist from the very beginning.
+The sensation of being swallowed up completely、 Ritsuko couldn't resist from the\nvery beginning.
 
 00000000
-The walls of her vagina eagerly welcome my shaft, and the\nglans is coated with the slippery warmth of her love juices.
+The walls of her vagina eagerly welcome my shaft、 and the glans is coated with\nthe slippery warmth of her love juices.
 
 00002000
 Takumi
-Mmm... It's so sticky. I didn't expect such a passionate\nwelcome.
+Mmm... It's so sticky. I didn't expect such a passionate welcome.
 
 0300D21000000F275345485F505F313032
 
 00003000
 Ritsuko
-Ahh... ngh, aah... because... aah, this kind of thing...\naah, that person... is already...!
+Ahh... ngh、 aah... because... aah、 this kind of thing... aah、 that person... is\nalready...!
 C05m07100017
 
 00002000
@@ -728,20 +728,20 @@ Are you saying you won't be my partner anymore...?
 
 00003000
 Ritsuko
-Ngh... Ah... That's right... Only young girls... Ngh...\nAh... Hii... Ahhii!
+Ngh... Ah... That's right... Only young girls... Ngh... Ah... Hii... Ahhii!
 C05m07100018
 
 00002000
 Takumi
-Oh, even though it ended in one shot, you were still\nsecretly looking for someone else. It's such a waste to have\nsuch a good pussy.
+Oh、 even though it ended in one shot、 you were still secretly looking for\nsomeone else. It's such a waste to have such a good pussy.
 
 00003000
 Ritsuko
-Ahh, nghh, haaah! That person... they never... say things\nlike that at all, ahh, it's thick, I've never experienced\nsomething like this before!
+Ahh、 nghh、 haaah! That person... they never... say things like that at all、 ahh、 \nit's thick、 I've never experienced something like this before!
 C05m07100019
 
 00000000
-Ritsuko was completely writhing in pleasure, whether it was\ndue to mind control or her inherent nature.
+Ritsuko was completely writhing in pleasure、 whether it was due to mind control\nor her inherent nature.
 
 020000000100666D5F3035395F30303231
 
@@ -749,19 +749,19 @@ Ritsuko was completely writhing in pleasure, whether it was\ndue to mind control
 
 00003000
 Saya
-Oh, Mother...
+Oh、 Mother...
 C05k07100033
 
 0200EF10054563735F4E6176695F303034
 
 00000000
-Oh, Mother... Saya, who was on the verge of collapse, is\nspeechless at the sight of her mother's unfamiliar\nappearance.
+Oh、 Mother... Saya、 who was on the verge of collapse、 is speechless at the sight\nof her mother's unfamiliar appearance.
 
 0200EF10054563735F4E6176695F303033
 
 00002000
 Takumi
-Honestly... I never expected you to be so desperate for a\nman. Well, then, you should try to remember the pleasure of\nbeing with a woman at least.
+Honestly... I never expected you to be so desperate for a man. Well、 then、 you\nshould try to remember the pleasure of being with a woman at least.
 
 020000000100666D5F3035395F30303232
 
@@ -769,14 +769,14 @@ Honestly... I never expected you to be so desperate for a\nman. Well, then, you 
 
 00003000
 Ritsuko
-Oh... a woman's... ah, no way, ha, nhiyah!
+Oh... a woman's... ah、 no way、 ha、 nhiyah!
 C05m07100020
 
 0200EF10054563735F4E6176695F303031
 
 00002000
 Takumi
-Squeezing so happily... That's what I mean, I'll give you\nplenty of it!
+Squeezing so happily... That's what I mean、 I'll give you plenty of it!
 
 0200EF10002D
 
@@ -790,20 +790,20 @@ Nhaaaaa! Ah... coming... uuhhhnnn!
 C05m07100021
 
 00000000
-Without any hesitation, I ejaculate deep inside, entwined\nwith the moist and wriggling flesh of her vagina.
+Without any hesitation、 I ejaculate deep inside、 entwined with the moist and\nwriggling flesh of her vagina.
 
 00003000
 Ritsuko
-Ah... ah... you're... inside... mmm, it's... so... ahh, \namazing... haaah...
+Ah... ah... you're... inside... mmm、 it's... so... ahh、  amazing... haaah...
 C05m07100022
 
 00002000
 Takumi
-You're drinking it so eagerly. It's been so long, you might\nend up getting pregnant again.
+You're drinking it so eagerly. It's been so long、 you might end up getting\npregnant again.
 
 00003000
 Ritsuko
-Haa... nn, ah... If something like that were to happen...\nI...
+Haa... nn、 ah... If something like that were to happen... I...
 C05m07100023
 
 0300C21000000F275345485F495F323031
@@ -811,7 +811,7 @@ C05m07100023
 020000000100666D5F3035395F30303036
 
 00000000
-With a wry smile, unable to help himself, Takumi pulls out\nhis meat rod from Ritsuko, who shows a face that seems more\nmelted than frightened.
+With a wry smile、 unable to help himself、 Takumi pulls out his meat rod from\nRitsuko、 who shows a face that seems more melted than frightened.
 
 00002000
 Takumi
@@ -827,14 +827,14 @@ Ah...! A... ahhhhh...!
 C05l07100005
 
 00000000
-Finally, as she felt her own skirt being lifted up, the maid\nAyano let out a frightened voice.
+Finally、 as she felt her own skirt being lifted up、 the maid Ayano let out a\nfrightened voice.
 
 00000000
-The bravery I showed when I said I would be the substitute, \nwhere did it go? Now my body, which cannot be free, is\ntrembling.
+The bravery I showed when I said I would be the substitute、  where did it go?\nNow my body、 which cannot be free、 is trembling.
 
 00002000
 Takumi
-Don't be so scared. It's not good to just hear screams all\nthe time, so out of respect for your courage, I'll be\ngentle... Hm?
+Don't be so scared. It's not good to just hear screams all the time、 so out of\nrespect for your courage、 I'll be gentle... Hm?
 
 020000000100666D5F3035395F30303235
 
@@ -844,28 +844,28 @@ Ahh...!
 C05l07100006
 
 00000000
-As I casually ran my finger along her slit, it was already\nmoist and seemed to be prepared.
+As I casually ran my finger along her slit、 it was already moist and seemed to\nbe prepared.
 
 00002000
 Takumi
-Could it be that you were getting excited by the two of us\nmaking naughty sounds?
+Could it be that you were getting excited by the two of us making naughty\nsounds?
 
 020000000100666D5F3035395F30303236
 
 00003000
 Ayano
-Th-there's no such thing... Ah... Please forgive me... Mm, \nah...
+Th-there's no such thing... Ah... Please forgive me... Mm、  ah...
 C05l07100007
 
 00000000
-Despite being frightened by the unfamiliarity of her own\nbody, there is a faint sensuality in her voice that comes\nand goes.
+Despite being frightened by the unfamiliarity of her own body、 there is a faint\nsensuality in her voice that comes and goes.
 
 00002000
 Takumi
-Ayano, this is your first time too, right? Just relax and\neverything will be fine... Haha, well, I guess you can't\nreally relax when you're so tense.
+Ayano、 this is your first time too、 right? Just relax and everything will be\nfine... Haha、 well、 I guess you can't really relax when you're so tense.
 
 00000000
-While cracking jokes, I slowly sink my hips into the moist\nentrance.
+While cracking jokes、 I slowly sink my hips into the moist entrance.
 
 0100200002026566666563742C6566666563742068616B61
 
@@ -875,44 +875,44 @@ While cracking jokes, I slowly sink my hips into the moist\nentrance.
 
 00003000
 Ayano
-H-hnn...ku...ah, uunn...ah, aah...!
+H-hnn...ku...ah、 uunn...ah、 aah...!
 C05l07100008
 
 00000000
-As expected, there is some resistance at the entrance, but\nthanks to the ample amount of love juice seeping out, the\nrod slides in smoothly and deeper than I anticipated.
+As expected、 there is some resistance at the entrance、 but thanks to the ample\namount of love juice seeping out、 the rod slides in smoothly and deeper than I\nanticipated.
 
 020000000100666D5F3035395F30303235
 
 00003000
 Ayano
-Ugh...nnn, ahh...hah, hah...it's entering, mmm...ahhh...
+Ugh...nnn、 ahh...hah、 hah...it's entering、 mmm...ahhh...
 C05l07100009
 
 00002000
 Takumi
-Just a little more... Almost there, all the way to the\ndeepest part... Mm, it's in...
+Just a little more... Almost there、 all the way to the deepest part... Mm、 it's\nin...
 
 00003000
 Ayano
-Haa, haa, n... Ahfu... Nnnn... Haa...
+Haa、 haa、 n... Ahfu... Nnnn... Haa...
 C05l07100010
 
 00002000
 Takumi
-See, it's all snugly fitting in. Mm... as I thought, there's\na bit of blood.
+See、 it's all snugly fitting in. Mm... as I thought、 there's a bit of blood.
 
 020000000100666D5F3035395F30303237
 
 00003000
 Ayano
-Haa... fuu, aah... ha, hi...
+Haa... fuu、 aah... ha、 hi...
 C05l07100011
 
 00000000
-It was certain that there was evidence of her first time, \nbut there wasn't much nuance of pain in her expression.
+It was certain that there was evidence of her first time、  but there wasn't much\nnuance of pain in her expression.
 
 00000000
-The love juice dripping simultaneously is definitely easing\nAyano's pain considerably.
+The love juice dripping simultaneously is definitely easing Ayano's pain\nconsiderably.
 
 00002000
 Takumi
@@ -922,24 +922,24 @@ How is it? Does it hurt? Are you pushing yourself too hard?
 
 00003000
 Ayano
-Nngh...k-kuh...n-no...um, I-I'm...f-fine...
+Nngh...k-kuh...n-no...um、 I-I'm...f-fine...
 C05l07100012
 
 00000000
-It was a trembling voice, but Ayano firmly shook her head, \nshowing that she wasn't in pain.
+It was a trembling voice、 but Ayano firmly shook her head、  showing that she\nwasn't in pain.
 
 00000000
-Rio might have felt the need to protect Saya even though\nRitsuko was already half happy and had no role as a\nsubstitute.
+Rio might have felt the need to protect Saya even though Ritsuko was already\nhalf happy and had no role as a substitute.
 
 00002000
 Takumi
-I see. Well then, I'll take it slow, so if it's painful, let\nme know.
+I see. Well then、 I'll take it slow、 so if it's painful、 let me know.
 
 00000000
-I couldn't bring myself to do such terrible things to a maid\nwho was clearly just caught up in this.
+I couldn't bring myself to do such terrible things to a maid who was clearly\njust caught up in this.
 
 00000000
-However, of course I can't let this opportunity pass without\nsavoring it. I firmly grasp her butt and slowly start moving\nmy hips.
+However、 of course I can't let this opportunity pass without savoring it. I\nfirmly grasp her butt and slowly start moving my hips.
 
 0300D21000000F275345485F505F313031
 
@@ -947,7 +947,7 @@ However, of course I can't let this opportunity pass without\nsavoring it. I fir
 
 00003000
 Ayano
-Nngh... fuu, kuh, ngh... ha... aahhh...!
+Nngh... fuu、 kuh、 ngh... ha... aahhh...!
 C05l07100013
 
 00002000
@@ -956,20 +956,20 @@ Slowly pull out my dick... and then thrust it back in...
 
 00003000
 Ayano
-Ah, ha, aahhh! It's hot... n-no, hya, nfuu...!
+Ah、 ha、 aahhh! It's hot... n-no、 hya、 nfuu...!
 C05l07100014
 
 00000000
-It was indeed a relief that she didn't complain of pain, and\ninstead, what I could hear was a sweet and indulgent voice.
+It was indeed a relief that she didn't complain of pain、 and instead、 what I\ncould hear was a sweet and indulgent voice.
 
 00000000
-Slowly rubbing against the clinging flesh walls, I gently\nspread the overflowing love juices onto the glans.
+Slowly rubbing against the clinging flesh walls、 I gently spread the overflowing\nlove juices onto the glans.
 
 020000000100666D5F3035395F30303237
 
 00003000
 Ayano
-Haa... Ah, wa-wait, ah, hi-ah, nghh... hii...
+Haa... Ah、 wa-wait、 ah、 hi-ah、 nghh... hii...
 C05l07100015
 
 00002000
@@ -980,29 +980,29 @@ It seems like she's genuinely happy. Her pussy is twitching.
 
 00003000
 Ayano
-Ahh... doing something like that, mmm, it's embarrassing...\nah, ugh...!
+Ahh... doing something like that、 mmm、 it's embarrassing... ah、 ugh...!
 C05l07100016
 
 00002000
 Takumi
-Is it embarrassing for you to feel it for the first time?\nDon't worry, there are plenty of people who feel that way.\nYou can freely enjoy the sensation of my dick.
+Is it embarrassing for you to feel it for the first time? Don't worry、 there are\nplenty of people who feel that way. You can freely enjoy the sensation of my\ndick.
 
 00000000
-I vigorously stir the flesh walls, spreading the overflowing\nlove juices more and more.
+I vigorously stir the flesh walls、 spreading the overflowing love juices more\nand more.
 
 020000000100666D5F3035395F30303237
 
 00003000
 Ayano
-Hah, hiaa, ahh, haa, ah, aahhh, konya, konrano, ah, mo, mou!
+Hah、 hiaa、 ahh、 haa、 ah、 aahhh、 konya、 konrano、 ah、 mo、 mou!
 C05l07100017
 
 00002000
 Takumi
-Hehe, if it feels good, don't hesitate to cum, okay? I can\ngo again pretty soon.
+Hehe、 if it feels good、 don't hesitate to cum、 okay? I can go again pretty soon.
 
 00000000
-As the insertion and withdrawal became smoother, and the\npanting that was rubbing against me intensified, the moment\narrived when there was no longer any room for restraint.
+As the insertion and withdrawal became smoother、 and the panting that was\nrubbing against me intensified、 the moment arrived when there was no longer any\nroom for restraint.
 
 03008C0000000F2753455F6230315F30343031
 
@@ -1016,11 +1016,11 @@ As the insertion and withdrawal became smoother, and the\npanting that was rubbi
 
 00003000
 Arisa
-...Excuse me... um, did I keep you waiting...?
+...Excuse me... um、 did I keep you waiting...?
 C01a07100001
 
 00000000
-Arisa, who entered the room with a light knock, couldn't\nhelp but scream at the scene that greeted her eyes.
+Arisa、 who entered the room with a light knock、 couldn't help but scream at the\nscene that greeted her eyes.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
@@ -1031,7 +1031,7 @@ C01a07100002
 
 00002000
 Takumi
-Hey, Arisa. It's perfect timing, isn't it?
+Hey、 Arisa. It's perfect timing、 isn't it?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -1042,33 +1042,33 @@ C01a07100003
 
 00002000
 Takumi
-As you can see, it's a taste comparison side by side.
+As you can see、 it's a taste comparison side by side.
 
 00002000
 Takumi
-Well, according to them, they came here to get back at Arisa\nfor her childhood days. Is it okay to go with that?
+Well、 according to them、 they came here to get back at Arisa for her childhood\ndays. Is it okay to go with that?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-"Revenge"... what do you mean by that? In the school's\nprincipal's office... what are you all... doing...?
+"Revenge"... what do you mean by that? In the school's principal's office...\nwhat are you all... doing...?
 C01a07100004
 
 00002000
 Takumi
-Ah, I see. If it deviates from the perception of what\nstudents do, it might feel strange, right? In that case, it\nmight be just right.
+Ah、 I see. If it deviates from the perception of what students do、 it might feel\nstrange、 right? In that case、 it might be just right.
 
 0300D21000000F275345485F505F313032
 
 00000000
-While grinning at Arisa, who was more flustered than I had\nexpected, I continued thrusting into Ayano's torn flesh.
+While grinning at Arisa、 who was more flustered than I had expected、 I continued\nthrusting into Ayano's torn flesh.
 
 020000000100666D5F3035395F30303237
 
 00003000
 Ayano
-Hah, ah, fu, ah, hiaa... ah, nghaa...!
+Hah、 ah、 fu、 ah、 hiaa... ah、 nghaa...!
 C05l07100018
 
 00003000
@@ -1078,51 +1078,51 @@ C01a07100005
 
 00002000
 Takumi
-Hey, remember how Arisa said she wanted to get revenge on\nthe Kisshouji family? So, I thought I'd assist her a little\nin that regard.
+Hey、 remember how Arisa said she wanted to get revenge on the Kisshouji family?\nSo、 I thought I'd assist her a little in that regard.
 
 00003000
 Sayaka
-Ah... ah, no... forgive me... forgive me...
+Ah... ah、 no... forgive me... forgive me...
 C05k07100034
 
 00003000
 Ritsuko
-Ngh... haaah... I'm... so full... Ah, fah...
+Ngh... haaah... I'm... so full... Ah、 fah...
 C05m07100024
 
 00000000
-Even if Arisa were to come in, the two members of the\nKisshouji family wouldn't even notice her and would continue\nto be immersed in their own worlds.
+Even if Arisa were to come in、 the two members of the Kisshouji family wouldn't\neven notice her and would continue to be immersed in their own worlds.
 
 00002000
 Takumi
-Arisa, you must have had a hard time when you were little, \nright? So, you can't forgive those women who are still\nindulging in power, can you?
+Arisa、 you must have had a hard time when you were little、  right? So、 you can't\nforgive those women who are still indulging in power、 can you?
 
 00003000
 Arisa
-Th-That's not... Besides, she...
+Th-That's not... Besides、 she...
 C01a07100006
 
 00002000
 Takumi
-Ah, Ayano? Yeah, she's a maid for the Kisshouji family. I\nhappened to give her a ride and ended up taking her along.
+Ah、 Ayano? Yeah、 she's a maid for the Kisshouji family. I happened to give her a\nride and ended up taking her along.
 
 0200EF10054563735F4E6176695F303035
 
 00000000
-Without any remorse, I continue thrusting my hips without\nhesitation.
+Without any remorse、 I continue thrusting my hips without hesitation.
 
 0200EF10054563735F4E6176695F303034
 
 00003000
 Ayano
-Hah, ah, nghaa...!
+Hah、 ah、 nghaa...!
 C05l07100019
 
 0200EF10054563735F4E6176695F303033
 
 00002000
 Takumi
-It seems like she has quite the potential for being lewd, \neven though it's her first time. Sayaka was screaming\nreluctantly, but Ayano immediately felt it and was\nexceptional.
+It seems like she has quite the potential for being lewd、  even though it's her\nfirst time. Sayaka was screaming reluctantly、 but Ayano immediately felt it and\nwas exceptional.
 
 0200EF10054563735F4E6176695F303032
 
@@ -1135,7 +1135,7 @@ C01a07100007
 
 00002000
 Takumi
-Did Arisa also start feeling it quite early? Well, wait a\nmoment. I'm starting to feel it slowly, so let's just go for\none shot...
+Did Arisa also start feeling it quite early? Well、 wait a moment. I'm starting\nto feel it slowly、 so let's just go for one shot...
 
 0200EF10002D
 
@@ -1145,22 +1145,22 @@ Did Arisa also start feeling it quite early? Well, wait a\nmoment. I'm starting 
 
 00003000
 Ayano
-Ah...! Ngh... it's... hah, *moans*!
+Ah...! Ngh... it's... hah、 *moans*!
 C05l07100020
 
 00000000
-I release a plentiful amount of semen deep inside Ayano's\nvagina, ignoring Arisa who is at a loss for words.
+I release a plentiful amount of semen deep inside Ayano's vagina、 ignoring Arisa\nwho is at a loss for words.
 
 020000000100666D5F3035395F30303331
 
 00003000
 Ayano
-Nghaa... it's so intense... ah, ah... it feels so good...
+Nghaa... it's so intense... ah、 ah... it feels so good...
 C05l07100021
 
 00002000
 Takumi
-I'm glad you're enjoying it. You might become addicted to\nsemen just like me.
+I'm glad you're enjoying it. You might become addicted to semen just like me.
 
 00003000
 Ayano
@@ -1176,11 +1176,11 @@ C05l07100022
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00000000
-I pull out my meat rod smoothly, glancing at the overflowing\nsemen, and turn towards Arisa.
+I pull out my meat rod smoothly、 glancing at the overflowing semen、 and turn\ntowards Arisa.
 
 00002000
 Takumi
-Well... Sorry to keep you waiting, Arisa. You were also\nlooking forward to this, right? How about taking off your\npanties and lining up?
+Well... Sorry to keep you waiting、 Arisa. You were also looking forward to this、 \nright? How about taking off your panties and lining up?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -1191,17 +1191,17 @@ C01a07100008
 
 00002000
 Takumi
-I'll take care of things at home, so why don't we try\ngetting along without thinking too much? It might be nice to\nenjoy ourselves together.
+I'll take care of things at home、 so why don't we try getting along without\nthinking too much? It might be nice to enjoy ourselves together.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30362F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-You... ngh... ah... w-well, I... ku... ugh...
+You... ngh... ah... w-well、 I... ku... ugh...
 C01a07100009
 
 00000000
-Provocative words pierce Arisa's heart one after another, \nincreasing the sense of discord in her thoughts.
+Provocative words pierce Arisa's heart one after another、  increasing the sense\nof discord in her thoughts.
 
 00000000
 And then--
@@ -1214,11 +1214,11 @@ Arisa
 C01a07100010
 
 00000000
-Arisa opened her eyes wide as if she had remembered\neverything, pressing her forehead and shaking her head\nslightly.
+Arisa opened her eyes wide as if she had remembered everything、 pressing her\nforehead and shaking her head slightly.
 
 00002000
 Takumi
-Oh... that expression, did you remember something again? Is\nthat the face you make when something comes to mind?
+Oh... that expression、 did you remember something again? Is that the face you\nmake when something comes to mind?
 
 00003000
 Arisa
@@ -1228,11 +1228,11 @@ C01a07100011
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00000000
-In the moment when Arisa's unconscious hand was about to\nslap my cheek, her movement suddenly froze with a strong\ntwitch.
+In the moment when Arisa's unconscious hand was about to slap my cheek、 her\nmovement suddenly froze with a strong twitch.
 
 00002000
 Takumi
-Hehe, something like this happened before... Do you\nremember?
+Hehe、 something like this happened before... Do you remember?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -1243,7 +1243,7 @@ C01a07100012
 
 00002000
 Takumi
-Just to be safe, I called you recently. I knew something\nlike this would happen again.
+Just to be safe、 I called you recently. I knew something like this would happen\nagain.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
@@ -1254,14 +1254,14 @@ C01a07100013
 
 00002000
 Takumi
-It seems like your strong-willed nature has returned. That's\nthe Arisa I know.
+It seems like your strong-willed nature has returned. That's the Arisa I know.
 
 02006F100900
 
 0200E6000000090000000000000000006400640064006400E803E803F40166696C746572303031
 
 00000000
-While calmly taking out the music box, I smirked.
+While calmly taking out the music box、 I smirked.
 
 02007F10
 
@@ -1274,22 +1274,22 @@ C01a07100014
 
 00002000
 Takumi
-Arisa's goal was to seek revenge on the Kisshouji family, \nright? Since I acted as her proxy, this time you'll have to\naccompany me for my sake too.
+Arisa's goal was to seek revenge on the Kisshouji family、  right? Since I acted\nas her proxy、 this time you'll have to accompany me for my sake too.
 
 00000000
-In the face of the cold declaration, I once again put on my\nearphones with my usual routine.
+In the face of the cold declaration、 I once again put on my earphones with my\nusual routine.
 
 00002000
 Takumi
-It's not necessarily a bad thing to be obedient to\neverything, but it lacks excitement, you know.
+It's not necessarily a bad thing to be obedient to everything、 but it lacks\nexcitement、 you know.
 
 00002000
 Takumi
-But if I were to undo the conditioning and let you be free, \nI don't know what would happen...
+But if I were to undo the conditioning and let you be free、  I don't know what\nwould happen...
 
 00002000
 Takumi
-Maybe I should experiment with various degrees around that\narea. Cooperation, please.
+Maybe I should experiment with various degrees around that area. Cooperation、 \nplease.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -1299,7 +1299,7 @@ Ah...!
 C01a07100015
 
 00000000
-There is no way to block my ears. The music box that starts\nplaying marks the beginning of a new ordeal.
+There is no way to block my ears. The music box that starts playing marks the\nbeginning of a new ordeal.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

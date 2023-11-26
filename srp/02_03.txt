@@ -38,7 +38,7 @@ C02a02030002
 
 00003000
 Arisa
-It was inside the desk. I have a feeling it was something\nimportant...
+It was inside the desk. I have a feeling it was something important...
 C01a02030003
 
 00003000
@@ -62,7 +62,7 @@ C02a02030004
 
 00003000
 Arisa
-No, it's fine. Maybe I'll remember something else... But\nthere's something bothering me...
+No, it's fine. Maybe I'll remember something else... But there's something\nbothering me...
 C01a02030005
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
@@ -76,7 +76,7 @@ C02a02030005
 
 00003000
 Arisa
-Ah, no, it's fine. If I think it's necessary, I'll ask again\nlater.
+Ah, no, it's fine. If I think it's necessary, I'll ask again later.
 C01a02030006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
@@ -97,21 +97,21 @@ Takumi
 Hmmm...
 
 00000000
-After school, I had planned to have a quick play session in\nthe principal's office, but by chance, I happened to\noverhear their conversation and quietly moved away from the\nentrance without entering the room.
+After school, I had planned to have a quick play session in the principal's\noffice, but by chance, I happened to overhear their conversation and quietly\nmoved away from the entrance without entering the room.
 
 00002000
 Takumi
-Looks like my memories haven't been completely rewritten\nafter all...
+Looks like my memories haven't been completely rewritten after all...
 
 00000000
-It seems that Yuriko didn't feel much discomfort about it, \nbut Arisa, on the other hand, understandably...
+It seems that Yuriko didn't feel much discomfort about it,  but Arisa, on the\nother hand, understandably...
 
 00002000
 Takumi
-What should I do... Should I try to forcefully overwrite my\nmemories again... No...
+What should I do... Should I try to forcefully overwrite my memories again...\nNo...
 
 00000000
-I recall the insurance I had prepared in advance and\nmentally run a quick simulation in my head.
+I recall the insurance I had prepared in advance and mentally run a quick\nsimulation in my head.
 
 00002000
 Takumi
@@ -133,7 +133,7 @@ C01a02030007
 
 00002000
 Takumi
-Ah, Kisshouji-san. It's good timing. Can I talk to you for a\nmoment?
+Ah, Kisshouji-san. It's good timing. Can I talk to you for a moment?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
@@ -143,13 +143,13 @@ Arisa
 C01a02030008
 
 00000000
-When I casually approached Arisa, who had returned to the\nclassroom, she gave me a cold glare as expected.
+When I casually approached Arisa, who had returned to the classroom, she gave me\na cold glare as expected.
 
 00000000
-At its core, there is a strong sense of elitism that tells\nme, someone like me, not to speak to myself or anyone like\nme.
+At its core, there is a strong sense of elitism that tells me, someone like me, \nnot to speak to myself or anyone like me.
 
 00000000
-While reaffirming that I don't need to hold back with her, I\ngently showed her the music box in my hand.
+While reaffirming that I don't need to hold back with her, I gently showed her\nthe music box in my hand.
 
 0300000000000F2742474D3036
 
@@ -169,10 +169,10 @@ A music box...? Wha... Why do you have that... *gulp*
 C01a02030009
 
 00000000
-It's a music box that has almost the same shape as the one I\nsaw in the principal's office.
+It's a music box that has almost the same shape as the one I saw in the\nprincipal's office.
 
 00000000
-I stared at it in the palm of my hand, furrowing my brows\nand trying to discern its true identity.
+I stared at it in the palm of my hand, furrowing my brows and trying to discern\nits true identity.
 
 02007F10
 
@@ -180,7 +180,7 @@ I stared at it in the palm of my hand, furrowing my brows\nand trying to discern
 
 00002000
 Takumi
-Hehe... You don't understand? Well, let me give you a\nhint... Mind control, perhaps?
+Hehe... You don't understand? Well, let me give you a hint... Mind control, \nperhaps?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
@@ -192,7 +192,7 @@ C01a02030010
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00000000
-The next moment, after repeating those words, Arisa's\nexpression quickly paled, and she stared at me in silence.
+The next moment, after repeating those words, Arisa's expression quickly paled, \nand she stared at me in silence.
 
 00002000
 Takumi
@@ -200,7 +200,7 @@ Maybe you remembered something?
 
 00003000
 Arisa
-No way... something like that... when, from where...? Why...\nth-there's no way...!
+No way... something like that... when, from where...? Why... th-there's no\nway...!
 C01a02030011
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
@@ -212,7 +212,7 @@ C01a02030012
 
 00002000
 Takumi
-"That is... hmm, I wonder what you're referring to. Just\nthat alone, I don't really have any idea."
+"That is... hmm, I wonder what you're referring to. Just that alone, I don't\nreally have any idea."
 
 00003000
 Arisa
@@ -220,10 +220,10 @@ That's a lie... It can't be true... B-but...!
 C01a02030013
 
 00000000
-"I was pretending to be clueless, but various things come to\nmind in my head."
+"I was pretending to be clueless, but various things come to mind in my head."
 
 00000000
-"I wonder how much of the memories from when she was under\nmind control still remain... In any case, the next thing\nArisa will do is."
+"I wonder how much of the memories from when she was under mind control still\nremain... In any case, the next thing Arisa will do is."
 
 00003000
 Arisa
@@ -231,7 +231,7 @@ R-Return it right now!
 C01a02030014
 
 00000000
-As expected, it was Arisa who desperately tried to snatch\nthe music box from me--
+As expected, it was Arisa who desperately tried to snatch the music box from\nme--
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -241,7 +241,7 @@ Ah... *gasp*!?
 C01a02030015
 
 00000000
-In an instant, Arisa's movement freezes and she becomes\ncompletely still.
+In an instant, Arisa's movement freezes and she becomes completely still.
 
 00003000
 Arisa
@@ -250,7 +250,7 @@ C01a02030016
 
 00002000
 Takumi
-Yeah, well... I thought that something like this might\nhappen, so I took precautions.
+Yeah, well... I thought that something like this might happen, so I took\nprecautions.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -261,7 +261,7 @@ C01a02030017
 
 00002000
 Takumi
-It's impossible. Because Arisa remembered that she was being\ncontrolled, right?
+It's impossible. Because Arisa remembered that she was being controlled, right?
 
 00003000
 Arisa
@@ -270,15 +270,15 @@ C01a02030018
 
 00002000
 Takumi
-You know, ever since I got my hands on this music box, I've\nbeen studying hypnosis and mind control in my own way.
+You know, ever since I got my hands on this music box, I've been studying\nhypnosis and mind control in my own way.
 
 00002000
 Takumi
-People who are easily influenced, and people who are not.\nContent that is easy to be influenced by, and content that\nis difficult to be influenced by.
+People who are easily influenced, and people who are not. Content that is easy\nto be influenced by, and content that is difficult to be influenced by.
 
 00002000
 Takumi
-For example, even with strong-willed individuals, the\nimprinting through mind control is not foolproof. There are\ntimes when it can be undone by some trigger.
+For example, even with strong-willed individuals, the imprinting through mind\ncontrol is not foolproof. There are times when it can be undone by some trigger.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
@@ -289,7 +289,7 @@ C01a02030019
 
 00002000
 Takumi
-Well then, try various things like figuring out what\ntriggers can undo it, or on the contrary, how to make it\nmore firmly established.
+Well then, try various things like figuring out what triggers can undo it, or on\nthe contrary, how to make it more firmly established.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -300,11 +300,11 @@ C01a02030020
 
 00002000
 Takumi
-Arisa has been controlling us all this time. Those memories\nare not something that can be easily overwritten.
+Arisa has been controlling us all this time. Those memories are not something\nthat can be easily overwritten.
 
 00002000
 Takumi
-However, it's also possible to use that to our advantage and\ncreate reverse imprinting. For example, if someone\nunderstands that they are being controlled, they might\nbecome unable to move from the neck down.
+However, it's also possible to use that to our advantage and create reverse\nimprinting. For example, if someone understands that they are being controlled, \nthey might become unable to move from the neck down.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
@@ -316,29 +316,29 @@ C01a02030021
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00000000
-Arisa, who tried to scream loudly, but her voice suddenly\nchoked, had a surprised expression on her face.
+Arisa, who tried to scream loudly, but her voice suddenly choked, had a\nsurprised expression on her face.
 
 00002000
 Takumi
-You were trying to call for help just now, right? I'm sorry, \nbut I've made it so you can't do that either.
+You were trying to call for help just now, right? I'm sorry,  but I've made it\nso you can't do that either.
 
 00002000
 Takumi
-Actually, it would be easier to make your entire body unable\nto move. But, that alone wouldn't be interesting, you know.
+Actually, it would be easier to make your entire body unable to move. But, that\nalone wouldn't be interesting, you know.
 
 00000000
-I fully understood Arisa's strong will and the danger of her\nbeing someone who handled the music box.
+I fully understood Arisa's strong will and the danger of her being someone who\nhandled the music box.
 
 00000000
-That's why, in order to be extra cautious with Arisa, I had\nimplemented various forms of conditioning as insurance.
+That's why, in order to be extra cautious with Arisa, I had implemented various\nforms of conditioning as insurance.
 
 00002000
 Takumi
-This time, I've realized that something that serves as a\ntrigger can help bring back memories, so I've decided to\napply a different form of imprinting.
+This time, I've realized that something that serves as a trigger can help bring\nback memories, so I've decided to apply a different form of imprinting.
 
 00002000
 Takumi
-This time, without thinking about unnecessary things, I will\nthoroughly make sure that you can feel happy as long as you\nreceive my semen.
+This time, without thinking about unnecessary things, I will thoroughly make\nsure that you can feel happy as long as you receive my semen.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -349,7 +349,7 @@ C01a02030022
 
 00002000
 Takumi
-Weren't you the one who did unacceptable things without\nhesitation? It's not fair for you to complain now that\nyou're the one being done to, is it?
+Weren't you the one who did unacceptable things without hesitation? It's not\nfair for you to complain now that you're the one being done to, is it?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -367,7 +367,7 @@ Student B
 Ikenoue and... what an unusual combination.
 
 00000000
-At that moment, a student who had stayed in the classroom\napproached us with a curious expression.
+At that moment, a student who had stayed in the classroom approached us with a\ncurious expression.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -378,7 +378,7 @@ C01a02030024
 
 00002000
 Takumi
-Ah, thank goodness. Actually, from now on, Kisshouji-san has\nagreed to provide her body for semen collection.
+Ah, thank goodness. Actually, from now on, Kisshouji-san has agreed to provide\nher body for semen collection.
 
 00003000
 Arisa
@@ -387,7 +387,7 @@ C01a02030025
 
 00002000
 Takumi
-If it's alright with you, I was thinking of sharing the\nremaining semen with all of you. What do you think?
+If it's alright with you, I was thinking of sharing the remaining semen with all\nof you. What do you think?
 
 00002000
 Student A
@@ -399,7 +399,7 @@ Can we... receive it too?
 
 00002000
 Takumi
-Of course. However, the condition is that you watch us while\nwe do it properly.
+Of course. However, the condition is that you watch us while we do it properly.
 
 00002000
 Student A
@@ -410,11 +410,11 @@ Student B
 If you watch... you can receive... semen...
 
 00000000
-Arisa is looking at the girls whose expressions suddenly\nbrightened with an unbelievable look.
+Arisa is looking at the girls whose expressions suddenly brightened with an\nunbelievable look.
 
 00002000
 Takumi
-So, that's the plan. I'll make sure to use my body to\nextract semen properly.
+So, that's the plan. I'll make sure to use my body to extract semen properly.
 
 00000000
 With a smirk on my face, I approached the immobilized Arisa.

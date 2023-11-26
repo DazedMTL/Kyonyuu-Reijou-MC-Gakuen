@@ -13,84 +13,84 @@ Takumi
 Ngh... Mmm...
 
 00000000
-In the chairman's office, I slowly lifted my heavy eyelids\nwhile sitting on the chair.
+In the chairman's office、 I slowly lifted my heavy eyelids while sitting on the\nchair.
 
 00002000
 Takumi
 ...Ah... Did I fall asleep?
 
 00000000
-I diligently attended my daily classes, and after school\ntoday, without engaging with anyone, I secluded myself in\nthe chairman's office to come up with various strategies for\nthe future.
+I diligently attended my daily classes、 and after school today、 without engaging\nwith anyone、 I secluded myself in the chairman's office to come up with various\nstrategies for the future.
 
 00000000
-It seems that I fell asleep while groaning about this and\nthat without being able to come up with any specific\nsimulations due to the many undecided parts.
+It seems that I fell asleep while groaning about this and that without being\nable to come up with any specific simulations due to the many undecided parts.
 
 00002000
 Takumi
-The music box... Yeah, it's here.
+The music box... Yeah、 it's here.
 
 00000000
-I couldn't help but feel that I was being too defenseless, \nbut so far, nothing has happened that would make me lose\nthis.
+I couldn't help but feel that I was being too defenseless、  but so far、 nothing\nhas happened that would make me lose this.
 
 00000000
-I had a vague sense of it, but it seems that this music\nbox... makes it difficult for the person who hears it to\nrecognize its existence.
+I had a vague sense of it、 but it seems that this music box... makes it\ndifficult for the person who hears it to recognize its existence.
 
 00000000
-It's not completely invisible... but despite being a fairly\nnoticeable small box, it seems like no one pays any\nattention to it.
+It's not completely invisible... but despite being a fairly noticeable small\nbox、 it seems like no one pays any attention to it.
 
 00002000
 Takumi
-Including aspects like that, it might feel like a magical\ntool...
+Including aspects like that、 it might feel like a magical tool...
 
 00000000
-Thank goodness I was fortunate enough to have been able to\ntake this for myself. With gratitude in my heart, I will\nonce again contemplate what lies ahead.
+Thank goodness I was fortunate enough to have been able to take this for myself.\nWith gratitude in my heart、 I will once again contemplate what lies ahead.
 
 00000000
-In the end, how to reconcile the conflict between Arisa and\nthe Kisshouji family... that was the troubling part.
+In the end、 how to reconcile the conflict between Arisa and the Kisshouji\nfamily... that was the troubling part.
 
 00000000
-If the Kisshouji family's intervention becomes more serious, \nit will be difficult to maintain the current form of school\ndomination.
+If the Kisshouji family's intervention becomes more serious、  it will be\ndifficult to maintain the current form of school domination.
 
 00000000
-"Of course, returning to being a student and continuing as\nbefore... that might be fine, but honestly, I doubt if I can\neven stay in that position to begin with."
+"Of course、 returning to being a student and continuing as before... that might\nbe fine、 but honestly、 I doubt if I can even stay in that position to begin\nwith."
 
 00000000
-"I am an irregular element that was drawn in due to Arisa\nbecoming the chairperson."
+"I am an irregular element that was drawn in due to Arisa becoming the\nchairperson."
 
 00000000
-If Arisa's authority is taken away, it is highly possible\nthat she could be transferred to another school for any\nreason.
+If Arisa's authority is taken away、 it is highly possible that she could be\ntransferred to another school for any reason.
 
 00000000
-"Of course, I have considered the possibility of taking the\nmusic box and starting a new life in a new place."
+"Of course、 I have considered the possibility of taking the music box and\nstarting a new life in a new place."
 
 00000000
-However, honestly, the environment of Oukyo Academy was too\nattractive.
+However、 honestly、 the environment of Oukyo Academy was too attractive.
 
 00000000
-The situation of being surrounded by girls, most of whom\ncome from well-to-do families, except for myself.
+The situation of being surrounded by girls、 most of whom come from well-to-do\nfamilies、 except for myself.
 
 00000000
-Of course, there are cases like Rio and Koharu, but overall, \nthe level of appearance is high, and the fact that it is a\nboarding school with limited interaction with the outside\nworld is also significant.
+Of course、 there are cases like Rio and Koharu、 but overall、  the level of\nappearance is high、 and the fact that it is a boarding school with limited\ninteraction with the outside world is also significant.
 
 00002000
 Takumi
-If possible, I'd like to repel them successfully... but the\nopponent is...
+If possible、 I'd like to repel them successfully... but the opponent is...
 
 00000000
-The dilemma is that even the all-powerful music box, there\nis hesitation in using it this time.
+The dilemma is that even the all-powerful music box、 there is hesitation in\nusing it this time.
 
 00000000
-The main branch of the Kisshouji family is aware of this\nmusic box, so they might have come up with countermeasures.
+The main branch of the Kisshouji family is aware of this music box、 so they\nmight have come up with countermeasures.
 
 00000000
-Until I know whether I can use it as a trump card or not, if\nI use it carelessly and fail, I won't have any other means\nafterwards.
+Until I know whether I can use it as a trump card or not、 if I use it carelessly\nand fail、 I won't have any other means afterwards.
 
 00002000
 Takumi
-...Then, it would be a return to the nightmare... No, it\nmight be even worse.
+...Then、 it would be a return to the nightmare... No、 it might be even worse.
 
 00000000
-I don't know how many times I've gone through this cycle, so\nI slump down on my desk again.
+I don't know how many times I've gone through this cycle、 so I slump down on my\ndesk again.
 
 00000000
 And--
@@ -107,11 +107,11 @@ Arisa
 C01a07010001
 
 00000000
-After a modest knock, the one who entered the principal's\noffice was none other than Arisa, as rumored.
+After a modest knock、 the one who entered the principal's office was none other\nthan Arisa、 as rumored.
 
 00002000
 Takumi
-Ah... Arisa, huh.
+Ah... Arisa、 huh.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -122,52 +122,52 @@ C01a07010002
 
 00002000
 Takumi
-Huh...? Ah, I just dozed off for a bit... um, there's no\nneed to worry.
+Huh...? Ah、 I just dozed off for a bit... um、 there's no need to worry.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Is that so? Well, if that's the case, then it's fine...
+Is that so? Well、 if that's the case、 then it's fine...
 C01a07010003
 
 00000000
-Arisa, with a slightly worried expression, showed a faint\nsmile. In that whole sequence of atmosphere, there was not a\ntrace of the sharpness I had felt before.
+Arisa、 with a slightly worried expression、 showed a faint smile. In that whole\nsequence of atmosphere、 there was not a trace of the sharpness I had felt\nbefore.
 
 00000000
-It was the genuine concern and relief in her words that\nbelonged to a truly kind-hearted girl.
+It was the genuine concern and relief in her words that belonged to a truly\nkind-hearted girl.
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-Her completely open and sincere gestures, free from any\nhostility, made my heart skip a beat.
+Her completely open and sincere gestures、 free from any hostility、 made my heart\nskip a beat.
 
 00000000
-Since then, I have released the mind control that caused the\nregression of your mental age.
+Since then、 I have released the mind control that caused the regression of your\nmental age.
 
 00000000
-And so, I reestablished the mind control that ingrained the\nbelief that collecting semen as usual is the ultimate goal.
+And so、 I reestablished the mind control that ingrained the belief that\ncollecting semen as usual is the ultimate goal.
 
 00000000
-I thought about what would happen after returning to school, \nnow that the correction in the cabin was over...
+I thought about what would happen after returning to school、  now that the\ncorrection in the cabin was over...
 
 00006000
 Takumi
 I never thought it would turn out like this...
 
 00000000
-Arisa's usual arrogance completely vanished in her attitude\ntowards me, and there were times when she showed signs of\nrelying on me, as if seeking comfort.
+Arisa's usual arrogance completely vanished in her attitude towards me、 and\nthere were times when she showed signs of relying on me、 as if seeking comfort.
 
 00000000
-"I can't say that my position within the school is still\ngood... No, it's safe to say it's close to the worst."
+"I can't say that my position within the school is still good... No、 it's safe\nto say it's close to the worst."
 
 00000000
-However, Arisa herself completely disregards that and\nselflessly supports me, diligently carrying out the duties\nof a council member without asking for anything in return.
+However、 Arisa herself completely disregards that and selflessly supports me、 \ndiligently carrying out the duties of a council member without asking for\nanything in return.
 
 00000000
-I deliberately opened my mouth in a blunt manner, trying not\nto show too much agitation towards Arisa, whose behavior had\nvisibly changed.
+I deliberately opened my mouth in a blunt manner、 trying not to show too much\nagitation towards Arisa、 whose behavior had visibly changed.
 
 00002000
 Takumi
@@ -177,7 +177,7 @@ So? Did you have something you wanted to talk about?
 
 00003000
 Arisa
-Um, ah... well...
+Um、 ah... well...
 C01a07010004
 
 00000000
@@ -196,11 +196,11 @@ C01a07010005
 
 00002000
 Takumi
-What kind of conversation? Well, it doesn't seem like it's\ngoing to be a very good one.
+What kind of conversation? Well、 it doesn't seem like it's going to be a very\ngood one.
 
 00003000
 Arisa
-Yes... It seems that some people from my main family will be\nvisiting the school soon... Probably within this week...
+Yes... It seems that some people from my main family will be visiting the school\nsoon... Probably within this week...
 C01a07010006
 
 00002000
@@ -208,32 +208,32 @@ Takumi
 That's...
 
 00000000
-Previously, when I contacted my main family, I submitted an\ninvestigation report and waited for further instructions\nafter carefully examining the results.
+Previously、 when I contacted my main family、 I submitted an investigation report\nand waited for further instructions after carefully examining the results.
 
 00000000
-However, without even waiting for that report, they\nimmediately sent a few people to inspect... It seems that\nthey are taking this matter seriously as well.
+However、 without even waiting for that report、 they immediately sent a few\npeople to inspect... It seems that they are taking this matter seriously as\nwell.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-As expected, that man is pulling the strings again... How\ninfuriating...
+As expected、 that man is pulling the strings again... How infuriating...
 C01a07010007
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00003000
 Arisa
-I will never forgive that bastard who only uses the prestige\nof our family name...
+I will never forgive that bastard who only uses the prestige of our family\nname...
 C01a07010008
 
 00000000
-I can't help but be shocked by the foul language and insults\nthat I've never heard before.
+I can't help but be shocked by the foul language and insults that I've never\nheard before.
 
 00000000
-Perhaps it was because I had touched upon the darkness of\nthe Kisshouji family, which was capable of making even their\nown relatives spill their secrets, that I couldn't help but\nfeel a little fear towards Arisa.
+Perhaps it was because I had touched upon the darkness of the Kisshouji family、 \nwhich was capable of making even their own relatives spill their secrets、 that I\ncouldn't help but feel a little fear towards Arisa.
 
 0300000000000F2742474D3037
 
@@ -242,32 +242,32 @@ Takumi
 Maybe I still only know the surface of Arisa...
 
 00000000
-Sometimes she would show a hysterical side, but I thought it\nwas just a typical light-hearted trait of girls.
+Sometimes she would show a hysterical side、 but I thought it was just a typical\nlight-hearted trait of girls.
 
 00000000
-However, it seems that she not only harbors complexes in her\nheart, but also has a rather passionate side.
+However、 it seems that she not only harbors complexes in her heart、 but also has\na rather passionate side.
 
 00000000
-Until now, I never tried to understand the bitterness and\nresentment that Arisa held inside her.
+Until now、 I never tried to understand the bitterness and resentment that Arisa\nheld inside her.
 
 00000000
-I now realize that various aspects of her personality are\nemerging one after another.
+I now realize that various aspects of her personality are emerging one after\nanother.
 
 00006000
 Takumi
 That's right... I can't help but be concerned about Arisa...
 
 00000000
-Since deciding to give them a thorough payback for being\nthoroughly used, I have gradually begun to see unknown\naspects of Arisa.
+Since deciding to give them a thorough payback for being thoroughly used、 I have\ngradually begun to see unknown aspects of Arisa.
 
 00000000
-I can't deny it, even though I want to, I can't help but\nfeel uneasy about this sensation.
+I can't deny it、 even though I want to、 I can't help but feel uneasy about this\nsensation.
 
 00000000
 I wonder what exactly is the cause of this emotion...
 
 00000000
-Now, if I don't carefully discern that, I felt like it might\nshake my judgment from now on.
+Now、 if I don't carefully discern that、 I felt like it might shake my judgment\nfrom now on.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

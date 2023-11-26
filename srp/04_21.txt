@@ -16,29 +16,29 @@ Good morning... Huh?
 
 00003000
 Arisa
-...As I've said multiple times, there is no problem! If it's\nabout the investigation, we should confirm it here first...!
+...As I've said multiple times、 there is no problem! If it's about the\ninvestigation、 we should confirm it here first...!
 C01a04210001
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Destroying evidence...? Please don't say such foolish\nthings! What do you think of us?
+Destroying evidence...? Please don't say such foolish things! What do you think\nof us?
 C01a04210002
 
 00000000
-When I showed up at the chairman's office, Arisa, who had\narrived earlier, was in the midst of a heated phone\nconversation, speaking loudly and passionately.
+When I showed up at the chairman's office、 Arisa、 who had arrived earlier、 was\nin the midst of a heated phone conversation、 speaking loudly and passionately.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-...I understand. If you insist on doing that, please go\nahead. However, I cannot cooperate with you on that matter.
+...I understand. If you insist on doing that、 please go ahead. However、 I cannot\ncooperate with you on that matter.
 C01a04210003
 
 00003000
 Arisa
-Of course, if you continue to act on your own accord, I will\nreport it to the committee separately and take appropriate\naction.
+Of course、 if you continue to act on your own accord、 I will report it to the\ncommittee separately and take appropriate action.
 C01a04210004
 
 03001000
@@ -46,7 +46,7 @@ C01a04210004
 0200A9100002
 
 00000000
-Without waiting for a response on the other end of the\nphone, Arisa unilaterally hung up.
+Without waiting for a response on the other end of the phone、 Arisa unilaterally\nhung up.
 
 0300000000000F2742474D3033
 
@@ -65,17 +65,17 @@ Takumi
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a04210001
 
 00000000
-Takumi quietly whispered to Yuriko, who was by his side, but\nshe didn't respond, appearing uneasy as well.
+Takumi quietly whispered to Yuriko、 who was by his side、 but she didn't respond、 \nappearing uneasy as well.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Um... Arisa, are you okay...?
+Um... Arisa、 are you okay...?
 C02a04210002
 
 00003000
@@ -94,7 +94,7 @@ C02a04210003
 
 00003000
 Arisa
-Sorry, but could you let me be alone for a bit? I'm sorry.
+Sorry、 but could you let me be alone for a bit? I'm sorry.
 C01a04210007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
@@ -115,30 +115,30 @@ C02a04210004
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00000000
-Yuriko's call was in vain, and Arisa left the room alone.
+Yuriko's call was in vain、 and Arisa left the room alone.
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a04210005
 
 00000000
-Yuriko couldn't help but feel lonely as Arisa's attitude\ngradually became more distant and cold, surpassing mere\nunease.
+Yuriko couldn't help but feel lonely as Arisa's attitude gradually became more\ndistant and cold、 surpassing mere unease.
 
 00002000
 Takumi
-Geez... It seems like she's taking it out on me. She's a bit\non edge, huh?
+Geez... It seems like she's taking it out on me. She's a bit on edge、 huh?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a04210006
 
 00002000
 Takumi
-Right now, the roles have completely reversed at school.\nYuriko is more excellent than Arisa in every way.
+Right now、 the roles have completely reversed at school. Yuriko is more\nexcellent than Arisa in every way.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30332F2D3236302F302E37352F302E3735
 
@@ -148,7 +148,7 @@ This is no joke!
 C02a04210007
 
 00000000
-Yuriko, who had exploded with emotions, left even me\nspeechless.
+Yuriko、 who had exploded with emotions、 left even me speechless.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -159,45 +159,45 @@ C02a04210008
 
 00002000
 Takumi
-Y-... You're fine. But, it seems like that kind of rumor is\nspreading.
+Y-... You're fine. But、 it seems like that kind of rumor is spreading.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Arisa... is a person with amazing abilities. Someone like\nme... can't even compare.
+Arisa... is a person with amazing abilities. Someone like me... can't even\ncompare.
 C02a04210009
 
 00000000
-Yuriko's unwavering trust... no, I would even say her\ndevotion towards Arisa, remained steadfast.
+Yuriko's unwavering trust... no、 I would even say her devotion towards Arisa、 \nremained steadfast.
 
 00000000
-Despite exerting such strong mind control, in Yuriko's mind, \nArisa is still absolute and cannot be overturned.
+Despite exerting such strong mind control、 in Yuriko's mind、  Arisa is still\nabsolute and cannot be overturned.
 
 00000000
-I suppose it's because Arisa acknowledges and accepts my\nposition as the student council president that I am able to\naccept it as well.
+I suppose it's because Arisa acknowledges and accepts my position as the student\ncouncil president that I am able to accept it as well.
 
 00002000
 Takumi
-Yuriko, Arisa is really excellent, huh...
+Yuriko、 Arisa is really excellent、 huh...
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Of course. Even when it comes to semen collection, it's just\na matter of getting used to it. If I set my mind to it, I\ncould easily surpass something like that.
+Of course. Even when it comes to semen collection、 it's just a matter of getting\nused to it. If I set my mind to it、 I could easily surpass something like that.
 C02a04210010
 
 00002000
 Takumi
-Haha... You're really into it, huh...
+Haha... You're really into it、 huh...
 
 00000000
-Yuriko must really know a lot about Arisa. It seems like\nthey have a long history together, so their relationship is\ndifferent from something built overnight.
+Yuriko must really know a lot about Arisa. It seems like they have a long\nhistory together、 so their relationship is different from something built\novernight.
 
 00002000
 Takumi
-By the way, Yuriko, how long have you been with Arisa?
+By the way、 Yuriko、 how long have you been with Arisa?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -208,32 +208,32 @@ C02a04210011
 
 00002000
 Takumi
-Well, I was just curious. If it's not too much trouble, \ncould you tell me?
+Well、 I was just curious. If it's not too much trouble、  could you tell me?
 
 00003000
 Yuriko
-Well... I guess it's not really something to keep a\nsecret... but, umm, it's been since before we entered\nelementary school, just so you know.
+Well... I guess it's not really something to keep a secret... but、 umm、 it's\nbeen since before we entered elementary school、 just so you know.
 C02a04210012
 
 00002000
 Takumi
-So, does that mean you've been together since you were kids?
+So、 does that mean you've been together since you were kids?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Yes. My parents were serving Arisa and her mother... and I\nwas also allowed to be by their side.
+Yes. My parents were serving Arisa and her mother... and I was also allowed to\nbe by their side.
 C02a04210013
 
 00003000
 Yuriko
-Since we're the same age, I was treated like a sister by\nthem.
+Since we're the same age、 I was treated like a sister by them.
 C02a04210014
 
 00002000
 Takumi
-I see... So you've been in the same class together all this\ntime at school?
+I see... So you've been in the same class together all this time at school?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -244,90 +244,90 @@ C02a04210015
 
 00002000
 Takumi
-In a way, I guess I was acting as her bodyguard. It really\ngives off that ladylike vibe.
+In a way、 I guess I was acting as her bodyguard. It really gives off that\nladylike vibe.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-It's not such an easy environment. Arisa, who was labeled as\nnot being from the main family, has received a certain\ntreatment... I wonder how she has been treated...
+It's not such an easy environment. Arisa、 who was labeled as not being from the\nmain family、 has received a certain treatment... I wonder how she has been\ntreated...
 C02a04210016
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-The students in our class... and even the teachers, they\ncasually engage in discrimination and such... Prestigious\ngirls' schools like this are not worth much.
+The students in our class... and even the teachers、 they casually engage in\ndiscrimination and such... Prestigious girls' schools like this are not worth\nmuch.
 C02a04210017
 
 00002000
 Takumi
-Well, that's... quite vivid, isn't it...
+Well、 that's... quite vivid、 isn't it...
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Nevertheless, Arisa continued to make relentless efforts and\nsealed off the surrounding commotion with her own power.
+Nevertheless、 Arisa continued to make relentless efforts and sealed off the\nsurrounding commotion with her own power.
 C02a04210018
 
 00003000
 Yuriko
-It doesn't matter about our family background... In fact, \neven in a state where it could be seen as a hindrance, she\nachieved results and now the main family can no longer\nunderestimate her power--
+It doesn't matter about our family background... In fact、  even in a state where\nit could be seen as a hindrance、 she achieved results and now the main family\ncan no longer underestimate her power--
 C02a04210019
 
 00003000
 Yuriko
-They tried to give her a position and surround her at the\nprestigious Oukyo Academy... She has that much power.
+They tried to give her a position and surround her at the prestigious Oukyo\nAcademy... She has that much power.
 C02a04210020
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-I couldn't just passively stay by her side. Even just to\nsupport her from behind, I have always put in daily efforts.
+I couldn't just passively stay by her side. Even just to support her from\nbehind、 I have always put in daily efforts.
 C02a04210021
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-There's no way Arisa would be affected by just a temporary\nrumor. I believe in her.
+There's no way Arisa would be affected by just a temporary rumor. I believe in\nher.
 C02a04210022
 
 00002000
 Takumi
-I see... You're not taking this lightly, huh?
+I see... You're not taking this lightly、 huh?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Of course. Arisa's happiness, who has been treated unfairly, \nis my one and only wish...
+Of course. Arisa's happiness、 who has been treated unfairly、  is my one and only\nwish...
 C02a04210023
 
 00000000
-At first, I thought it was blind faith, but as we spent more\ntime together, it became clear that it was trust and\nloyalty.
+At first、 I thought it was blind faith、 but as we spent more time together、 it\nbecame clear that it was trust and loyalty.
 
 00006000
 Takumi
-This was the right approach, rather than trying to change\nYuriko's mind...
+This was the right approach、 rather than trying to change Yuriko's mind...
 
 00000000
-With such a strong determination, even if they tried to\nbrainwash me into worshiping them, I would have quickly\nresisted and rejected it.
+With such a strong determination、 even if they tried to brainwash me into\nworshiping them、 I would have quickly resisted and rejected it.
 
 00000000
-However, despite being so intelligent, there is a noticeable\nsoftness when it comes to Arisa.
+However、 despite being so intelligent、 there is a noticeable softness when it\ncomes to Arisa.
 
 00000000
-In a way, just like the complex that Arisa holds towards\nYuriko, Yuriko herself becomes a weakness for Arisa... Such\nvulnerabilities can be seen.
+In a way、 just like the complex that Arisa holds towards Yuriko、 Yuriko herself\nbecomes a weakness for Arisa... Such vulnerabilities can be seen.
 
 00000000
-I can't deal with them properly. That's why, I have no\nchoice but to continue moving forward, cunningly, no matter\nwhat.
+I can't deal with them properly. That's why、 I have no choice but to continue\nmoving forward、 cunningly、 no matter what.
 
 00000000
 A vision had already begun to form in my mind.
@@ -340,7 +340,7 @@ A vision had already begun to form in my mind.
 
 00002000
 Takumi
-Hey, I've been waiting for you.
+Hey、 I've been waiting for you.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -351,18 +351,18 @@ C02a04210024
 
 00002000
 Takumi
-Don't be so cautious. I want to tell you something good for\nYuriko's sake.
+Don't be so cautious. I want to tell you something good for Yuriko's sake.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-...I can't possibly imagine there being a good story that\nwould warrant such caution.
+...I can't possibly imagine there being a good story that would warrant such\ncaution.
 C02a04210025
 
 00002000
 Takumi
-Is that so? It's about creating an opportunity to clear up\nArisa's misunderstanding.
+Is that so? It's about creating an opportunity to clear up Arisa's\nmisunderstanding.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -373,27 +373,27 @@ C02a04210026
 
 00002000
 Takumi
-There's no point in lying. I was also a little troubled.\nWhen the two of you are at odds, it makes it difficult for\nthe chairman to do her job.
+There's no point in lying. I was also a little troubled. When the two of you are\nat odds、 it makes it difficult for the chairman to do her job.
 
 00000000
-I completely put aside the fact that I am the one causing\nthe tension and shrugged my shoulders in a futile manner.
+I completely put aside the fact that I am the one causing the tension and\nshrugged my shoulders in a futile manner.
 
 03002000B80B
 
 00002000
 Takumi
-First of all, do you realize the reason why Arisa became\ncold towards you, Yuriko?
+First of all、 do you realize the reason why Arisa became cold towards you、 \nYuriko?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Well... there's a rumor going around that I'm better at\ncollecting semen...
+Well... there's a rumor going around that I'm better at collecting semen...
 C02a04210027
 
 00002000
 Takumi
-Well, it's not exactly a rumor, but that's not all. She\nsuspects that you're monopolizing semen through me...
+Well、 it's not exactly a rumor、 but that's not all. She suspects that you're\nmonopolizing semen through me...
 
 0300000000000F2742474D3036
 
@@ -406,11 +406,11 @@ C02a04210028
 
 00002000
 Takumi
-Calm down. While it's true that Yuriko often helps as a role\nmodel, it doesn't mean she's monopolizing anything.
+Calm down. While it's true that Yuriko often helps as a role model、 it doesn't\nmean she's monopolizing anything.
 
 00002000
 Takumi
-So, who do you think benefits from spreading those rumors\nand causing confusion between us?
+So、 who do you think benefits from spreading those rumors and causing confusion\nbetween us?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30372F2D3236302F302E37352F302E3735
 
@@ -421,7 +421,7 @@ C02a04210029
 
 00002000
 Takumi
-W-Well... There's still no definitive evidence. But\naccording to the main source... Did you notice anything\nstrange about Arisa during our phone call the other day?
+W-Well... There's still no definitive evidence. But according to the main\nsource... Did you notice anything strange about Arisa during our phone call the\nother day?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
@@ -432,7 +432,7 @@ C02a04210030
 
 00002000
 Takumi
-Do you think it will be resolved if we talk directly? Now\nthat Arisa has become suspicious, there's no guarantee that\nshe will believe just words alone.
+Do you think it will be resolved if we talk directly? Now that Arisa has become\nsuspicious、 there's no guarantee that she will believe just words alone.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -443,18 +443,18 @@ C02a04210031
 
 00002000
 Takumi
-That's why, you should show it directly through your\nactions. Provide the semen that Yuriko collected directly to\nArisa.
+That's why、 you should show it directly through your actions. Provide the semen\nthat Yuriko collected directly to Arisa.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30352F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-W-What... Now, Arisa is being suspicious because of\nsomething like this...
+W-What... Now、 Arisa is being suspicious because of something like this...
 C02a04210032
 
 00002000
 Takumi
-But, can't you prove that it's not simply me monopolizing\neverything?
+But、 can't you prove that it's not simply me monopolizing everything?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30372F2D3236302F302E37352F302E3735
 
@@ -465,18 +465,18 @@ C02a04210033
 
 00002000
 Takumi
-Well, if Yuriko doesn't like it, there's nothing we can do.\nIn that case, let's pretend this conversation never\nhappened...
+Well、 if Yuriko doesn't like it、 there's nothing we can do. In that case、 let's\npretend this conversation never happened...
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30352F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-W-Wait, please. It's not that I don't want to... I\nunderstand. Since it's your way, please proceed with the\nconversation.
+W-Wait、 please. It's not that I don't want to... I understand. Since it's your\nway、 please proceed with the conversation.
 C02a04210034
 
 00002000
 Takumi
-I thought you might say that. It's noticeable here, so could\nyou come to my room?
+I thought you might say that. It's noticeable here、 so could you come to my\nroom?
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -487,7 +487,7 @@ C02a04210035
 
 00002000
 Takumi
-Yeah, come on, hurry up.
+Yeah、 come on、 hurry up.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30352F2D3236302F302E37352F302E3735
 
@@ -497,7 +497,7 @@ Ah...
 C02a04210036
 
 00000000
-Without further ado, I took Yuriko's hand and led her to my\nroom.
+Without further ado、 I took Yuriko's hand and led her to my room.
 
 03002000B80B
 
@@ -509,20 +509,20 @@ Without further ado, I took Yuriko's hand and led her to my\nroom.
 
 00002000
 Takumi
-It might be a bit messy, but please feel free to come in.
+It might be a bit messy、 but please feel free to come in.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-I don't particularly mind. But, more importantly, hurry up\nand bring Arisa...
+I don't particularly mind. But、 more importantly、 hurry up and bring Arisa...
 C02a04210037
 
 03002000B80B
 
 00002000
 Takumi
-I understand. Don't worry, I've made the necessary\npreparations.
+I understand. Don't worry、 I've made the necessary preparations.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30372F2D3236302F302E37352F302E3735
 
@@ -538,7 +538,7 @@ Takumi
 Hehe... This kind of thing...
 
 00000000
-With a smirk, I laugh at the bewildered Yuriko as I shift\nthe sheets on the bed.
+With a smirk、 I laugh at the bewildered Yuriko as I shift the sheets on the bed.
 
 00003000
 Arisa
@@ -553,7 +553,7 @@ A-Arisa...!?
 C02a04210039
 
 00000000
-There, Arisa lay on her side, with both arms bound and her\nmouth gagged.
+There、 Arisa lay on her side、 with both arms bound and her mouth gagged.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30332F2D3236302F302E37352F302E3735
 
@@ -564,7 +564,7 @@ C02a04210040
 
 00002000
 Takumi
-It can't be helped. Arisa is being stubborn right now. If I\ndon't do this, she won't accept it.
+It can't be helped. Arisa is being stubborn right now. If I don't do this、 she\nwon't accept it.
 
 0200BC000100012C666D5F433032615F30325F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -575,10 +575,10 @@ C02a04210041
 
 00002000
 Takumi
-Yuriko, you just need to fulfill your role. Shall we try to\nbe conscious of that once again?
+Yuriko、 you just need to fulfill your role. Shall we try to be conscious of that\nonce again?
 
 00000000
-The music playing from the earphones fills me with the usual\nsense of excitement.
+The music playing from the earphones fills me with the usual sense of\nexcitement.
 
 03008C0000000F2753455F6130385F30323034
 
@@ -589,7 +589,7 @@ The music playing from the earphones fills me with the usual\nsense of excitemen
 02007F10
 
 00000000
-While sensing the unease of the two, I played the music box\nagain.
+While sensing the unease of the two、 I played the music box again.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

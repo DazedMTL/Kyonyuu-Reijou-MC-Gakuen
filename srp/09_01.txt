@@ -13,14 +13,14 @@ Takumi
 *sigh*...
 
 00000000
-Even though it's just a little before the early morning bell\nrings, I stifle my sleepiness and let out a yawn in the\nclassroom.
+Even though it's just a little before the early morning bell rings、 I stifle my\nsleepiness and let out a yawn in the classroom.
 
 00006000
 Takumi
-I'm a little sleepy... Well, I chose this myself, so I guess\nit can't be helped...
+I'm a little sleepy... Well、 I chose this myself、 so I guess it can't be\nhelped...
 
 00000000
-"Even though I've entrusted the duties as the student\ncouncil president to Arisa, I still need to check the\ndocuments. On top of that, I have another task now, so I\ndon't have enough sleep."
+"Even though I've entrusted the duties as the student council president to\nArisa、 I still need to check the documents. On top of that、 I have another task\nnow、 so I don't have enough sleep."
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -32,17 +32,17 @@ I'm a little sleepy... Well, I chose this myself, so I guess\nit can't be helped
 
 00003000
 Rio
-Well, you know, working on TV involves a really long\nrehearsal and connecting scenes.
+Well、 you know、 working on TV involves a really long rehearsal and connecting\nscenes.
 C03a09010001
 
 00000000
-Rio, who is the cause of my busyness, was boasting to\neveryone in the class about the busyness and charm of her\nown work as usual.
+Rio、 who is the cause of my busyness、 was boasting to everyone in the class\nabout the busyness and charm of her own work as usual.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Watching it when it's broadcasted may seem short, but... the\nactual set is incredibly exhausting.
+Watching it when it's broadcasted may seem short、 but... the actual set is\nincredibly exhausting.
 C03a09010002
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30372F2D3236332F302E37362F302E3736
@@ -62,54 +62,54 @@ Is it just my imagination? Rio is looking at me.
 0200BC000100012C666D5F433033615F30335F305F305F305F30352F2D3236332F302E37362F302E3736
 
 00000000
-Even if I think it's not true, it's clear that they are\nstealing glances at me.
+Even if I think it's not true、 it's clear that they are stealing glances at me.
 
 00000000
-And yet, whenever our eyes meet, she blushes shyly as if\nembarrassed.
+And yet、 whenever our eyes meet、 she blushes shyly as if embarrassed.
 
 00002000
 Lackey A
-What's wrong? You seem a bit absent-minded. Are you maybe\nreally tired to the point of being in trouble?
+What's wrong? You seem a bit absent-minded. Are you maybe really tired to the\npoint of being in trouble?
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-W-Well... it can't be helped that it's tiring. If it wasn't\nthis busy, I wouldn't be a celebrity, right?
+W-Well... it can't be helped that it's tiring. If it wasn't this busy、 I\nwouldn't be a celebrity、 right?
 C03a09010003
 
 00002000
 Lackey B
-So that's how it is. You haven't been talking to Koharu-chan\nlately either... Even though you were talking so much about\nbreasts until just a little while ago.
+So that's how it is. You haven't been talking to Koharu-chan lately either...\nEven though you were talking so much about breasts until just a little while\nago.
 
 00002000
 Lackey A
-I'm cheering for Rio-san's breasts, which have a nicer\nproportion than those cow-like boobs.
+I'm cheering for Rio-san's breasts、 which have a nicer proportion than those\ncow-like boobs.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-It's not a big deal... It's bothersome... I'm not really\npaying attention to Ikenoue or anything... Ah...
+It's not a big deal... It's bothersome... I'm not really paying attention to\nIkenoue or anything... Ah...
 C03a09010004
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-No, no, no! It's about Koharu-chan! Koharu-chan! Yes, it's\nabout Koharu-chan!
+No、 no、 no! It's about Koharu-chan! Koharu-chan! Yes、 it's about Koharu-chan!
 C03a09010005
 
 00002000
 Lackey A
-Huh? Rio-san, were you listening to our conversation? We\nwere talking about Koharu-chan's big boobs, not about\nIkenoue.
+Huh? Rio-san、 were you listening to our conversation? We were talking about\nKoharu-chan's big boobs、 not about Ikenoue.
 
 00002000
 Lackey B
-Rio-san, you're giving quite an unexpected reaction.
+Rio-san、 you're giving quite an unexpected reaction.
 
 00000000
-Rio, who tried to cover up while blushing after digging her\nown grave, is met with smirks from her lackeys.
+Rio、 who tried to cover up while blushing after digging her own grave、 is met\nwith smirks from her lackeys.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30372F2D3236332F302E37362F302E3736
 
@@ -120,7 +120,7 @@ C03a09010006
 
 00002000
 Lackey B
-Rio-san, could it be that...
+Rio-san、 could it be that...
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30332F2D3236332F302E37362F302E3736
 
@@ -131,17 +131,17 @@ C03a09010007
 
 00002000
 Lackey B
-Like, falling in love while being bullied or something?
+Like、 falling in love while being bullied or something?
 
 00002000
 Lackey A
-Like, S&M or being bothered by elementary school bullies.\nIt's like that kind of romance, isn't it? It's actually\nreally good, you know.
+Like、 S&M or being bothered by elementary school bullies. It's like that kind of\nromance、 isn't it? It's actually really good、 you know.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Ugh... *cough*... Let's stop talking about this... I have\nsome work to do, so I'll be leaving now.
+Ugh... *cough*... Let's stop talking about this... I have some work to do、 so\nI'll be leaving now.
 C03a09010008
 
 00000000
@@ -151,13 +151,13 @@ Rio stands up from her seat as if trying to escape.
 
 00003000
 Rio
-I asked you to take care of the office matters, remember...
+I asked you to take care of the office matters、 remember...
 C03a09010009
 
 0200E600000000000000F9FE0000F9FE4C004C004C004C00E8030000F401666D5F433033615F30335F305F305F305F3033
 
 00000000
-Just when I thought she was getting closer to me, she\nquickly threw out some parting words to hide her\nembarrassment and left the classroom.
+Just when I thought she was getting closer to me、 she quickly threw out some\nparting words to hide her embarrassment and left the classroom.
 
 0300000000000F2742474D3032
 
@@ -167,20 +167,20 @@ Rio must have a strong desire to belong to the office.
 
 00006000
 Takumi
-Nevertheless, earlier it felt like she was concerned about\nme... Maybe I'm just overthinking...
+Nevertheless、 earlier it felt like she was concerned about me... Maybe I'm just\noverthinking...
 
 00000000
-Rio's reaction earlier was just like something you would see\nin a shoujo manga, where she was clearly conscious of the\nopposite sex.
+Rio's reaction earlier was just like something you would see in a shoujo manga、 \nwhere she was clearly conscious of the opposite sex.
 
 00000000
-However, Rio is surprisingly calculating and can become\ncunning when it comes to protecting her own position, so I\ndoubt whether she would show such an obvious reaction.
+However、 Rio is surprisingly calculating and can become cunning when it comes to\nprotecting her own position、 so I doubt whether she would show such an obvious\nreaction.
 
 00000000
-If we were to say that it was just an act to enter the\noffice, then it might indeed be true.
+If we were to say that it was just an act to enter the office、 then it might\nindeed be true.
 
 00006000
 Takumi
-Well, it's not a question with a clear answer, but I wonder\nwhich feeling is stronger in Rio's heart, both elements must\nbe present...
+Well、 it's not a question with a clear answer、 but I wonder which feeling is\nstronger in Rio's heart、 both elements must be present...
 
 00000000
 I can't help but become interested in things like that.
@@ -190,23 +190,23 @@ Takumi
 Hmm...
 
 00000000
-Then, the image of Rio passionately demanding me from the\nother day came to mind so vividly.
+Then、 the image of Rio passionately demanding me from the other day came to mind\nso vividly.
 
 00000000
 I can't help but get aroused.
 
 00006000
 Takumi
-I guess it's about time I give an answer to my own\nfeelings...
+I guess it's about time I give an answer to my own feelings...
 
 00000000
 I'm not patient enough to endure it silently.
 
 00000000
-While trying not to be swayed by the throbbing in my lower\nbody, I pondered over my response, determined to give an\nanswer right away.
+While trying not to be swayed by the throbbing in my lower body、 I pondered over\nmy response、 determined to give an answer right away.
 
 00000000
-Should I be honest with my feelings that I find Rio cute, or\nshould I still hold onto the desire for revenge? It's a\nchoice between the two.
+Should I be honest with my feelings that I find Rio cute、 or should I still hold\nonto the desire for revenge? It's a choice between the two.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

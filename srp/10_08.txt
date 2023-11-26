@@ -9,20 +9,20 @@
 0200000001004247303430305F62
 
 00000000
-Koharu decided to quickly come up with a countermeasure when\nshe realized she was being mind-controlled.
+Koharu decided to quickly come up with a countermeasure when she realized she\nwas being mind-controlled.
 
 00000000
-But she couldn't come up with a method and was sulking in\nthe courtyard at dusk.
+But she couldn't come up with a method and was sulking in the courtyard at dusk.
 
 00002000
 Takumi
 What should I do...
 
 00000000
-The frustration bred irritation, and as a result of the\nmounting impatience, no ideas came to mind.
+The frustration bred irritation、 and as a result of the mounting impatience、 no\nideas came to mind.
 
 00000000
-Several days had passed since Koharu's confession, with each\nnight feeling longer than the last.
+Several days had passed since Koharu's confession、 with each night feeling\nlonger than the last.
 
 05008200F4010000
 
@@ -30,29 +30,29 @@ Several days had passed since Koharu's confession, with each\nnight feeling long
 
 00003000
 Arisa
-What a disgraceful sight you're showing, even though class\nis about to start... Honestly...
+What a disgraceful sight you're showing、 even though class is about to start...\nHonestly...
 C01a10080001
 
 00002000
 Takumi
-Arisa, good morning... You're almost late, but what are you\ndoing?
+Arisa、 good morning... You're almost late、 but what are you doing?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Isn't boycotting class something that shouldn't be done\nrather than asking questions?
+Isn't boycotting class something that shouldn't be done rather than asking\nquestions?
 C01a10080002
 
 00002000
 Takumi
-...Uh, yeah, that's right.
+...Uh、 yeah、 that's right.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Sigh... How about trying to understand your own position\nbetter?
+Sigh... How about trying to understand your own position better?
 C01a10080003
 
 00002000
@@ -61,22 +61,22 @@ I understand...
 
 00002000
 Takumi
-But more importantly... I can sense a sharper edge in your\nwords than usual. Is there something bothering you?
+But more importantly... I can sense a sharper edge in your words than usual. Is\nthere something bothering you?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a10080004
 
 00003000
 Arisa
-It's a bit... hectic at home, I suppose.
+It's a bit... hectic at home、 I suppose.
 C01a10080005
 
 00000000
-It seems that Arisa has gotten caught up in a situation\nwhere the conflict with her family has intensified. However, \nI have always prioritized Koharu, and I have not been\ninvolved in that matter at all.
+It seems that Arisa has gotten caught up in a situation where the conflict with\nher family has intensified. However、  I have always prioritized Koharu、 and I\nhave not been involved in that matter at all.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -93,22 +93,22 @@ Oh... It's rare to hear Arisa complain like this.
 
 00003000
 Arisa
-If you're teasing me, I'll get angry now, you know.
+If you're teasing me、 I'll get angry now、 you know.
 C01a10080007
 
 00002000
 Takumi
-That's not what I meant... It's just that, I'm also\ntroubled, you know...
+That's not what I meant... It's just that、 I'm also troubled、 you know...
 
 00002000
 Takumi
-Well, that's the spirit! Arisa, if you take action, things\nwill work out somehow, so do your best.
+Well、 that's the spirit! Arisa、 if you take action、 things will work out\nsomehow、 so do your best.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Oh, um... Thank you for your concern.
+Oh、 um... Thank you for your concern.
 C01a10080008
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
@@ -126,16 +126,16 @@ Ah... well...
 
 00003000
 Arisa
-Please spare me your sympathy and try not to bear everything\non your own.
+Please spare me your sympathy and try not to bear everything on your own.
 C01a10080010
 
 00002000
 Takumi
-Yeah, that might be true... Yeah, you're right.
+Yeah、 that might be true... Yeah、 you're right.
 
 00002000
 Takumi
-Well, I want you to listen... There's something that I just\ncan't let go of...
+Well、 I want you to listen... There's something that I just can't let go of...
 
 00002000
 Takumi
@@ -145,18 +145,18 @@ I might have to let go of it...
 
 00002000
 Takumi
-What would you do, Arisa?
+What would you do、 Arisa?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Haa... It was quite a difficult metaphor to understand, but\nit seems like you're troubled by something really trivial.
+Haa... It was quite a difficult metaphor to understand、 but it seems like you're\ntroubled by something really trivial.
 C01a10080012
 
 00002000
 Takumi
-Even though it may not seem like it, I'm really desperate.
+Even though it may not seem like it、 I'm really desperate.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
@@ -169,11 +169,11 @@ C01a10080013
 
 00003000
 Arisa
-If it's something that important to you, shouldn't you try\nnot to let go of it?
+If it's something that important to you、 shouldn't you try not to let go of it?
 C01a10080014
 
 00000000
-What are you saying as if it's obvious? Arisa looks at me\nwith that kind of expression.
+What are you saying as if it's obvious? Arisa looks at me with that kind of\nexpression.
 
 0300000000000F2742474D3037
 
@@ -185,17 +185,17 @@ Ah... I see... You're right.
 
 00002000
 Takumi
-If I make sure not to let go of it from the beginning, \nwouldn't everything be resolved?
+If I make sure not to let go of it from the beginning、  wouldn't everything be\nresolved?
 
 00002000
 Takumi
 Why would you say something so simple... I...
 
 00000000
-I have received a divine revelation. Arisa has given me such\na brilliant inspiration that can be expressed as such.
+I have received a divine revelation. Arisa has given me such a brilliant\ninspiration that can be expressed as such.
 
 00000000
-If that's the case, there is only one thing to do.
+If that's the case、 there is only one thing to do.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

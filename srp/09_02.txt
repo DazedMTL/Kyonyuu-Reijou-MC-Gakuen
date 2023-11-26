@@ -11,7 +11,7 @@ Takumi
 Ugh... I'm pretty sleepy...
 
 00000000
-Rubbing my eyes, I make my way to the school courtyard early\nin the morning.
+Rubbing my eyes、 I make my way to the school courtyard early in the morning.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E3736
 
@@ -25,7 +25,7 @@ Rubbing my eyes, I make my way to the school courtyard early\nin the morning.
 
 00003000
 Rio
-Geez, you're so slow. How long do you think I've been\nwaiting?
+Geez、 you're so slow. How long do you think I've been waiting?
 C03a09020001
 
 00002000
@@ -33,13 +33,13 @@ Takumi
 You've already come...?
 
 00000000
-Despite there still being plenty of time until the meeting, \nRio was standing there.
+Despite there still being plenty of time until the meeting、  Rio was standing\nthere.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
 Rio
-I just woke up a little too early... Since it was a summons, \nI thought I'd come a bit earlier, that's all...
+I just woke up a little too early... Since it was a summons、  I thought I'd come\na bit earlier、 that's all...
 C03a09020002
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
@@ -51,85 +51,85 @@ C03a09020003
 
 00002000
 Takumi
-N-No... I don't have any complaints. It's a commendable\nattitude, isn't it?
+N-No... I don't have any complaints. It's a commendable attitude、 isn't it?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
 Rio
-This is just basic etiquette for a celebrity, you know. It's\nnot like I'm that happy to be praised... not at all...
+This is just basic etiquette for a celebrity、 you know. It's not like I'm that\nhappy to be praised... not at all...
 C03a09020004
 
 00000000
-While saying that, she averted her gaze as if looking into\nthe distant future and touched her hair with her finger.
+While saying that、 she averted her gaze as if looking into the distant future\nand touched her hair with her finger.
 
 00000000
-I couldn't help but smile at her restless and unsettled\ndemeanor.
+I couldn't help but smile at her restless and unsettled demeanor.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
 Rio
-What are you grinning about... Are you trying to make fun of\nme...?
+What are you grinning about... Are you trying to make fun of me...?
 C03a09020005
 
 00002000
 Takumi
-I'm not making fun of you. I just thought that my perception\nof Rio has changed quite a bit.
+I'm not making fun of you. I just thought that my perception of Rio has changed\nquite a bit.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
 Rio
-...Huh? Can I ask what kind of perception you had of me\nuntil now...?
+...Huh? Can I ask what kind of perception you had of me until now...?
 C03a09020006
 
 00000000
-Just by having this kind of exchange, my feelings become\nexhilarated.
+Just by having this kind of exchange、 my feelings become exhilarated.
 
 00000000
 The choice was not wrong.
 
 00000000
-I looked at Rio's face and thought that choosing not to seek\nrevenge would surely make things more enjoyable from now on.
+I looked at Rio's face and thought that choosing not to seek revenge would\nsurely make things more enjoyable from now on.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
 Rio
-S-So... what kind of business do you have this early in the\nmorning?
+S-So... what kind of business do you have this early in the morning?
 C03a09020007
 
 00000000
-Rio, with a shy expression that seemed to hide her\nembarrassment, hurriedly asked for an explanation.
+Rio、 with a shy expression that seemed to hide her embarrassment、 hurriedly\nasked for an explanation.
 
 00002000
 Takumi
-Well, the reason I called you here... Sorry for the\nsuddenness, but could you come and audition for a drama\ntoday?
+Well、 the reason I called you here... Sorry for the suddenness、 but could you\ncome and audition for a drama today?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
 Rio
-Hey hey... Is it another entrance exam or something like\nthat...?
+Hey hey... Is it another entrance exam or something like that...?
 C03a09020008
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D39352F312F31
 
 00003000
 Rio
-...Huh, did you say audition just now?
+...Huh、 did you say audition just now?
 C03a09020009
 
 00002000
 Takumi
-Yeah. Oh, and I already had Rio join my agency.
+Yeah. Oh、 and I already had Rio join my agency.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
 Rio
-W-Wait, wait, wait, are you serious? ...Are you really\nsaying that?!
+W-Wait、 wait、 wait、 are you serious? ...Are you really saying that?!
 C03a09020010
 
 00003000
@@ -139,80 +139,80 @@ C03a09020011
 
 00002000
 Takumi
-I'm always serious. Besides, I think Rio has the\nqualifications to take on the challenge, don't you think?
+I'm always serious. Besides、 I think Rio has the qualifications to take on the\nchallenge、 don't you think?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
 Rio
-But... even though you've made the arrangements, I don't\nhave any confidence in this...
+But... even though you've made the arrangements、 I don't have any confidence in\nthis...
 C03a09020012
 
 00003000
 Rio
-It's one thing to be deeply embarrassed, but if people start\nthinking I'm presumptuous and I end up losing work or\nsomething...
+It's one thing to be deeply embarrassed、 but if people start thinking I'm\npresumptuous and I end up losing work or something...
 C03a09020013
 
 00002000
 Takumi
-Don't worry, even if you fail the audition, I've planned to\nspread rumors that it was my own incompetence as the\npresident that led to it.
+Don't worry、 even if you fail the audition、 I've planned to spread rumors that\nit was my own incompetence as the president that led to it.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
 Rio
-Well, what's the deal with that... So, what's your intention\nin choosing me?
+Well、 what's the deal with that... So、 what's your intention in choosing me?
 C03a09020014
 
 00002000
 Takumi
-This time, it was decided as a policy that we should\ndefinitely secure this audition.
+This time、 it was decided as a policy that we should definitely secure this\naudition.
 
 00002000
 Takumi
-However, because we're just starting out, there's a shortage\nof talent that fits even the minor roles in dramas.
+However、 because we're just starting out、 there's a shortage of talent that fits\neven the minor roles in dramas.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
 00003000
 Rio
-There were various people, those who are prominent enough to\nbe the face of the company on the website.
+There were various people、 those who are prominent enough to be the face of the\ncompany on the website.
 C03a09020015
 
 00002000
 Takumi
-Well... those people are busy with other tasks... or rather, \nthey're reluctant to take on minor roles.
+Well... those people are busy with other tasks... or rather、  they're reluctant\nto take on minor roles.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D39352F312F31
 
 00003000
 Rio
-W-Well... it seems like you're also making an effort to\nmanage things, huh?
+W-Well... it seems like you're also making an effort to manage things、 huh?
 C03a09020016
 
 00002000
 Takumi
-S-So, you see, I thought Rio would be able to do it because\nshe passed a difficult test from me.
+S-So、 you see、 I thought Rio would be able to do it because she passed a\ndifficult test from me.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
 Rio
-No, no, no! What do you mean by "with that"? I completely\ndon't understand!
+No、 no、 no! What do you mean by "with that"? I completely don't understand!
 C03a09020017
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D39352F312F31
 
 00003000
 Rio
-I'm an amateur, you know... Even though I do modeling, it's\nimpossible to suddenly do something like that.
+I'm an amateur、 you know... Even though I do modeling、 it's impossible to\nsuddenly do something like that.
 C03a09020018
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
 Rio
-Even if you say that I'm not suitable or that I'm being\nstubborn, there are other talented people, right? Isn't it a\nbit unreasonable, Ikenoue?
+Even if you say that I'm not suitable or that I'm being stubborn、 there are\nother talented people、 right? Isn't it a bit unreasonable、 Ikenoue?
 C03a09020019
 
 00002000
@@ -221,7 +221,7 @@ I was told the same thing by my subordinates.
 
 00002000
 Takumi
-But there is a chance of success. I just need Rio to believe\nin it.
+But there is a chance of success. I just need Rio to believe in it.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D39352F312F31
 
@@ -234,14 +234,14 @@ C03a09020020
 
 00003000
 Rio
-Well, it's something I've been aiming for, so I guess it's\njust a matter of whether it happens sooner or later...
+Well、 it's something I've been aiming for、 so I guess it's just a matter of\nwhether it happens sooner or later...
 C03a09020021
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30332F2D39352F312F31
 
 00003000
 Rio
-Fine, I'll do it... I'll respond to your expectations\nproperly.
+Fine、 I'll do it... I'll respond to your expectations properly.
 C03a09020022
 
 00002000
@@ -252,7 +252,7 @@ I thought Rio would say that. I'm glad I made the offer.
 
 00003000
 Rio
-Haha... You're saying it, aren't you... Taking advantage of\nmy feelings...
+Haha... You're saying it、 aren't you... Taking advantage of my feelings...
 C03a09020023
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30362F2D39352F312F31
@@ -264,13 +264,13 @@ C03a09020024
 
 00002000
 Takumi
-Well then, I've made up my mind... Though I can't say I'm\nfully prepared, there's still time, so let's make the final\npreparations for the audition.
+Well then、 I've made up my mind... Though I can't say I'm fully prepared、 \nthere's still time、 so let's make the final preparations for the audition.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30322F2D39352F312F31
 
 00003000
 Rio
-Alright...! Ikenoue, count on me!
+Alright...! Ikenoue、 count on me!
 C03a09020025
 
 0100200002026566666563742C656666656374207363656E655F656E64

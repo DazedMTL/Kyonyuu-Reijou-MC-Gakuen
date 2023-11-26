@@ -11,13 +11,13 @@ Takumi
 Oh... that is...
 
 00000000
-During lunch break, as I wandered around the courtyard, I\nnoticed Arisa happily chatting with some underclassmen.
+During lunch break、 as I wandered around the courtyard、 I noticed Arisa happily\nchatting with some underclassmen.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-It was Nagasuna-san, right? Your performance on the previous\nproficiency test... was excellent.
+It was Nagasuna-san、 right? Your performance on the previous proficiency test...\nwas excellent.
 C01a04090001
 
 00002000
@@ -26,13 +26,13 @@ Y-Yes! Thank you very much!
 
 00002000
 Nagasuma
-It's such an honor to receive praise from my admired senior, \nKisshouji-senpai... I'm really grateful!
+It's such an honor to receive praise from my admired senior、  Kisshouji-\nsenpai... I'm really grateful!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Oh... hehe, being admired is a little embarrassing, isn't\nit?
+Oh... hehe、 being admired is a little embarrassing、 isn't it?
 C01a04090002
 
 00002000
@@ -41,13 +41,13 @@ No way! Kisshouji-senpai is the idol of all of us!
 
 00002000
 Nagasuma
-You're amazing at both studying and sports... You're\nproactive, more mature than the teachers... You're\nwonderful!
+You're amazing at both studying and sports... You're proactive、 more mature than\nthe teachers... You're wonderful!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Thank you. But if you all continue to work hard as you are\nnow, I'm sure you'll become wonderful women.
+Thank you. But if you all continue to work hard as you are now、 I'm sure you'll\nbecome wonderful women.
 C01a04090003
 
 00002000
@@ -56,25 +56,25 @@ Is that true?
 
 00003000
 Arisa
-Of course. Outstanding women should step onto the stage even\nmore. So, make sure not to neglect your daily training.
+Of course. Outstanding women should step onto the stage even more. So、 make sure\nnot to neglect your daily training.
 C01a04090004
 
 00002000
 Nagasuma
-Yes! I'll do my best from now on to get closer to Kisshouji-\nsenpai, even just a little bit!
+Yes! I'll do my best from now on to get closer to Kisshouji- senpai、 even just a\nlittle bit!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Hehe, those are reassuring words. Yes, I have high\nexpectations.
+Hehe、 those are reassuring words. Yes、 I have high expectations.
 C01a04090005
 
 00000000
-I wonder if this is the kind of scene that would appear in a\nmanga set in an all-girls school.
+I wonder if this is the kind of scene that would appear in a manga set in an\nall-girls school.
 
 00000000
-From a distance, it might be considered a picturesque and\nheartwarming scene to observe...
+From a distance、 it might be considered a picturesque and heartwarming scene to\nobserve...
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -84,30 +84,30 @@ From a distance, it might be considered a picturesque and\nheartwarming scene to
 
 00002000
 Takumi
-Hmph... My admired senpai, huh...
+Hmph... My admired senpai、 huh...
 
 00000000
-Seeing the juniors with sparkling eyes, still unaware of\nArisa's true nature, makes me feel uneasy.
+Seeing the juniors with sparkling eyes、 still unaware of Arisa's true nature、 \nmakes me feel uneasy.
 
 00000000
-So, you're just being noticed because your grades are a\nlittle good. Do you know that once your grades drop, no one\nwill pay attention to you anymore?
+So、 you're just being noticed because your grades are a little good. Do you know\nthat once your grades drop、 no one will pay attention to you anymore?
 
 00000000
-It's especially Arisa herself. She used to think of all the\nstudents in the school as tools, yet she has the audacity to\nsay those words with a composed face.
+It's especially Arisa herself. She used to think of all the students in the\nschool as tools、 yet she has the audacity to say those words with a composed\nface.
 
 00002000
 Takumi
-I have to make sure to properly teach Arisa about her true\nnature...
+I have to make sure to properly teach Arisa about her true nature...
 
 00000000
-The moment that dark, sinister emotion wells up within me, a\nsingle image immediately comes to mind.
+The moment that dark、 sinister emotion wells up within me、 a single image\nimmediately comes to mind.
 
 00000000
-This is a great opportunity. It would be interesting to\nspread Arisa's disgrace even more.
+This is a great opportunity. It would be interesting to spread Arisa's disgrace\neven more.
 
 00002000
 Takumi
-You're having an interesting conversation. Indeed, the key\nto the future is women's advancement, isn't it?
+You're having an interesting conversation. Indeed、 the key to the future is\nwomen's advancement、 isn't it?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
@@ -125,24 +125,24 @@ Nagasuma
 Ikenoue... Senpai...?
 
 00000000
-The three of them look at me with puzzled expressions as I\nsuddenly interrupt. It's clear that they were not expecting\nme, and there is no welcoming atmosphere at all.
+The three of them look at me with puzzled expressions as I suddenly interrupt.\nIt's clear that they were not expecting me、 and there is no welcoming atmosphere\nat all.
 
 00000000
-Arisa looks visibly displeased, and the underclassmen are\nlooking at me with a hint of fear.
+Arisa looks visibly displeased、 and the underclassmen are looking at me with a\nhint of fear.
 
 00002000
 Takumi
-No, it's a conversation about how excellent women should be\nmore prominent, right? I completely agree.
+No、 it's a conversation about how excellent women should be more prominent、 \nright? I completely agree.
 
 00002000
 Takumi
-In order to do that, we have to consume more and more semen\nand elevate our social status, right?
+In order to do that、 we have to consume more and more semen and elevate our\nsocial status、 right?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-...If you're going to say something, it's such an obvious\nthing to say now...
+...If you're going to say something、 it's such an obvious thing to say now...
 C01a04090007
 
 00002000
@@ -151,15 +151,15 @@ Of course... We also have that intention...
 
 00002000
 Takumi
-Ah, this is like preaching to the choir. Well, since we're\nalready here, I thought I'd show you an example of women's\nadvancement in society.
+Ah、 this is like preaching to the choir. Well、 since we're already here、 I\nthought I'd show you an example of women's advancement in society.
 
 00002000
 Nagasuma
-Huh... That means... Um, could it be...
+Huh... That means... Um、 could it be...
 
 00002000
 Takumi
-You guys haven't seen Arisa collecting semen yet, have you?\nIt's perfect timing, so how about I show you right now?
+You guys haven't seen Arisa collecting semen yet、 have you? It's perfect timing、 \nso how about I show you right now?
 
 00002000
 Sasazuka
@@ -167,25 +167,25 @@ Ah... I-Is it really okay to do something like that?
 
 00002000
 Nagasuma
-"Isn't this something that only the chosen ones get to see\nafter school...?"
+"Isn't this something that only the chosen ones get to see after school...?"
 
 00002000
 Takumi
-Yeah, you guys are excellent, right? So, just for you. What\ndo you think, Kisshouji-san?
+Yeah、 you guys are excellent、 right? So、 just for you. What do you think、 \nKisshouji-san?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-...Yes, I suppose so. If it's something that will benefit\nthem, I have no objections to showing it as well.
+...Yes、 I suppose so. If it's something that will benefit them、 I have no\nobjections to showing it as well.
 C01a04090008
 
 00000000
-Arisa readily agrees, perhaps buoyed by the anticipation of\nthe underclassmen.
+Arisa readily agrees、 perhaps buoyed by the anticipation of the underclassmen.
 
 00003000
 Arisa
-Well then, shall we start right away? What are you waiting\nfor? Hurry up and show us your dick.
+Well then、 shall we start right away? What are you waiting for? Hurry up and\nshow us your dick.
 C01a04090009
 
 00002000
@@ -193,13 +193,13 @@ Takumi
 Yeah yeah... I understand.
 
 00000000
-In times like this, she never fails to irritate me with her\ncondescending demands.
+In times like this、 she never fails to irritate me with her condescending\ndemands.
 
 00000000
-If it's come to this, I won't be satisfied until I\nthoroughly make Arisa understand.
+If it's come to this、 I won't be satisfied until I thoroughly make Arisa\nunderstand.
 
 00000000
-I quietly took the music box in my hand and decided to give\nthese three a special conditioning.
+I quietly took the music box in my hand and decided to give these three a\nspecial conditioning.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

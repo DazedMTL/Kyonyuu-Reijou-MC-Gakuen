@@ -12,41 +12,41 @@
 After finishing homeroom, it's time for the first period.
 
 00000000
-A special assembly announcement was broadcasted throughout\nthe school, gathering students, teachers, and even school\nstaff.
+A special assembly announcement was broadcasted throughout the school, gathering\nstudents, teachers, and even school staff.
 
 00002000
 Student A
-Hey... Did you hear? There's going to be a special morning\nassembly today... The principal will be giving a speech.
+Hey... Did you hear? There's going to be a special morning assembly today... The\nprincipal will be giving a speech.
 
 00002000
 Student B
 Really? I've never seen the principal's face before.
 
 00000000
-The whispered conversations exchanged in hushed tones were\nall about the chairman.
+The whispered conversations exchanged in hushed tones were all about the\nchairman.
 
 00000000
-Actually, no one among the students has ever seen the\nchairman's face.
+Actually, no one among the students has ever seen the chairman's face.
 
 00000000
-Of course, it wasn't something that posed a major obstacle\nin our school life, but when it came to the principal's\nspeech, it was natural for us to be curious.
+Of course, it wasn't something that posed a major obstacle in our school life, \nbut when it came to the principal's speech, it was natural for us to be curious.
 
 00002000
 Vice Principal
 Quiet, please. We will now begin the special assembly.
 
 00000000
-As the vice principal made an announcement on the stage, all\nthe whispering stopped abruptly and the auditorium became\nquiet.
+As the vice principal made an announcement on the stage, all the whispering\nstopped abruptly and the auditorium became quiet.
 
 00002000
 Vice Principal
-Now, for today's assembly, we will begin with a speech from\nthe chairman... Chairman, please proceed.
+Now, for today's assembly, we will begin with a speech from the chairman...\nChairman, please proceed.
 
 00000000
-With the words of the summons, the attention of the students\nis simultaneously directed towards the wings of the stage.
+With the words of the summons, the attention of the students is simultaneously\ndirected towards the wings of the stage.
 
 00000000
-However, in the next moment, the quiet atmosphere was once\nagain shattered by a loud commotion.
+However, in the next moment, the quiet atmosphere was once again shattered by a\nloud commotion.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -63,7 +63,7 @@ C02a01270001
 02008C00010000
 
 00000000
-It's no wonder. The sight of the girl stretching her back\nand walking confidently from the wings of the stage to the\npodium was someone that everyone recognized.
+It's no wonder. The sight of the girl stretching her back and walking\nconfidently from the wings of the stage to the podium was someone that everyone\nrecognized.
 
 03008C0000000F2753455F6230335F30303031
 
@@ -73,15 +73,15 @@ Kisshouji-san...? Eh, is Kuga-san also following behind...?
 
 00002000
 Student D
-Huh... What's going on? Weren't they just talking about the\nchairman's speech?
+Huh... What's going on? Weren't they just talking about the chairman's speech?
 
 0300AC00
 
 00000000
-In the midst of the restless murmurs, Arisa calmly extends\nher hand forward.
+In the midst of the restless murmurs, Arisa calmly extends her hand forward.
 
 00000000
-With that gesture, the students immediately stopped\nwhispering again and waited for Arisa's words.
+With that gesture, the students immediately stopped whispering again and waited\nfor Arisa's words.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
@@ -94,49 +94,49 @@ C01a01270002
 
 00003000
 Arisa
-First of all, I am delighted that everyone immediately\nquieted down - it shows the proper behavior expected of\nstudents at Oukyo Academy.
+First of all, I am delighted that everyone immediately quieted down - it shows\nthe proper behavior expected of students at Oukyo Academy.
 C01a01270003
 
 00000000
-Her dignified manner of speaking exuded an aura of someone\nwho stands above others.
+Her dignified manner of speaking exuded an aura of someone who stands above\nothers.
 
 00000000
-As everyone watched her, Arisa continued speaking with a\ncalm demeanor.
+As everyone watched her, Arisa continued speaking with a calm demeanor.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-I believe many of you are wondering why I am standing here\non the podium right now.
+I believe many of you are wondering why I am standing here on the podium right\nnow.
 C01a01270004
 
 00003000
 Arisa
-Allow me to reintroduce myself. I am Kisshouji Arisa, a\nstudent of Oukyo Academy.
+Allow me to reintroduce myself. I am Kisshouji Arisa, a student of Oukyo\nAcademy.
 C01a01270005
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-And at the same time, the representative director of the\nOukyo Academy, which manages this school... is me.
+And at the same time, the representative director of the Oukyo Academy, which\nmanages this school... is me.
 C01a01270006
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-I used the phrase "there has been a development" just now, \nbut this is because with the appointment of the new\nchairman, my position is changing.
+I used the phrase "there has been a development" just now,  but this is because\nwith the appointment of the new chairman, my position is changing.
 C01a01270007
 
 00003000
 Arisa
-First, let me explain. My new position will be as an\nassistant director, where I will support the new chairman in\ntheir role.
+First, let me explain. My new position will be as an assistant director, where I\nwill support the new chairman in their role.
 C01a01270008
 
 00003000
 Arisa
-This will be the position that Kuga Yuriko, who has been\nwaiting in the background, has been serving.
+This will be the position that Kuga Yuriko, who has been waiting in the\nbackground, has been serving.
 C01a01270009
 
 00003000
@@ -146,31 +146,31 @@ C02a01270002
 
 00003000
 Arisa
-Her position will remain unchanged, but I would like to\ninform you that I will be transferring to the role of the\nsecond assistant director.
+Her position will remain unchanged, but I would like to inform you that I will\nbe transferring to the role of the second assistant director.
 C01a01270010
 
 03008C0000000F2753455F6230335F30303031
 
 00000000
-There was a slight commotion in the auditorium again, but\nfor the students who were unaware of the details, there was\nno choice but to accept it as it is.
+There was a slight commotion in the auditorium again, but for the students who\nwere unaware of the details, there was no choice but to accept it as it is.
 
 0300AC00
 
 00003000
 Arisa
-Well... Today, I will be giving a speech to commemorate the\ninauguration of the new chairman and also inform you about\nthe future direction of Oukyo Academy.
+Well... Today, I will be giving a speech to commemorate the inauguration of the\nnew chairman and also inform you about the future direction of Oukyo Academy.
 C01a01270011
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-I understand that this sudden change may be confusing, but\nrest assured that Oukyo Academy will continue to foster rich\nhuman qualities and cultivate exceptional talent.
+I understand that this sudden change may be confusing, but rest assured that\nOukyo Academy will continue to foster rich human qualities and cultivate\nexceptional talent.
 C01a01270012
 
 00003000
 Arisa
-Everyone, please continue to live your student life as\nusual, while keeping the words of the new chairman in mind.
+Everyone, please continue to live your student life as usual, while keeping the\nwords of the new chairman in mind.
 C01a01270013
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E3735
@@ -181,7 +181,7 @@ Well then, new chairman... Please come up to the stage.
 C01a01270014
 
 00000000
-Arisa, who glanced at the wings of the stage, didn't move\nfrom there right away.
+Arisa, who glanced at the wings of the stage, didn't move from there right away.
 
 00002000
 Student C
@@ -192,7 +192,7 @@ Student D
 Is there some kind of trouble...?
 
 00000000
-As the students looked on with puzzled expressions, a quiet\nmelody suddenly began to play in the auditorium.
+As the students looked on with puzzled expressions, a quiet melody suddenly\nbegan to play in the auditorium.
 
 0300000000000F2742474D3036
 
@@ -211,7 +211,7 @@ Huh..........
 C02a01270003
 
 00000000
-At the moment the sound reached their ears, the expressions\nof the two people on the stage became blank and lifeless, \nand their vision lost focus.
+At the moment the sound reached their ears, the expressions of the two people on\nthe stage became blank and lifeless,  and their vision lost focus.
 
 00000000
 However, it's not just the two people on the stage.
@@ -227,23 +227,23 @@ Student B
 ………………
 
 00000000
-The female students who were lined up, as well as the\nfaculty members who were standing at the edge, all\nsimultaneously entered the same state and blankly stared\ninto empty space.
+The female students who were lined up, as well as the faculty members who were\nstanding at the edge, all simultaneously entered the same state and blankly\nstared into empty space.
 
 00002000
 Takumi
-What is about to take place is the speech of the new\nchairman. Those words are absolutely correct and no one will\nhave any doubts.
+What is about to take place is the speech of the new chairman. Those words are\nabsolutely correct and no one will have any doubts.
 
 00002000
 Takumi
-I believe it is only natural for the students and faculty\nmembers to faithfully uphold the teachings of the new\nchairman. No matter what those teachings may be.
+I believe it is only natural for the students and faculty members to faithfully\nuphold the teachings of the new chairman. No matter what those teachings may be.
 
 00000000
-The message that continued to flow through the auditorium\ndid not cause anyone to make a fuss.
+The message that continued to flow through the auditorium did not cause anyone\nto make a fuss.
 
 0300AC00
 
 00000000
-Everything is going according to plan. I stop the music box\nand make my way back up to the stage from the broadcasting\nroom at the back.
+Everything is going according to plan. I stop the music box and make my way back\nup to the stage from the broadcasting room at the back.
 
 00003000
 Arisa
@@ -251,61 +251,61 @@ Arisa
 C01a01270016
 
 00000000
-I was given the place smoothly, and as I nodded, I looked\ndown at the students from the stage.
+I was given the place smoothly, and as I nodded, I looked down at the students\nfrom the stage.
 
 00002000
 Takumi
-Good morning, everyone. Allow me to introduce myself as the\nnew chairman, Ikenoue Takumi.
+Good morning, everyone. Allow me to introduce myself as the new chairman, \nIkenoue Takumi.
 
 00000000
-In front of the students who were placed under mind control, \nI was able to deliver a surprisingly calm first words.
+In front of the students who were placed under mind control,  I was able to\ndeliver a surprisingly calm first words.
 
 00002000
 Takumi
-I believe there may have been some of you who were surprised\nwhen male students newly enrolled in Oukyo Academy, which\nwas previously an all-girls school.
+I believe there may have been some of you who were surprised when male students\nnewly enrolled in Oukyo Academy, which was previously an all-girls school.
 
 00002000
 Takumi
-Moreover, there was only one new enrollee. It must have\nseemed even more puzzling to see such an exceptional measure\nbeing taken.
+Moreover, there was only one new enrollee. It must have seemed even more\npuzzling to see such an exceptional measure being taken.
 
 00002000
 Takumi
-That is solely because Oukyo Academy aimed for a new reform\nin the field of education.
+That is solely because Oukyo Academy aimed for a new reform in the field of\neducation.
 
 00002000
 Takumi
-Former chairman... Arisa Kisshouji-san had certain concerns\nabout spending her important adolescence only with girls.
+Former chairman... Arisa Kisshouji-san had certain concerns about spending her\nimportant adolescence only with girls.
 
 00002000
 Takumi
-That is about the experience of interacting with the\nopposite sex, which cannot be avoided when we venture out\ninto society in the future.
+That is about the experience of interacting with the opposite sex, which cannot\nbe avoided when we venture out into society in the future.
 
 00000000
-The auditorium accepted my speech, which I made up after\nthinking about it for a day, with an astonishing silence.
+The auditorium accepted my speech, which I made up after thinking about it for a\nday, with an astonishing silence.
 
 00000000
 That doesn't mean they're seriously scrutinizing my words.
 
 00000000
-This is based on the premise that there is no doubt about\nthose words, as they were spoken under mind control.
+This is based on the premise that there is no doubt about those words, as they\nwere spoken under mind control.
 
 00000000
-"Still, the fact that no one is objecting, including my\npresence here, means that the mind control is working\neffectively..."
+"Still, the fact that no one is objecting, including my presence here, means\nthat the mind control is working effectively..."
 
 00000000
-Now that I was able to confirm that, I will finally delve\ninto the main topic.
+Now that I was able to confirm that, I will finally delve into the main topic.
 
 00002000
 Takumi
-It was an experimental attempt to see what kind of impact\nwould be brought to the class by enrolling a single male\nstudent...
+It was an experimental attempt to see what kind of impact would be brought to\nthe class by enrolling a single male student...
 
 00002000
 Takumi
-At first, the girls in the class were confused and sometimes\neven persecuted the male student, but gradually they started\nto accept his presence--
+At first, the girls in the class were confused and sometimes even persecuted the\nmale student, but gradually they started to accept his presence--
 
 00002000
 Takumi
-Now, I have become a splendid female slave who craves the\nsemen given by men.
+Now, I have become a splendid female slave who craves the semen given by men.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -325,63 +325,63 @@ Arisa and Yuriko silently nod to each other from behind.
 02008C00010000
 
 00000000
-The speech suddenly became unnatural, but still, there is no\ncommotion.
+The speech suddenly became unnatural, but still, there is no commotion.
 
 00000000
-With my heart secretly pounding, I am finally going to\nexpose my true nature.
+With my heart secretly pounding, I am finally going to expose my true nature.
 
 00002000
 Takumi
-As I assume the position of chairman, I will inherit the\nwonderful ideas of former Chairman Arisa and refine them\nfurther. Here are the following principles to keep in mind.
+As I assume the position of chairman, I will inherit the wonderful ideas of\nformer Chairman Arisa and refine them further. Here are the following principles\nto keep in mind.
 
 00002000
 Takumi
-One. All students shall, at all times, obey the orders of\nIkenoue Takumi, who is the chairman, as his female slave.
+One. All students shall, at all times, obey the orders of Ikenoue Takumi, who is\nthe chairman, as his female slave.
 
 00002000
 Takumi
-One. All students shall, at all times, use their entire\nbodies to diligently collect semen with a spirit of service\ntowards the chairman.
+One. All students shall, at all times, use their entire bodies to diligently\ncollect semen with a spirit of service towards the chairman.
 
 00002000
 Takumi
-One. The faculty members shall fully cooperate with the\nactions of the chairman and strive to support the students\nin collecting semen.
+One. The faculty members shall fully cooperate with the actions of the chairman\nand strive to support the students in collecting semen.
 
 00002000
 Takumi
-Based on the above, I ask that everyone continue to live\ntheir student lives as they have been until now.
+Based on the above, I ask that everyone continue to live their student lives as\nthey have been until now.
 
 00000000
-After finishing my one-sided declaration, the students\naccepted my words in silence.
+After finishing my one-sided declaration, the students accepted my words in\nsilence.
 
 00000000
-"Although it's called the chairman's inauguration speech, \nit's mostly just a formality."
+"Although it's called the chairman's inauguration speech,  it's mostly just a\nformality."
 
 00000000
-Since we haven't made any special changes to the paperwork\nprocedures, externally Arisa is still the chairman.
+Since we haven't made any special changes to the paperwork procedures, \nexternally Arisa is still the chairman.
 
 00006000
 Takumi
 W-Well... this is like a ceremony, isn't it...
 
 00000000
-Actually, even for me, I don't want to take the lead and\nmanage the school.
+Actually, even for me, I don't want to take the lead and manage the school.
 
 00000000
-It's just that I've been given a convenient position solely\nto fulfill my own desires.
+It's just that I've been given a convenient position solely to fulfill my own\ndesires.
 
 00000000
-By gathering all the students like this and making the\ndeclaration, I will be able to freely dominate them as I\nplease.
+By gathering all the students like this and making the declaration, I will be\nable to freely dominate them as I please.
 
 00000000
 I have to properly explain to them what that means...
 
 00002000
 Takumi
-Now then, everyone. As a preparation to become new female\nslaves, let's first observe the exemplary behavior of our\noutstanding senior female slaves.
+Now then, everyone. As a preparation to become new female slaves, let's first\nobserve the exemplary behavior of our outstanding senior female slaves.
 
 00002000
 Takumi
-Arisa, Yuriko, I'm counting on you. Now, please take off\nyour clothes.
+Arisa, Yuriko, I'm counting on you. Now, please take off your clothes.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
@@ -400,11 +400,11 @@ C02a01270005
 03008C0000000F2753455F6130395F30303031
 
 00000000
-Arisa and Yuriko nodded obediently to my instructions, and\nsmoothly began to take off their clothes.
+Arisa and Yuriko nodded obediently to my instructions, and smoothly began to\ntake off their clothes.
 
 00002000
 Takumi
-Rio and Koharu, please come up on the stage. I will show you\nan example of extracting semen milk.
+Rio and Koharu, please come up on the stage. I will show you an example of\nextracting semen milk.
 
 0200BC000100022C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E37362C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
@@ -423,10 +423,10 @@ C04a01270001
 03008C0000000F2753455F6130395F30303031
 
 00000000
-Rio and Koharu, upon being called, hurriedly went up on the\nstage and began to unbutton their clothes.
+Rio and Koharu, upon being called, hurriedly went up on the stage and began to\nunbutton their clothes.
 
 00000000
-Finally, the public show began with all the students in\nfront of us.
+Finally, the public show began with all the students in front of us.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

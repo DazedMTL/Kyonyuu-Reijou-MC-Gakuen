@@ -8,34 +8,34 @@
 
 00002000
 Takumi
-Now then, I wonder where she is today?
+Now then、 I wonder where she is today?
 
 00000000
-As I walked while searching for her figure, I felt a light\nimpact on my shoulder from behind, and when I instinctively\nturned around, there stood Rio in casual clothes.
+As I walked while searching for her figure、 I felt a light impact on my shoulder\nfrom behind、 and when I instinctively turned around、 there stood Rio in casual\nclothes.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Ah, I'm sorry for bumping into you, Ikenoue! I'm really in a\nhurry right now!
+Ah、 I'm sorry for bumping into you、 Ikenoue! I'm really in a hurry right now!
 C03a05110001
 
 00002000
 Takumi
-Is that so? I was actually thinking of getting my semen\ncollected right now. What do you think?
+Is that so? I was actually thinking of getting my semen collected right now.\nWhat do you think?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30352F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Ah, I'm happy but... um... hmm?
+Ah、 I'm happy but... um... hmm?
 C03a05110002
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-As I thought... it's impossible, I'll have to pass for\ntoday! Maybe next time!
+As I thought... it's impossible、 I'll have to pass for today! Maybe next time!
 C03a05110003
 
 02008C00010000
@@ -45,45 +45,45 @@ Takumi
 W-Wait a minute...!?
 
 00000000
-Without giving me a chance to stop her, Rio quickly waved\nher hand and hurriedly brushed me off with her tone and\nactions, then ran away.
+Without giving me a chance to stop her、 Rio quickly waved her hand and hurriedly\nbrushed me off with her tone and actions、 then ran away.
 
 00006000
 Takumi
 I can't believe Rio would reject me...
 
 00000000
-At that moment, I happened to spot one of Rio's usual\nfollowers who always stays by her side.
+At that moment、 I happened to spot one of Rio's usual followers who always stays\nby her side.
 
 00002000
 Takumi
-Ah... wait! It seemed like Rio was in a hurry earlier. Can\nyou tell me what happened?
+Ah... wait! It seemed like Rio was in a hurry earlier. Can you tell me what\nhappened?
 
 00002000
 Lackey A
-Ah, well, you see, she got a call from a TV station. Rio-san\nis really amazing, isn't she?
+Ah、 well、 you see、 she got a call from a TV station. Rio-san is really amazing、 \nisn't she?
 
 00002000
 Takumi
-So... does that mean she started doing talent activities\nfrom being a model?
+So... does that mean she started doing talent activities from being a model?
 
 00002000
 Lackey A
-Yeah, yeah, I think she said she's going to appear on a\nvariety talk show for now.
+Yeah、 yeah、 I think she said she's going to appear on a variety talk show for\nnow.
 
 00002000
 Lackey A
-Considering that she might become an actress in the future, \nit's no wonder Rio-san is feeling really nervous.
+Considering that she might become an actress in the future、  it's no wonder Rio-\nsan is feeling really nervous.
 
 00002000
 Takumi
-I see... I understand now, that's the reason.
+I see... I understand now、 that's the reason.
 
 00006000
 Takumi
-The previous shoot was really fun... If possible, I want to\nhave even more fun with Rio.
+The previous shoot was really fun... If possible、 I want to have even more fun\nwith Rio.
 
 00000000
-I was convinced that she would provide me with an excitement\nthat I couldn't experience at this school, so I decided to\nchase after her.
+I was convinced that she would provide me with an excitement that I couldn't\nexperience at this school、 so I decided to chase after her.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

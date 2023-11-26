@@ -10,18 +10,18 @@
 
 00002000
 Teacher
-Well then, that's all for today's class.
+Well then、 that's all for today's class.
 
 0300000000000F2742474D3033
 
 0200000001004247303230305F62
 
 00000000
-The day's classes come to an end, and the classroom is\nfilled with a peaceful atmosphere after school.
+The day's classes come to an end、 and the classroom is filled with a peaceful\natmosphere after school.
 
 00002000
 Girl A
-Kuga-san, um... about the class just now...
+Kuga-san、 um... about the class just now...
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -32,43 +32,43 @@ C02a08010001
 
 00002000
 Girl B
-Ah, there are some parts I don't understand too. I want to\nreview it once more.
+Ah、 there are some parts I don't understand too. I want to review it once more.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-*sigh*... However, it would be better to learn that from the\nteacher...
+*sigh*... However、 it would be better to learn that from the teacher...
 C02a08010002
 
 00002000
 Girl B
-Is it okay if Yuriko-san helps, or would that be a bother to\nyou?
+Is it okay if Yuriko-san helps、 or would that be a bother to you?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Ah, no, I didn't mean it like that...
+Ah、 no、 I didn't mean it like that...
 C02a08010003
 
 00002000
 Female C
-Yuriko-san, me too! Please, I'm also asking for your help!
+Yuriko-san、 me too! Please、 I'm also asking for your help!
 
 03008C0000000F2753455F6230335F30303031
 
 00000000
-At the same time as the end, Yuriko was troubled by the\nclassmates who gathered around her and couldn't handle them.
+At the same time as the end、 Yuriko was troubled by the classmates who gathered\naround her and couldn't handle them.
 
 00000000
-Lately, I've become quite familiar with this sight. As\nYuriko's status within the school has risen, a crowd forms\naround her immediately.
+Lately、 I've become quite familiar with this sight. As Yuriko's status within\nthe school has risen、 a crowd forms around her immediately.
 
 0200BC000100022C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E37352C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a08010001
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
@@ -79,75 +79,75 @@ Ah...
 C02a08010004
 
 00000000
-Arisa glanced at that situation for a moment, then left the\nclassroom. Yuriko seemed to follow her with her eyes\nswimming.
+Arisa glanced at that situation for a moment、 then left the classroom. Yuriko\nseemed to follow her with her eyes swimming.
 
 00000000
-I continued to silently watch the entire sequence of events\nfrom the corner of the classroom.
+I continued to silently watch the entire sequence of events from the corner of\nthe classroom.
 
 0300000000000F2742474D3037
 
 00000000
-Yuriko, who was originally one of the targets for revenge.
+Yuriko、 who was originally one of the targets for revenge.
 
 00000000
-In the face of that cold and calculated determination, I too\nhave always been subjected to cruel treatment...
+In the face of that cold and calculated determination、 I too have always been\nsubjected to cruel treatment...
 
 00000000
-However, that is solely for Arisa's sake... I will become\nher right-hand and bear the burden.
+However、 that is solely for Arisa's sake... I will become her right-hand and\nbear the burden.
 
 00000000
-It is now clear that this is a manifestation of her strong\ndetermination.
+It is now clear that this is a manifestation of her strong determination.
 
 00000000
-How can one obtain such popularity at that age, where they\nare willing to devote themselves so much?
+How can one obtain such popularity at that age、 where they are willing to devote\nthemselves so much?
 
 00000000
-"Now, Arisa's position is far from favorable, thanks to me."
+"Now、 Arisa's position is far from favorable、 thanks to me."
 
 00000000
-However, Yuriko is completely unaffected by such rumors and\nis not influenced by any mind control whatsoever.
+However、 Yuriko is completely unaffected by such rumors and is not influenced by\nany mind control whatsoever.
 
 00006000
 Takumi
-Even though she herself should be susceptible to mind\ncontrol... I guess you can't break someone who has a strong\ncore...
+Even though she herself should be susceptible to mind control... I guess you\ncan't break someone who has a strong core...
 
 00000000
-Arisa is more devoted to herself than anyone else. She must\nbe completely dedicated to that feeling.
+Arisa is more devoted to herself than anyone else. She must be completely\ndedicated to that feeling.
 
 00000000
-Somehow, I wonder if I can make her mine... That feeling\nswells up inside me once again.
+Somehow、 I wonder if I can make her mine... That feeling swells up inside me\nonce again.
 
 00006000
 Takumi
-In the end, what should we do about Arisa... I wonder if\nthat will also influence Yuriko's consciousness...
+In the end、 what should we do about Arisa... I wonder if that will also\ninfluence Yuriko's consciousness...
 
 00000000
-Perhaps she wants to quickly rush to Arisa's side and\nexpress her feelings, wanting to return to their previous\nrelationship.
+Perhaps she wants to quickly rush to Arisa's side and express her feelings、 \nwanting to return to their previous relationship.
 
 00000000
-However, Arisa rejects that and Yuriko doesn't have the\ncourage to bend it and step forward.
+However、 Arisa rejects that and Yuriko doesn't have the courage to bend it and\nstep forward.
 
 00000000
-Given the current situation, there is a high possibility\nthat even if I were to use mind control on Yuriko to make\nher submit to me, it would end up being incomplete.
+Given the current situation、 there is a high possibility that even if I were to\nuse mind control on Yuriko to make her submit to me、 it would end up being\nincomplete.
 
 00002000
 Takumi
-...First of all, how do I want to treat Yuriko...?
+...First of all、 how do I want to treat Yuriko...?
 
 00000000
-I suddenly realize that I don't have a clear answer within\nmyself.
+I suddenly realize that I don't have a clear answer within myself.
 
 00000000
-That unwavering loyalty, the physical reactions when in\ndisarray, a cool yet clumsy personality.
+That unwavering loyalty、 the physical reactions when in disarray、 a cool yet\nclumsy personality.
 
 00000000
-I am amazed at myself for not having come up with a clear\nanswer to how I want to handle all of that... and I become\naware of it once again.
+I am amazed at myself for not having come up with a clear answer to how I want\nto handle all of that... and I become aware of it once again.
 
 00000000
 Do I want Yuriko to desire me?
 
 00000000
-Or perhaps, do I want to dominate Yuriko herself?
+Or perhaps、 do I want to dominate Yuriko herself?
 
 00000000
 I stood at a major crossroads and carefully contemplated.

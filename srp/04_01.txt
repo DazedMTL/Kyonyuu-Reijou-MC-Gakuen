@@ -24,12 +24,12 @@ C01a04010001
 
 00003000
 Yuriko
-Yes. We will also distribute it separately to the teachers\nin a compiled form.
+Yes. We will also distribute it separately to the teachers in a compiled form.
 C02a04010002
 
 00003000
 Arisa
-Understood. Please make sure to have them ready by\ntomorrow's staff meeting.
+Understood. Please make sure to have them ready by tomorrow's staff meeting.
 C01a04010002
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
@@ -41,35 +41,35 @@ C02a04010003
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-Without saying a word, I silently watched the efficient\nexchange between the board members unfold from my seat in\nthe chairman's office.
+Without saying a word、 I silently watched the efficient exchange between the\nboard members unfold from my seat in the chairman's office.
 
 00000000
-There's no way I, who doesn't understand anything about this\njob that involves a lot of interaction with external\nparties, can interfere and do it properly.
+There's no way I、 who doesn't understand anything about this job that involves a\nlot of interaction with external parties、 can interfere and do it properly.
 
 00000000
-Therefore, the current situation is that Arisa has been\nhandling those series of tasks as usual.
+Therefore、 the current situation is that Arisa has been handling those series of\ntasks as usual.
 
 00000000
-Arisa herself recognizes me as the chairman, and neither\nYuriko nor her have any doubts about me sitting beside them.
+Arisa herself recognizes me as the chairman、 and neither Yuriko nor her have any\ndoubts about me sitting beside them.
 
 00000000
-The chairman doesn't directly handle the tasks, but the\nassistants take care of them. This has become their\nestablished norm, which was instilled in them later on.
+The chairman doesn't directly handle the tasks、 but the assistants take care of\nthem. This has become their established norm、 which was instilled in them later\non.
 
 00000000
-If the sane Arisa were to see that the man she hates so much\nis calmly sitting in the chair that I originally occupied...\nI wonder how furious she would be.
+If the sane Arisa were to see that the man she hates so much is calmly sitting\nin the chair that I originally occupied... I wonder how furious she would be.
 
 00000000
-However, the mind control conducted by the music box did not\ncause such a situation to arise--
+However、 the mind control conducted by the music box did not cause such a\nsituation to arise--
 
 00002000
 Takumi
-It's truly ironic, isn't it? Being manipulated by the man\nshe despises the most...
+It's truly ironic、 isn't it? Being manipulated by the man she despises the\nmost...
 
 00000000
-I couldn't help but raise the corners of my mouth and let\nout a small smile.
+I couldn't help but raise the corners of my mouth and let out a small smile.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
@@ -80,83 +80,83 @@ C01a04010003
 
 00002000
 Takumi
-Ah, no, sorry. It's nothing. Please continue.
+Ah、 no、 sorry. It's nothing. Please continue.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-...Then, Yuriko, please convey the message from the student\ncouncil.
+...Then、 Yuriko、 please convey the message from the student council.
 C01a04010004
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Yes, this is the minutes from the representative meeting of\nthe committee the other day...
+Yes、 this is the minutes from the representative meeting of the committee the\nother day...
 C02a04010004
 
 00000000
 Nevertheless--
 
 00000000
-The way various requests, reports, and deliberations from\nboth inside and outside the school were being processed one\nafter another was truly impressive, to say the least.
+The way various requests、 reports、 and deliberations from both inside and\noutside the school were being processed one after another was truly impressive、 \nto say the least.
 
 00000000
-Of course, it's clear that they're not doing everything\nthemselves, but delegating tasks to the appropriate places\nas needed.
+Of course、 it's clear that they're not doing everything themselves、 but\ndelegating tasks to the appropriate places as needed.
 
 00000000
-However, even so, it's impossible not to realize just how\nexceptional their abilities are, to the point where you\nwouldn't believe they're students in the same grade.
+However、 even so、 it's impossible not to realize just how exceptional their\nabilities are、 to the point where you wouldn't believe they're students in the\nsame grade.
 
 00006000
 Takumi
-Well... if that wasn't the case, they wouldn't be able to\ncontrol the entire school and conduct experiments and\nwhatnot under the influence of mind control, right...
+Well... if that wasn't the case、 they wouldn't be able to control the entire\nschool and conduct experiments and whatnot under the influence of mind control、 \nright...
 
 00000000
-Of course, even if it was by chance, it's undeniable that\nthere must have been some negligence on her part to be\nturned around by me--
+Of course、 even if it was by chance、 it's undeniable that there must have been\nsome negligence on her part to be turned around by me--
 
 00000000
-"Nevertheless, compared to my haphazard mind control, it\nseems much more well-organized."
+"Nevertheless、 compared to my haphazard mind control、 it seems much more well-\norganized."
 
 00006000
 Takumi
-Actually, becoming the masterminds behind the scenes and\nfirmly controlling everything might provide a much clearer\noutlook...
+Actually、 becoming the masterminds behind the scenes and firmly controlling\neverything might provide a much clearer outlook...
 
 00000000
-Of course, I want to make sure to give Arisa, who was the\ncause of my suffering, and her loyal right-hand woman\nYuriko, a proper payback.
+Of course、 I want to make sure to give Arisa、 who was the cause of my suffering、 \nand her loyal right-hand woman Yuriko、 a proper payback.
 
 00000000
-However, rather than driving them to destruction... I should\nmanipulate them more skillfully... That seems to be a better\nway to foresee the future.
+However、 rather than driving them to destruction... I should manipulate them\nmore skillfully... That seems to be a better way to foresee the future.
 
 00000000
-While thinking about such things, it seemed like the reports\nhad finally come to a pause.
+While thinking about such things、 it seemed like the reports had finally come to\na pause.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Thank you. Good work, Yuriko.
+Thank you. Good work、 Yuriko.
 C01a04010005
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-No. It seems to be progressing smoothly for the most part, \nArisa.
+No. It seems to be progressing smoothly for the most part、  Arisa.
 C02a04010005
 
 00000000
-Even when I'm not around, they call each other by their\nfirst names as if they were alone together.
+Even when I'm not around、 they call each other by their first names as if they\nwere alone together.
 
 00000000
-At first, Arisa was concerned about my presence, but now, \nafter some conditioning, she no longer has any worries.
+At first、 Arisa was concerned about my presence、 but now、  after some\nconditioning、 she no longer has any worries.
 
 00002000
 Takumi
-Come to think of it, you two didn't meet at this school, \nright? You've known each other for a while before, haven't\nyou?
+Come to think of it、 you two didn't meet at this school、  right? You've known\neach other for a while before、 haven't you?
 
 00000000
-I casually asked about something that had been bothering me\nfor a while.
+I casually asked about something that had been bothering me for a while.
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -169,134 +169,134 @@ C02a04010006
 
 00003000
 Arisa
-Yuriko is Kuga's daughter, who served as my tutor at home.\nWe've never been in separate classes in any grade until now.
+Yuriko is Kuga's daughter、 who served as my tutor at home. We've never been in\nseparate classes in any grade until now.
 C01a04010006
 
 00003000
 Yuriko
-Yes, I am always by your side to fulfill Arisa's long-\ncherished wish.
+Yes、 I am always by your side to fulfill Arisa's long- cherished wish.
 C02a04010007
 
 00002000
 Takumi
-Fulfilling a long-cherished wish... huh. It seems like\nthere's a lot going on. If I remember correctly... something\nabout the main family, right?
+Fulfilling a long-cherished wish... huh. It seems like there's a lot going on.\nIf I remember correctly... something about the main family、 right?
 
 00000000
-Come to think of it, I feel like I heard something briefly\nwhen I first sneaked into this room.
+Come to think of it、 I feel like I heard something briefly when I first sneaked\ninto this room.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-That's right... Thanks to the outdated and old-fashioned\nthinking of the main family, my mother has been burdened\nwith so much hardship...
+That's right... Thanks to the outdated and old-fashioned thinking of the main\nfamily、 my mother has been burdened with so much hardship...
 C01a04010007
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Nowadays, the idea of male superiority and female\ninferiority goes completely against the flow of the world...\nIt's enough to astonish even prestigious families.
+Nowadays、 the idea of male superiority and female inferiority goes completely\nagainst the flow of the world... It's enough to astonish even prestigious\nfamilies.
 C01a04010008
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-You are correct. This school was also created under the\npretext of nurturing good wives and mothers...
+You are correct. This school was also created under the pretext of nurturing\ngood wives and mothers...
 C02a04010008
 
 00003000
 Arisa
-It may sound nice to talk about tradition, but they keep\nimposing outdated ideas like relics... It's futile.
+It may sound nice to talk about tradition、 but they keep imposing outdated ideas\nlike relics... It's futile.
 C01a04010009
 
 00002000
 Takumi
-I see... So the Kisshouji family also has various problems, \nhuh?
+I see... So the Kisshouji family also has various problems、  huh?
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Problems? Is that how lightly you take it? It's cancer, \ncancer. If things continue like this, the Kisshouji family\nwill only continue on the path of decline.
+Problems? Is that how lightly you take it? It's cancer、  cancer. If things\ncontinue like this、 the Kisshouji family will only continue on the path of\ndecline.
 C01a04010010
 
 00000000
-Arisa said that with such contempt as if she had built up a\nlot of pent-up frustration.
+Arisa said that with such contempt as if she had built up a lot of pent-up\nfrustration.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Sending me here was probably intended as a convenient way to\nget rid of a troublesome burden. But unfortunately for\nyou... do you think you can make everything go your way?
+Sending me here was probably intended as a convenient way to get rid of a\ntroublesome burden. But unfortunately for you... do you think you can make\neverything go your way?
 C01a04010011
 
 00000000
-Indeed, I have seen this scene before. As expected, Arisa\nharbors a conflict with her family and still burns with\nintense animosity towards them.
+Indeed、 I have seen this scene before. As expected、 Arisa harbors a conflict\nwith her family and still burns with intense animosity towards them.
 
 00006000
 Takumi
-But it doesn't seem like the kind of issue that can be\nresolved just within the confines of the family...
+But it doesn't seem like the kind of issue that can be resolved just within the\nconfines of the family...
 
 00000000
-It seems that because I was looked down upon for being a\nwoman in the Kisshouji family, my deep hatred and animosity\ntowards men has not changed at all.
+It seems that because I was looked down upon for being a woman in the Kisshouji\nfamily、 my deep hatred and animosity towards men has not changed at all.
 
 00000000
-That's why they didn't hesitate to use me as an experimental\nsubject, and eventually, they even considered taking over\nthis school as a stepping stone to seize control of the\nKisshouji family.
+That's why they didn't hesitate to use me as an experimental subject、 and\neventually、 they even considered taking over this school as a stepping stone to\nseize control of the Kisshouji family.
 
 00000000
-And the material for that reversal was the music box\ninherited from Arisa's mother's side.
+And the material for that reversal was the music box inherited from Arisa's\nmother's side.
 
 00000000
-However, now the music box is in my hands, and there should\nbe no material for a reversal for Arisa and the others--
+However、 now the music box is in my hands、 and there should be no material for a\nreversal for Arisa and the others--
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a04010012
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a04010009
 
 00000000
-I can't sense any hint of anxiety or difficulty in the\nexpressions of the two.
+I can't sense any hint of anxiety or difficulty in the expressions of the two.
 
 00000000
-My mind control may be distorting their perception in a\nconvenient way, but they have strong convictions and\nconfidence.
+My mind control may be distorting their perception in a convenient way、 but they\nhave strong convictions and confidence.
 
 00000000
-"Indeed, I must firmly keep these two excellent individuals\nunder my control."
+"Indeed、 I must firmly keep these two excellent individuals under my control."
 
 00000000
 The only thing I can do for that... there is only one thing.
 
 00002000
 Takumi
-Anyway, thank you both for your hard work. Thanks to you, \nthe work is progressing smoothly and I really appreciate it.
+Anyway、 thank you both for your hard work. Thanks to you、  the work is\nprogressing smoothly and I really appreciate it.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-...Well, it's not like I'm doing it for your sake or\nanything.
+...Well、 it's not like I'm doing it for your sake or anything.
 C01a04010013
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-That's right. We are just doing what we should be doing for\nourselves.
+That's right. We are just doing what we should be doing for ourselves.
 C02a04010010
 
 00002000
 Takumi
-Well, I guess so. But, in order to fulfill my role, I must\nprovide semen... That is my duty, you know.
+Well、 I guess so. But、 in order to fulfill my role、 I must provide semen... That\nis my duty、 you know.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E37352C2D
 
@@ -313,31 +313,31 @@ Well...y-yes...
 C02a04010011
 
 00000000
-At the mere mention of the word "my semen," both of them\nimmediately blushed and started squirming uncomfortably.
+At the mere mention of the word "my semen、" both of them immediately blushed and\nstarted squirming uncomfortably.
 
 00000000
-Yes, in order to strengthen their desire for my semen, I\nhave been increasing the opportunities for ejaculation for\nboth Arisa and Yuriko.
+Yes、 in order to strengthen their desire for my semen、 I have been increasing\nthe opportunities for ejaculation for both Arisa and Yuriko.
 
 00002000
 Takumi
-You're making a good expression, aren't you? Despite what\nyou say, deep down, you were expecting to receive my semen, \nweren't you?
+You're making a good expression、 aren't you? Despite what you say、 deep down、 \nyou were expecting to receive my semen、  weren't you?
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-It's not like I was expecting anything... Th-this is just\none of the duties I should fulfill... R-right, Yuriko?
+It's not like I was expecting anything... Th-this is just one of the duties I\nshould fulfill... R-right、 Yuriko?
 C01a04010015
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Arisa is right. We are just doing what we should be doing\nfor ourselves... Th-that's all.
+Arisa is right. We are just doing what we should be doing for ourselves... Th-\nthat's all.
 C02a04010012
 
 00000000
-The expressions of the two, who said the exact same thing as\nbefore, were visibly filled with restless and uncontainable\nlust.
+The expressions of the two、 who said the exact same thing as before、 were\nvisibly filled with restless and uncontainable lust.
 
 02008C00010000
 
@@ -345,7 +345,7 @@ The expressions of the two, who said the exact same thing as\nbefore, were visib
 "I see... I have my own way of doing things."
 
 00000000
-With an endless supply of semen, I will corrupt the two of\nthem... Though it may be simple, the intense conditioning\nsession begins again today.
+With an endless supply of semen、 I will corrupt the two of them... Though it may\nbe simple、 the intense conditioning session begins again today.
 
 01003000
 

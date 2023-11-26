@@ -16,48 +16,48 @@
 
 00003000
 Yuriko
-Here is the report. There were no issues with the budget\nrequest, so once we receive approval, the process will be\ncomplete.
+Here is the report. There were no issues with the budget request、 so once we\nreceive approval、 the process will be complete.
 C02a04040001
 
 00003000
 Arisa
-...Yes, I understand.
+...Yes、 I understand.
 C01a04040001
 
 00000000
-Today, as usual, I sit in the chairman's office and listen\nto Arisa and Yuriko's work performance.
+Today、 as usual、 I sit in the chairman's office and listen to Arisa and Yuriko's\nwork performance.
 
 00000000
-"As expected, by listening to their conversations every day, \nI have gradually started to grasp the flow of their work."
+"As expected、 by listening to their conversations every day、  I have gradually\nstarted to grasp the flow of their work."
 
 00000000
-Well, as for whether I would interfere with the two of them, \nof course not.
+Well、 as for whether I would interfere with the two of them、  of course not.
 
 00000000
-It's fine as long as I have a general understanding of the\ncurrent flow of the school and nothing suddenly becomes a\nproblem.
+It's fine as long as I have a general understanding of the current flow of the\nschool and nothing suddenly becomes a problem.
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-And also, we have received a report from the person who was\nsent to the main house. It's regarding the ongoing issue\nwith the Takao family...
+And also、 we have received a report from the person who was sent to the main\nhouse. It's regarding the ongoing issue with the Takao family...
 C02a04040002
 
 00000000
-Furthermore, Yuriko began her report on the latest\ndevelopments regarding the Kisshouji family...
+Furthermore、 Yuriko began her report on the latest developments regarding the\nKisshouji family...
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a04040002
 
 00000000
-It seems that Arisa's expression is unusually tense, as if\nher mind is elsewhere.
+It seems that Arisa's expression is unusually tense、 as if her mind is\nelsewhere.
 
 00000000
-It seems like she is listening, but there is an atmosphere\nas if she has forgotten the instructions I gave.
+It seems like she is listening、 but there is an atmosphere as if she has\nforgotten the instructions I gave.
 
 00003000
 Yuriko
@@ -66,7 +66,7 @@ C02a04040003
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a04040003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
@@ -80,14 +80,14 @@ C02a04040004
 
 00003000
 Arisa
-Eh...? Ah, ah... Yes, thank you. Good work.
+Eh...? Ah、 ah... Yes、 thank you. Good work.
 C01a04040004
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Arisa... Are you okay? Your complexion doesn't look good...\nMaybe you should take a little break...
+Arisa... Are you okay? Your complexion doesn't look good... Maybe you should\ntake a little break...
 C02a04040005
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
@@ -101,59 +101,59 @@ C01a04040005
 
 00003000
 Yuriko
-I see... If you say so, then it's fine...
+I see... If you say so、 then it's fine...
 C02a04040006
 
 00000000
-Arisa let out a small sigh as Yuriko looked at her with a\nworried expression.
+Arisa let out a small sigh as Yuriko looked at her with a worried expression.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-...You really have a keen eye. You're very capable... much\nmore so than someone like me...
+...You really have a keen eye. You're very capable... much more so than someone\nlike me...
 C01a04040006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Eh...? W-What are you saying, Arisa?
+Eh...? W-What are you saying、 Arisa?
 C02a04040007
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Until now, I've been relying on others without knowing\nanything... I might have caused a lot of trouble without\neven realizing it...
+Until now、 I've been relying on others without knowing anything... I might have\ncaused a lot of trouble without even realizing it...
 C01a04040007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Arisa... Please wait. I have never done anything like\nthat...
+Arisa... Please wait. I have never done anything like that...
 C02a04040008
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-...I see. I guess I said something boring. I'm sorry, maybe\nI am tired like Yuriko said.
+...I see. I guess I said something boring. I'm sorry、 maybe I am tired like\nYuriko said.
 C01a04040008
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Ah... In that case, you should go to the infirmary...
+Ah... In that case、 you should go to the infirmary...
 C02a04040009
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-It's okay. I'll go back to the classroom ahead of you. If\nanything happens, please let me know.
+It's okay. I'll go back to the classroom ahead of you. If anything happens、 \nplease let me know.
 C01a04040009
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
@@ -166,21 +166,21 @@ C02a04040010
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00000000
-Arisa, with an aura that made her seem unapproachable, \ncasually left the principal's office.
+Arisa、 with an aura that made her seem unapproachable、  casually left the\nprincipal's office.
 
 00002000
 Takumi
-Arisa probably wants to be alone sometimes too. Shouldn't we\nleave her alone?
+Arisa probably wants to be alone sometimes too. Shouldn't we leave her alone?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30332F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a04040011
 
 00000000
-Yuriko, with a look that seemed to say "What do you\nunderstand?", was glared at, but without any retort, she\nherself began hurriedly preparing to leave.
+Yuriko、 with a look that seemed to say "What do you understand?"、 was glared at、 \nbut without any retort、 she herself began hurriedly preparing to leave.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -192,72 +192,72 @@ C02a04040012
 02008C00010000
 
 00000000
-Just to be clear, I'll also leave the room.
+Just to be clear、 I'll also leave the room.
 
 00000000
-Did she really go after Arisa? No, considering Yuriko's\npersonality, she probably wouldn't go that far.
+Did she really go after Arisa? No、 considering Yuriko's personality、 she\nprobably wouldn't go that far.
 
 0300000000000F2742474D3130
 
 00002000
 Takumi
-Hehe... I wonder if that feeling of unease is getting\nstronger again.
+Hehe... I wonder if that feeling of unease is getting stronger again.
 
 00000000
-It's possible that the rumors about Arisa and Yuriko, which\nhave been gradually spreading throughout the school, are\nsubtly starting to affect Arisa's awareness.
+It's possible that the rumors about Arisa and Yuriko、 which have been gradually\nspreading throughout the school、 are subtly starting to affect Arisa's\nawareness.
 
 00002000
 Takumi
-If you didn't sweat the small stuff and carried yourself\nwith more confidence, it would have made it easier for me\ntoo.
+If you didn't sweat the small stuff and carried yourself with more confidence、 \nit would have made it easier for me too.
 
 00000000
-In reality, Arisa was like an empress with the kind of\ncharisma that you would only see in dramas or novels.
+In reality、 Arisa was like an empress with the kind of charisma that you would\nonly see in dramas or novels.
 
 00000000
-It's not just about being academically excellent and\nathletically talented.
+It's not just about being academically excellent and athletically talented.
 
 00000000
-They understand the meaning of standing above others, have\nthe awareness of it, and are filled with confidence as\nsomeone who has actually stood in that position.
+They understand the meaning of standing above others、 have the awareness of it、 \nand are filled with confidence as someone who has actually stood in that\nposition.
 
 00000000
-"That is an element that can be felt fully, not only when\nunder mind control, but even now, after escaping from it."
+"That is an element that can be felt fully、 not only when under mind control、 \nbut even now、 after escaping from it."
 
 00000000
-Not only is she highly skilled, but she is also adept at\nmanipulating people's hearts and knows how to handle them\nwell.
+Not only is she highly skilled、 but she is also adept at manipulating people's\nhearts and knows how to handle them well.
 
 00000000
-From my objective perspective, I believe Arisa has\nexperienced numerous events that Yuriko couldn't handle.
+From my objective perspective、 I believe Arisa has experienced numerous events\nthat Yuriko couldn't handle.
 
 00000000
-However, despite having such achievements, it seems that\nArisa feels jealous and envious of Yuriko's excellent\nqualities that she herself does not possess.
+However、 despite having such achievements、 it seems that Arisa feels jealous and\nenvious of Yuriko's excellent qualities that she herself does not possess.
 
 00000000
-Is it due to the distortion of imperial studies that says\none must be all-powerful, or is it due to her personality?
+Is it due to the distortion of imperial studies that says one must be all-\npowerful、 or is it due to her personality?
 
 00000000
-In any case, because of her perfectionism, the complex that\narises is like an obvious vulnerability in my eyes.
+In any case、 because of her perfectionism、 the complex that arises is like an\nobvious vulnerability in my eyes.
 
 00006000
 Takumi
-Well... up until now, we haven't really been in a situation\nwhere we had to worry about such things... Is this also just\na result of youth?
+Well... up until now、 we haven't really been in a situation where we had to\nworry about such things... Is this also just a result of youth?
 
 00000000
-Honestly, if I, a man of my caliber, were to be manipulated\nlike this, it's possible that I would have fallen from grace\nsooner or later.
+Honestly、 if I、 a man of my caliber、 were to be manipulated like this、 it's\npossible that I would have fallen from grace sooner or later.
 
 00000000
-No, if it weren't for the music box, would she have never\ncome out into the open?
+No、 if it weren't for the music box、 would she have never come out into the\nopen?
 
 00000000
-"Once again, I can't help but feel a fluttering sensation in\nmy chest at the fortunate opportunity of having the music\nbox in my hands."
+"Once again、 I can't help but feel a fluttering sensation in my chest at the\nfortunate opportunity of having the music box in my hands."
 
 00000000
-"The relationship between the two, which is on the verge of\ncracking again... I can't just leave it alone here."
+"The relationship between the two、 which is on the verge of cracking again... I\ncan't just leave it alone here."
 
 00000000
-"In order to widen that crack even further, I have decided\nto once again narrow down today's target."
+"In order to widen that crack even further、 I have decided to once again narrow\ndown today's target."
 
 00000000
-Well, which one should I use today...
+Well、 which one should I use today...
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

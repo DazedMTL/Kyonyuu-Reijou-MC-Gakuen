@@ -10,7 +10,7 @@
 
 00002000
 Female Teacher
-Well then, let's end this lesson here. Don't forget to\nreview thoroughly.
+Well then、 let's end this lesson here. Don't forget to review thoroughly.
 
 00002000
 Student A
@@ -21,27 +21,27 @@ Stand up! Bow!
 0200000001004247303230305F62
 
 00000000
-As soon as the greetings end, a relaxed atmosphere begins to\nspread throughout the classroom.
+As soon as the greetings end、 a relaxed atmosphere begins to spread throughout\nthe classroom.
 
 00000000
-It's just about lunchtime, right after the morning classes\nhave ended.
+It's just about lunchtime、 right after the morning classes have ended.
 
 00000000
-If it's the longest break time you can get during school, \nthen it's only natural.
+If it's the longest break time you can get during school、  then it's only\nnatural.
 
 00000000
-However, for me... For Takumi, lunch break can never be a\ntime of rest.
+However、 for me... For Takumi、 lunch break can never be a time of rest.
 
 00000000
-No, rather, it's a time when I feel much more cramped and\nforced to be tense than during class.
+No、 rather、 it's a time when I feel much more cramped and forced to be tense\nthan during class.
 
 00002000
 Student B
-Hey, what are you looking at over here?
+Hey、 what are you looking at over here?
 
 00002000
 Takumi
-Eh... Ah, no... Th-that...
+Eh... Ah、 no... Th-that...
 
 00002000
 Student C
@@ -49,14 +49,14 @@ What's with that look? Trying to peek? How lewd.
 
 00002000
 Takumi
-N-no, that's not...
+N-no、 that's not...
 
 00000000
-Just by letting my gaze wander a bit, harsh words are thrown\nat me, and I hurriedly avert my eyes to the corner of the\nroom. But--
+Just by letting my gaze wander a bit、 harsh words are thrown at me、 and I\nhurriedly avert my eyes to the corner of the room. But--
 
 00003000
 ???
-What's the matter, $α-kun? It seems rather noisy, doesn't\nit?
+What's the matter、 ＄Ikenoue-kun? It seems rather noisy、 doesn't it?
 C01a00010001
 
 00002000
@@ -64,12 +64,12 @@ Takumi
 H-huh...! Ah... No...
 
 00000000
-At the voice that was timed as if calculated, I fearfully\nfaced forward.
+At the voice that was timed as if calculated、 I fearfully faced forward.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00000000
-Standing there was Kisshouji Arisa-san, who is like the\nleader of our class.
+Standing there was Kisshouji Arisa-san、 who is like the leader of our class.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
@@ -79,11 +79,11 @@ Standing there was Kisshouji Arisa-san, who is like the\nleader of our class.
 C02a00010001
 
 00000000
-Immediately behind her, standing by, was Kuga Yuriko-san, \nwho serves as a sort of sub-leader and is on the\ndisciplinary committee.
+Immediately behind her、 standing by、 was Kuga Yuriko-san、  who serves as a sort\nof sub-leader and is on the disciplinary committee.
 
 00003000
 Arisa
-$α-kun... You are the only boy in our class... no, in the\nentire school. You do understand that everyone is being\nconsiderate in various ways, right?
+＄Ikenoue-kun... You are the only boy in our class... no、 in the entire school. You do\nunderstand that everyone is being considerate in various ways、 right?
 C01a00010002
 
 00002000
@@ -102,37 +102,37 @@ Takumi
 Y-yes...!
 
 00000000
-She's a quarter British and comes from a prestigious family.\nThere's no one in this class... no, in this entire school\nwho can oppose her.
+She's a quarter British and comes from a prestigious family. There's no one in\nthis class... no、 in this entire school who can oppose her.
 
 00000000
-I can't afford to upset her, so I desperately squeeze out a\nvoice while standing rigidly upright.
+I can't afford to upset her、 so I desperately squeeze out a voice while standing\nrigidly upright.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-So... why has it become so noisy, I wonder?
+So... why has it become so noisy、 I wonder?
 C01a00010004
 
 00002000
 Takumi
-That, well...
+That、 well...
 
 00000000
-I don't want to cause a commotion at all. Rather, I wish\nthey'd leave me alone... and yet.
+I don't want to cause a commotion at all. Rather、 I wish they'd leave me\nalone... and yet.
 
 00000000
-Every single move I make is closely watched, and I'm accused\nof things I didn't intend.
+Every single move I make is closely watched、 and I'm accused of things I didn't\nintend.
 
 00002000
 Takumi
-I'm... sorry... Um, I didn't mean it like that at all... Uh, \nthat...
+I'm... sorry... Um、 I didn't mean it like that at all... Uh、  that...
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Shut up, you trash.
+Shut up、 you trash.
 C01a00010005
 
 00002000
@@ -141,17 +141,17 @@ Takumi
 
 00003000
 Arisa
-No one wants to hear your excuses. You've disrupted the\norder of this place... Can't you even apologize for that?
+No one wants to hear your excuses. You've disrupted the order of this place...\nCan't you even apologize for that?
 C01a00010006
 
 00000000
-The way Kisshouji-san looks at me... it's not the way one\nlooks at another human being.
+The way Kisshouji-san looks at me... it's not the way one looks at another human\nbeing.
 
 00000000
-It's like dealing with a bug... a cold, condemning gaze.
+It's like dealing with a bug... a cold、 condemning gaze.
 
 00000000
-And when I'm subjected to that gaze, any will to resist or\nanything else just crumbles away.
+And when I'm subjected to that gaze、 any will to resist or anything else just\ncrumbles away.
 
 00002000
 Takumi
@@ -161,12 +161,12 @@ Uh... I'm... sorry...
 
 00003000
 Arisa
-Oh... Did I just hear something? How about you, Kuga-san?
+Oh... Did I just hear something? How about you、 Kuga-san?
 C01a00010007
 
 00003000
 Yuriko
-No, I didn't hear anything.
+No、 I didn't hear anything.
 C02a00010002
 
 00003000
@@ -179,16 +179,16 @@ Takumi
 Ah... I... disrupted the class order... I'm sorry!
 
 00000000
-This time, loud and clear for everyone to hear.
+This time、 loud and clear for everyone to hear.
 
 00000000
-However, Kisshouji-san didn't seem moved by those words at\nall, she just turned on her heel as if she had lost\ninterest.
+However、 Kisshouji-san didn't seem moved by those words at all、 she just turned\non her heel as if she had lost interest.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-...Somehow, the atmosphere is unpleasant. Hand me the\nhandkerchief.
+...Somehow、 the atmosphere is unpleasant. Hand me the handkerchief.
 C01a00010009
 
 00003000
@@ -197,7 +197,7 @@ Yes.
 C02a00010003
 
 00000000
-From the start, she had no intention of listening to my\napologies. She was just teasing me, and when she got bored, \nshe just dropped it.
+From the start、 she had no intention of listening to my apologies. She was just\nteasing me、 and when she got bored、  she just dropped it.
 
 02008C00010000
 
@@ -206,7 +206,7 @@ Takumi
 Why... why is this happening... what did I do...
 
 00000000
-I was released... Along with a feeling of relief, the regret\nof not being able to do anything pierces my heart.
+I was released... Along with a feeling of relief、 the regret of not being able\nto do anything pierces my heart.
 
 00002000
 Student D
@@ -214,7 +214,7 @@ Look at that face... He's on the verge of tears...
 
 00002000
 Student E
-Even though he's a guy... I wonder if he's not\nembarrassed...
+Even though he's a guy... I wonder if he's not embarrassed...
 
 00000000
 There's no hint of sympathy in the whispers I can hear.
@@ -224,10 +224,10 @@ Takumi
 ………………
 
 00000000
-My feelings are sinking, clouded and heavy, but there's\nnothing I can do to lift them.
+My feelings are sinking、 clouded and heavy、 but there's nothing I can do to lift\nthem.
 
 00000000
-I never imagined that being in a situation without any other\nguys around could be so suffocating and uncomfortable.
+I never imagined that being in a situation without any other guys around could\nbe so suffocating and uncomfortable.
 
 0100200002026566666563742C656666656374206B6169736F75
 
@@ -236,83 +236,83 @@ I never imagined that being in a situation without any other\nguys around could 
 0200000001004247313030305F62
 
 00000000
-The private Oukyou Academy was originally a full-boarding\ngirls' school attended by noble ladies from prestigious\nfamilies.
+The private Oukyou Academy was originally a full-boarding girls' school attended\nby noble ladies from prestigious families.
 
 00000000
-However, due to the declining birthrate and a change in\npolicy following a change in the principal, a major turning\npoint came to Oukyou Academy.
+However、 due to the declining birthrate and a change in policy following a\nchange in the principal、 a major turning point came to Oukyou Academy.
 
 00000000
-That was the acceptance of male students, a new reform that\nrewrote the history of the school spanning over half a\ncentury.
+That was the acceptance of male students、 a new reform that rewrote the history\nof the school spanning over half a century.
 
 00000000
-While it sounds good to say that we value tradition, there\nare times when the school's atmosphere is mocked for being\nout of touch and stagnant.
+While it sounds good to say that we value tradition、 there are times when the\nschool's atmosphere is mocked for being out of touch and stagnant.
 
 00000000
-It's true that there had been voices saying that it was not\nsuitable for the current times for a while now.
+It's true that there had been voices saying that it was not suitable for the\ncurrent times for a while now.
 
 00000000
-That being said, the bold attempt to introduce new blood\ncaused quite a stir in society when it was announced.
+That being said、 the bold attempt to introduce new blood caused quite a stir in\nsociety when it was announced.
 
 00000000
-That being said, it's a story that has nothing to do with\nme.
+That being said、 it's a story that has nothing to do with me.
 
 00000000
-What suddenly came to me, who thought it had nothing to do\nwith me, was none other than the special scholarship offer\nfrom Oukyou Academy.
+What suddenly came to me、 who thought it had nothing to do with me、 was none\nother than the special scholarship offer from Oukyou Academy.
 
 00002000
 Teacher
-$α... You were worried about your future path, weren't you?\nThis kind of offer has come... What do you think?
+＄Ikenoue... You were worried about your future path、 weren't you? This kind of offer\nhas come... What do you think?
 
 00000000
-I don't know why such an offer came to me, who is not\nparticularly good at academics and has not achieved anything\nin club activities.
+I don't know why such an offer came to me、 who is not particularly good at\nacademics and has not achieved anything in club activities.
 
 00000000
-However, at that time, I was certainly in the midst of being\nlost about my upcoming path.
+However、 at that time、 I was certainly in the midst of being lost about my\nupcoming path.
 
 00000000
-Raised in a household with only my workaholic father due to\nmy parents' early divorce, I was unable to build a good\nrelationship with him.
+Raised in a household with only my workaholic father due to my parents' early\ndivorce、 I was unable to build a good relationship with him.
 
 00000000
-It's not like I was particularly pressured about my future\npath.
+It's not like I was particularly pressured about my future path.
 
 00000000
-But it's true that I felt a certain discomfort, or rather, \nan indescribable suffocation in the occasional conversations\nbetween us as parent and child.
+But it's true that I felt a certain discomfort、 or rather、  an indescribable\nsuffocation in the occasional conversations between us as parent and child.
 
 00000000
-Compared to my father, who was always competing at the top, \nI was doing my best to achieve average numbers.
+Compared to my father、 who was always competing at the top、  I was doing my best\nto achieve average numbers.
 
 00000000
-Even if he didn't say it out loud, I wonder if my father\nrealized that the minimum expected results naturally became\nhigher.
+Even if he didn't say it out loud、 I wonder if my father realized that the\nminimum expected results naturally became higher.
 
 00000000
-Therefore, the invitation from Oukyou Academy, which was\nchallenging a new environment by accepting new male\nstudents, was indeed a timely opportunity for me.
+Therefore、 the invitation from Oukyou Academy、 which was challenging a new\nenvironment by accepting new male students、 was indeed a timely opportunity for\nme.
 
 00000000
-If it's a boarding school, at least until I graduate, I can\nlive away from my parents.
+If it's a boarding school、 at least until I graduate、 I can live away from my\nparents.
 
 00000000
-If it's the well-known Oukyou Academy, it should be able to\nmaintain my father's reputation to some extent, one way or\nanother.
+If it's the well-known Oukyou Academy、 it should be able to maintain my father's\nreputation to some extent、 one way or another.
 
 00000000
-With such reasons, my strong desire to change my environment\nultimately gave me a big push, and my father understood\nthat.
+With such reasons、 my strong desire to change my environment ultimately gave me\na big push、 and my father understood that.
 
 00000000
-Of course, there was also a little expectation that I might\nbe able to experience a bittersweet adolescence in a school\nthat was originally a girls' school and likely had many\ngirls.
+Of course、 there was also a little expectation that I might be able to\nexperience a bittersweet adolescence in a school that was originally a girls'\nschool and likely had many girls.
 
 00000000
-My joy at successfully passing the surprisingly easy\nacademic test and light interview as a special scholarship\nstudent was short-lived.
+My joy at successfully passing the surprisingly easy academic test and light\ninterview as a special scholarship student was short-lived.
 
 00000000
 I was the only boy who enrolled.
 
 00000000
-What on earth was the scholarship system? -- I had no way to\nconfirm it.
+What on earth was the scholarship system? -- I had no way to confirm it.
 
 00000000
-What awaited me as the only male student in the academy were\ncurious... no, strange looks.
+What awaited me as the only male student in the academy were curious... no、 \nstrange looks.
 
 00000000
-And above all, it was the deep, dark world of a closed-off\nfemale society.
+And above all、 it was the deep、 dark world of a closed-off female society.
 
 0300000000000F2742474D3033
 
@@ -334,37 +334,37 @@ Takumi
 ...Fukunaga-san...
 
 00000000
-Seeing me gloomily hanging my head, Koharu Fukunaga-san from\nthe seat next to me gently showed her concern.
+Seeing me gloomily hanging my head、 Koharu Fukunaga-san from the seat next to me\ngently showed her concern.
 
 00003000
 Koharu
-Um... I... I may not be able to do anything, and it might\nnot even be a comfort, but cheer up...?
+Um... I... I may not be able to do anything、 and it might not even be a comfort、 \nbut cheer up...?
 C04a00010002
 
 00000000
-I realize that my heart is being gently healed by her\nwhispered words of encouragement.
+I realize that my heart is being gently healed by her whispered words of\nencouragement.
 
 00000000
-Yes, she was the only one who was kind to me, always showing\nconcern for me, in a class where I felt like a thorn among\nroses.
+Yes、 she was the only one who was kind to me、 always showing concern for me、 in\na class where I felt like a thorn among roses.
 
 00000000
-She has a reserved personality, and she doesn't go out of\nher way to defend me.
+She has a reserved personality、 and she doesn't go out of her way to defend me.
 
 00000000
-Still, these kind words, quietly spoken when everyone else's\nattention is diverted, are such a relief.
+Still、 these kind words、 quietly spoken when everyone else's attention is\ndiverted、 are such a relief.
 
 00002000
 Takumi
-Thank you... Fukunaga-san. I'll be okay, because I'm me...
+Thank you... Fukunaga-san. I'll be okay、 because I'm me...
 
 00003000
 Koharu
-That's... good then... but, don't bottle up your feelings\ntoo much... If something happens, at least I can listen to\nyour story...
+That's... good then... but、 don't bottle up your feelings too much... If\nsomething happens、 at least I can listen to your story...
 C04a00010003
 
 00002000
 Takumi
-Yeah... when that time comes, I'll definitely ask for your\nhelp.
+Yeah... when that time comes、 I'll definitely ask for your help.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
@@ -374,36 +374,36 @@ Mm...
 C04a00010004
 
 00000000
-In response to my words, Fukunaga-san shows me a slightly\nshy smile.
+In response to my words、 Fukunaga-san shows me a slightly shy smile.
 
 00000000
-The dimples that appear on her still innocent and cute face\nare dazzling.
+The dimples that appear on her still innocent and cute face are dazzling.
 
 00000000
 More than anything--
 
 00000000
-Even though I know it's wrong... I can't help but let my\ngaze drift towards her chest.
+Even though I know it's wrong... I can't help but let my gaze drift towards her\nchest.
 
 00006000
 Takumi
 ...As I thought... it's amazing...
 
 00000000
-The bust of Fukunaga-san, which enters the corner of my\nvision, boasts a size so abundant that it can no longer be\nsuppressed by that uniform.
+The bust of Fukunaga-san、 which enters the corner of my vision、 boasts a size so\nabundant that it can no longer be suppressed by that uniform.
 
 00000000
-Even in such a situation, I wonder if I can't resist a man's\ninstincts.
+Even in such a situation、 I wonder if I can't resist a man's instincts.
 
 00000000
-While looking at Fukunaga-san's face, I can't help but catch\na glimpse of her large breasts in the corner of my eye.
+While looking at Fukunaga-san's face、 I can't help but catch a glimpse of her\nlarge breasts in the corner of my eye.
 
 00006000
 Takumi
 If I were to be enveloped by such soft breasts...
 
 00000000
-Just as I was indulging in these indecent fantasies and\nswallowed my saliva--
+Just as I was indulging in these indecent fantasies and swallowed my saliva--
 
 00003000
 ???
@@ -415,7 +415,7 @@ Takumi
 Huh...!?
 
 00000000
-By the time I realized my mistake and hurriedly averted my\ngaze, it was already too late.
+By the time I realized my mistake and hurriedly averted my gaze、 it was already\ntoo late.
 
 0200A9100002
 
@@ -424,7 +424,7 @@ Takumi
 Nguh!
 
 00000000
-A firm headlock is applied to my neck, and the strong scent\nof some kind of perfume spreads through my nose.
+A firm headlock is applied to my neck、 and the strong scent of some kind of\nperfume spreads through my nose.
 
 00002000
 Takumi
@@ -438,34 +438,34 @@ Trying to deceive me is useless~ I saw it all clearly~
 C03a00010002
 
 00000000
-The one whispering intimately into my ear is Kamiizumi Rio-\nsan.
+The one whispering intimately into my ear is Kamiizumi Rio- san.
 
 00000000
-Her gyaru-style appearance is quite out of place in this\nschool, but for some reason, she's favored by Kisshouji-san, \nand no one dares to point it out.
+Her gyaru-style appearance is quite out of place in this school、 but for some\nreason、 she's favored by Kisshouji-san、  and no one dares to point it out.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D39352F312F31
 
 00003000
 Rio
-Hey, you were just lewdly staring at Koharu-chan's big\nboobs, weren't you?
+Hey、 you were just lewdly staring at Koharu-chan's big boobs、 weren't you?
 C03a00010003
 
 00002000
 Takumi
-No, that's... that's not...
+No、 that's... that's not...
 
 00000000
-At her piercing words, I inadvertently stammer and\ndesperately shake my head.
+At her piercing words、 I inadvertently stammer and desperately shake my head.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D39352F312F31
 
 00003000
 Rio
-No, it's obvious even if you lie. Look, there's evidence\nright here!
+No、 it's obvious even if you lie. Look、 there's evidence right here!
 C03a00010004
 
 00000000
-When she grabs the back of my neck, Kamiizumi-san forcefully\npushes me onto the floor.
+When she grabs the back of my neck、 Kamiizumi-san forcefully pushes me onto the\nfloor.
 
 0200A9100002
 
@@ -483,21 +483,21 @@ Uwah!
 
 00003000
 Rio
-Kukku, look, I'm going to grind it in!
+Kukku、 look、 I'm going to grind it in!
 C03a00010005
 
 00000000
-As I fell onto my back, the tip of her shoe dug into my\ncrotch with all her might, and the sensation of being pushed\nin almost stopped my breath.
+As I fell onto my back、 the tip of her shoe dug into my crotch with all her\nmight、 and the sensation of being pushed in almost stopped my breath.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-Oh my, what's this? It's starting to get hard, isn't it?
+Oh my、 what's this? It's starting to get hard、 isn't it?
 C03a00010006
 
 00000000
-As she continues to step on me with pinpoint accuracy, my\npenis, despite the pain, begins to slowly rise.
+As she continues to step on me with pinpoint accuracy、 my penis、 despite the\npain、 begins to slowly rise.
 
 00002000
 Takumi
@@ -507,7 +507,7 @@ S-stop...
 
 00003000
 Rio
-Oops! What are you trying to close your legs for? If you\ndon't stay still, I'll crush it!
+Oops! What are you trying to close your legs for? If you don't stay still、 I'll\ncrush it!
 C03a00010007
 
 00002000
@@ -515,24 +515,24 @@ Takumi
 Ah...!
 
 00000000
-At her strong words, I stiffened in surprise, my will to\nresist broken.
+At her strong words、 I stiffened in surprise、 my will to resist broken.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-Fufu, that's right. If you behave yourself, it won't be so\nbad.
+Fufu、 that's right. If you behave yourself、 it won't be so bad.
 C03a00010008
 
 00000000
-The pressure lessens a bit, and I'm somehow freed from the\nfear of being crushed.
+The pressure lessens a bit、 and I'm somehow freed from the fear of being\ncrushed.
 
 00000000
-However, the situation of her stepping on my crotch hasn't\nchanged, and Kamiizumi-san starts to move her foot\namusingly.
+However、 the situation of her stepping on my crotch hasn't changed、 and\nKamiizumi-san starts to move her foot amusingly.
 
 00003000
 Rio
-Look at this~ What could this mean~? Is it getting bigger\nagain?
+Look at this~ What could this mean~? Is it getting bigger again?
 C03a00010009
 
 00002000
@@ -541,18 +541,18 @@ Ah... Kuh... Such... Thing...
 
 00003000
 Rio
-You say it's not like that? Hmm, then, what about this?
+You say it's not like that? Hmm、 then、 what about this?
 C03a00010010
 
 00002000
 Takumi
-Ha... Nnn, kuu, u, aah...
+Ha... Nnn、 kuu、 u、 aah...
 
 020000000100666D5F3030315F30303031
 
 00003000
 Rio
-Wow, you're seriously hard, aren't you? Takumi, could it be\nthat you usually jerk off pretty hard?
+Wow、 you're seriously hard、 aren't you? Takumi、 could it be that you usually\njerk off pretty hard?
 C03a00010011
 
 00002000
@@ -561,46 +561,46 @@ Jerk off... Gross... I wonder what he's thinking...
 
 00002000
 Student G
-But, I'm sure that's the case... He has that kind of face...
+But、 I'm sure that's the case... He has that kind of face...
 
 00000000
-At Kamiizumi-san's vulgar words, even the nearby girls frown\nslightly.
+At Kamiizumi-san's vulgar words、 even the nearby girls frown slightly.
 
 00000000
-Even though those weren't my words, all of that disgust, \npassing through Kamiizumi-san, was directed at me.
+Even though those weren't my words、 all of that disgust、  passing through\nKamiizumi-san、 was directed at me.
 
 00000000
-However, I don't have the luxury to retort against such\nabsurdity. My body naturally reacts to the stimulation at\nthe tip, slowly felt through the shoe.
+However、 I don't have the luxury to retort against such absurdity. My body\nnaturally reacts to the stimulation at the tip、 slowly felt through the shoe.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-Look, right here, your dick. Wow, it's getting really hard!
+Look、 right here、 your dick. Wow、 it's getting really hard!
 C03a00010012
 
 00002000
 Takumi
-Kuh... Uuh... Ah, sto...p it, kuh... uuh...!
+Kuh... Uuh... Ah、 sto...p it、 kuh... uuh...!
 
 00000000
 That level of force was terrifyingly exquisite.
 
 00000000
-There's no way I could feel good from being kicked in the\ncrotch. Yet, I feel an indescribable heat in the center of\nmy crotch where it was pushed in.
+There's no way I could feel good from being kicked in the crotch. Yet、 I feel an\nindescribable heat in the center of my crotch where it was pushed in.
 
 00000000
-It's a movement that knows where to stimulate and how the\nbody will react.
+It's a movement that knows where to stimulate and how the body will react.
 
 020000000100666D5F3030315F30303031
 
 00003000
 Rio
-Even through your pants, it's totally noticeable. Look, look\nat this bulge!
+Even through your pants、 it's totally noticeable. Look、 look at this bulge!
 C03a00010013
 
 00000000
-The blood-engorged dick is clearly outlined, slowly rubbed\nby the tip of the shoe.
+The blood-engorged dick is clearly outlined、 slowly rubbed by the tip of the\nshoe.
 
 00002000
 Student A
@@ -611,13 +611,13 @@ Student B
 In a place like this... Pervert... Are you sane...?
 
 00000000
-Before I knew it, the girls around me started to stir more\nat the sight of my crotch, which had firmly pitched a tent\nupwards.
+Before I knew it、 the girls around me started to stir more at the sight of my\ncrotch、 which had firmly pitched a tent upwards.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-Fufu, did you hear that? They're calling you a pervert.\nYou're being told quite something, aren't you?
+Fufu、 did you hear that? They're calling you a pervert. You're being told quite\nsomething、 aren't you?
 C03a00010014
 
 00002000
@@ -626,7 +626,7 @@ Ah... Uuh...
 
 00003000
 Rio
-But for a masochist like you, this is a reward, isn't it?\nBeing jerked off in front of your classmates.
+But for a masochist like you、 this is a reward、 isn't it? Being jerked off in\nfront of your classmates.
 C03a00010015
 
 00002000
@@ -635,7 +635,7 @@ N-No... way...
 
 00003000
 Rio
-Even if you say no with your mouth, your dick is honest.\nWhat's this, a full-blown erection!
+Even if you say no with your mouth、 your dick is honest. What's this、 a full-\nblown erection!
 C03a00010016
 
 00003000
@@ -649,13 +649,13 @@ Yuriko
 C02a00010004
 
 00000000
-I could see Kisshouji-san and Kuga-san looking down at me\nfrom a little distance away.
+I could see Kisshouji-san and Kuga-san looking down at me from a little distance\naway.
 
 00000000
-There's no doubt that at this very moment, the discipline of\nthe class is truly in disarray.
+There's no doubt that at this very moment、 the discipline of the class is truly\nin disarray.
 
 00000000
-But the two of them didn't say a word to stop it, they just\nwatched Kamiizumi-san's actions with cold eyes.
+But the two of them didn't say a word to stop it、 they just watched Kamiizumi-\nsan's actions with cold eyes.
 
 020000000100666D5F3030315F30303033
 
@@ -665,10 +665,10 @@ Ah..........
 C04a00010005
 
 00000000
-Furthermore, in the corner, I could also see Fukunaga-san\nwith a troubled expression on her face.
+Furthermore、 in the corner、 I could also see Fukunaga-san with a troubled\nexpression on her face.
 
 00000000
-In the first place, it was because I was looking at\nFukunaga-san's chest with lewd eyes... That was a fact that\nI couldn't make any excuses for.
+In the first place、 it was because I was looking at Fukunaga-san's chest with\nlewd eyes... That was a fact that I couldn't make any excuses for.
 
 020000000100666D5F3030315F30303032
 
@@ -678,13 +678,13 @@ Koharu
 C04a00010006
 
 00000000
-I wonder how I look to Fukunaga-san, who is blushing but not\nlooking away.
+I wonder how I look to Fukunaga-san、 who is blushing but not looking away.
 
 00000000
-I'm being watched... Everyone is seeing me in such a\npathetic state...
+I'm being watched... Everyone is seeing me in such a pathetic state...
 
 00000000
-The more I became aware of that, the more blood naturally\ngathered in my crotch, bringing a dull numbness beyond my\ncontrol.
+The more I became aware of that、 the more blood naturally gathered in my crotch、 \nbringing a dull numbness beyond my control.
 
 020000000100666D5F3030315F30303031
 
@@ -698,62 +698,62 @@ Takumi
 Ahg!?
 
 00000000
-My crotch is stepped on again, and my body involuntarily\njumps up.
+My crotch is stepped on again、 and my body involuntarily jumps up.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-Ahaha, ahg!? But. You make such a good sound, come on, let's\nhear more!
+Ahaha、 ahg!? But. You make such a good sound、 come on、 let's hear more!
 C03a00010018
 
 00002000
 Takumi
-St...st, op...ahg, ah, ahh...!
+St...st、 op...ahg、 ah、 ahh...!
 
 00000000
-It's as if I'm being given an electric massage, a strong\nvibration is given to my crotch, making it shake\nuncontrollably.
+It's as if I'm being given an electric massage、 a strong vibration is given to\nmy crotch、 making it shake uncontrollably.
 
 00000000
-But, the stimulation brought about by this humiliating\nposture was not just mere pain.
+But、 the stimulation brought about by this humiliating posture was not just mere\npain.
 
 00002000
 Takumi
-Ugh, ha, ngh, ah...kuh, ng...huff...
+Ugh、 ha、 ngh、 ah...kuh、 ng...huff...
 
 00000000
-The more I try to endure not making a sound, the stronger\nthe throbbing at my core becomes, and a pathetic breath\nleaks from my nose.
+The more I try to endure not making a sound、 the stronger the throbbing at my\ncore becomes、 and a pathetic breath leaks from my nose.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-Fufu, is it painful? Then... I'll go a little easier on you.
+Fufu、 is it painful? Then... I'll go a little easier on you.
 C03a00010019
 
 00002000
 Takumi
-Ah...ngh...ah, huff...
+Ah...ngh...ah、 huff...
 
 00000000
-Just before the intense pain hits, the stimulation suddenly\nweakens, and I somehow manage to breathe.
+Just before the intense pain hits、 the stimulation suddenly weakens、 and I\nsomehow manage to breathe.
 
 00000000
-But, the fear of her foot still firmly pressing into me\ndrains my will to escape, and I'm still at the mercy of\nKamiizumi-san.
+But、 the fear of her foot still firmly pressing into me drains my will to\nescape、 and I'm still at the mercy of Kamiizumi-san.
 
 00003000
 Rio
-Oh, you still have some fight left in you. Could it be that\nyou want to go all the way to the end?
+Oh、 you still have some fight left in you. Could it be that you want to go all\nthe way to the end?
 C03a00010020
 
 00000000
-Taking advantage of my immobility, she starts to press in\nharder again.
+Taking advantage of my immobility、 she starts to press in harder again.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-There, there, how is it? You're getting excited from having\nyour dick stepped on by a girl, aren't you? Hmm?
+There、 there、 how is it? You're getting excited from having your dick stepped on\nby a girl、 aren't you? Hmm?
 C03a00010021
 
 00002000
@@ -762,18 +762,18 @@ That's... not... ah... stop...
 
 00003000
 Rio
-What, making such a girly sound. Kyaha, that's too gross!
+What、 making such a girly sound. Kyaha、 that's too gross!
 C03a00010022
 
 00000000
-Even though she's always been messing with me, it's never\ngone this far.
+Even though she's always been messing with me、 it's never gone this far.
 
 00000000
-But, as if some switch has been flipped, Kamiizumi-san\ndoesn't stop her actions and continues to escalate them.
+But、 as if some switch has been flipped、 Kamiizumi-san doesn't stop her actions\nand continues to escalate them.
 
 00003000
 Rio
-Now, I wonder where you feel it the most~? I thought it\nmight be the tip, but surprisingly, the base might be good\ntoo?
+Now、 I wonder where you feel it the most~? I thought it might be the tip、 but\nsurprisingly、 the base might be good too?
 C03a00010023
 
 00002000
@@ -784,21 +784,21 @@ Ugh...!
 
 00003000
 Rio
-Oh, it's twitching. Then, let's continue around here too...
+Oh、 it's twitching. Then、 let's continue around here too...
 C03a00010024
 
 00002000
 Takumi
-...! R-really... no more than that... hik, ah!?
+...! R-really... no more than that... hik、 ah!?
 
 00000000
-Even though I desperately try to protest, the relentless\nstimulation doesn't let me form words properly.
+Even though I desperately try to protest、 the relentless stimulation doesn't let\nme form words properly.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-Fufu, are your balls trembling too? Do you like this kind of\nthing?
+Fufu、 are your balls trembling too? Do you like this kind of thing?
 C03a00010025
 
 00002000
@@ -806,30 +806,30 @@ Takumi
 Kuo...!
 
 00000000
-Just as the stimulation to the tip continued, a sudden, \nheavy shock ran through the base.
+Just as the stimulation to the tip continued、 a sudden、  heavy shock ran through\nthe base.
 
 00000000
-Kamiizumi-san's heel is applying pressure to my defenseless\nballs.
+Kamiizumi-san's heel is applying pressure to my defenseless balls.
 
 00002000
 Takumi
 Ha... Ah... Guh... Ah... Ha... Ah...
 
 00000000
-With my most vulnerable spot being pressed, I feel a sense\nof helplessness and an increasing sense of impatience\nwelling up from within.
+With my most vulnerable spot being pressed、 I feel a sense of helplessness and\nan increasing sense of impatience welling up from within.
 
 00002000
 Takumi
-Ugh, Ah, Ah, Ah...!
+Ugh、 Ah、 Ah、 Ah...!
 
 00003000
 Rio
-Oh my~? You're making some rather lewd noises, what's going\non?
+Oh my~? You're making some rather lewd noises、 what's going on?
 C03a00010026
 
 00002000
 Takumi
-T-that's why... kuh, ah, no... stop... n-no more!
+T-that's why... kuh、 ah、 no... stop... n-no more!
 
 020000000100666D5F3030315F30303031
 
@@ -843,19 +843,19 @@ Takumi
 Ah... Ugh...
 
 00000000
-If this continues, I'll end up ejaculating...
+If this continues、 I'll end up ejaculating...
 
 00000000
-But, I couldn't just blurt out those words in front of all\nthese girls.
+But、 I couldn't just blurt out those words in front of all these girls.
 
 00000000
-I don't know what they'll say next... The hesitation brought\non by that fear, however, ultimately drives me into an even\ntighter corner.
+I don't know what they'll say next... The hesitation brought on by that fear、 \nhowever、 ultimately drives me into an even tighter corner.
 
 0200EF10054563735F4E6176695F303035
 
 00003000
 Rio
-Ah, huh, so you don't understand. Come on, try saying\nsomething!
+Ah、 huh、 so you don't understand. Come on、 try saying something!
 C03a00010028
 
 0200EF10054563735F4E6176695F303034
@@ -871,12 +871,12 @@ Hic...!?
 0200EF10054563735F4E6176695F303033
 
 00000000
-The next moment, the peak that had swelled up was pushed in\neven more forcefully.
+The next moment、 the peak that had swelled up was pushed in even more\nforcefully.
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-The shock causes sparks to fly before my eyes, and my hips\ncompletely lose their strength.
+The shock causes sparks to fly before my eyes、 and my hips completely lose their\nstrength.
 
 0200EF10054563735F4E6176695F303031
 
@@ -894,14 +894,14 @@ Takumi
 U... Ah...!
 
 00000000
-By the time I realized my mistake, it was already too late.
+By the time I realized my mistake、 it was already too late.
 
 00000000
-Just as I felt a dull numbness run through the center of my\nbody, a sense of collapse enveloped me, and at the same\ntime, a stain slowly spread in the crotch area.
+Just as I felt a dull numbness run through the center of my body、 a sense of\ncollapse enveloped me、 and at the same time、 a stain slowly spread in the crotch\narea.
 
 00003000
 Rio
-Eh? Wait, seriously? Are you really wetting yourself?
+Eh? Wait、 seriously? Are you really wetting yourself?
 C03a00010029
 
 00002000
@@ -909,44 +909,44 @@ Takumi
 Ah...!
 
 00000000
-The shocking words made me realize the irreversible thing I\nhad done, but there was no way to stop it now.
+The shocking words made me realize the irreversible thing I had done、 but there\nwas no way to stop it now.
 
 00002000
 Takumi
 Ah............
 
 00000000
-My body shudders involuntarily once again, and this time a\nclear sense of release runs through my penis.
+My body shudders involuntarily once again、 and this time a clear sense of\nrelease runs through my penis.
 
 00006000
 Takumi
 I'm... ejaculating...
 
 00000000
-By the time I realized that, the stain in my crotch had\npathetically spread even further, and the girls were staring\nat my predicament with bated breath.
+By the time I realized that、 the stain in my crotch had pathetically spread even\nfurther、 and the girls were staring at my predicament with bated breath.
 
 00000000
-My face flushes hotly as I realize the unbearable shame I've\nexposed myself to.
+My face flushes hotly as I realize the unbearable shame I've exposed myself to.
 
 00002000
 Takumi
 Ah... Aah...
 
 00000000
-Once the waves of pleasure recede, all that's left is a\nsticky discomfort.
+Once the waves of pleasure recede、 all that's left is a sticky discomfort.
 
 00000000
-Immediately after, a small scream of "kyaa" echoed through\nthe classroom like a ripple.
+Immediately after、 a small scream of "kyaa" echoed through the classroom like a\nripple.
 
 020000000100666D5F3030315F30303035
 
 00003000
 Rio
-Haha, it's starting to stain! Oh no, it's going to dirty my\nshoes!
+Haha、 it's starting to stain! Oh no、 it's going to dirty my shoes!
 C03a00010030
 
 00000000
-While her face is flushed, Kamiizumi-san laughs out loud.
+While her face is flushed、 Kamiizumi-san laughs out loud.
 
 00003000
 Arisa
@@ -959,7 +959,7 @@ How filthy...
 C02a00010005
 
 00000000
-The two who had been calmly watching the whole thing now\ngrimace with a look of surprise, looking down at me with an\neven deeper gaze of disgust.
+The two who had been calmly watching the whole thing now grimace with a look of\nsurprise、 looking down at me with an even deeper gaze of disgust.
 
 020000000100666D5F3030315F30303036
 
@@ -969,23 +969,23 @@ Ah............
 C04a00010007
 
 00000000
-But what hurt the most was the moment when Fukunaga-san\nblushed and looked away.
+But what hurt the most was the moment when Fukunaga-san blushed and looked away.
 
 00000000
-In front of Fukunaga-san, who had secretly shown me\nconsideration, my wicked desires were laid bare.
+In front of Fukunaga-san、 who had secretly shown me consideration、 my wicked\ndesires were laid bare.
 
 00000000
-No matter how much I try to make excuses, the fact that I\ncouldn't resist the pleasure and ended up ejaculating in\nfront of everyone is undeniable.
+No matter how much I try to make excuses、 the fact that I couldn't resist the\npleasure and ended up ejaculating in front of everyone is undeniable.
 
 020000000100666D5F3030315F30303037
 
 00003000
 Rio
-Hey, what's this? Pupu... What are you letting out? Are you\na masochist? A pervert?
+Hey、 what's this? Pupu... What are you letting out? Are you a masochist? A\npervert?
 C03a00010031
 
 00000000
-While still stepping on my crotch, Kamiizumi-san asks with a\nsneering laugh.
+While still stepping on my crotch、 Kamiizumi-san asks with a sneering laugh.
 
 00002000
 Student F
@@ -996,10 +996,10 @@ Student G
 That's why I can't stand guys... Why is he in our class...?
 
 00000000
-The gazes of deep disgust and contempt from those around me\nare even more harsh than before.
+The gazes of deep disgust and contempt from those around me are even more harsh\nthan before.
 
 00000000
-Even Fukunaga-san, who always helps me out, can't say\nanything and just looks away.
+Even Fukunaga-san、 who always helps me out、 can't say anything and just looks\naway.
 
 00002000
 Takumi
@@ -1015,17 +1015,17 @@ What the!?
 C03a00010032
 
 00000000
-My feelings of frustration exploded, and with my pathetic\nand regretful feelings as a springboard, I jumped up and ran\nout of the classroom.
+My feelings of frustration exploded、 and with my pathetic and regretful feelings\nas a springboard、 I jumped up and ran out of the classroom.
 
 03008C0000000F2753455F6230315F30313031
 
 020000000100626C
 
 00000000
-As I ran down the hallway, I became aware of the unpleasant\nsensation spreading in my underwear, and tears started to\nwell up again.
+As I ran down the hallway、 I became aware of the unpleasant sensation spreading\nin my underwear、 and tears started to well up again.
 
 00000000
-I couldn't help but feel like I could still hear the\npersistent whispers and backbiting in my ears.
+I couldn't help but feel like I could still hear the persistent whispers and\nbackbiting in my ears.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

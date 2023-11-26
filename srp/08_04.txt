@@ -21,14 +21,14 @@ C02a08040001
 
 00002000
 Takumi
-Ah, yeah. It's this way. Come in.
+Ah、 yeah. It's this way. Come in.
 
 00000000
-That night, Yuriko was called by me and she came to my room\nquietly.
+That night、 Yuriko was called by me and she came to my room quietly.
 
 00002000
 Takumi
-You can sit anywhere, even on that bed.
+You can sit anywhere、 even on that bed.
 
 00003000
 Yuriko
@@ -36,11 +36,11 @@ Yes...
 C02a08040002
 
 00000000
-Yuriko obediently sits on the bed, her expression clearly\nshowing her deep sadness, which even gives off a hint of\npain.
+Yuriko obediently sits on the bed、 her expression clearly showing her deep\nsadness、 which even gives off a hint of pain.
 
 00002000
 Takumi
-Um... I was thinking of talking about what happened during\nthe day, but are you feeling really down?
+Um... I was thinking of talking about what happened during the day、 but are you\nfeeling really down?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -54,47 +54,47 @@ Takumi
 Even if you say that I don't seem to be okay up until now...
 
 00000000
-I was glad that I could honestly express my true feelings to\nArisa, but I didn't expect to feel this down afterwards.
+I was glad that I could honestly express my true feelings to Arisa、 but I didn't\nexpect to feel this down afterwards.
 
 00000000
-I wonder how willing she'll be to listen, even if I try to\nconvey the true meaning of those words from back then.
+I wonder how willing she'll be to listen、 even if I try to convey the true\nmeaning of those words from back then.
 
 00006000
 Takumi
-Well, I was honestly surprised too...
+Well、 I was honestly surprised too...
 
 00000000
 I thought Yuriko would be more blindly obedient to Arisa.
 
 00000000
-So, if it's something Arisa has decided... I thought my\ncreed was to follow her no matter what, in that way.
+So、 if it's something Arisa has decided... I thought my creed was to follow her\nno matter what、 in that way.
 
 00000000
-Is it just that I had such a strong determination to let\nArisa stand above the Kisshouji family, no matter what?
+Is it just that I had such a strong determination to let Arisa stand above the\nKisshouji family、 no matter what?
 
 00000000
-It's not that I underestimated Yuriko, but when she shows\nher inner strength, I can't help but find her even more\nattractive.
+It's not that I underestimated Yuriko、 but when she shows her inner strength、 I\ncan't help but find her even more attractive.
 
 00002000
 Takumi
-Yuriko... Can't you tolerate the idea of Arisa being under\nsomeone else?
+Yuriko... Can't you tolerate the idea of Arisa being under someone else?
 
 00000000
-While sitting next to her, I try asking Yuriko about that.
+While sitting next to her、 I try asking Yuriko about that.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a08040004
 
 00000000
-However, Yuriko remains with a difficult expression and\ndoesn't seem to want to give an answer easily.
+However、 Yuriko remains with a difficult expression and doesn't seem to want to\ngive an answer easily.
 
 00002000
 Takumi
-Even if Arisa acknowledges it, that still... isn't it\nagainst her true intentions?
+Even if Arisa acknowledges it、 that still... isn't it against her true\nintentions?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -111,30 +111,30 @@ A different issue?
 
 00003000
 Yuriko
-The talk of the Kisshouji family's leadership changing... If\nit were to be true, it wouldn't be a bad thing for us.
+The talk of the Kisshouji family's leadership changing... If it were to be true、 \nit wouldn't be a bad thing for us.
 C02a08040006
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-However, it's not guaranteed that it will turn out to be a\ngood thing. It's just a temporary move, after all.
+However、 it's not guaranteed that it will turn out to be a good thing. It's just\na temporary move、 after all.
 C02a08040007
 
 00002000
 Takumi
-In the end, it's Arisa who will stand at the top, right?
+In the end、 it's Arisa who will stand at the top、 right?
 
 00003000
 Yuriko
-...Of course, if Arisa is satisfied... her will is also my\nwill. However, Arisa is currently hesitating...
+...Of course、 if Arisa is satisfied... her will is also my will. However、 Arisa\nis currently hesitating...
 C02a08040008
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-I shouldn't be concerned about the surrounding noise... but\nbecause of my incompetence... I also couldn't convey it\nproperly...
+I shouldn't be concerned about the surrounding noise... but because of my\nincompetence... I also couldn't convey it properly...
 C02a08040009
 
 00002000
@@ -142,17 +142,17 @@ Takumi
 I see...
 
 00000000
-In the end, Yuriko still trusts Arisa despite knowing her\ninsecurities, right?
+In the end、 Yuriko still trusts Arisa despite knowing her insecurities、 right?
 
 00000000
-No matter how much I try to implant the perception that\nArisa is incompetent through mind control, that strong\npillar remains unbroken.
+No matter how much I try to implant the perception that Arisa is incompetent\nthrough mind control、 that strong pillar remains unbroken.
 
 00000000
-If that's the case, there is one more thing... that needs to\nbe confirmed.
+If that's the case、 there is one more thing... that needs to be confirmed.
 
 00002000
 Takumi
-Hey, Yuriko, can I ask you something as an individual?
+Hey、 Yuriko、 can I ask you something as an individual?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -163,7 +163,7 @@ C02a08040010
 
 00002000
 Takumi
-If I were to say that I want to be at the top... what would\nyou think?
+If I were to say that I want to be at the top... what would you think?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30352F2D3236302F302E37352F302E3735
 
@@ -173,33 +173,33 @@ Huh...?
 C02a08040011
 
 00000000
-Yuriko, who showed a momentary expression of surprise, then\nin the next moment, nodded slightly as if realizing\nsomething.
+Yuriko、 who showed a momentary expression of surprise、 then in the next moment、 \nnodded slightly as if realizing something.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-I see... I had a feeling, but I never thought it would\nactually be true...
+I see... I had a feeling、 but I never thought it would actually be true...
 C02a08040012
 
 00002000
 Takumi
-I'm just talking hypothetically, you know?
+I'm just talking hypothetically、 you know?
 
 00003000
 Yuriko
-You said the same thing during the day as well. So... you\nused a roundabout way to confirm our intentions, huh...
+You said the same thing during the day as well. So... you used a roundabout way\nto confirm our intentions、 huh...
 C02a08040013
 
 00002000
 Takumi
-�c�c�c�c
+�c�c�c�c
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-It's too late now, my intentions don't matter anymore, \nright? You can do whatever you want with me... as if you're\ntrying to get rid of me...
+It's too late now、 my intentions don't matter anymore、  right? You can do\nwhatever you want with me... as if you're trying to get rid of me...
 C02a08040014
 
 00002000
@@ -207,7 +207,7 @@ Takumi
 Do as you please...
 
 00000000
-With provocative words and a slight slip of true feelings, I\npushed Yuriko's body onto the bed.
+With provocative words and a slight slip of true feelings、 I pushed Yuriko's\nbody onto the bed.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -225,15 +225,15 @@ Mmm...
 C02a08040015
 
 00000000
-I embrace the beautiful legs wrapped in stockings and once\nagain enjoy the smooth sensation.
+I embrace the beautiful legs wrapped in stockings and once again enjoy the\nsmooth sensation.
 
 00002000
 Takumi
-You properly replaced it with a new one, huh? I guess I\ncan't just tear two of them in a row, can I?
+You properly replaced it with a new one、 huh? I guess I can't just tear two of\nthem in a row、 can I?
 
 00003000
 Yuriko
-It's not like... you can do as you please. If you command\nme, that would be fine...
+It's not like... you can do as you please. If you command me、 that would be\nfine...
 C02a08040016
 
 00002000
@@ -243,47 +243,47 @@ Don't say it so casually. Even Yuriko actually wants it.
 020000000100666D5F3036335F30303038
 
 00000000
-I tightly sandwiched my penis between her closed thighs and\nslowly moved it up and down.
+I tightly sandwiched my penis between her closed thighs and slowly moved it up\nand down.
 
 020000000100666D5F3036335F30303037
 
 00003000
 Yuriko
-Again... mmm, is that the way... you're going to do it...?
+Again... mmm、 is that the way... you're going to do it...?
 C02a08040017
 
 00000000
-Yuriko's body, which had been thoroughly stimulated by the\nass rubbing, responded with anticipation for penetration, \nbut she let out a small sigh as she found herself in the\nsame thigh job position as before.
+Yuriko's body、 which had been thoroughly stimulated by the ass rubbing、 \nresponded with anticipation for penetration、  but she let out a small sigh as\nshe found herself in the same thigh job position as before.
 
 00002000
 Takumi
-If you want it, you'll have to beg like you always do.\nDoesn't your pussy seem like it's already craving to be\neaten?
+If you want it、 you'll have to beg like you always do. Doesn't your pussy seem\nlike it's already craving to be eaten?
 
 020000000100666D5F3036335F30303038
 
 00003000
 Yuriko
-Mmm... That's... Mmm, ah...
+Mmm... That's... Mmm、 ah...
 C02a08040018
 
 00002000
 Takumi
-Earlier, you couldn't even make a sound and were feeling\nfrustrated, right? Here, you can say anything you want, no\nmatter what it is.
+Earlier、 you couldn't even make a sound and were feeling frustrated、 right?\nHere、 you can say anything you want、 no matter what it is.
 
 00003000
 Yuriko
-�c�c�c�c
+�c�c�c�c
 C02a08040019
 
 00000000
-Yuriko, who would usually switch gears and shamelessly make\nlewd demands without hesitation, still couldn't fully calm\nher heart today.
+Yuriko、 who would usually switch gears and shamelessly make lewd demands without\nhesitation、 still couldn't fully calm her heart today.
 
 00000000
-It seems like you're not able to concentrate, even though\nyou're feeling a throbbing sensation, because you're\nthinking about Arisa in your heart.
+It seems like you're not able to concentrate、 even though you're feeling a\nthrobbing sensation、 because you're thinking about Arisa in your heart.
 
 00002000
 Takumi
-Well well, it seems like this isn't the right time for\nthat...
+Well well、 it seems like this isn't the right time for that...
 
 00003000
 Yuriko
@@ -292,7 +292,7 @@ C02a08040020
 
 00002000
 Takumi
-No... Yuriko always does well for me. There are times like\nthis too.
+No... Yuriko always does well for me. There are times like this too.
 
 00003000
 Yuriko
@@ -309,14 +309,14 @@ It's not that I'm not in the mood...
 C02a08040022
 
 00000000
-In the midst of her inner conflict, Yuriko, still being\npinned down, timidly wiggles her hips.
+In the midst of her inner conflict、 Yuriko、 still being pinned down、 timidly\nwiggles her hips.
 
 00000000
-I endured it and asked Yuriko, even though rubbing against\nher erect thigh felt good.
+I endured it and asked Yuriko、 even though rubbing against her erect thigh felt\ngood.
 
 00002000
 Takumi
-Hey, what do you mean by saying you want to do something to\nme?
+Hey、 what do you mean by saying you want to do something to me?
 
 020000000100666D5F3036335F30303037
 
@@ -326,7 +326,7 @@ Yuriko
 C02a08040023
 
 00000000
-Yuriko answered intermittently, while letting out a faint\nsigh of arousal.
+Yuriko answered intermittently、 while letting out a faint sigh of arousal.
 
 00003000
 Yuriko
@@ -335,77 +335,77 @@ C02a08040024
 
 00003000
 Yuriko
-My body and heart are craving for your semen... There is no\nmistake about that. But... why is it like this...
+My body and heart are craving for your semen... There is no mistake about that.\nBut... why is it like this...
 C02a08040025
 
 00003000
 Yuriko
-There's a strong feeling inside me... towards Arisa and\nyou... but I don't understand you...
+There's a strong feeling inside me... towards Arisa and you... but I don't\nunderstand you...
 C02a08040026
 
 00003000
 Yuriko
-You somehow, at some point, forcefully entered inside me...
+You somehow、 at some point、 forcefully entered inside me...
 C02a08040027
 
 00003000
 Yuriko
-I've always been thinking only about Arisa... but I've\nrealized that a completely different pleasure is being born\nwithin me...
+I've always been thinking only about Arisa... but I've realized that a\ncompletely different pleasure is being born within me...
 C02a08040028
 
 00003000
 Yuriko
-But at the same time, I've become unsure about Arisa...
+But at the same time、 I've become unsure about Arisa...
 C02a08040029
 
 020000000100666D5F3036335F30303132
 
 00003000
 Yuriko
-I don't understand... *gasps*... even my own feelings...\nboth the current ones and my feelings towards Arisa... are\nimportant to me...!
+I don't understand... *gasps*... even my own feelings... both the current ones\nand my feelings towards Arisa... are important to me...!
 C02a08040030
 
 00000000
-Yuriko trembled in her voice and let out a small moan while\nhiding her face.
+Yuriko trembled in her voice and let out a small moan while hiding her face.
 
 020000000100666D5F3036335F30303133
 
 00003000
 Yuriko
-Being embraced by you... while having sex, my heart is\nfilled with joy...
+Being embraced by you... while having sex、 my heart is filled with joy...
 C02a08040031
 
 020000000100666D5F3036335F30303132
 
 00003000
 Yuriko
-However, the more I do that, the more Arisa's feelings drift\naway... You did something... and I can't resist it...
+However、 the more I do that、 the more Arisa's feelings drift away... You did\nsomething... and I can't resist it...
 C02a08040032
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-Yuriko noticed her own changes because of the strong\npresence of Arisa.
+Yuriko noticed her own changes because of the strong presence of Arisa.
 
 00000000
-I arrived at a sense of unease towards myself only faintly, \nbut I can't resist it both physically and emotionally.
+I arrived at a sense of unease towards myself only faintly、  but I can't resist\nit both physically and emotionally.
 
 00000000
-So, Yuriko has already fallen... but she's holding onto the\nworry of Arisa as a single thread of reason.
+So、 Yuriko has already fallen... but she's holding onto the worry of Arisa as a\nsingle thread of reason.
 
 00000000
-Yuriko, who thought she had only been focused on Arisa until\nnow...
+Yuriko、 who thought she had only been focused on Arisa until now...
 
 00000000
-Even though it happened under your control, the fact that\nyou were aware of me made me happier than I expected.
+Even though it happened under your control、 the fact that you were aware of me\nmade me happier than I expected.
 
 00000000
-And at the same time, Yuriko realizes that she has been\nconstantly tormented by being caught in the middle.
+And at the same time、 Yuriko realizes that she has been constantly tormented by\nbeing caught in the middle.
 
 00000000
-Everything was a situation that I had been contradicting.\nAnd if that's the case... there is only one answer that can\nguide us.
+Everything was a situation that I had been contradicting. And if that's the\ncase... there is only one answer that can guide us.
 
 00002000
 Takumi
@@ -421,11 +421,11 @@ C02a08040033
 020000000100666D5F3036335F30303038
 
 00000000
-I gently move my arm away from my face and wipe away the\nfaintly blurred tears with my fingertips.
+I gently move my arm away from my face and wipe away the faintly blurred tears\nwith my fingertips.
 
 00002000
 Takumi
-Yuriko... Are you worried that by accepting me, you might\nlose Arisa?
+Yuriko... Are you worried that by accepting me、 you might lose Arisa?
 
 00003000
 Yuriko
@@ -434,7 +434,7 @@ C02a08040034
 
 00002000
 Takumi
-I won't let that happen. By choosing me, you won't lose\nArisa. Trust me.
+I won't let that happen. By choosing me、 you won't lose Arisa. Trust me.
 
 00003000
 Yuriko
@@ -447,12 +447,12 @@ Strange...?
 
 00003000
 Yuriko
-Your words have no clear basis or anything. And yet... my\nheart is strongly shaken...
+Your words have no clear basis or anything. And yet... my heart is strongly\nshaken...
 C02a08040036
 
 00003000
 Yuriko
-I feel like I've been tossed around all this time... but\nnow, I think it's okay...
+I feel like I've been tossed around all this time... but now、 I think it's\nokay...
 C02a08040037
 
 00003000
@@ -461,16 +461,16 @@ Yuriko
 C02a08040038
 
 00000000
-After a moment of hesitation, Yuriko timidly asked.
+After a moment of hesitation、 Yuriko timidly asked.
 
 00003000
 Yuriko
-The only thing I can offer you... is my body. But, can you\nhelp Arisa...?
+The only thing I can offer you... is my body. But、 can you help Arisa...?
 C02a08040039
 
 00002000
 Takumi
-Yuriko, you really care about Arisa, don't you?
+Yuriko、 you really care about Arisa、 don't you?
 
 00003000
 Yuriko
@@ -479,7 +479,7 @@ C02a08040040
 
 00002000
 Takumi
-I'm envious. I want to become someone who can hear those\nwords from Yuriko someday.
+I'm envious. I want to become someone who can hear those words from Yuriko\nsomeday.
 
 00003000
 Yuriko
@@ -488,7 +488,7 @@ C02a08040041
 
 00002000
 Takumi
-Just like how Yuriko cares about Arisa, I also care about\nYuriko a lot.
+Just like how Yuriko cares about Arisa、 I also care about Yuriko a lot.
 
 00003000
 Yuriko
@@ -508,10 +508,10 @@ C02a08040043
 
 00002000
 Takumi
-If that's the case, then I wouldn't be like this.
+If that's the case、 then I wouldn't be like this.
 
 00000000
-The meat rod, still trapped between my thighs, stands erect\nas if asserting itself now.
+The meat rod、 still trapped between my thighs、 stands erect as if asserting\nitself now.
 
 020000000100666D5F3036335F30303038
 
@@ -522,25 +522,25 @@ C02a08040044
 
 00002000
 Takumi
-It's not just about the body, you know. Yuriko is charming, \nreally.
+It's not just about the body、 you know. Yuriko is charming、  really.
 
 00003000
 Yuriko
-...Even if you say that in this state, it lacks\npersuasiveness...
+...Even if you say that in this state、 it lacks persuasiveness...
 C02a08040045
 
 00002000
 Takumi
-Haha... Well, honestly, I've become quite impatient...
+Haha... Well、 honestly、 I've become quite impatient...
 
 00003000
 Yuriko
-Mmm... But, to hear you say that... it might make me happy.
+Mmm... But、 to hear you say that... it might make me happy.
 C02a08040046
 
 00002000
 Takumi
-Yeah, it's fine if you understand it slowly. But more\nimportantly... Hey, let's take a step back for a moment. I\nmight really end up...
+Yeah、 it's fine if you understand it slowly. But more importantly... Hey、 let's\ntake a step back for a moment. I might really end up...
 
 0300191000000F275345485F565F30325F5930315F41
 
@@ -550,44 +550,44 @@ It's okay... Please release it... Mmm...
 C02a08040047
 
 00000000
-At that moment, a strong pressure is applied to my thighs, \ngiving a pleasant sensation to the glans.
+At that moment、 a strong pressure is applied to my thighs、  giving a pleasant\nsensation to the glans.
 
 00002000
 Takumi
-Wait... Ah, huh... Suddenly, like that, oh...
+Wait... Ah、 huh... Suddenly、 like that、 oh...
 
 00003000
 Yuriko
-I can only do something like this... but if it makes you\nhappy...
+I can only do something like this... but if it makes you happy...
 C02a08040048
 
 0200EF10054563735F4E6176695F303035
 
 00000000
-The thighs moving softly and tightly pressing against the\nshaft, gently stimulating the glans.
+The thighs moving softly and tightly pressing against the shaft、 gently\nstimulating the glans.
 
 0200EF10054563735F4E6176695F303034
 
 00002000
 Takumi
-Ah... Uh, no, it's really going to come out...
+Ah... Uh、 no、 it's really going to come out...
 
 0200EF10054563735F4E6176695F303033
 
 00003000
 Yuriko
-Yes... Please release it... Like always, shower me with lots\nof semen...
+Yes... Please release it... Like always、 shower me with lots of semen...
 C02a08040049
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-Yuriko's hip movements as she presses against me were\ncompletely serious.
+Yuriko's hip movements as she presses against me were completely serious.
 
 0200EF10054563735F4E6176695F303031
 
 00000000
-I couldn't resist the words that were demanded with a\ntantalizing sigh above all else--
+I couldn't resist the words that were demanded with a tantalizing sigh above all\nelse--
 
 0200EF10002D
 
@@ -601,11 +601,11 @@ Nngh! Hah... Ahh... It's warm...
 C02a08040050
 
 00000000
-The semen that couldn't be held back leaks out and sticks to\nYuriko's soft skin.
+The semen that couldn't be held back leaks out and sticks to Yuriko's soft skin.
 
 00002000
 Takumi
-Haa... I can't believe it, it came out so easily...
+Haa... I can't believe it、 it came out so easily...
 
 020000000100666D5F3036335F30303136
 
@@ -626,29 +626,29 @@ Eh...? Ah... P-Please... don't look at me so much...
 C02a08040052
 
 00000000
-Yuriko's emotions have been fluctuating greatly today, from\nshedding tears to displaying gentle smiles. It's been\nenjoyable witnessing such a wide range of emotions from her.
+Yuriko's emotions have been fluctuating greatly today、 from shedding tears to\ndisplaying gentle smiles. It's been enjoyable witnessing such a wide range of\nemotions from her.
 
 00002000
 Takumi
-It came out, but it still won't settle down at all... right, \nYuriko?
+It came out、 but it still won't settle down at all... right、  Yuriko?
 
 020000000100666D5F3036335F30303136
 
 00003000
 Yuriko
-Yes... I've been... aching all this time... It's\nunbearable...
+Yes... I've been... aching all this time... It's unbearable...
 C02a08040053
 
 00000000
-Gently, my hand is guided to your crotch, silently conveying\na subtle desire.
+Gently、 my hand is guided to your crotch、 silently conveying a subtle desire.
 
 00002000
 Takumi
-Then, let me undress you... um...
+Then、 let me undress you... um...
 
 00003000
 Yuriko
-It's fine... Please tear it apart. Being treated like\nthat... I don't dislike it either...
+It's fine... Please tear it apart. Being treated like that... I don't dislike it\neither...
 C02a08040054
 
 03008C0000000F2753455F6130395F30303033
@@ -658,7 +658,7 @@ Takumi
 ...Yuriko...
 
 00000000
-I am enticed by your thrilling words, and I tear apart your\nstockings with reckless abandon.
+I am enticed by your thrilling words、 and I tear apart your stockings with\nreckless abandon.
 
 00002000
 Takumi
@@ -670,10 +670,10 @@ Yes... Please... I'm begging you...
 C02a08040055
 
 00000000
-When I slide down your panties, honey is already overflowing\nthere, continuously and without stopping.
+When I slide down your panties、 honey is already overflowing there、 continuously\nand without stopping.
 
 00000000
-I sank my hips in one go, lured by the muddy sensation, and\nentered Yuriko.
+I sank my hips in one go、 lured by the muddy sensation、 and entered Yuriko.
 
 0300C21000000F275345485F495F303031
 
@@ -683,42 +683,42 @@ I sank my hips in one go, lured by the muddy sensation, and\nentered Yuriko.
 
 00003000
 Yuriko
-Ah...hah, aaaaah...haaaahhhhh!
+Ah...hah、 aaaaah...haaaahhhhh!
 C02a08040056
 
 00000000
-Yuriko reached climax, her body arching strongly as the\nthing she had been longing for was finally inserted into the\nplace it desired.
+Yuriko reached climax、 her body arching strongly as the thing she had been\nlonging for was finally inserted into the place it desired.
 
 020000000100666D5F3036335F30303234
 
 00003000
 Yuriko
-Haa...ngh, fuu... Ah, I've been... waiting for this...
+Haa...ngh、 fuu... Ah、 I've been... waiting for this...
 C02a08040057
 
 00002000
 Takumi
-Yeah, I understand. Yuriko's pussy is giving me a warm\nwelcome.
+Yeah、 I understand. Yuriko's pussy is giving me a warm welcome.
 
 00003000
 Yuriko
-Haa...ngh, I apologize for my indecent pussy... but, ahh...\nI wanted a dick so badly...
+Haa...ngh、 I apologize for my indecent pussy... but、 ahh... I wanted a dick so\nbadly...
 C02a08040058
 
 00000000
-Yuriko completely surrenders herself and, contrary to her\nwords of apology, actively moves her vaginal walls.
+Yuriko completely surrenders herself and、 contrary to her words of apology、 \nactively moves her vaginal walls.
 
 00003000
 Yuriko
-Please make me believe in you... Conquer every corner of my\nbody... Immerse yourself in everything...
+Please make me believe in you... Conquer every corner of my body... Immerse\nyourself in everything...
 C02a08040059
 
 00002000
 Takumi
-Yeah, I'll make you feel it... All of my feelings, I'll\nimmerse them in you, Yuriko...
+Yeah、 I'll make you feel it... All of my feelings、 I'll immerse them in you、 \nYuriko...
 
 00000000
-Sometimes, in a conventional but thorough way.
+Sometimes、 in a conventional but thorough way.
 
 00000000
 The burning body naturally speeds up its piston.
@@ -731,60 +731,60 @@ The burning body naturally speeds up its piston.
 
 00003000
 Yuriko
-Nn, ha, ah... aah... aah, a dick... it's... big...!
+Nn、 ha、 ah... aah... aah、 a dick... it's... big...!
 C02a08040060
 
 00002000
 Takumi
-Is it because Yuriko's insides feel tight? It's squeezing\nmuch tighter than usual.
+Is it because Yuriko's insides feel tight? It's squeezing much tighter than\nusual.
 
 020000000100666D5F3036335F30303234
 
 00003000
 Yuriko
-Ah... Fuu, th-that might be true... Nn, my pussy... I can't\nstop it...
+Ah... Fuu、 th-that might be true... Nn、 my pussy... I can't stop it...
 C02a08040061
 
 00000000
-As I nodded silently, Yuriko's flesh tightened happily once\nagain.
+As I nodded silently、 Yuriko's flesh tightened happily once again.
 
 020000000100666D5F3036335F30303233
 
 00003000
 Yuriko
-It's a strange feeling... Not just pleasurable, but also\ncomforting... A warm sensation spreading...
+It's a strange feeling... Not just pleasurable、 but also comforting... A warm\nsensation spreading...
 C02a08040062
 
 020000000100666D5F3036335F30303234
 
 00003000
 Yuriko
-Ah, i-it's inside... hot... this sensation... it's, the\nfirst time...
+Ah、 i-it's inside... hot... this sensation... it's、 the first time...
 C02a08040063
 
 00000000
-Yuriko's voice, filled with a sensation different from\nusual, as it brushes against me, simultaneously brings a\nthrilling excitement to me as well.
+Yuriko's voice、 filled with a sensation different from usual、 as it brushes\nagainst me、 simultaneously brings a thrilling excitement to me as well.
 
 00002000
 Takumi
-Yuriko, you feel the same way, don't you? I'm also feeling a\nbit excited.
+Yuriko、 you feel the same way、 don't you? I'm also feeling a bit excited.
 
 020000000100666D5F3036335F30303235
 
 00003000
 Yuriko
-You too... Ah, ah... your dick feels amazing... Ah, the heat\nof your cock... it's spreading inside me...!
+You too... Ah、 ah... your dick feels amazing... Ah、 the heat of your cock...\nit's spreading inside me...!
 C02a08040064
 
 00002000
 Takumi
-Yuriko's heat is incredible too. It's so sticky and\nentwined... *sigh*...
+Yuriko's heat is incredible too. It's so sticky and entwined... *sigh*...
 
 020000000100666D5F3036335F30303234
 
 00003000
 Yuriko
-Haa... Nnn, ah... M-More...? Mmm, like this... I'll tighten\nmy stomach... Nnn!
+Haa... Nnn、 ah... M-More...? Mmm、 like this... I'll tighten my stomach... Nnn!
 C02a08040065
 
 00002000
@@ -795,7 +795,7 @@ Oh... The tip is getting slippery and tight... Ugh...
 
 00003000
 Yuriko
-Nn, hehe... Since I've received plenty of it until now... I\nmight have polished my skills a bit...
+Nn、 hehe... Since I've received plenty of it until now... I might have polished\nmy skills a bit...
 C02a08040066
 
 00002000
@@ -810,42 +810,42 @@ If it's just a little... then I... here...
 
 00003000
 Yuriko
-Nngh! M-My... sensitive spot... You really know\neverything... Hah, ah... continue... Haa, ah!
+Nngh! M-My... sensitive spot... You really know everything... Hah、 ah...\ncontinue... Haa、 ah!
 C02a08040067
 
 00000000
-It was supposed to be a simple up and down motion, but\nbefore we knew it, it turned into a game of targeting each\nother's weak points.
+It was supposed to be a simple up and down motion、 but before we knew it、 it\nturned into a game of targeting each other's weak points.
 
 00003000
 Yuriko
-Hah, hi, ah, haan, ahh... I can't think of anything... This\nis... too amazing... Ah, faa... ahh...
+Hah、 hi、 ah、 haan、 ahh... I can't think of anything... This is... too amazing...\nAh、 faa... ahh...
 C02a08040068
 
 00002000
 Takumi
-You don't have to think. Just feel it, accept it. Inside\nYuriko... it's the best...
+You don't have to think. Just feel it、 accept it. Inside Yuriko... it's the\nbest...
 
 020000000100666D5F3036335F30303234
 
 00003000
 Yuriko
-Hah, hi, ah, wa, me too... Your dick... it's the best...!\nAh, fu, ahhh!
+Hah、 hi、 ah、 wa、 me too... Your dick... it's the best...! Ah、 fu、 ahhh!
 C02a08040069
 
 00000000
-While listening to the enchanting moans, I continue to\nexperience the hot contractions that come intermittently, \nand a new sense of ejaculation wells up immediately and\ndoesn't stop.
+While listening to the enchanting moans、 I continue to experience the hot\ncontractions that come intermittently、  and a new sense of ejaculation wells up\nimmediately and doesn't stop.
 
 0200EF10054563735F4E6176695F303035
 
 00002000
 Takumi
-I'm going to cum... Yuriko. This time, directly inside...\nall of me... I'm going to cum.
+I'm going to cum... Yuriko. This time、 directly inside... all of me... I'm going\nto cum.
 
 0200EF10054563735F4E6176695F303034
 
 00003000
 Yuriko
-Hah, ah, come, nngh, please... inside... my... lewd pussy...\nrelease all of your thick semen!
+Hah、 ah、 come、 nngh、 please... inside... my... lewd pussy... release all of your\nthick semen!
 C02a08040070
 
 020000000100666D5F3036335F30303235
@@ -854,19 +854,19 @@ C02a08040070
 
 00003000
 Yuriko
-I-I'll tighten my pussy... and gulp it all down... I'll\ndrink your juices in my womb... all of it!
+I-I'll tighten my pussy... and gulp it all down... I'll drink your juices in my\nwomb... all of it!
 C02a08040071
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-The obscene suction, just as the words imply, renders my\nrestraint meaningless.
+The obscene suction、 just as the words imply、 renders my restraint meaningless.
 
 0200EF10054563735F4E6176695F303031
 
 00002000
 Takumi
-I'm cumming... Yuriko, drink it...!
+I'm cumming... Yuriko、 drink it...!
 
 0200EF10002D
 
@@ -876,30 +876,30 @@ I'm cumming... Yuriko, drink it...!
 
 00003000
 Yuriko
-Kuh, aahh, nnnaaaaaaaaahhhhhhhhh!!
+Kuh、 aahh、 nnnaaaaaaaaahhhhhhhhh!!
 C02a08040072
 
 00000000
-I am aware of the semen being released with a force I have\nnever experienced before, as I push aside the overflowing\nlove juices.
+I am aware of the semen being released with a force I have never experienced\nbefore、 as I push aside the overflowing love juices.
 
 00003000
 Yuriko
-Ah, it's coming out... coming... inside... it's hot... in my\nstomach...
+Ah、 it's coming out... coming... inside... it's hot... in my stomach...
 C02a08040073
 
 00000000
-Yuriko trembles and shakes her entire body, as if releasing\neverything she had been holding back, her voice quivering.
+Yuriko trembles and shakes her entire body、 as if releasing everything she had\nbeen holding back、 her voice quivering.
 
 020000000100666D5F3036335F30303236
 
 00003000
 Yuriko
-Not yet... It's not enough. Please fill me up more. Please\ndo more to my pussy...
+Not yet... It's not enough. Please fill me up more. Please do more to my\npussy...
 C02a08040074
 
 00002000
 Takumi
-Yuriko... Yeah, I'm still far from satisfied.
+Yuriko... Yeah、 I'm still far from satisfied.
 
 0300D21000000F275345485F505F323032
 
@@ -909,63 +909,63 @@ Yuriko... Yeah, I'm still far from satisfied.
 
 00003000
 Yuriko
-Ngh! Ah, fuu, yes, aah, inside this sticky mess, stir my\ndick around!
+Ngh! Ah、 fuu、 yes、 aah、 inside this sticky mess、 stir my dick around!
 C02a08040075
 
 00000000
-Yuriko's honest plea reignites the thrusting switch, \nstirring and mixing inside her wet and sticky vagina.
+Yuriko's honest plea reignites the thrusting switch、  stirring and mixing inside\nher wet and sticky vagina.
 
 020000000100666D5F3036335F30303330
 
 00003000
 Yuriko
-Hah, nngh, fuu, ah, it's rubbing, nngh, a dick, grinding and\ndigging in! Hah, ah, aah!
+Hah、 nngh、 fuu、 ah、 it's rubbing、 nngh、 a dick、 grinding and digging in! Hah、 \nah、 aah!
 C02a08040076
 
 00002000
 Takumi
-Mmm... What an amazing sound. It's covered in lewd juices, \nyou know? Can you hear it?
+Mmm... What an amazing sound. It's covered in lewd juices、  you know? Can you\nhear it?
 
 020000000100666D5F3036335F30303236
 
 00003000
 Yuriko
-Y-Yes, I can hear it! It's coming from my pussy, making\nsquelching sounds... It's embarrassing, but it's arousing\nme!
+Y-Yes、 I can hear it! It's coming from my pussy、 making squelching sounds...\nIt's embarrassing、 but it's arousing me!
 C02a08040077
 
 00003000
 Yuriko
-Make it sound more, nhiu, the indecent sound of my lewd\npussy, please make it fill up more!
+Make it sound more、 nhiu、 the indecent sound of my lewd pussy、 please make it\nfill up more!
 C02a08040078
 
 00002000
 Takumi
-Mmm... Yuriko, your usual sensations are coming out. I'll\nmake you feel it, because you've always been mine, Yuriko!
+Mmm... Yuriko、 your usual sensations are coming out. I'll make you feel it、 \nbecause you've always been mine、 Yuriko!
 
 020000000100666D5F3036335F30303330
 
 00003000
 Yuriko
-Ah, fuu, yes, I am yours, please continue to make me yours\nforever, ah, nahi!
+Ah、 fuu、 yes、 I am yours、 please continue to make me yours forever、 ah、 nahi!
 C02a08040079
 
 00000000
-While nodding in response to my words of conquest, Yuriko's\nsecret lips twitch and urge for more fresh semen.
+While nodding in response to my words of conquest、 Yuriko's secret lips twitch\nand urge for more fresh semen.
 
 00002000
 Takumi
-Ah... I feel like releasing again. Is it okay for me to\nimpregnate Yuriko...?
+Ah... I feel like releasing again. Is it okay for me to impregnate Yuriko...?
 
 020000000100666D5F3036335F30303239
 
 00003000
 Yuriko
-Yes... Please release inside me... My greedy pussy can't\nresist wanting to be soaked again, *burbly burbly*...
+Yes... Please release inside me... My greedy pussy can't resist wanting to be\nsoaked again、 *burbly burbly*...
 C02a08040080
 
 00003000
 Yuriko
-Please deliver thick, creamy semen all the way to my womb...\nImpregnate me... Please make me pregnant...
+Please deliver thick、 creamy semen all the way to my womb... Impregnate me...\nPlease make me pregnant...
 C02a08040081
 
 020000000100666D5F3036335F30303330
@@ -976,54 +976,54 @@ C02a08040081
 
 00003000
 Yuriko
-Please fill me up until I overflow, with a semen climax...\nAh, hi-, ah, ahian!
+Please fill me up until I overflow、 with a semen climax... Ah、 hi-、 ah、 ahian!
 C02a08040082
 
 00000000
-While hearing Yuriko's words, my hips were accelerating\nuncontrollably.
+While hearing Yuriko's words、 my hips were accelerating uncontrollably.
 
 020000000100666D5F3036335F30303239
 
 00003000
 Yuriko
-Ahh, it's amazing! Your dick feels incredible! It's moving\ninside me, rubbing against me, and my body is bouncing...\nAh, ah, ahh!
+Ahh、 it's amazing! Your dick feels incredible! It's moving inside me、 rubbing\nagainst me、 and my body is bouncing... Ah、 ah、 ahh!
 C02a08040083
 
 00002000
 Takumi
-Yuriko, you're amazing... Mmm, your pussy is tightly\ngripping my dick... No matter how far I go, it's always\nslippery and clinging to me...!
+Yuriko、 you're amazing... Mmm、 your pussy is tightly gripping my dick... No\nmatter how far I go、 it's always slippery and clinging to me...!
 
 00003000
 Yuriko
-Ahh, nfuu, I'm so happy... Are you doing it properly? Does\nmy pussy feel good?
+Ahh、 nfuu、 I'm so happy... Are you doing it properly? Does my pussy feel good?
 C02a08040084
 
 00002000
 Takumi
-It's the best... I want to stay like this forever... But it\nfeels so good... This is unbelievable...!
+It's the best... I want to stay like this forever... But it feels so good...\nThis is unbelievable...!
 
 00003000
 Yuriko
-Hah, nn, afu, it's fine... From now on, no matter how many\ntimes... please do it to me... Ah, nfu!
+Hah、 nn、 afu、 it's fine... From now on、 no matter how many times... please do it\nto me... Ah、 nfu!
 C02a08040085
 
 0200EF10054563735F4E6176695F303035
 
 00003000
 Yuriko
-Every time, I'll do my best to make your dick happy, so...\nplease, inside me...
+Every time、 I'll do my best to make your dick happy、 so... please、 inside me...
 C02a08040086
 
 0200EF10054563735F4E6176695F303034
 
 00000000
-There's no need for teasing or holding back anymore in the\nface of your repeated pleas. Just convey the sensation of\nrising to Yuriko as it is.
+There's no need for teasing or holding back anymore in the face of your repeated\npleas. Just convey the sensation of rising to Yuriko as it is.
 
 0200EF10054563735F4E6176695F303033
 
 00002000
 Takumi
-Ngh, ah... I'm coming... I'm coming, Yuriko...
+Ngh、 ah... I'm coming... I'm coming、 Yuriko...
 
 020000000100666D5F3036335F30303330
 
@@ -1031,14 +1031,14 @@ Ngh, ah... I'm coming... I'm coming, Yuriko...
 
 00003000
 Yuriko
-Yes, I'm... going to cum... I'll cum right away, so let's do\nit together... haah... aahh!
+Yes、 I'm... going to cum... I'll cum right away、 so let's do it together...\nhaah... aahh!
 C02a08040087
 
 0200EF10054563735F4E6176695F303031
 
 00002000
 Takumi
-Together, Yuriko... Ngh, I'm... going... kuuhhh, take it...\nohhh!
+Together、 Yuriko... Ngh、 I'm... going... kuuhhh、 take it... ohhh!
 
 020000000100666D5F3036335F30303239
 
@@ -1050,22 +1050,22 @@ Together, Yuriko... Ngh, I'm... going... kuuhhh, take it...\nohhh!
 
 00003000
 Yuriko
-Ahh, I'm cummingggggg!!
+Ahh、 I'm cummingggggg!!
 C02a08040088
 
 00000000
-I push my meat rod deep inside Yuriko, pouring all of my\nfeelings into her depths.
+I push my meat rod deep inside Yuriko、 pouring all of my feelings into her\ndepths.
 
 00003000
 Yuriko
-Ah... Ahh... It's... coming out... Mmm, it's hot... Feels\ngood...
+Ah... Ahh... It's... coming out... Mmm、 it's hot... Feels good...
 C02a08040089
 
 00000000
-Yuriko, with a blissful smile on her face, no longer showing\nany signs of sadness, as she revels in the sensation flowing\nthrough her.
+Yuriko、 with a blissful smile on her face、 no longer showing any signs of\nsadness、 as she revels in the sensation flowing through her.
 
 00000000
-I felt a strange sense of satisfaction that I had never\nexperienced before, as I looked at her blissful expression\nfilled with that sticky happiness.
+I felt a strange sense of satisfaction that I had never experienced before、 as I\nlooked at her blissful expression filled with that sticky happiness.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -1074,7 +1074,7 @@ Takumi
 Ngh...
 
 00000000
-I gently put Yuriko, who had fallen into a rare tired\nslumber, to bed and looked up at the night sky from the\nwindow.
+I gently put Yuriko、 who had fallen into a rare tired slumber、 to bed and looked\nup at the night sky from the window.
 
 0300000000000F2742474D3034
 
@@ -1085,36 +1085,36 @@ Takumi
 Together forever... right?
 
 00000000
-Yuriko, under the control of my mind, unleashed her hidden\ncarnal desires and found herself torn between her\nrelationship with Arisa.
+Yuriko、 under the control of my mind、 unleashed her hidden carnal desires and\nfound herself torn between her relationship with Arisa.
 
 00000000
-And now, I find myself conflicted about my relationship with\nYuriko, which began with revenge, and I'm starting to feel\ncompletely opposite emotions.
+And now、 I find myself conflicted about my relationship with Yuriko、 which began\nwith revenge、 and I'm starting to feel completely opposite emotions.
 
 00000000
-And so, I made a promise to assist Arisa and the others in\ntheir ambitions, and we deeply connected with each other, \ncarried away by the momentum.
+And so、 I made a promise to assist Arisa and the others in their ambitions、 and\nwe deeply connected with each other、  carried away by the momentum.
 
 00002000
 Takumi
-Well... there's no turning back now, huh...
+Well... there's no turning back now、 huh...
 
 00000000
-From now on, I have to step into the Kisshouji family in\nearnest.
+From now on、 I have to step into the Kisshouji family in earnest.
 
 00000000
-I honestly still have no idea if things will really go well\nor not.
+I honestly still have no idea if things will really go well or not.
 
 00002000
 Takumi
 But... I have to become a man worthy of that...
 
 00000000
-I've been thinking only about relying on her, but more than\nthat, I want to fulfill my responsibilities and make Yuriko\nturn to me.
+I've been thinking only about relying on her、 but more than that、 I want to\nfulfill my responsibilities and make Yuriko turn to me.
 
 00000000
-When my purpose becomes clear, a small shiver runs through\nmy body.
+When my purpose becomes clear、 a small shiver runs through my body.
 
 00000000
-It was the moment when a new determination was engraved in\nthe heart that had been tangled up until now.
+It was the moment when a new determination was engraved in the heart that had\nbeen tangled up until now.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

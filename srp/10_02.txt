@@ -10,49 +10,49 @@
 
 00002000
 Female student
-Are you looking for someone to be your partner for the first\nsemen collection of the day again today?
+Are you looking for someone to be your partner for the first semen collection of\nthe day again today?
 
 00002000
 Takumi
-It's not like that. But... if things go well, it might end\nup that way as a result.
+It's not like that. But... if things go well、 it might end up that way as a\nresult.
 
 00002000
 Female student
-Hmm... It feels like there might be a development that makes\nme feel jealous... Well, I wish you happiness.
+Hmm... It feels like there might be a development that makes me feel jealous...\nWell、 I wish you happiness.
 
 00002000
 Takumi
-Ah, no...! That's, um... you're reading too much into it...\nAhh... I messed up...
+Ah、 no...! That's、 um... you're reading too much into it... Ahh... I messed\nup...
 
 00000000
-I tried to give a safe response to the girls in case I\ndidn't get a positive answer from Koharu, but my true\nfeelings were easily seen through.
+I tried to give a safe response to the girls in case I didn't get a positive\nanswer from Koharu、 but my true feelings were easily seen through.
 
 00002000
 Takumi
-Why did it get exposed so easily...? Is it that obvious on\nmy face that I'm thinking that much about the current\nsituation...?
+Why did it get exposed so easily...? Is it that obvious on my face that I'm\nthinking that much about the current situation...?
 
 00000000
-With a conscious effort, I tighten my face as I wait for\nKoharu to pass by here, but the pounding of anxiety runs\nrampant in my chest, making it impossible for me to feign\ncomposure.
+With a conscious effort、 I tighten my face as I wait for Koharu to pass by here、 \nbut the pounding of anxiety runs rampant in my chest、 making it impossible for\nme to feign composure.
 
 00000000
-It felt like time had slowed down multiple times, and even\nthough it had only been a few minutes, waiting for Koharu to\narrive became unbearable.
+It felt like time had slowed down multiple times、 and even though it had only\nbeen a few minutes、 waiting for Koharu to arrive became unbearable.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Hey, what are you doing so early in the morning?
+Hey、 what are you doing so early in the morning?
 C03a10020001
 
 00002000
 Takumi
-Ahh... Rio... You see, I was just wondering what kind of\ngirls there are today.
+Ahh... Rio... You see、 I was just wondering what kind of girls there are today.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Hmmm... So, why are you so restless? Come on, tell me.
+Hmmm... So、 why are you so restless? Come on、 tell me.
 C03a10020002
 
 00002000
@@ -63,48 +63,48 @@ I-It's a baseless accusation... I am perfectly calm.
 
 00003000
 Rio
-The fact that you're getting defensive against my words is\nalready quite suspicious.
+The fact that you're getting defensive against my words is already quite\nsuspicious.
 C03a10020003
 
 00002000
 Takumi
-Well... um, that's true but... is it really that strange for\nme to be standing here?
+Well... um、 that's true but... is it really that strange for me to be standing\nhere?
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30332F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Obviously something's off, dumbass.
+Obviously something's off、 dumbass.
 C03a10020004
 
 00002000
 Takumi
-I-It's fine, isn't it...! It's not like I'm interested in\nRio, so it's okay, right?
+I-It's fine、 isn't it...! It's not like I'm interested in Rio、 so it's okay、 \nright?
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Oh, come on, don't hold back on me.
+Oh、 come on、 don't hold back on me.
 C03a10020005
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Well, it seems like I'm intruding... well then.
+Well、 it seems like I'm intruding... well then.
 C03a10020006
 
 0200E600000000000000F9FE0000F9FE4C004C004C004C00E8030000F401666D5F433033615F30335F305F305F305F3032
 
 00000000
-While breathing a sigh of relief at the sight of Rio, who is\ntroublesome when she's watching me the most, showing signs\nof leaving, I follow her footsteps with my gaze, making sure\nnot to be noticed.
+While breathing a sigh of relief at the sight of Rio、 who is troublesome when\nshe's watching me the most、 showing signs of leaving、 I follow her footsteps\nwith my gaze、 making sure not to be noticed.
 
 00000000
-She walks for a while and then suddenly stops, turning\naround to show me a smirk while smiling.
+She walks for a while and then suddenly stops、 turning around to show me a smirk\nwhile smiling.
 
 00000000
-I blush at the fact that she had seen everything, and\nhurriedly avert my gaze from Rio, but there--
+I blush at the fact that she had seen everything、 and hurriedly avert my gaze\nfrom Rio、 but there--
 
 00002000
 Takumi
@@ -113,23 +113,23 @@ Huh...that is...?
 0200E600010000000000E8FE0000E8FE4400440044004400E803E803F401666D5F433034615F30335F305F305F305F3035
 
 00000000
-Koharu, who I've been eagerly waiting for, arrives a little\nlate even though we have a morning assembly today.
+Koharu、 who I've been eagerly waiting for、 arrives a little late even though we\nhave a morning assembly today.
 
 00000000
-She looks a bit absent-minded, her cheeks flushed, truly the\nimage of a love-struck maiden.
+She looks a bit absent-minded、 her cheeks flushed、 truly the image of a love-\nstruck maiden.
 
 00000000
-It seems like she hasn't even noticed that I'm standing\nright in the middle of the courtyard, as she continues her\nway to school with a dazed expression and unsteady steps, \ncompletely absorbed in her feverish thoughts.
+It seems like she hasn't even noticed that I'm standing right in the middle of\nthe courtyard、 as she continues her way to school with a dazed expression and\nunsteady steps、  completely absorbed in her feverish thoughts.
 
 00002000
 Takumi
-Koharu, I've been waiting for you... Can I talk to you for a\nmoment?
+Koharu、 I've been waiting for you... Can I talk to you for a moment?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-H-Hyaaaan!? U-Um, well... um... Ikenoue-kun... g-good\nmorning...
+H-Hyaaaan!? U-Um、 well... um... Ikenoue-kun... g-good morning...
 C04a10020001
 
 00002000
@@ -140,11 +140,11 @@ You seem quite absent-minded... Are you okay?
 
 00003000
 Koharu
-N-n-no, it's not like that...!
+N-n-no、 it's not like that...!
 C04a10020002
 
 00000000
-Koharu dramatically shakes her head and waves her hands back\nand forth, indicating a sense of denial to my words.
+Koharu dramatically shakes her head and waves her hands back and forth、 \nindicating a sense of denial to my words.
 
 00000000
 It seems like I touched upon a rather embarrassing topic.
@@ -153,7 +153,7 @@ It seems like I touched upon a rather embarrassing topic.
 
 00003000
 Koharu
-W-Well, then I'll hurry off for now!
+W-Well、 then I'll hurry off for now!
 C04a10020003
 
 0200E600000000000000E8FE000060FF4400440055005500E803E803F401666D5F433034615F30335F305F305F305F3036
@@ -164,13 +164,13 @@ Eeek!
 C04a10020004
 
 00000000
-Koharu tries to hurriedly run away. I grab her hand tightly\nand let out my second frantic voice of the day, which echoes\naround us.
+Koharu tries to hurriedly run away. I grab her hand tightly and let out my\nsecond frantic voice of the day、 which echoes around us.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3136302F302E38352F302E3835
 
 00003000
 Koharu
-W-What's wrong, Ikenoue-kun...
+W-What's wrong、 Ikenoue-kun...
 C04a10020005
 
 00002000
@@ -178,14 +178,14 @@ Takumi
 I've been telling you that I've been waiting...
 
 00000000
-Koharu's cheeks, dyed crimson, grow even redder as she\ntightly grips the hand that makes her feel warmth.
+Koharu's cheeks、 dyed crimson、 grow even redder as she tightly grips the hand\nthat makes her feel warmth.
 
 00000000
-However, it seems that Koharu's desire to run away has\nfinally faded, and she obediently accepts my second\nconfession, albeit with a slightly downcast expression.
+However、 it seems that Koharu's desire to run away has finally faded、 and she\nobediently accepts my second confession、 albeit with a slightly downcast\nexpression.
 
 00002000
 Takumi
-Well then, let's go.
+Well then、 let's go.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3136302F302E38352F302E3835
 
@@ -195,7 +195,7 @@ E-eh? Go? Where to? Isn't it the morning assembly today...
 C04a10020006
 
 00000000
-I hurriedly grabbed Koharu's hand and led her towards the\nmain auditorium.
+I hurriedly grabbed Koharu's hand and led her towards the main auditorium.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -209,10 +209,10 @@ That's all for the messages from the staff...
 
 00002000
 Vice Principal
-Finally, the chairman has an important announcement for\neveryone in the school. That's all, thank you.
+Finally、 the chairman has an important announcement for everyone in the school.\nThat's all、 thank you.
 
 00000000
-As the morning assembly comes to a close today, it's time\nfor the closing remarks, which will be given by me.
+As the morning assembly comes to a close today、 it's time for the closing\nremarks、 which will be given by me.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -220,15 +220,15 @@ As the morning assembly comes to a close today, it's time\nfor the closing remar
 
 00002000
 Takumi
-Today, there is something I want to tell all of you.
+Today、 there is something I want to tell all of you.
 
 00002000
 Takumi
-I have chosen the woman in this school to whom I want to\ngive my semen the most, so I will introduce her here.
+I have chosen the woman in this school to whom I want to give my semen the most、 \nso I will introduce her here.
 
 00002000
 Takumi
-Come on, Koharu... come here.
+Come on、 Koharu... come here.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
@@ -245,17 +245,17 @@ C04a10020007
 I beckon Koharu and invite her onto the stage.
 
 00000000
-Everyone in the school, including Koharu, had the same\nexpression of surprise and confusion when I said, "Why?\nWhat's going on?"
+Everyone in the school、 including Koharu、 had the same expression of surprise\nand confusion when I said、 "Why? What's going on?"
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-�c�c�c�c
+�c�c�c�c
 C04a10020008
 
 00000000
-I could clearly grasp the feeling of embarrassment and the\ndesire to disappear into a hole when she was suddenly called\nout.
+I could clearly grasp the feeling of embarrassment and the desire to disappear\ninto a hole when she was suddenly called out.
 
 00000000
 I make Koharu stand next to me like that.
@@ -271,7 +271,7 @@ C04a10020009
 I was starting to feel a little embarrassed too.
 
 00000000
-I am feeling confident about what I am about to do, but as a\nperson, it's not in my nature to do something like this.\nHowever, I am going to do something extraordinary from now\non.
+I am feeling confident about what I am about to do、 but as a person、 it's not in\nmy nature to do something like this. However、 I am going to do something\nextraordinary from now on.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

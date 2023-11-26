@@ -16,31 +16,31 @@ Good morning... Huh?
 
 00003000
 Arisa
-...As I've said multiple times, there is no problem! If it's\nabout the investigation, we should confirm it here first...!
+...As I've said multiple times、 there is no problem! If it's about the\ninvestigation、 we should confirm it here first...!
 C01a04130001
 
 00003000
 Arisa
-Destroying evidence...? Please don't say such foolish\nthings! What do you think of us?
+Destroying evidence...? Please don't say such foolish things! What do you think\nof us?
 C01a04130002
 
 00000000
-When I showed up at the chairman's office, Arisa, who had\narrived earlier, was in the midst of a heated phone\nconversation, speaking loudly and passionately.
+When I showed up at the chairman's office、 Arisa、 who had arrived earlier、 was\nin the midst of a heated phone conversation、 speaking loudly and passionately.
 
 00003000
 Arisa
-...I understand. If you insist on doing that, please go\nahead. However, I cannot cooperate with you on that matter.
+...I understand. If you insist on doing that、 please go ahead. However、 I cannot\ncooperate with you on that matter.
 C01a04130003
 
 00003000
 Arisa
-Of course, if you continue to act on your own accord, I will\nreport it to the committee separately and take appropriate\naction.
+Of course、 if you continue to act on your own accord、 I will report it to the\ncommittee separately and take appropriate action.
 C01a04130004
 
 03008C0000000F2753455F6330315F30303034
 
 00000000
-Without waiting for a response on the other end of the\nphone, Arisa unilaterally hung up.
+Without waiting for a response on the other end of the phone、 Arisa unilaterally\nhung up.
 
 00003000
 Arisa
@@ -49,18 +49,18 @@ C01a04130005
 
 00002000
 Takumi
-...Hmm, things seem quite chaotic. Did something happen?
+...Hmm、 things seem quite chaotic. Did something happen?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Eh? Ah... You, since when...?
+Eh? Ah... You、 since when...?
 C01a04130006
 
 00002000
 Takumi
-No, just a moment ago... Did something really get on your\nnerves?
+No、 just a moment ago... Did something really get on your nerves?
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
@@ -70,18 +70,18 @@ Arisa
 C01a04130007
 
 00000000
-Arisa, who hesitated for a moment, slowly opened her mouth.
+Arisa、 who hesitated for a moment、 slowly opened her mouth.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Um, I'm sorry for deciding without consulting you, who is\nthe chairman...
+Um、 I'm sorry for deciding without consulting you、 who is the chairman...
 C01a04130008
 
 00003000
 Arisa
-I received information from the main office that there are\nsome strange things happening at the school, so they\ninstructed me to conduct an inspection and dispatch\npersonnel...
+I received information from the main office that there are some strange things\nhappening at the school、 so they instructed me to conduct an inspection and\ndispatch personnel...
 C01a04130009
 
 00002000
@@ -90,51 +90,51 @@ Something seems strange...?
 
 00003000
 Arisa
-It seems there was a disturbance in discipline during the\nstudents' outings... Of course, the school is aware of it to\nsome extent...
+It seems there was a disturbance in discipline during the students' outings...\nOf course、 the school is aware of it to some extent...
 C01a04130010
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-In short, I am determined to intervene in a thorough manner, \nno matter what reasons I come up with... That's the\nintention behind it.
+In short、 I am determined to intervene in a thorough manner、  no matter what\nreasons I come up with... That's the intention behind it.
 C01a04130011
 
 00002000
 Takumi
-I see... It feels like they're trying to forcefully insert\nthemselves...
+I see... It feels like they're trying to forcefully insert themselves...
 
 00000000
-Even though it's a boarding school, it doesn't mean that the\ncomplete mind control domination extends to the outside.
+Even though it's a boarding school、 it doesn't mean that the complete mind\ncontrol domination extends to the outside.
 
 00000000
-The school had been implementing thorough measures and\nresponses during outings to ensure things were done\naccording to the previous understanding, but it wasn't\nperfect, was it?
+The school had been implementing thorough measures and responses during outings\nto ensure things were done according to the previous understanding、 but it\nwasn't perfect、 was it?
 
 00006000
 Takumi
-Or, regardless of the reason, forcefully intervening and\npurging over a minor incident...
+Or、 regardless of the reason、 forcefully intervening and purging over a minor\nincident...
 
 00000000
-If a large group doesn't hesitate to use any means\nnecessary, it's highly possible that they would even\nintervene by fabricating evidence.
+If a large group doesn't hesitate to use any means necessary、 it's highly\npossible that they would even intervene by fabricating evidence.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a04130012
 
 00000000
-Besides, Arisa's position within the school hasn't been good\nrecently.
+Besides、 Arisa's position within the school hasn't been good recently.
 
 00000000
-A powerful figure with both ability and authority... that\nimage was shattered by my mind control.
+A powerful figure with both ability and authority... that image was shattered by\nmy mind control.
 
 00000000
-Now, even the foolish general who was once supported by\nYuriko, his trusted confidant... It may be extreme, but\nthere are even students who have such an impression.
+Now、 even the foolish general who was once supported by Yuriko、 his trusted\nconfidant... It may be extreme、 but there are even students who have such an\nimpression.
 
 00000000
-It seems that Arisa herself is aware of this, as she has\nbeen consciously trying not to rely on Yuriko, which only\nadds to her mental burden.
+It seems that Arisa herself is aware of this、 as she has been consciously trying\nnot to rely on Yuriko、 which only adds to her mental burden.
 
 00002000
 Takumi
@@ -144,14 +144,14 @@ So... What are you going to do from now on?
 
 00003000
 Arisa
-There's really nothing we can do about it. Even if there is\ninterference from the main family, there's no reason to\nchange the current system...
+There's really nothing we can do about it. Even if there is interference from\nthe main family、 there's no reason to change the current system...
 C01a04130013
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-We'll keep a close watch on them and make sure they leave as\nsoon as possible.
+We'll keep a close watch on them and make sure they leave as soon as possible.
 C01a04130014
 
 00002000
@@ -169,34 +169,34 @@ C01a04130015
 Yuriko has stopped visiting the principal's office recently.
 
 00000000
-It seemed that Yuriko was still very concerned about Arisa, \nbut the current situation was such that Arisa's\ndetermination was too strong, causing Yuriko herself to hold\nback.
+It seemed that Yuriko was still very concerned about Arisa、  but the current\nsituation was such that Arisa's determination was too strong、 causing Yuriko\nherself to hold back.
 
 00000000
-That's why this issue falls solely on me, who took away the\ntitle of chairman.
+That's why this issue falls solely on me、 who took away the title of chairman.
 
 00006000
 Takumi
-It's one thing to have separated Arisa and Yuriko... but the\ntiming of this isn't very good, is it...
+It's one thing to have separated Arisa and Yuriko... but the timing of this\nisn't very good、 is it...
 
 00000000
-Arisa, who is continuing to negotiate outside, is currently\nnot in a condition where she can handle the response to the\nmain family satisfactorily.
+Arisa、 who is continuing to negotiate outside、 is currently not in a condition\nwhere she can handle the response to the main family satisfactorily.
 
 00000000
-Maybe I should step forward directly using the power of the\nmusic box... Even though the current foundation is not yet\nfully solidified, is there no other choice?
+Maybe I should step forward directly using the power of the music box... Even\nthough the current foundation is not yet fully solidified、 is there no other\nchoice?
 
 00006000
 Takumi
-If that's the case, I should take care of things with Arisa\nfirst... I guess.
+If that's the case、 I should take care of things with Arisa first... I guess.
 
 00000000
-We should have done it eventually, so you can think of it as\njust happening a little earlier.
+We should have done it eventually、 so you can think of it as just happening a\nlittle earlier.
 
 00000000
-When I have made up my mind, I will casually tap Arisa on\nthe shoulder.
+When I have made up my mind、 I will casually tap Arisa on the shoulder.
 
 00002000
 Takumi
-You don't have to worry. I'll take care of things from the\noutside.
+You don't have to worry. I'll take care of things from the outside.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -207,7 +207,7 @@ C01a04130016
 
 00002000
 Takumi
-Yeah. After all, I am still the chairman. Can you leave it\nto me?
+Yeah. After all、 I am still the chairman. Can you leave it to me?
 
 00003000
 Arisa
@@ -215,28 +215,28 @@ Eh...?
 C01a04130017
 
 00000000
-Arisa couldn't help but be a little bewildered by my\nunexpected words, but she had no choice but to nod.
+Arisa couldn't help but be a little bewildered by my unexpected words、 but she\nhad no choice but to nod.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
 00000000
-And then, a few days passed--
+And then、 a few days passed--
 
 0300000000000F2742474D3033
 
 0200000001004247303330305F62
 
 00000000
-It was lunch break, and I was waiting in the hallway for\nArisa to pass by.
+It was lunch break、 and I was waiting in the hallway for Arisa to pass by.
 
 00000000
-Since starting to act alone, Arisa has stopped using the\ncrowded central hallway.
+Since starting to act alone、 Arisa has stopped using the crowded central\nhallway.
 
 00000000
-It may be because I have become more aware of the strong\natmosphere around me, but there is no denying that I still\nstand out.
+It may be because I have become more aware of the strong atmosphere around me、 \nbut there is no denying that I still stand out.
 
 00000000
-As the glances of other students were directed towards the\nend of the hallway, just as I expected, Arisa slowly\napproached me.
+As the glances of other students were directed towards the end of the hallway、 \njust as I expected、 Arisa slowly approached me.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -250,7 +250,7 @@ Takumi
 Arisa Kisshouji... I've been waiting for you.
 
 00000000
-Arisa looked at me with a puzzled expression as I stood in\nthe middle of the hallway.
+Arisa looked at me with a puzzled expression as I stood in the middle of the\nhallway.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
@@ -261,7 +261,7 @@ C01a04130019
 
 00002000
 Takumi
-Of course. Not as Ikenoue Takumi, but as the chairman of\nOukeyo Academy, I have an announcement for you.
+Of course. Not as Ikenoue Takumi、 but as the chairman of Oukeyo Academy、 I have\nan announcement for you.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -272,7 +272,7 @@ C01a04130020
 
 00002000
 Takumi
-Arisa Kisshouji. Under the authority of the chairman, I will\nsend you to the reflection room for underperforming\nstudents, which is known as the "livestock shed".
+Arisa Kisshouji. Under the authority of the chairman、 I will send you to the\nreflection room for underperforming students、 which is known as the "livestock\nshed".
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
@@ -283,7 +283,7 @@ C01a04130021
 
 00002000
 Takumi
-It has been determined that when comparing the opportunity\ngiven to you and the actual achievement of semen collection, \nyour efficiency is significantly lower than that of other\nstudents.
+It has been determined that when comparing the opportunity given to you and the\nactual achievement of semen collection、  your efficiency is significantly lower\nthan that of other students.
 
 00003000
 Arisa
@@ -292,21 +292,21 @@ C01a04130022
 
 00002000
 Takumi
-Just because you hold the position of assistant chairman\ndoesn't mean... No, precisely because of that position, I\ncannot grant you any special privileges.
+Just because you hold the position of assistant chairman doesn't mean... No、 \nprecisely because of that position、 I cannot grant you any special privileges.
 
 00000000
-As I raised my hand, the students who belonged to the sports\nclub and were standing behind me approached Arisa in a\nstraight line.
+As I raised my hand、 the students who belonged to the sports club and were\nstanding behind me approached Arisa in a straight line.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Is that your answer... right here, right now...?
+Is that your answer... right here、 right now...?
 C01a04130023
 
 00002000
 Takumi
-Don't worry, I'll handle the response to the main family\nproperly. That's why, you see...
+Don't worry、 I'll handle the response to the main family properly. That's why、 \nyou see...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
@@ -316,26 +316,26 @@ Arisa
 C01a04130024
 
 00000000
-Arisa, who shouted at the students trying to restrain her, \nwas outnumbered and helpless as they tied her up.
+Arisa、 who shouted at the students trying to restrain her、  was outnumbered and\nhelpless as they tied her up.
 
 00002000
 Takumi
-Well then, according to the plan...
+Well then、 according to the plan...
 
 00002000
 Student A
-Understood, Chairman.
+Understood、 Chairman.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a04130025
 
 00002000
 Student B
-W-Well... It's only natural, isn't it? You've been doing as\nyou please all this time, right...?
+W-Well... It's only natural、 isn't it? You've been doing as you please all this\ntime、 right...?
 
 00002000
 Student C
@@ -345,7 +345,7 @@ Acting all high and mighty with your power... How conceited.
 I can hear whispers and murmurs from the people around.
 
 00000000
-Arisa remained silent, bowing her head as she was taken away\nwithout saying anything.
+Arisa remained silent、 bowing her head as she was taken away without saying\nanything.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -355,7 +355,7 @@ Arisa remained silent, bowing her head as she was taken away\nwithout saying any
 Half a day has passed since then.
 
 00000000
-The night grew late, and it was time for the students who\nhad been appointed as caretakers to return to the dormitory.
+The night grew late、 and it was time for the students who had been appointed as\ncaretakers to return to the dormitory.
 
 00000000
 I walked alone towards the cabin.
@@ -367,48 +367,48 @@ I walked alone towards the cabin.
 0200000001004247303930305F64
 
 00000000
-Even though it's spring, the nights are still chilly at this\ntime of year, so you can't underestimate the draft that\nsneaks in.
+Even though it's spring、 the nights are still chilly at this time of year、 so\nyou can't underestimate the draft that sneaks in.
 
 00000000
-Feeling the cool air against my skin, I approached the\ncorner of the cabin.
+Feeling the cool air against my skin、 I approached the corner of the cabin.
 
 00000000
-I turned on the lamp that was provided and in the\nilluminated area, there was one person curled up with a\nflesh-colored appearance.
+I turned on the lamp that was provided and in the illuminated area、 there was\none person curled up with a flesh-colored appearance.
 
 00000000
-Arisa was sleeping curled up, tied to a collar, on top of a\nstraw mat.
+Arisa was sleeping curled up、 tied to a collar、 on top of a straw mat.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30362F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a04130026
 
 00000000
-When tying students in this livestock shed, it is customary\nto leave them in their underwear without giving them their\nuniforms.
+When tying students in this livestock shed、 it is customary to leave them in\ntheir underwear without giving them their uniforms.
 
 00000000
-However, for Arisa, there was an even stricter measure, \nwhich was to have her completely naked with only a collar.
+However、 for Arisa、 there was an even stricter measure、  which was to have her\ncompletely naked with only a collar.
 
 00000000
-It seems like she struggled and resisted until the end, as\nthere are painful red marks on her wrists and legs.
+It seems like she struggled and resisted until the end、 as there are painful red\nmarks on her wrists and legs.
 
 00000000
-Even if it's only half a day, in this environment, one would\nnoticeably become exhausted.
+Even if it's only half a day、 in this environment、 one would noticeably become\nexhausted.
 
 00000000
-However, Arisa, who is now quietly closing her eyes, is\nfilled with an indescribable beauty, and her appearance\nfills me with an inexplicable excitement.
+However、 Arisa、 who is now quietly closing her eyes、 is filled with an\nindescribable beauty、 and her appearance fills me with an inexplicable\nexcitement.
 
 00002000
 Takumi
-Arisa... Arisa, wake up.
+Arisa... Arisa、 wake up.
 
 00000000
-Pressured by the demanding arousal in my crotch, I call out\nto Arisa and help her sit up.
+Pressured by the demanding arousal in my crotch、 I call out to Arisa and help\nher sit up.
 
 00000000
-In her ears were the usual earphones, and in her hands was\nthe usual music box.
+In her ears were the usual earphones、 and in her hands was the usual music box.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -418,7 +418,7 @@ Ugh... What... so noisy...
 C01a04130027
 
 00000000
-Arisa, who was sleeping soundly with an air of defiance, \nslowly opens her eyes while letting out a small groan.
+Arisa、 who was sleeping soundly with an air of defiance、  slowly opens her eyes\nwhile letting out a small groan.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -439,99 +439,99 @@ Mom's... music box...
 C01a04130029
 
 00000000
-Arisa muttered absentmindedly, and her eyes gradually\nfocused, becoming more clear.
+Arisa muttered absentmindedly、 and her eyes gradually focused、 becoming more\nclear.
 
 00000000
-And then, after a brief silence... Arisa seemed to realize\nwhy she was in this situation.
+And then、 after a brief silence... Arisa seemed to realize why she was in this\nsituation.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-I see... So that's what it is. Something was bothering me...\nI never thought it would be something like this...
+I see... So that's what it is. Something was bothering me... I never thought it\nwould be something like this...
 C01a04130030
 
 00000000
-While looking at the music box in my hand, Arisa weakly\nshook her head with a self-deprecating expression.
+While looking at the music box in my hand、 Arisa weakly shook her head with a\nself-deprecating expression.
 
 00000000
-There is no more struggling or complaining. Instead, I\ndeeply reflect on my own powerlessness and defeat.
+There is no more struggling or complaining. Instead、 I deeply reflect on my own\npowerlessness and defeat.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Of all people, it had to be you... I wonder if this is the\nfirst time I've said something like this...?
+Of all people、 it had to be you... I wonder if this is the first time I've said\nsomething like this...?
 C01a04130031
 
 00002000
 Takumi
-Well, I wonder how it is...
+Well、 I wonder how it is...
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-So...? You didn't come all the way here just to see me at\nthis hour, right...?
+So...? You didn't come all the way here just to see me at this hour、 right...?
 C01a04130032
 
 00000000
-Arisa looked straight at me without trying to hide her skin, \nseemingly resigned.
+Arisa looked straight at me without trying to hide her skin、  seemingly\nresigned.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-What if we did whatever we wanted... like having sex or\nsomething?
+What if we did whatever we wanted... like having sex or something?
 C01a04130033
 
 00002000
 Takumi
-Of course. Today, I intend to make Arisa completely mine...
+Of course. Today、 I intend to make Arisa completely mine...
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Hmph... Don't think that you can steal my heart with such a\nmethod...
+Hmph... Don't think that you can steal my heart with such a method...
 C01a04130034
 
 00002000
 Takumi
-Well, I wouldn't think that. I haven't seen Arisa's true\nessence yet.
+Well、 I wouldn't think that. I haven't seen Arisa's true essence yet.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-True essence...? What makes you think you understand\nanything about me?
+True essence...? What makes you think you understand anything about me?
 C01a04130035
 
 00002000
 Takumi
-That's why, in order to know that, I'll use this again.
+That's why、 in order to know that、 I'll use this again.
 
 0200E60000000000000001FF0000BAFF4B004B0064006400E803E803F401666D5F433031615F30355F305F305F305F3034
 
 00000000
-I gently offer the music box, and Arisa flinches and\nhurriedly tries to cover her ears.
+I gently offer the music box、 and Arisa flinches and hurriedly tries to cover\nher ears.
 
 00000000
-However, I firmly restrain her hand and won't allow it.
+However、 I firmly restrain her hand and won't allow it.
 
 0200BC000100012C666D5F433031615F30355F305F305F305F30332F2D37302F312F31
 
 00003000
 Arisa
-L-Let go! I don't need something like this anymore, right?!
+L-Let go! I don't need something like this anymore、 right?!
 C01a04130036
 
 00002000
 Takumi
-That's something I'll decide. I want to figure out where\nthat stubbornness of yours comes from...
+That's something I'll decide. I want to figure out where that stubbornness of\nyours comes from...
 
 00000000
-Ignoring Arisa's resistance, I increased the volume of the\nearphones and simultaneously played the music box.
+Ignoring Arisa's resistance、 I increased the volume of the earphones and\nsimultaneously played the music box.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

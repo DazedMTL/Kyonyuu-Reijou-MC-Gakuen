@@ -14,13 +14,13 @@ Takumi
 Good morning.
 
 00000000
-As I entered the classroom while greeting everyone, there\nwas a small commotion and all eyes turned towards me.
+As I entered the classroom while greeting everyone, there was a small commotion\nand all eyes turned towards me.
 
 00000000
 "Of course, the atmosphere is not welcoming."
 
 00000000
-"What are you trying to flatter us with...? The cold gaze, \nas if saying just that, stares at me without any\nhesitation."
+"What are you trying to flatter us with...? The cold gaze,  as if saying just\nthat, stares at me without any hesitation."
 
 00002000
 Takumi
@@ -30,10 +30,10 @@ Takumi
 However, I wasn't bothered at all by that gaze now.
 
 00000000
-If I realize the true identity of why I was being treated\nwith hostility, there is nothing to be afraid of.
+If I realize the true identity of why I was being treated with hostility, there\nis nothing to be afraid of.
 
 00000000
-If I think about being able to change that atmosphere, I\neven feel like I can enjoy the current sensation.
+If I think about being able to change that atmosphere, I even feel like I can\nenjoy the current sensation.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
@@ -47,10 +47,10 @@ Takumi
 Good morning, Fukunaga-san.
 
 00000000
-And there was Fukunaga-san, who continued to greet me\nwithout change.
+And there was Fukunaga-san, who continued to greet me without change.
 
 00000000
-I respond cheerfully, although it is now unclear whether it\nis of their own will or due to the influence of mind\ncontrol.
+I respond cheerfully, although it is now unclear whether it is of their own will\nor due to the influence of mind control.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
@@ -67,12 +67,12 @@ Hm?
 
 00003000
 Koharu
-Ah, I'm sorry if I was mistaken. You just seemed to be\nhaving fun, so...
+Ah, I'm sorry if I was mistaken. You just seemed to be having fun, so...
 C04a00090003
 
 00002000
 Takumi
-Haha, is that so? Did I seem that way? Well, I guess... from\nnow on, will there be something?
+Haha, is that so? Did I seem that way? Well, I guess... from now on, will there\nbe something?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
@@ -86,10 +86,10 @@ Takumi
 Yeah, from now on...
 
 00000000
-Without further explanation to Fukunaga-san, who had a\nslightly puzzled expression, I smirked and waited at my\ndesk.
+Without further explanation to Fukunaga-san, who had a slightly puzzled\nexpression, I smirked and waited at my desk.
 
 00000000
-Of course, I could hear whispers of disapproval, as if they\nwere bothered by my behavior, but I paid no attention to\nthem at all.
+Of course, I could hear whispers of disapproval, as if they were bothered by my\nbehavior, but I paid no attention to them at all.
 
 03008C0000000F2753455F6130315F30303035
 
@@ -105,13 +105,13 @@ Yuriko
 C02a00090001
 
 00000000
-Shortly after, as usual, when Kuga-san entered the\nclassroom, the girls who had scattered here and there\nnaturally returned to their seats.
+Shortly after, as usual, when Kuga-san entered the classroom, the girls who had\nscattered here and there naturally returned to their seats.
 
 00000000
-This is the crucial moment... I carefully observed Yuriko-\nsan's behavior and waited for the next opportunity.
+This is the crucial moment... I carefully observed Yuriko- san's behavior and\nwaited for the next opportunity.
 
 00000000
-After a while, I caught a glimpse of Yuriko-san glancing at\nher watch, and then subtly pressing her hand against her\near.
+After a while, I caught a glimpse of Yuriko-san glancing at her watch, and then\nsubtly pressing her hand against her ear.
 
 00006000
 Takumi
@@ -122,10 +122,10 @@ So you put in earplugs... I guess that means...
 03008C0000000F2753455F6130385F30323034
 
 00000000
-As expected, the usual morning music box can be heard from\nthe speaker.
+As expected, the usual morning music box can be heard from the speaker.
 
 00000000
-However, unlike last time, this time the students' behavior\nremains unchanged.
+However, unlike last time, this time the students' behavior remains unchanged.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
@@ -135,13 +135,13 @@ Yuriko
 C02a00090002
 
 00000000
-Yuriko-san looked around in surprise at the students who\nshowed no signs of falling into a state of exhaustion.
+Yuriko-san looked around in surprise at the students who showed no signs of\nfalling into a state of exhaustion.
 
 00000000
-By observing the change in expression, it should be\nimmediately apparent whether or not she is under hypnosis.
+By observing the change in expression, it should be immediately apparent whether\nor not she is under hypnosis.
 
 00000000
-And so, if we were to say what Yuriko-san, who sensed the\nanomaly, would do next...
+And so, if we were to say what Yuriko-san, who sensed the anomaly, would do\nnext...
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
@@ -151,10 +151,10 @@ Yuriko
 C02a00090003
 
 00000000
-Yes, I will definitely remove my earplugs and confirm the\nstate of the sound.
+Yes, I will definitely remove my earplugs and confirm the state of the sound.
 
 00000000
-At that moment, I aimed carefully and played the real music\nbox that I had prepared.
+At that moment, I aimed carefully and played the real music box that I had\nprepared.
 
 02006F100900
 
@@ -170,16 +170,16 @@ Yuriko
 C02a00090004
 
 00000000
-At the moment she suddenly realized it, I could tell from\nYuriko-san's expression that her strength was already\ndraining away.
+At the moment she suddenly realized it, I could tell from Yuriko-san's\nexpression that her strength was already draining away.
 
 00000000
-Of course, the other girls are no exception. Just like when\nI saw it before, my classmates are in a state of\nabsentmindedly looking up at the sky.
+Of course, the other girls are no exception. Just like when I saw it before, my\nclassmates are in a state of absentmindedly looking up at the sky.
 
 00000000
-Yuriko Kuga... She is also one of the masterminds who\nplotted against me along with Arisa.
+Yuriko Kuga... She is also one of the masterminds who plotted against me along\nwith Arisa.
 
 00000000
-There were many things I wanted to do, but for now, I\nsuppressed my feelings and approached her.
+There were many things I wanted to do, but for now, I suppressed my feelings and\napproached her.
 
 02007F10
 
@@ -187,7 +187,7 @@ There were many things I wanted to do, but for now, I\nsuppressed my feelings an
 
 00002000
 Takumi
-Well then, Yuriko-san... No, Yuriko. You will call Arisa as\nusual. Just as planned, right?
+Well then, Yuriko-san... No, Yuriko. You will call Arisa as usual. Just as\nplanned, right?
 
 00003000
 Yuriko
@@ -196,7 +196,7 @@ C02a00090005
 
 00002000
 Takumi
-That's right. There's no problem at all. However... saying\nthat, let me play this for you.
+That's right. There's no problem at all. However... saying that, let me play\nthis for you.
 
 00003000
 Yuriko
@@ -204,10 +204,10 @@ Understood...
 C02a00090006
 
 00000000
-With a vacant gaze, Yuriko nodded without hesitation and\nimmediately started making a phone call.
+With a vacant gaze, Yuriko nodded without hesitation and immediately started\nmaking a phone call.
 
 00000000
-Of course, I will firmly stand by her side and confirm that\nexchange.
+Of course, I will firmly stand by her side and confirm that exchange.
 
 00005000
 Arisa
@@ -237,14 +237,14 @@ Arisa
 C01a00090003
 
 00000000
-I brought the music box closer to the phone and played the\nhypnotic melody again, even though she asked me to repeat\nit.
+I brought the music box closer to the phone and played the hypnotic melody\nagain, even though she asked me to repeat it.
 
 00000000
-I wonder if this will really work... I'll use Yuriko to make\nsure.
+I wonder if this will really work... I'll use Yuriko to make sure.
 
 00002000
 Takumi
-Yuriko, call out to Arisa and ask her to return to the\nclassroom as planned.
+Yuriko, call out to Arisa and ask her to return to the classroom as planned.
 
 00003000
 Yuriko
@@ -257,10 +257,10 @@ Arisa
 C01a00090004
 
 00000000
-From the other side, I heard a response that was the same as\nbefore――a slightly vacant reply.
+From the other side, I heard a response that was the same as before――a slightly\nvacant reply.
 
 00000000
-I was worried about how effective it would be, but it seems\nto work even over the phone, just like through the\nbroadcast.
+I was worried about how effective it would be, but it seems to work even over\nthe phone, just like through the broadcast.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F73686F7274
 
@@ -280,82 +280,82 @@ C01a00090005
 0200E6000000000000000BFF9CFF0BFF4B004B004B004B00E8030000F401666D5F433031625F30335F305F305F305F3031
 
 00000000
-Eventually, Arisa comes to the classroom, but her expression\nstill seems somewhat vacant.
+Eventually, Arisa comes to the classroom, but her expression still seems\nsomewhat vacant.
 
 00000000
-I somehow knew that even in a hypnotic state, there wouldn't\nbe that much trouble with her actions during sex.
+I somehow knew that even in a hypnotic state, there wouldn't be that much\ntrouble with her actions during sex.
 
 00000000
-However, from now on, I would like to use it in a place\nwhere I can keep a closer eye on it.
+However, from now on, I would like to use it in a place where I can keep a\ncloser eye on it.
 
 00002000
 Takumi
-Well then... now that the actors are all here, what should\nwe do next...
+Well then... now that the actors are all here, what should we do next...
 
 00000000
-Anyway, she had been subjected to mind control that made her\nbehave as if she were bullying me in everyday life.
+Anyway, she had been subjected to mind control that made her behave as if she\nwere bullying me in everyday life.
 
 00000000
-I will remake it to my liking... However, since I still\ndon't understand the extent of control, I don't want to get\ntoo detailed.
+I will remake it to my liking... However, since I still don't understand the\nextent of control, I don't want to get too detailed.
 
 00002000
 Takumi
-In other words... it would be good if we could do the\nopposite of what we're doing now...
+In other words... it would be good if we could do the opposite of what we're\ndoing now...
 
 00000000
-If I think about it in a straightforward manner, I should\nstrive to improve my position and instead of being\npersecuted as the only male, I should aim to be praised.
+If I think about it in a straightforward manner, I should strive to improve my\nposition and instead of being persecuted as the only male, I should aim to be\npraised.
 
 00002000
 Takumi
-That's it, just like when I had sex with Arisa... I see...\nYeah, that's right.
+That's it, just like when I had sex with Arisa... I see... Yeah, that's right.
 
 00000000
-When the plan was decided in my head, I stood at the podium\nand spoke to my classmates who were still wandering their\ngazes.
+When the plan was decided in my head, I stood at the podium and spoke to my\nclassmates who were still wandering their gazes.
 
 00002000
 Takumi
-As chosen students of Oukeyo Academy, you must always behave\nexcellently.
+As chosen students of Oukeyo Academy, you must always behave excellently.
 
 00000000
-In the atmosphere, similar to what Arisa did before, I will\nturn the images in my head into words one by one.
+In the atmosphere, similar to what Arisa did before, I will turn the images in\nmy head into words one by one.
 
 00002000
 Takumi
-Excellent women are expected to accept as much male semen as\npossible in order to leave offspring.
+Excellent women are expected to accept as much male semen as possible in order\nto leave offspring.
 
 00002000
 Takumi
-So, all of you... please make every effort to accept semen\ninto your bodies.
+So, all of you... please make every effort to accept semen into your bodies.
 
 00002000
 Takumi
-If you can successfully consume semen, you will be able to\nexperience true happiness.
+If you can successfully consume semen, you will be able to experience true\nhappiness.
 
 00002000
 Takumi
-Especially, you can experience the ultimate ecstasy from the\nplace where you consume it... The effects, umm...
+Especially, you can experience the ultimate ecstasy from the place where you\nconsume it... The effects, umm...
 
 00000000
-Suddenly, the scene of ejaculating inside Arisa's vagina\ncomes to mind.
+Suddenly, the scene of ejaculating inside Arisa's vagina comes to mind.
 
 00002000
 Takumi
-Yes, there is nothing better than receiving it inside the\nuterus. And then...
+Yes, there is nothing better than receiving it inside the uterus. And then...
 
 00002000
 Takumi
-The more times you do it, the better your grades will be as\noutstanding students, and it will be advantageous for your\nfuture.
+The more times you do it, the better your grades will be as outstanding\nstudents, and it will be advantageous for your future.
 
 00000000
-I will freely line up my own convenient delusions as they\ncome to mind.
+I will freely line up my own convenient delusions as they come to mind.
 
 00002000
 Takumi
-Um... for now, this should be enough. Well then, if I take\naction from now on, we will return to our daily lives.
+Um... for now, this should be enough. Well then, if I take action from now on, \nwe will return to our daily lives.
 
 00002000
 Takumi
-The morning events leading up to homeroom have all been\ncompleted without any issues, so there's no need to worry.\nWell then... 3, 2, 1...
+The morning events leading up to homeroom have all been completed without any\nissues, so there's no need to worry. Well then... 3, 2, 1...
 
 03008C0000000F2753455F6230325F30303032
 
@@ -376,7 +376,7 @@ Ah........
 C02a00090010
 
 00000000
-With a snap of my fingers, everyone's consciousness suddenly\nreturned.
+With a snap of my fingers, everyone's consciousness suddenly returned.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
@@ -393,25 +393,25 @@ Yes...
 C02a00090011
 
 00000000
-The morning events have all been completed without any\nissues... That shared understanding should have dispelled\nany unnecessary doubts from Arisa and Yuriko.
+The morning events have all been completed without any issues... That shared\nunderstanding should have dispelled any unnecessary doubts from Arisa and\nYuriko.
 
 00000000
-I carefully observed the two of them, but it seems that they\ndidn't find anything particularly unnatural.
+I carefully observed the two of them, but it seems that they didn't find\nanything particularly unnatural.
 
 00000000
-The other students have also returned to the usual scenery\nat first glance, and I can feel piercing gazes from the\nsurroundings.
+The other students have also returned to the usual scenery at first glance, and\nI can feel piercing gazes from the surroundings.
 
 02008C00010000
 
 00006000
 Takumi
-I haven't mentioned anything about myself, so there won't be\nany immediate changes there...
+I haven't mentioned anything about myself, so there won't be any immediate\nchanges there...
 
 00000000
-I also had concerns about what might happen if I drastically\naltered their consciousness.
+I also had concerns about what might happen if I drastically altered their\nconsciousness.
 
 00000000
-In a way, there's a part of me that feels relieved that the\natmosphere remains the same as before...
+In a way, there's a part of me that feels relieved that the atmosphere remains\nthe same as before...
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30332F2D3236332F302E37362F302E3736
 
@@ -425,7 +425,7 @@ Takumi
 Huh...?
 
 00000000
-And... in a sense, as always, Kamiizumi-san came to bother\nus.
+And... in a sense, as always, Kamiizumi-san came to bother us.
 
 00002000
 Takumi
@@ -433,18 +433,18 @@ No, it's nothing... Well, anything...
 
 00003000
 Rio
-Stop lying. You were totally staring at Arisa, weren't you?\nNow you're fantasizing about her? Aren't you a masochist?
+Stop lying. You were totally staring at Arisa, weren't you? Now you're\nfantasizing about her? Aren't you a masochist?
 C03a00090002
 
 00000000
-As always, she's strangely perceptive of my gaze. Or is that\njust the role she's been given?
+As always, she's strangely perceptive of my gaze. Or is that just the role she's\nbeen given?
 
 00000000
-Maybe she was actually concerned about me... Nah, that's\nprobably not the case.
+Maybe she was actually concerned about me... Nah, that's probably not the case.
 
 00003000
 Rio
-What's with that smirk? Are you hoping to be jerked off\nagain or something?
+What's with that smirk? Are you hoping to be jerked off again or something?
 C03a00090003
 
 00002000
@@ -452,23 +452,23 @@ Takumi
 W-W-Well, it's not like... anything...
 
 00000000
-Being jerked off... The pleasurable yet humiliating\nexperience I received before flashes through my mind.
+Being jerked off... The pleasurable yet humiliating experience I received before\nflashes through my mind.
 
 00000000
-However, the situation is different this time. Right now, \nit's the perfect timing to test the freshly implanted\nperception.
+However, the situation is different this time. Right now,  it's the perfect\ntiming to test the freshly implanted perception.
 
 00000000
-This time, I naturally feel heat building up in my crotch as\nI imagine what would happen if I were to ejaculate in a\nsimilar situation...
+This time, I naturally feel heat building up in my crotch as I imagine what\nwould happen if I were to ejaculate in a similar situation...
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Oh... What's with the fidgeting... You want me to do it, \ndon't you? Fine, here you go!
+Oh... What's with the fidgeting... You want me to do it,  don't you? Fine, here\nyou go!
 C03a00090004
 
 00000000
-When she noticed my behavior, Rio promptly pushed me down\nonto the floor again, leaving me in a vulnerable position\nlying on my back.
+When she noticed my behavior, Rio promptly pushed me down onto the floor again, \nleaving me in a vulnerable position lying on my back.
 
 0300000000000F2742474D3035
 
@@ -483,21 +483,21 @@ Takumi
 Ugh...!
 
 00000000
-I let out another pathetic moan as she firmly steps into my\ncrotch.
+I let out another pathetic moan as she firmly steps into my crotch.
 
 00003000
 Rio
-Oh, you haven't learned your lesson, huh? It seems like deep\ndown, you're still hoping for it♪
+Oh, you haven't learned your lesson, huh? It seems like deep down, you're still\nhoping for it♪
 C03a00090005
 
 00000000
-In a situation similar to before, I was gradually heating up\nmy meat rod with a different sense of anticipation than last\ntime.
+In a situation similar to before, I was gradually heating up my meat rod with a\ndifferent sense of anticipation than last time.
 
 00000000
-That's right... Last time, I was humiliated because of this\nwoman. Kamiizumi Rio... I must repay her as well.
+That's right... Last time, I was humiliated because of this woman. Kamiizumi\nRio... I must repay her as well.
 
 00000000
-But there's no need to rush. After this... from here on, it\nwill be my counterattack.
+But there's no need to rush. After this... from here on, it will be my\ncounterattack.
 
 00002000
 Takumi
@@ -507,7 +507,7 @@ Ngh... Ugh, fu...
 
 00003000
 Rio
-You don't have to hold back, you know? It's fine if you want\nto moan and make an ahegao face.
+You don't have to hold back, you know? It's fine if you want to moan and make an\nahegao face.
 C03a00090006
 
 00002000
@@ -515,21 +515,21 @@ Takumi
 Ah... Oh!
 
 00000000
-The people around me continue to stare at me with cold, \nindifferent eyes as I lie on my back.
+The people around me continue to stare at me with cold,  indifferent eyes as I\nlie on my back.
 
 00000000
-Koharu-san had a worried expression on her face, but as\nexpected, she didn't try to stop Rio like she had done\nbefore.
+Koharu-san had a worried expression on her face, but as expected, she didn't try\nto stop Rio like she had done before.
 
 00003000
 Rio
-Look, it's getting harder and harder. Have you become\naddicted to being bullied? Isn't that too perverted?
+Look, it's getting harder and harder. Have you become addicted to being bullied?\nIsn't that too perverted?
 C03a00090007
 
 00000000
-Rio, with a smirk on her face, continues to trample on my\ncrotch even more.
+Rio, with a smirk on her face, continues to trample on my crotch even more.
 
 00000000
-Ah... That's right, this feeling. Before, it was\nembarrassing and frustrating, but the stimulation it brings\nis undeniably pleasurable...
+Ah... That's right, this feeling. Before, it was embarrassing and frustrating, \nbut the stimulation it brings is undeniably pleasurable...
 
 00002000
 Takumi
@@ -539,13 +539,13 @@ S-Stop... Please... Ahh...
 I pretend to resist just like before, on the surface.
 
 00000000
-However, when I think about the reversal phenomenon that\nawaits me ahead, my excitement naturally increases and I\ncan't hide the fact that I'm getting aroused.
+However, when I think about the reversal phenomenon that awaits me ahead, my\nexcitement naturally increases and I can't hide the fact that I'm getting\naroused.
 
 020000000100666D5F3030315F30303032
 
 00003000
 Rio
-Kyahaha, you're clearly enjoying it. Uri-uri, you're such a\nperverted masochist~
+Kyahaha, you're clearly enjoying it. Uri-uri, you're such a perverted masochist~
 C03a00090008
 
 00002000
@@ -553,26 +553,26 @@ Takumi
 Nngh... Kuuh... Ahh... Uhh...
 
 00000000
-Rio's way of tormenting me was still firmly hitting the\nmark.
+Rio's way of tormenting me was still firmly hitting the mark.
 
 00000000
-Despite boldly stepping forward, the intensity is adjusted\njust before reaching the point of pain, and I am being\nrubbed and stirred through the fabric.
+Despite boldly stepping forward, the intensity is adjusted just before reaching\nthe point of pain, and I am being rubbed and stirred through the fabric.
 
 020000000100666D5F3030315F30303031
 
 00003000
 Rio
-It's okay, let out that pathetic voice. Hehe, it feels good, \ndoesn't it?
+It's okay, let out that pathetic voice. Hehe, it feels good,  doesn't it?
 C03a00090009
 
 00000000
 As Rio watches me moan, her excitement deepens.
 
 00000000
-The atmosphere around me hasn't changed... However, I felt a\nsomewhat restless air as their gaze shifted towards my\ncrotch.
+The atmosphere around me hasn't changed... However, I felt a somewhat restless\nair as their gaze shifted towards my crotch.
 
 00000000
-That is, a sense of anticipation for the phenomenon that\ncould happen after this act.
+That is, a sense of anticipation for the phenomenon that could happen after this\nact.
 
 0200EF10054563735F4E6176695F303035
 
@@ -584,18 +584,18 @@ Ku...uhh...ahh...!
 
 00003000
 Rio
-Hehe, you're making such a nice voice. Well then...is it\nabout time?
+Hehe, you're making such a nice voice. Well then...is it about time?
 C03a00090010
 
 0200EF10054563735F4E6176695F303033
 
 00000000
-Rio ga sukoshi muku o yowameyou to suru. (Rio tries to\nweaken the intensity a little, judging by the situation.)
+Rio ga sukoshi muku o yowameyou to suru. (Rio tries to weaken the intensity a\nlittle, judging by the situation.)
 
 0200EF10054563735F4E6176695F303032
 
 00000000
-But today, I didn't have the intention to endure from the\nbeginning.
+But today, I didn't have the intention to endure from the beginning.
 
 0200EF10054563735F4E6176695F303031
 
@@ -625,24 +625,24 @@ Kyaa...
 C04a00090005
 
 00000000
-Once again, a droplet overflowed with a *biku* in the center\nof my pants, spreading and staining.
+Once again, a droplet overflowed with a *biku* in the center of my pants, \nspreading and staining.
 
 00000000
-Previously, there was a timing where screams of disgust\nwould rise... However, this time it was different.
+Previously, there was a timing where screams of disgust would rise... However, \nthis time it was different.
 
 00003000
 Rio
-Hey...you idiot! What the hell, you're releasing it on your\nown, you should have told me first!
+Hey...you idiot! What the hell, you're releasing it on your own, you should have\ntold me first!
 C03a00090011
 
 00003000
 Arisa
-What are you doing... wasting precious semen... you're such\nan idiot.
+What are you doing... wasting precious semen... you're such an idiot.
 C01a00090009
 
 00003000
 Koharu
-Ah... I-It's okay... If we gather it quickly, there should\nstill be some left...!
+Ah... I-It's okay... If we gather it quickly, there should still be some\nleft...!
 C04a00090006
 
 00003000
@@ -651,10 +651,10 @@ That's right. Anyway, let's quickly protect the semen.
 C02a00090013
 
 00000000
-The words of impatience that followed one after another were\ndriven by a perspective that values semen above all else.
+The words of impatience that followed one after another were driven by a\nperspective that values semen above all else.
 
 00000000
-And without any hesitation, they swarmed towards my crotch\nand skillfully began to lower my pants.
+And without any hesitation, they swarmed towards my crotch and skillfully began\nto lower my pants.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

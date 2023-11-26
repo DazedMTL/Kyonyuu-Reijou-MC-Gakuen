@@ -16,7 +16,7 @@ Good morning.
 
 00003000
 Arisa
-Yes, good morning.
+Yes、 good morning.
 C01a04030001
 
 00003000
@@ -28,75 +28,75 @@ C02a04030001
 In the morning at the principal's office.
 
 00000000
-Both Arisa and Yuriko, who were already in the room, \naccepted me without any suspicion.
+Both Arisa and Yuriko、 who were already in the room、  accepted me without any\nsuspicion.
 
 00000000
-Honestly, I didn't expect this room to become so\ncomfortable.
+Honestly、 I didn't expect this room to become so comfortable.
 
 00000000
-It may just be a convenient assumption, but it still makes\nme feel important.
+It may just be a convenient assumption、 but it still makes me feel important.
 
 00000000
-Of course, I don't think I'm a suitable presence there right\nnow.
+Of course、 I don't think I'm a suitable presence there right now.
 
 00000000
-"There's a saying that your position shapes you, but I don't\nthink I can become like that by skipping so many steps."
+"There's a saying that your position shapes you、 but I don't think I can become\nlike that by skipping so many steps."
 
 00006000
 Takumi
-Well, Arisa is amazing for actually putting that into\npractice...
+Well、 Arisa is amazing for actually putting that into practice...
 
 00000000
-Today, as always, Arisa is diligently handling tasks that I\ncan't understand or grasp with Yuriko's help.
+Today、 as always、 Arisa is diligently handling tasks that I can't understand or\ngrasp with Yuriko's help.
 
 00003000
 Yuriko
-That concludes the report and confirmation from the board of\ndirectors.
+That concludes the report and confirmation from the board of directors.
 C02a04030002
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Thank you. After this, we'll distribute it to the teachers, \nso this matter should be fine.
+Thank you. After this、 we'll distribute it to the teachers、  so this matter\nshould be fine.
 C01a04030002
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Yes. There's one more thing... It's about the main family\nmatter that you instructed us about...
+Yes. There's one more thing... It's about the main family matter that you\ninstructed us about...
 C02a04030003
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-As I thought, there seems to be a high possibility of\ninterference, huh...?
+As I thought、 there seems to be a high possibility of interference、 huh...?
 C01a04030003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-There may not be any direct personnel changes yet, but there\nare already indications of intervention in the form of\ndetailed reporting and instructions for regulations from the\nmanagement.
+There may not be any direct personnel changes yet、 but there are already\nindications of intervention in the form of detailed reporting and instructions\nfor regulations from the management.
 C02a04030004
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-They must have underestimated what we can do as board\nmembers. They're as slow in their judgment as ever...
+They must have underestimated what we can do as board members. They're as slow\nin their judgment as ever...
 C01a04030004
 
 00003000
 Yuriko
-However, thanks to that, it's easier for us to take action.\nThey probably won't be able to make any blatant personnel\nchanges, so
+However、 thanks to that、 it's easier for us to take action. They probably won't\nbe able to make any blatant personnel changes、 so
 C02a04030005
 
 00003000
 Arisa
-Yes... We should continue to remain vigilant and not let our\nguard down.
+Yes... We should continue to remain vigilant and not let our guard down.
 C01a04030005
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
@@ -113,7 +113,7 @@ Yuriko nodded reassuringly as if she understood everything.
 
 00003000
 Arisa
-...I wonder what would have happened to me if Yuriko wasn't\nhere...
+...I wonder what would have happened to me if Yuriko wasn't here...
 C01a04030006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
@@ -127,7 +127,7 @@ C02a04030007
 
 00003000
 Arisa
-Thanks to your cooperation, I've been able to come this far.\nI'm grateful.
+Thanks to your cooperation、 I've been able to come this far. I'm grateful.
 C01a04030007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30352F2D3236302F302E37352F302E3735
@@ -138,10 +138,10 @@ Oh... That's such a waste of kind words.
 C02a04030008
 
 00000000
-Yuriko hurriedly shook her head in modesty at Arisa's words\nof praise.
+Yuriko hurriedly shook her head in modesty at Arisa's words of praise.
 
 00000000
-"Did they say that rain strengthens the ground? It seems\nthat the bond between the two of them has become even closer\nand stronger since last time."
+"Did they say that rain strengthens the ground? It seems that the bond between\nthe two of them has become even closer and stronger since last time."
 
 00006000
 Takumi
@@ -151,53 +151,53 @@ But...
 Arisa is not an ordinary woman.
 
 00000000
-Arisa's pride is high, and her desire for approval is\nstronger than most.
+Arisa's pride is high、 and her desire for approval is stronger than most.
 
 00000000
-"I have lived in a world where being at the top and\nreceiving constant praise wherever I go has been the norm."
+"I have lived in a world where being at the top and receiving constant praise\nwherever I go has been the norm."
 
 00000000
-However, by her side, there has always been Yuriko, who has\nbeen constantly supporting her like a shadow.
+However、 by her side、 there has always been Yuriko、 who has been constantly\nsupporting her like a shadow.
 
 00000000
-Arisa's authority is undoubtedly amplified by Yuriko to some\nextent.
+Arisa's authority is undoubtedly amplified by Yuriko to some extent.
 
 00000000
-Yuriko's abilities are not inferior to Arisa's... Of course, \neach of them has their own strengths and weaknesses, but\nthere are also aspects where Yuriko surpasses Arisa in\ncertain areas.
+Yuriko's abilities are not inferior to Arisa's... Of course、  each of them has\ntheir own strengths and weaknesses、 but there are also aspects where Yuriko\nsurpasses Arisa in certain areas.
 
 00000000
 No one has ever pointed out that aspect until now.
 
 00000000
-That's why, by making her aware of the presence of someone\nclose to her, I awakened the complexes she hadn't noticed.
+That's why、 by making her aware of the presence of someone close to her、 I\nawakened the complexes she hadn't noticed.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-That's a good idea. Let's have tea at the cafeteria after a\nlong time. I'll treat you to some cake.
+That's a good idea. Let's have tea at the cafeteria after a long time. I'll\ntreat you to some cake.
 C01a04030008
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Yes, thank you very much. I will accompany you.
+Yes、 thank you very much. I will accompany you.
 C02a04030009
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-That's why, we'll take our leave for today.
+That's why、 we'll take our leave for today.
 C01a04030009
 
 00002000
 Takumi
-Alright, alright. Good work today. I'll be heading home now, \nso please take your time and relax.
+Alright、 alright. Good work today. I'll be heading home now、  so please take\nyour time and relax.
 
 00000000
-Of course, there was no way I would be invited, so I waved\ngoodbye and left the room first.
+Of course、 there was no way I would be invited、 so I waved goodbye and left the\nroom first.
 
 020000000100626C
 
@@ -205,13 +205,13 @@ Of course, there was no way I would be invited, so I waved\ngoodbye and left the
 
 00002000
 Takumi
-...Well, what should I do from now on?
+...Well、 what should I do from now on?
 
 00000000
-It seems like Arisa and Yuriko's relationship has become\nstronger... but I still feel like there are some cracks\nsomewhere.
+It seems like Arisa and Yuriko's relationship has become stronger... but I still\nfeel like there are some cracks somewhere.
 
 00000000
-Maybe we should consider breaking them down individually\nagain before trying to bring them together at the same time.
+Maybe we should consider breaking them down individually again before trying to\nbring them together at the same time.
 
 0100200002026566666563742C656666656374206B6169736F75
 
@@ -220,18 +220,18 @@ Maybe we should consider breaking them down individually\nagain before trying to
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00000000
-So Arisa, who is showing glimpses of hidden complexes and\ngrowing frustration even in household matters, huh?
+So Arisa、 who is showing glimpses of hidden complexes and growing frustration\neven in household matters、 huh?
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00000000
-Is Yuriko, who is unaware of her own abilities, making Arisa\nanxious without realizing it?
+Is Yuriko、 who is unaware of her own abilities、 making Arisa anxious without\nrealizing it?
 
 00000000
-In any case, in the end, I will make sure both of them\nreceive their due reward... There is no doubt about that.
+In any case、 in the end、 I will make sure both of them receive their due\nreward... There is no doubt about that.
 
 00000000
-While pondering over various things, I...
+While pondering over various things、 I...
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

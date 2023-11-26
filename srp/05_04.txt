@@ -10,52 +10,52 @@
 
 00002000
 Female Student A
-Rio, you're seriously amazing! You're on the cover of this\ngravure photo shoot!
+Rio、 you're seriously amazing! You're on the cover of this gravure photo shoot!
 
 00002000
 Female Student B
-Seriously! Rio-chan looks so cute without wearing a school\nuniform and with perfect makeup!
+Seriously! Rio-chan looks so cute without wearing a school uniform and with\nperfect makeup!
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Hehehe, I must say it's quite something. This time's photos\nare seriously my masterpiece. Look, this clothing brand\nreally accentuates my waistline beautifully.
+Hehehe、 I must say it's quite something. This time's photos are seriously my\nmasterpiece. Look、 this clothing brand really accentuates my waistline\nbeautifully.
 C03a05040001
 
 00000000
-The female students, holding a magazine with Rio's gravure, \nare surrounding her and showering her with attention without\nany signs of stopping.
+The female students、 holding a magazine with Rio's gravure、  are surrounding her\nand showering her with attention without any signs of stopping.
 
 00000000
-And yet, being told something about my own photos is usually\nembarrassing, but for Rio, she doesn't have that at all and\nhappily accepts the praise.
+And yet、 being told something about my own photos is usually embarrassing、 but\nfor Rio、 she doesn't have that at all and happily accepts the praise.
 
 00002000
 Female Student A
-But, it's amazing, right? At this rate, there might even be\na special gravure feature dedicated solely to Rio-chan next\ntime.
+But、 it's amazing、 right? At this rate、 there might even be a special gravure\nfeature dedicated solely to Rio-chan next time.
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-I'm not satisfied with just that yet. It would be perfect if\nI could become even more famous and join a talent group, \ndon't you think?
+I'm not satisfied with just that yet. It would be perfect if I could become even\nmore famous and join a talent group、  don't you think?
 C03a05040002
 
 00002000
 Female Student B
-That kind of thing definitely suits you! I'll be cheering\nfor you!
+That kind of thing definitely suits you! I'll be cheering for you!
 
 0200BC000100012C666D5F433033615F30335F305F305F305F30322F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-I kind of want to organize a fashion show if there's a\nschool festival or something. Don't you think that would be\npretty cool? Right?
+I kind of want to organize a fashion show if there's a school festival or\nsomething. Don't you think that would be pretty cool? Right?
 C03a05040003
 
 00000000
-I could feel the gaze of the noisy girls suddenly focusing\non me for a moment.
+I could feel the gaze of the noisy girls suddenly focusing on me for a moment.
 
 00000000
-Rio probably intends to boldly plead without hesitation that\nit is possible for her, as long as I have the power of\nindoctrination, to become the chairman.
+Rio probably intends to boldly plead without hesitation that it is possible for\nher、 as long as I have the power of indoctrination、 to become the chairman.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -71,14 +71,14 @@ Sigh... I'm so envious...
 C04a05040001
 
 00000000
-Koharu was unable to enter the circle surrounding Rio and\nlooked at her with envy.
+Koharu was unable to enter the circle surrounding Rio and looked at her with\nenvy.
 
 00000000
-Since I have an active relationship with her, I felt a\nlittle guilty just leaving her alone, so I decided to\napproach her myself.
+Since I have an active relationship with her、 I felt a little guilty just\nleaving her alone、 so I decided to approach her myself.
 
 00002000
 Takumi
-Koharu, what's wrong? You had a really lonely expression on\nyour face...
+Koharu、 what's wrong? You had a really lonely expression on your face...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
@@ -89,80 +89,80 @@ C04a05040002
 
 00002000
 Takumi
-If you're troubled about something, I want to help... But\nfirst, what do you want to talk about?
+If you're troubled about something、 I want to help... But first、 what do you\nwant to talk about?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-I want to talk... or rather, I wonder if talking will solve\nanything... that's the issue...
+I want to talk... or rather、 I wonder if talking will solve anything... that's\nthe issue...
 C04a05040003
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Um, I also want to have confidence like Rio-san...
+Um、 I also want to have confidence like Rio-san...
 C04a05040004
 
 00002000
 Takumi
-That's difficult... Koharu, you do have a big chest and are\ncertainly attractive, but...
+That's difficult... Koharu、 you do have a big chest and are certainly\nattractive、 but...
 
 00000000
 Koharu's large chest is simply a talent she was born with.
 
 00000000
-Rio may have a wicked personality, but she is also\nrelentless in maintaining her beauty.
+Rio may have a wicked personality、 but she is also relentless in maintaining her\nbeauty.
 
 00000000
-She puts in the effort to reliably fulfill even the\ndemanding job of being a model.
+She puts in the effort to reliably fulfill even the demanding job of being a\nmodel.
 
 00002000
 Takumi
-Maybe if you learn how to do makeup, try wearing different\nclothes, or experiment with a new hairstyle... doing things\nlike that might help boost your confidence.
+Maybe if you learn how to do makeup、 try wearing different clothes、 or\nexperiment with a new hairstyle... doing things like that might help boost your\nconfidence.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Is that so...? D-Do you want me to become like that, Takumi-\nkun? Ah, n-not in a weird way or anything...
+Is that so...? D-Do you want me to become like that、 Takumi- kun? Ah、 n-not in a\nweird way or anything...
 C04a05040005
 
 00002000
 Takumi
-Yeah, having a big chest is nice, but I think if other parts\nof you were also more attractive, no one would complain...\nDid that cheer you up?
+Yeah、 having a big chest is nice、 but I think if other parts of you were also\nmore attractive、 no one would complain... Did that cheer you up?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30362F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Ugh... B-But, what should I do... I can't think of any good\nideas on how to improve...
+Ugh... B-But、 what should I do... I can't think of any good ideas on how to\nimprove...
 C04a05040006
 
 00002000
 Takumi
-It's okay, I think it's a problem that takes time. I'm\nlooking forward to seeing Koharu become beautiful someday.
+It's okay、 I think it's a problem that takes time. I'm looking forward to seeing\nKoharu become beautiful someday.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-U-Uu... Th-That's, um, nice, but you're expecting too\nmuch... There's no way I can become that beautiful...
+U-Uu... Th-That's、 um、 nice、 but you're expecting too much... There's no way I\ncan become that beautiful...
 C04a05040007
 
 00000000
-Koharu, who constantly seeks my reactions and sets up a\ndefense line by belittling herself to prevent failure, seems\nto lack the potential to become confident in the future. I\ncan't help but smile wryly at this.
+Koharu、 who constantly seeks my reactions and sets up a defense line by\nbelittling herself to prevent failure、 seems to lack the potential to become\nconfident in the future. I can't help but smile wryly at this.
 
 00000000
-Well, I suppose that's one of Koharu's good points. If she\nwere to become like Rio, who has a completely opposite\npersonality, I feel like all of her charm would be\ncompromised.
+Well、 I suppose that's one of Koharu's good points. If she were to become like\nRio、 who has a completely opposite personality、 I feel like all of her charm\nwould be compromised.
 
 00006000
 Takumi
-Well... It's because there's a difference in your reactions\ntowards me that I get confused... I wonder which one of you\nI should have fun with today...
+Well... It's because there's a difference in your reactions towards me that I\nget confused... I wonder which one of you I should have fun with today...
 
 00000000
-While thinking that, I considered asking either one of them\nto help me with my daily routine of semen collection.
+While thinking that、 I considered asking either one of them to help me with my\ndaily routine of semen collection.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

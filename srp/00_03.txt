@@ -7,7 +7,7 @@
 0200000001004247303330305F62
 
 00000000
-The next morning... I entered the classroom, trying to make\nmyself as small and inconspicuous as possible.
+The next morning... I entered the classroom、 trying to make myself as small and\ninconspicuous as possible.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -16,26 +16,26 @@ The next morning... I entered the classroom, trying to make\nmyself as small and
 0200000001004247303230305F62
 
 00000000
-As soon as I entered, all eyes turned towards me and I\nimmediately heard whispers and gossip.
+As soon as I entered、 all eyes turned towards me and I immediately heard\nwhispers and gossip.
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-I knew it would turn out like this, but that didn't mean I\ncould just take a day off.
+I knew it would turn out like this、 but that didn't mean I could just take a day\noff.
 
 00000000
-"At times like this, I can't help but resent the fact that\nit's a boarding school."
+"At times like this、 I can't help but resent the fact that it's a boarding\nschool."
 
 00000000
-Even if I was feeling unwell, I couldn't just be absent\nwithout a medical certificate from the infirmary. It wasn't\nas simple as just notifying them.
+Even if I was feeling unwell、 I couldn't just be absent without a medical\ncertificate from the infirmary. It wasn't as simple as just notifying them.
 
 00000000
-There's nowhere to escape. Considering that the situation\ncould worsen, there's no choice but to attend.
+There's nowhere to escape. Considering that the situation could worsen、 there's\nno choice but to attend.
 
 00000000
-Is it at least some consolation that my seat is in the\ncorner of the classroom? I shrink down and quietly take my\nseat.
+Is it at least some consolation that my seat is in the corner of the classroom?\nI shrink down and quietly take my seat.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
@@ -45,34 +45,34 @@ Ah...
 C04a00030001
 
 00000000
-Ah... Even Fukunaga-san, who arrived before me, noticed me\nand gave a small bow, but perhaps feeling awkward, she\nquickly averted her gaze.
+Ah... Even Fukunaga-san、 who arrived before me、 noticed me and gave a small bow、 \nbut perhaps feeling awkward、 she quickly averted her gaze.
 
 02008C00010000
 
 00000000
-"That's also, in a way, to be expected. It's the seed I\nsowed, so I can't really say anything."
+"That's also、 in a way、 to be expected. It's the seed I sowed、 so I can't really\nsay anything."
 
 00000000
-Today, without any allies... I reluctantly put the earphones\nthat I had secretly hidden in my pocket and put them on my\nears.
+Today、 without any allies... I reluctantly put the earphones that I had secretly\nhidden in my pocket and put them on my ears.
 
 00006000
 Takumi
-If this is found, it will surely be confiscated\nimmediately...
+If this is found、 it will surely be confiscated immediately...
 
 00000000
-Nevertheless, rather than wearing down my nerves by\nwhispering behind my back... That's what I thought, so I\ndiscreetly started playing music while hiding the earphones\nin my hands.
+Nevertheless、 rather than wearing down my nerves by whispering behind my back...\nThat's what I thought、 so I discreetly started playing music while hiding the\nearphones in my hands.
 
 00000000
-When I hear my favorite instrumental music playing, it\nclears away a little bit of the unpleasant haze.
+When I hear my favorite instrumental music playing、 it clears away a little bit\nof the unpleasant haze.
 
 00000000
-If it were true, I would have wanted to listen with both\nears and at a higher volume, but if I were found out, it\nwould be a lose-lose situation.
+If it were true、 I would have wanted to listen with both ears and at a higher\nvolume、 but if I were found out、 it would be a lose-lose situation.
 
 00000000
-Right now, even if I were to just slump over my desk, I know\nthat they would find some excuse to pick on me.
+Right now、 even if I were to just slump over my desk、 I know that they would\nfind some excuse to pick on me.
 
 00000000
-While covering my ears with my hands the whole time, I use\nmy other hand to flip through the textbook, trying not to\nmake it look too unnatural, and fix my gaze on it.
+While covering my ears with my hands the whole time、 I use my other hand to flip\nthrough the textbook、 trying not to make it look too unnatural、 and fix my gaze\non it.
 
 00002000
 Student A
@@ -83,13 +83,13 @@ Student B
 ...If that's the case...not...
 
 00000000
-From the other ear, I can still hear something, but it has\nbecome a faint noise that I can't clearly make out anymore.
+From the other ear、 I can still hear something、 but it has become a faint noise\nthat I can't clearly make out anymore.
 
 00000000
-Even if they were talking about me, as long as I don't\nunderstand what they're saying, my heart won't be hurt that\nmuch.
+Even if they were talking about me、 as long as I don't understand what they're\nsaying、 my heart won't be hurt that much.
 
 00000000
-I reaffirmed that and slightly increased the volume of the\nplayer, focusing my attention on the music.
+I reaffirmed that and slightly increased the volume of the player、 focusing my\nattention on the music.
 
 00000000
 Shortly after that--
@@ -98,18 +98,18 @@ Shortly after that--
 
 00003000
 Yuriko
-�c�c�c�c
+�c�c�c�c
 C02a00030001
 
 00000000
-When Yuriko quietly enters the classroom, the tension in the\nroom suddenly intensifies.
+When Yuriko quietly enters the classroom、 the tension in the room suddenly\nintensifies.
 
 00000000
-In the morning, Kisshouji-san is always late. Yuriko-san\nenters the classroom first, and it has become an unspoken\nagreement for her to tighten the relaxed atmosphere.
+In the morning、 Kisshouji-san is always late. Yuriko-san enters the classroom\nfirst、 and it has become an unspoken agreement for her to tighten the relaxed\natmosphere.
 
 00003000
 Yuriko
-Shinjo-san, the bell is about to ring. Hurry up and take\nyour seat.
+Shinjo-san、 the bell is about to ring. Hurry up and take your seat.
 C02a00030002
 
 00002000
@@ -119,25 +119,25 @@ Y-Yes...
 0200E600000000000000FCFE0000FCFE4B004B004B004B00E8030000F401666D5F433032615F30335F305F305F305F3038
 
 00000000
-There's still a little time left, but she scolds her\nclassmates as if she were the teacher.
+There's still a little time left、 but she scolds her classmates as if she were\nthe teacher.
 
 00000000
-Naturally, no one would dare to oppose her, and as a result, \nthe classroom naturally becomes quieter with less chatter--
+Naturally、 no one would dare to oppose her、 and as a result、  the classroom\nnaturally becomes quieter with less chatter--
 
 00002000
 Student D
-Yuriko-san... You seem a bit grumpy today compared to\nusual...
+Yuriko-san... You seem a bit grumpy today compared to usual...
 
 00002000
 Student E
-It's because of that person causing trouble again, right? It\ndisrupts the order of the class...
+It's because of that person causing trouble again、 right? It disrupts the order\nof the class...
 
 00000000
-The discreet whispers, however, continue to be heard\nsomewhere, and Yuriko-san doesn't bother to address them.
+The discreet whispers、 however、 continue to be heard somewhere、 and Yuriko-san\ndoesn't bother to address them.
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
 It's no use... I really can't bear it anymore.
@@ -147,10 +147,10 @@ It's no use... I really can't bear it anymore.
 03001000
 
 00000000
-I hunched over, pressing my head down, and secretly adjusted\nmy earphones before covering my ears again.
+I hunched over、 pressing my head down、 and secretly adjusted my earphones before\ncovering my ears again.
 
 00000000
-"Homeroom is about to start soon... Anyway, I'll endure\nuntil then."
+"Homeroom is about to start soon... Anyway、 I'll endure until then."
 
 03008C0000000F2753455F6130385F30323034
 
@@ -159,78 +159,78 @@ I hunched over, pressing my head down, and secretly adjusted\nmy earphones befor
 0300000000000F2742474D3130
 
 00000000
-Soon, the sound of the music box, which has become a regular\nmorning ritual, began to play through the broadcast.
+Soon、 the sound of the music box、 which has become a regular morning ritual、 \nbegan to play through the broadcast.
 
 00006000
 Takumi
 Uhh...
 
 00000000
-Immediately after that, a strong dizziness struck my head, \nand for a moment, my consciousness started to fade.
+Immediately after that、 a strong dizziness struck my head、  and for a moment、 my\nconsciousness started to fade.
 
 00006000
 Takumi
-That... Could this be because of stress? I feel dizzy and\nnauseous...
+That... Could this be because of stress? I feel dizzy and nauseous...
 
 00000000
-The music flowing from my left ear restores my blurred\nconsciousness.
+The music flowing from my left ear restores my blurred consciousness.
 
 00002000
 Takumi
 Huh...?
 
 00000000
-And, as I casually looked around, I noticed a strange\natmosphere.
+And、 as I casually looked around、 I noticed a strange atmosphere.
 
 00000000
-Faint murmurs... The whispers completely vanished, and the\npresence of people suddenly became thin.
+Faint murmurs... The whispers completely vanished、 and the presence of people\nsuddenly became thin.
 
 00000000
-Furthermore, as I looked closer, I noticed that the gazes of\nmy classmates around me were all collectively staring\nblankly into the sky.
+Furthermore、 as I looked closer、 I noticed that the gazes of my classmates\naround me were all collectively staring blankly into the sky.
 
 00002000
 Takumi
 Huh...? What is this...? What's happening?
 
 00000000
-Huh...? As I was bewildered by the unusual atmosphere, \nYuriko suddenly stood up from her seat without saying a\nword.
+Huh...? As I was bewildered by the unusual atmosphere、  Yuriko suddenly stood up\nfrom her seat without saying a word.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a00030003
 
 00000000
-Without saying a word, she slowly walks through the\nclassroom, carefully observing the students' behavior.
+Without saying a word、 she slowly walks through the classroom、 carefully\nobserving the students' behavior.
 
 00002000
 Takumi
 Huh...?
 
 00000000
-In an instant, I turned my gaze towards the day after\ntomorrow and pretended to be absent-minded.
+In an instant、 I turned my gaze towards the day after tomorrow and pretended to\nbe absent-minded.
 
 00000000
-Eventually, as Yuriko looked around the classroom, she\ngently placed her hand on her ear and pulled something out.
+Eventually、 as Yuriko looked around the classroom、 she gently placed her hand on\nher ear and pulled something out.
 
 00006000
 Takumi
 ...Are those...earplugs...?
 
 00000000
-The music box-like melody had stopped without anyone\nnoticing, but everyone still remained in a dazed state.
+The music box-like melody had stopped without anyone noticing、 but everyone\nstill remained in a dazed state.
 
 00000000
-Without a word, Yuriko takes her phone in hand and starts\nmaking a call somewhere.
+Without a word、 Yuriko takes her phone in hand and starts making a call\nsomewhere.
 
 00000000
-Yuriko completely disregards the supposed rule of no\ncellphone use in the classroom, and of course, there is no\none to reprimand her for that call.
+Yuriko completely disregards the supposed rule of no cellphone use in the\nclassroom、 and of course、 there is no one to reprimand her for that call.
 
 00003000
 Yuriko
-Yes, it's me. There's no problem, so please continue as is.
+Yes、 it's me. There's no problem、 so please continue as is.
 C02a00030004
 
 03008C0000000F2753455F6330315F30313031
@@ -238,26 +238,26 @@ C02a00030004
 02008C00010000
 
 00000000
-After finishing her report on the phone, she soon hangs up\nand then�\�\
+After finishing her report on the phone、 she soon hangs up and then�\�\
 
 00005000
 Arisa
-Good morning, everyone.
+Good morning、 everyone.
 C01a00030001
 
 00006000
 Takumi
-Huh...? This voice, Kisshouji-san...?
+Huh...? This voice、 Kisshouji-san...?
 
 00000000
-The voice that continued to flow through the broadcast was\nnone other than Kisshouji-san's.
+The voice that continued to flow through the broadcast was none other than\nKisshouji-san's.
 
 00006000
 Takumi
 Don't come to the classroom... What's going on?
 
 00000000
-As I was thinking that, Kisshouji-san's voice resonated even\nmore.
+As I was thinking that、 Kisshouji-san's voice resonated even more.
 
 00005000
 Arisa
@@ -266,47 +266,47 @@ C01a00030002
 
 00005000
 Arisa
-You all, the students of Oukyo Academy, are special\nindividuals chosen from among many outstanding girls.
+You all、 the students of Oukyo Academy、 are special individuals chosen from\namong many outstanding girls.
 C01a00030003
 
 00005000
 Arisa
-That exceptional power must be demonstrated flawlessly when\nthe positions of men and women are reversed in the future.
+That exceptional power must be demonstrated flawlessly when the positions of men\nand women are reversed in the future.
 C01a00030004
 
 00005000
 Arisa
-Recognize that women who can give birth to and nurture new\nlife are the supreme beings.
+Recognize that women who can give birth to and nurture new life are the supreme\nbeings.
 C01a00030005
 
 00006000
 Takumi
-...W-What is this...? We've never had a broadcast like this\nbefore, right...?
+...W-What is this...? We've never had a broadcast like this before、 right...?
 
 00000000
-It's like some kind of religious enlightenment... I look\naround again at the words with that kind of content.
+It's like some kind of religious enlightenment... I look around again at the\nwords with that kind of content.
 
 00000000
-The girls around me, Fukunaga-san and Kamiizumi-san\nincluded, still seem to be wandering their gaze\nabsentmindedly, and I can't tell if they're actually\nlistening to the conversation.
+The girls around me、 Fukunaga-san and Kamiizumi-san included、 still seem to be\nwandering their gaze absentmindedly、 and I can't tell if they're actually\nlistening to the conversation.
 
 00005000
 Arisa
-Useless and inferior men should be oppressed and trampled\nupon as a matter of course.
+Useless and inferior men should be oppressed and trampled upon as a matter of\ncourse.
 C01a00030006
 
 00005000
 Arisa
-Today as well, keep that in mind and oppress the sacrificial\nlambs in our class as usual.
+Today as well、 keep that in mind and oppress the sacrificial lambs in our class\nas usual.
 C01a00030007
 
 00005000
 Arisa
-However, Fukunaga Koharu... I expect you to take some care\nso that the sacrificial lamb doesn't break or run away.
+However、 Fukunaga Koharu... I expect you to take some care so that the\nsacrificial lamb doesn't break or run away.
 C01a00030008
 
 00005000
 Arisa
-Of course, any excessive physical contact is prohibited. Men\nare creatures who easily misunderstand. Keep that in mind.
+Of course、 any excessive physical contact is prohibited. Men are creatures who\neasily misunderstand. Keep that in mind.
 C01a00030009
 
 00002000
@@ -314,24 +314,24 @@ Takumi
 .........!
 
 00000000
-The words that struck my heart like a jolt, the girls around\nme still remained in a daze, nodding faintly.
+The words that struck my heart like a jolt、 the girls around me still remained\nin a daze、 nodding faintly.
 
 00000000
-And then, Yuriko, who remained fully conscious all by\nherself, once again takes her phone in hand and starts\nmaking a call.
+And then、 Yuriko、 who remained fully conscious all by herself、 once again takes\nher phone in hand and starts making a call.
 
 0200BC000100012C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Yes, there are no issues today. It seems to have fully sunk\nin.
+Yes、 there are no issues today. It seems to have fully sunk in.
 C02a00030005
 
 00000000
-Yuriko's voice resounded surprisingly well in the silent\nroom.
+Yuriko's voice resounded surprisingly well in the silent room.
 
 00003000
 Yuriko
-Yes... Yes, I'll be waiting.
+Yes... Yes、 I'll be waiting.
 C02a00030006
 
 03008C0000000F2753455F6330315F30313031
@@ -358,17 +358,17 @@ Yes.
 C02a00030007
 
 00000000
-When Kisshouji-san entered the classroom, she looked around\nsatisfied as if everything was going according to plan.
+When Kisshouji-san entered the classroom、 she looked around satisfied as if\neverything was going according to plan.
 
 00003000
 Arisa
-Looks like there's no problem... And, 3... 2... 1...
+Looks like there's no problem... And、 3... 2... 1...
 C01a00030011
 
 03008C0000000F2753455F6130365F30313031
 
 00000000
-As the countdown began, the sound of the chime echoed\nthrough the broadcast, and the expressions of the students\nreturned to normal all at once.
+As the countdown began、 the sound of the chime echoed through the broadcast、 and\nthe expressions of the students returned to normal all at once.
 
 0300000000000F2742474D3033
 
@@ -376,24 +376,24 @@ As the countdown began, the sound of the chime echoed\nthrough the broadcast, an
 
 00003000
 Arisa
-Good morning, everyone.
+Good morning、 everyone.
 C01a00030012
 
 00002000
 Student F
-Ah, Kisshouji-san, good morning!
+Ah、 Kisshouji-san、 good morning!
 
 00002000
 Student G
-Good morning, you look beautiful and lovely today as well.
+Good morning、 you look beautiful and lovely today as well.
 
 00003000
 Arisa
-Thank you. Since homeroom is starting, I'll see you later.
+Thank you. Since homeroom is starting、 I'll see you later.
 C01a00030013
 
 00000000
-Kisshouji-san, with a nonchalant expression, brightly smiles\nat her classmates and exchanges greetings.
+Kisshouji-san、 with a nonchalant expression、 brightly smiles at her classmates\nand exchanges greetings.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -401,39 +401,39 @@ Kisshouji-san, with a nonchalant expression, brightly smiles\nat her classmates 
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-After that, the teacher entered the classroom at the usual\ntiming without any changes, and homeroom started as usual.
+After that、 the teacher entered the classroom at the usual timing without any\nchanges、 and homeroom started as usual.
 
 00006000
 Takumi
 ...What was that just now...
 
 00000000
-While she behaved as if nothing had happened, I couldn't\nhide my inner turmoil.
+While she behaved as if nothing had happened、 I couldn't hide my inner turmoil.
 
 00000000
-The context of "oppressing the sacrificial lamb of the\nclass"... It's obvious that the subject being referred to is\nme.
+The context of "oppressing the sacrificial lamb of the class"... It's obvious\nthat the subject being referred to is me.
 
 00000000
-From the moment I first visited this school, I have felt a\noverwhelming sense of alienation.
+From the moment I first visited this school、 I have felt a overwhelming sense of\nalienation.
 
 00000000
-Of course, there may have been situations where I felt out\nof place as the only boy among all the girls.
+Of course、 there may have been situations where I felt out of place as the only\nboy among all the girls.
 
 00000000
-However, this is not just that... I wonder if there is\nsomething planned behind all of this.
+However、 this is not just that... I wonder if there is something planned behind\nall of this.
 
 00002000
 Takumi
-It definitely wasn't normal... That... Something was\nhappening...
+It definitely wasn't normal... That... Something was happening...
 
 00000000
-And without a doubt, I am also being dragged into all of\nthis...
+And without a doubt、 I am also being dragged into all of this...
 
 00000000
-The doubts that have never surfaced before, I alone have\nstarted to feel a simmering emotion that I have never\nexperienced before.
+The doubts that have never surfaced before、 I alone have started to feel a\nsimmering emotion that I have never experienced before.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

@@ -8,57 +8,57 @@
 
 00002000
 Takumi
-Alright... I'll do my best today, and...
+Alright... I'll do my best today、 and...
 
 00000000
-I go to school and enter the classroom, but I feel\nresistance in greeting the girls around me who have been\nlooking at me coldly until now. I quietly try to take my\nseat.
+I go to school and enter the classroom、 but I feel resistance in greeting the\ngirls around me who have been looking at me coldly until now. I quietly try to\ntake my seat.
 
 00000000
-Then, upon seeing me, Koharu approached with a slightly\nembarrassed expression and greeted me with a small, animal-\nlike gesture, reminiscent of a small creature.
+Then、 upon seeing me、 Koharu approached with a slightly embarrassed expression\nand greeted me with a small、 animal- like gesture、 reminiscent of a small\ncreature.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Takumi-kun? Um, well... thank you for the other day... um, \nfor taking the time for someone like me...
+Takumi-kun? Um、 well... thank you for the other day... um、  for taking the time\nfor someone like me...
 C04a02210001
 
 00002000
 Takumi
-The one who should be thanking is me. Thank you so much for\nthat time.
+The one who should be thanking is me. Thank you so much for that time.
 
 00000000
-I call out to Koharu and, remembering how I made her do\nsomething so embarrassing, I apologize while getting\nflustered.
+I call out to Koharu and、 remembering how I made her do something so\nembarrassing、 I apologize while getting flustered.
 
 00003000
 Koharu
-Thank goodness... But please don't push yourself. I haven't\ndone anything significant enough to deserve a favor in\nreturn... Well then...
+Thank goodness... But please don't push yourself. I haven't done anything\nsignificant enough to deserve a favor in return... Well then...
 C04a02210002
 
 00000000
-Koharu, as if fearing even talking to me in public like\nthis, immediately cuts off the conversation and returns to\nher seat.
+Koharu、 as if fearing even talking to me in public like this、 immediately cuts\noff the conversation and returns to her seat.
 
 0200E600000000000000E8FE9CFFE8FE4400440044004400E8030000F401666D5F433034615F30335F305F305F305F3031
 
 00006000
 Takumi
-I wonder if there's any way I can make Koharu's feelings\nturn towards me... It's lonely to be treated kindly out of\nobligation...
+I wonder if there's any way I can make Koharu's feelings turn towards me... It's\nlonely to be treated kindly out of obligation...
 
 00000000
-I considered using the power of the music box to "make her\nfall in love with me," but it's hard to say that I fully\nunderstand its effectiveness.
+I considered using the power of the music box to "make her fall in love with\nme、" but it's hard to say that I fully understand its effectiveness.
 
 00000000
-This means that there is no guarantee that the brainwashing\nwill continue forever.
+This means that there is no guarantee that the brainwashing will continue\nforever.
 
 00000000
-Is there any way for you to set up a favorable situation for\nme?
+Is there any way for you to set up a favorable situation for me?
 
 00000000
-When I look at Koharu, she is quiet and has been kind to me\nout of obligation, but she also has her own female friends\nand now she seems to be enjoying a conversation with them.
+When I look at Koharu、 she is quiet and has been kind to me out of obligation、 \nbut she also has her own female friends and now she seems to be enjoying a\nconversation with them.
 
 00006000
 Takumi
-I got it... If I can put her in a situation like how I was\nbefore getting the music box...
+I got it... If I can put her in a situation like how I was before getting the\nmusic box...
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -66,32 +66,32 @@ I got it... If I can put her in a situation like how I was\nbefore getting the m
 
 00002000
 Female Student A
-Haa... The other day, you know, I went shopping for clothes\nwith my boyfriend, and he said he likes outfits that show\nmore shoulder...
+Haa... The other day、 you know、 I went shopping for clothes with my boyfriend、 \nand he said he likes outfits that show more shoulder...
 
 00002000
 Female Student B
-Ahh, that's just insensitive! They don't understand that\noutfits that show the shoulders only look good if you have\nbig breasts!
+Ahh、 that's just insensitive! They don't understand that outfits that show the\nshoulders only look good if you have big breasts!
 
 00002000
 Female Student A
-That's right! All the clothes that he likes are made with\nwell-fitted cups for the chest! Are you trying to date\nbreasts or something?! That's what I thought.
+That's right! All the clothes that he likes are made with well-fitted cups for\nthe chest! Are you trying to date breasts or something?! That's what I thought.
 
 00002000
 Female Student B
-There aren't many guys who openly say they prefer girls with\nbig breasts... but there are people whose fashion\npreferences lean towards that... Lucky Koharu...
+There aren't many guys who openly say they prefer girls with big breasts... but\nthere are people whose fashion preferences lean towards that... Lucky Koharu...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-E-eh...!? N-no, I don't really understand that kind of\nthing... I've never had a boyfriend or anything...
+E-eh...!? N-no、 I don't really understand that kind of thing... I've never had a\nboyfriend or anything...
 C04a02210003
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-You know, having big breasts doesn't necessarily mean you'll\nbe popular...? Men's preferences vary from person to person, \ndon't they?
+You know、 having big breasts doesn't necessarily mean you'll be popular...?\nMen's preferences vary from person to person、  don't they?
 C04a02210004
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
@@ -102,7 +102,7 @@ C04a02210004
 "I'll be the only one to support Koharu."
 
 00000000
-I imagined a vision of doing something for Koharu that she\ndid for me, so I put on my earphones and opened the lid of\nthe music box.
+I imagined a vision of doing something for Koharu that she did for me、 so I put\non my earphones and opened the lid of the music box.
 
 0300000000000F2742474D3036
 
@@ -118,15 +118,15 @@ Having big breasts means that you will be more liked by men.
 
 00002000
 Takumi
-In other words, the favorability towards me will increase.
+In other words、 the favorability towards me will increase.
 
 00002000
 Takumi
-The bigger they are, the higher my favorability towards\nwomen will be, so their value also increases.
+The bigger they are、 the higher my favorability towards women will be、 so their\nvalue also increases.
 
 00002000
 Takumi
-That's why everyone becomes uncontrollably envious of\nbreasts that are bigger than their own, bigger than anyone\nelse's.
+That's why everyone becomes uncontrollably envious of breasts that are bigger\nthan their own、 bigger than anyone else's.
 
 02007F10
 
@@ -137,19 +137,19 @@ That's why everyone becomes uncontrollably envious of\nbreasts that are bigger t
 0200BC000100012C666D5F433034615F30335F305F305F305F30312F2D3238302F302E36382F302E3638
 
 00000000
-I said that and closed the music box, completing the\nimprinting on all the girls in the class.
+I said that and closed the music box、 completing the imprinting on all the girls\nin the class.
 
 00002000
 Female Student A
-Koharu-san, you're so lucky, aren't you? You have such\nsplendid big breasts like a cow.
+Koharu-san、 you're so lucky、 aren't you? You have such splendid big breasts like\na cow.
 
 00002000
 Female Student B
-If you have breasts like that, stupid guys will come\nflocking to you, right? Well, I'm not into that kind of\nthing though.
+If you have breasts like that、 stupid guys will come flocking to you、 right?\nWell、 I'm not into that kind of thing though.
 
 00002000
 Female Student C
-Yeah, yeah, even if they're too big, it's kind of subtle.\nThey make you look fat, so it's not fashionable.
+Yeah、 yeah、 even if they're too big、 it's kind of subtle. They make you look\nfat、 so it's not fashionable.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
@@ -159,10 +159,10 @@ Eh... W-wait... everyone...
 C04a02210005
 
 00000000
-Koharu is bombarded with bitter words mixed with sour grapes\nfrom classmates she had been close with until now.
+Koharu is bombarded with bitter words mixed with sour grapes from classmates she\nhad been close with until now.
 
 00000000
-Koharu, who was taken aback by the sudden turn of events, \nclearly showed a depressed expression.
+Koharu、 who was taken aback by the sudden turn of events、  clearly showed a\ndepressed expression.
 
 0100200002026566666563742C65666665637420626C61636B6F75745F6C6F6E67
 
@@ -178,16 +178,16 @@ Why... why did things turn out like this... sigh...
 C04a02210006
 
 00000000
-Koharu sat on the edge of a flower bed behind the school\nbuilding at dusk, sighing sadly with a depressed expression.
+Koharu sat on the edge of a flower bed behind the school building at dusk、 \nsighing sadly with a depressed expression.
 
 00000000
-Since then, for several days, Koharu has been relentlessly\npersecuted by her classmates because of her breasts, and she\ncould do nothing but spend time alone with nowhere to turn.
+Since then、 for several days、 Koharu has been relentlessly persecuted by her\nclassmates because of her breasts、 and she could do nothing but spend time alone\nwith nowhere to turn.
 
 00000000
-Koharu is not the type to confront her problems aggressively\nlike Arisa or Rio, so she has no choice but to keep her\nworries to herself.
+Koharu is not the type to confront her problems aggressively like Arisa or Rio、 \nso she has no choice but to keep her worries to herself.
 
 00000000
-I thought I might have gone too far, but considering that\nKoharu is also at fault, I decided to approach her and talk\nit out.
+I thought I might have gone too far、 but considering that Koharu is also at\nfault、 I decided to approach her and talk it out.
 
 00002000
 Takumi
@@ -197,45 +197,45 @@ You're still not home? You seem a bit down...
 
 00003000
 Koharu
-Ah... W-well, right now... it's better if you don't pay\nattention to me... I might get caught up in the crossfire\nfrom everyone...
+Ah... W-well、 right now... it's better if you don't pay attention to me... I\nmight get caught up in the crossfire from everyone...
 C04a02210007
 
 00002000
 Takumi
-You don't have to worry about that. I want to be on Koharu's\nside. There were times when I was helped too, you know...
+You don't have to worry about that. I want to be on Koharu's side. There were\ntimes when I was helped too、 you know...
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-B-But... with breasts this big... I'm afraid everyone might\nthink it's a bit gross and say so...
+B-But... with breasts this big... I'm afraid everyone might think it's a bit\ngross and say so...
 C04a02210008
 
 00002000
 Takumi
-Koharu, your breasts are really wonderful. If they weren't, \nI wouldn't go out of my way to invite you and give you my\nsemen.
+Koharu、 your breasts are really wonderful. If they weren't、  I wouldn't go out\nof my way to invite you and give you my semen.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30372F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Yeah... maybe... But what everyone is saying isn't wrong\neither...
+Yeah... maybe... But what everyone is saying isn't wrong either...
 C04a02210009
 
 00002000
 Takumi
-If that's the case, then I'll show you the evidence right\nnow. I'll let you see how much I can ejaculate with Koharu's\nbreasts... I'll make sure to confirm it for you.
+If that's the case、 then I'll show you the evidence right now. I'll let you see\nhow much I can ejaculate with Koharu's breasts... I'll make sure to confirm it\nfor you.
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30352F2D3238302F302E36382F302E3638
 
 00003000
 Koharu
-Y-Yeah... I'm happy... Takumi-kun saying that to me... It\nmade me feel a little better.
+Y-Yeah... I'm happy... Takumi-kun saying that to me... It made me feel a little\nbetter.
 C04a02210010
 
 00002000
 Takumi
-Then, why don't you take off your clothes for a bit?
+Then、 why don't you take off your clothes for a bit?
 
 0200BC000100012C666D5F433034615F30335F305F305F305F30342F2D3238302F302E36382F302E3638
 

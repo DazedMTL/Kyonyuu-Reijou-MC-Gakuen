@@ -11,19 +11,19 @@ The scenery of the school seems unchanged at first glance.
 
 00002000
 Takumi
-I'm feeling a bit tired, I guess.
+I'm feeling a bit tired、 I guess.
 
 00000000
-In the past, with just these words, my classmates would have\ngladly offered their bodies for service. But now, I can't\nexpect such a thing anymore.
+In the past、 with just these words、 my classmates would have gladly offered\ntheir bodies for service. But now、 I can't expect such a thing anymore.
 
 00000000
-It's because I returned the position of chairman to Arisa\nand made it seem like there was almost no mind control.
+It's because I returned the position of chairman to Arisa and made it seem like\nthere was almost no mind control.
 
 00000000
-If I wanted to, I could live my life indulging in my sexual\ndesires anytime with the music box I have at hand.
+If I wanted to、 I could live my life indulging in my sexual desires anytime with\nthe music box I have at hand.
 
 00000000
-But I chose to direct those feelings and desires towards one\ngirl.
+But I chose to direct those feelings and desires towards one girl.
 
 03008C0000000F2753455F6130365F30313031
 
@@ -31,36 +31,36 @@ But I chose to direct those feelings and desires towards one\ngirl.
 
 00003000
 Rio
-Oh, it's the bell, so I'm safe! No problem with attendance!
+Oh、 it's the bell、 so I'm safe! No problem with attendance!
 C03a09050001
 
 00000000
-Before the pre-bell rings finish, Rio rushes into the\nschool... and her appearance is remarkably similar to the\ncasual clothes she often wore during our photo shoots.
+Before the pre-bell rings finish、 Rio rushes into the school... and her\nappearance is remarkably similar to the casual clothes she often wore during our\nphoto shoots.
 
 0200BC000100032C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C666D5F433033615F30325F305F305F305F30322F2D3236332F302E37362F302E37362C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Arisa
-If you're not in your seat by the pre-bell, you'll be\nconsidered late.
+If you're not in your seat by the pre-bell、 you'll be considered late.
 C01a09050001
 
 00003000
 Yuriko
-Not wearing the school uniform... You're accumulating more\noffenses.
+Not wearing the school uniform... You're accumulating more offenses.
 C02a09050001
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E37362C2D
 
 00003000
 Rio
-Well, well, since I'm busy with work, can you turn a blind\neye to it?
+Well、 well、 since I'm busy with work、 can you turn a blind eye to it?
 C03a09050002
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30322F2D3236332F302E37362F302E37362C2D
 
 00003000
 Rio
-Don't worry, I'll make sure my attendance days are enough.
+Don't worry、 I'll make sure my attendance days are enough.
 C03a09050003
 
 0200BC000100032C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D2C2D
@@ -74,17 +74,17 @@ C01a09050002
 
 00003000
 Rio
-Oh, right... There was something important... Hey, wait a\nminute, Ikenoue...
+Oh、 right... There was something important... Hey、 wait a minute、 Ikenoue...
 C03a09050004
 
 00003000
 Rio
-Today, we had a promise to spend the day recording instead\nof attending classes leisurely, right?
+Today、 we had a promise to spend the day recording instead of attending classes\nleisurely、 right?
 C03a09050005
 
 00002000
 Takumi
-Hm? Hmm... Ah, that's right, that's right! I remember now!\nSorry, sorry, I almost forgot.
+Hm? Hmm... Ah、 that's right、 that's right! I remember now! Sorry、 sorry、 I\nalmost forgot.
 
 0200BC000100022C666D5F433033615F30325F305F305F305F30332F2D39352F312F312C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
@@ -98,10 +98,10 @@ C01a09050003
 03008C0000000F2753455F6130315F30303035
 
 00000000
-Rio, without paying attention to Arisa's words, takes my\nhand and leaves the classroom.
+Rio、 without paying attention to Arisa's words、 takes my hand and leaves the\nclassroom.
 
 00000000
-Her gallant figure was met with cheers from the surrounding\nstudents, and even I, who was with her, couldn't help but\nfeel happy.
+Her gallant figure was met with cheers from the surrounding students、 and even\nI、 who was with her、 couldn't help but feel happy.
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
 
@@ -111,38 +111,38 @@ Her gallant figure was met with cheers from the surrounding\nstudents, and even 
 
 00002000
 Takumi
-Are you okay running around? The training for the drama role\nmust be tough and tiring, right?
+Are you okay running around? The training for the drama role must be tough and\ntiring、 right?
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Yeah... Because the audition went too well, I ended up\ngetting a role with more lines than planned.
+Yeah... Because the audition went too well、 I ended up getting a role with more\nlines than planned.
 C03a09050006
 
 00000000
-Actually, it seems that the director who liked Rio during\nthe audition was a fan of hers since she was active as a\nmodel.
+Actually、 it seems that the director who liked Rio during the audition was a fan\nof hers since she was active as a model.
 
 00000000
-I was praised for having acting skills that were far\nsuperior to anyone else's.
+I was praised for having acting skills that were far superior to anyone else's.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30372F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-But you know, I can't help but feel sorry for getting such a\ngood role...
+But you know、 I can't help but feel sorry for getting such a good role...
 C03a09050007
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30342F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-I thought I knew, but I didn't really understand the\nindustry, so I ended up being a huge burden...
+I thought I knew、 but I didn't really understand the industry、 so I ended up\nbeing a huge burden...
 C03a09050008
 
 00002000
 Takumi
-Ah, I heard that you spoke to the director about giving your\nrole to someone who was present during the audition.
+Ah、 I heard that you spoke to the director about giving your role to someone who\nwas present during the audition.
 
 00002000
 Takumi
@@ -152,25 +152,25 @@ That's why they seemed even more impressed.
 
 00003000
 Rio
-I wonder if it's too much for me... It went surprisingly\nwell, and I can't feel satisfied at all.
+I wonder if it's too much for me... It went surprisingly well、 and I can't feel\nsatisfied at all.
 C03a09050009
 
 00002000
 Takumi
-Well, well... Since a new actress has been born with great\neffort, let's continue to do our best from now on.
+Well、 well... Since a new actress has been born with great effort、 let's\ncontinue to do our best from now on.
 
 0200BC000100012C666D5F433033615F30325F305F305F305F30312F2D3236332F302E37362F302E3736
 
 00003000
 Rio
-Y-Yeah... Since you're here, I'll work even harder.
+Y-Yeah... Since you're here、 I'll work even harder.
 C03a09050010
 
 00000000
 Rio murmurs with a sense of apology.
 
 00000000
-That expression, for me, tickles my heart more than just\nbeing held hands with a smile.
+That expression、 for me、 tickles my heart more than just being held hands with a\nsmile.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

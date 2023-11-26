@@ -8,94 +8,94 @@
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-After school, I discreetly made my way towards the\nprincipal's office located at the back of the school\nbuilding.
+After school、 I discreetly made my way towards the principal's office located at\nthe back of the school building.
 
 00000000
-I can faintly hear music playing from a portable player near\nmy ear.
+I can faintly hear music playing from a portable player near my ear.
 
 00000000
-I don't know how effective it will be, but it's a\nprecautionary measure and something to uplift my spirits.
+I don't know how effective it will be、 but it's a precautionary measure and\nsomething to uplift my spirits.
 
 00002000
 Takumi
 Is it okay to be here...?
 
 00000000
-The principal's office, located away from the classrooms, is\nnot a place I often come to unless I have business.
+The principal's office、 located away from the classrooms、 is not a place I often\ncome to unless I have business.
 
 00000000
-The staff room is not far away, but there is hardly any\ncoming and going of teachers, giving it a quiet atmosphere.
+The staff room is not far away、 but there is hardly any coming and going of\nteachers、 giving it a quiet atmosphere.
 
 00002000
 Takumi
-What should I do? I ended up coming here without any real\nplan...
+What should I do? I ended up coming here without any real plan...
 
 00000000
-When I tried to request a meeting before, the principal was\nabsent and I was turned away at the gate. And even if I go\nto the principal's office, what can I really do...?
+When I tried to request a meeting before、 the principal was absent and I was\nturned away at the gate. And even if I go to the principal's office、 what can I\nreally do...?
 
 00002000
 Takumi
-No... Anyway, if I just stay still, nothing will happen... I\nneed to find some kind of clue, even just a small one...
+No... Anyway、 if I just stay still、 nothing will happen... I need to find some\nkind of clue、 even just a small one...
 
 00000000
-While reminding myself, I cautiously observe the\nsurroundings in front of the principal's office.
+While reminding myself、 I cautiously observe the surroundings in front of the\nprincipal's office.
 
 00002000
 Takumi
 Huh...?
 
 00000000
-When I casually touched the door, it seems that the key was\nnot locked.
+When I casually touched the door、 it seems that the key was not locked.
 
 00000000
-I timidly open the door and gently peek inside, but there is\nno sign of anyone.
+I timidly open the door and gently peek inside、 but there is no sign of anyone.
 
 00002000
 Takumi
 ...Is this... a chance?
 
 00000000
-I quietly lowered the volume of my earphones and cautiously\nentered the principal's office, looking around.
+I quietly lowered the volume of my earphones and cautiously entered the\nprincipal's office、 looking around.
 
 03008C0000000F2753455F6130315F30303031
 
 0200000003004247303530305F63
 
 00000000
-Fortunately, the room was empty, but even after quickly\nlooking around, I couldn't find anything particularly\nnoteworthy.
+Fortunately、 the room was empty、 but even after quickly looking around、 I\ncouldn't find anything particularly noteworthy.
 
 00000000
-I try looking at the documents on the desk, hoping to find\nsomething, but they all seem to be unrelated reports.
+I try looking at the documents on the desk、 hoping to find something、 but they\nall seem to be unrelated reports.
 
 00000000
-The reception sofa looked soft and comfortable, but knowing\nthat doesn't really mean anything.
+The reception sofa looked soft and comfortable、 but knowing that doesn't really\nmean anything.
 
 00002000
 Takumi
 The drawers... are they similar...
 
 00000000
-I entered with a vague suspicion, but as expected, I\ncouldn't find any convincing evidence. I let out a small\nsigh.
+I entered with a vague suspicion、 but as expected、 I couldn't find any\nconvincing evidence. I let out a small sigh.
 
 00002000
 Takumi
-I guess there's no other choice... I need to think of\nsomething else a little longer... huh!?
+I guess there's no other choice... I need to think of something else a little\nlonger... huh!?
 
 00000000
-And then, I felt the presence of someone's voice approaching\nfrom outside.
+And then、 I felt the presence of someone's voice approaching from outside.
 
 00002000
 Takumi
 Oh no... I'll be found...
 
 00000000
-I hurriedly looked around and, in desperation, hid myself in\nthe corner of the room behind the curtain.
+I hurriedly looked around and、 in desperation、 hid myself in the corner of the\nroom behind the curtain.
 
 00000000
-Immediately after, the door creaked open and the volume of\nthe voice suddenly increased.
+Immediately after、 the door creaked open and the volume of the voice suddenly\nincreased.
 
 03008C0000000F2753455F6130315F30303032
 
@@ -103,28 +103,28 @@ Immediately after, the door creaked open and the volume of\nthe voice suddenly i
 
 00003000
 Arisa
-Honestly... I wish you wouldn't bother me with such trivial\nmatters.
+Honestly... I wish you wouldn't bother me with such trivial matters.
 C01a00050001
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-I apologize. It was because I insisted on having a direct\nmeeting with the chairman...
+I apologize. It was because I insisted on having a direct meeting with the\nchairman...
 C02a00050001
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-I understand. I'm not blaming Yuriko, so don't worry about\nit.
+I understand. I'm not blaming Yuriko、 so don't worry about it.
 C01a00050002
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Yes. I will take care of the response later, so...
+Yes. I will take care of the response later、 so...
 C02a00050002
 
 00006000
@@ -132,76 +132,76 @@ Takumi
 Kisshouji-san... Kuga-san...?
 
 00000000
-It was none other than the two classmates who entered the\nroom for some reason.
+It was none other than the two classmates who entered the room for some reason.
 
 00000000
-Why are they... despite their confusion, Kisshouji-san\nconfidently sits down on the splendid chair at the back of\nthe room.
+Why are they... despite their confusion、 Kisshouji-san confidently sits down on\nthe splendid chair at the back of the room.
 
 00000000
-And then, Yuriko, with an air of familiarity, takes out a\nfile from the shelf and starts flipping through the pages.
+And then、 Yuriko、 with an air of familiarity、 takes out a file from the shelf\nand starts flipping through the pages.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Honestly... I thought it wouldn't be a big deal to juggle\nmultiple tasks, but I'm getting tired of these trivial\nmatters.
+Honestly... I thought it wouldn't be a big deal to juggle multiple tasks、 but\nI'm getting tired of these trivial matters.
 C01a00050003
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-I will soon find and arrange capable personnel. I will do my\nbest to not trouble you too much.
+I will soon find and arrange capable personnel. I will do my best to not trouble\nyou too much.
 C02a00050003
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-It would be appreciated if you could do that. Although, I\ndon't think there are many people who can be entrusted as\nmuch as Yuriko.
+It would be appreciated if you could do that. Although、 I don't think there are\nmany people who can be entrusted as much as Yuriko.
 C01a00050004
 
 00003000
 Yuriko
-I apologize for the inconvenience. However, I have a few\npeople in mind, so if you could make the final decision\ndirectly...
+I apologize for the inconvenience. However、 I have a few people in mind、 so if\nyou could make the final decision directly...
 C02a00050004
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-I trust Yuriko's judgment. If you say you'll be fine, then\nthere's no need to worry. Please proceed as planned.
+I trust Yuriko's judgment. If you say you'll be fine、 then there's no need to\nworry. Please proceed as planned.
 C01a00050005
 
 00003000
 Yuriko
-Understood, Chairperson.
+Understood、 Chairperson.
 C02a00050005
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Yuriko, please stop calling me Chairperson when we're alone\ntogether.
+Yuriko、 please stop calling me Chairperson when we're alone together.
 C01a00050006
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-I apologize. However, since this is a public place for\nnow...
+I apologize. However、 since this is a public place for now...
 C02a00050006
 
 00003000
 Arisa
-Even so. It's already a suffocating job... I don't want you\nto suffocate me as well.
+Even so. It's already a suffocating job... I don't want you to suffocate me as\nwell.
 C01a00050007
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-...Yes, I will keep that in mind.
+...Yes、 I will keep that in mind.
 C02a00050007
 
 00006000
@@ -211,13 +211,13 @@ Chairperson...you mean...?
 0300000000000F2742474D3130
 
 00000000
-I was informed of something completely unexpected, and my\nheart starts pounding.
+I was informed of something completely unexpected、 and my heart starts pounding.
 
 00000000
-Could it be that the chairman I have never met before is\nnone other than Kisshouji-san from Kichijoji...?
+Could it be that the chairman I have never met before is none other than\nKisshouji-san from Kichijoji...?
 
 00000000
-I hold my breath and continue to observe the two, wondering\nwhat on earth is going on.
+I hold my breath and continue to observe the two、 wondering what on earth is\ngoing on.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E37352C2D
 
@@ -233,67 +233,67 @@ C02a00050008
 
 00003000
 Yuriko
-Ikenoue Takumi is being subjected to various forms of\npersecution, both directly and indirectly, within the class, \nwith Kamiizumi Rio at the center.
+Ikenoue Takumi is being subjected to various forms of persecution、 both directly\nand indirectly、 within the class、  with Kamiizumi Rio at the center.
 C02a00050009
 
 00003000
 Yuriko
-They don't have a sense of bullying, and they carry it out\nwithout guilt, as their rightful privilege.
+They don't have a sense of bullying、 and they carry it out without guilt、 as\ntheir rightful privilege.
 C02a00050010
 
 00003000
 Yuriko
-Furthermore, there is no one in the class who tries to\nprotect Ikenoue Takumi regarding this matter.
+Furthermore、 there is no one in the class who tries to protect Ikenoue Takumi\nregarding this matter.
 C02a00050011
 
 00003000
 Yuriko
-Takumi Ikenoue himself has an introverted personality, but\nhe is not the type to be particularly concerned about it...
+Takumi Ikenoue himself has an introverted personality、 but he is not the type to\nbe particularly concerned about it...
 C02a00050012
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-It seems that such an atmosphere has been created... It\nmeans that the mind control has firmly permeated.
+It seems that such an atmosphere has been created... It means that the mind\ncontrol has firmly permeated.
 C01a00050009
 
 00003000
 Yuriko
-Yes. He himself seems to feel stressed by the treatment, but\nhe has not reached the point of contemplating suicide or\ndropping out of school.
+Yes. He himself seems to feel stressed by the treatment、 but he has not reached\nthe point of contemplating suicide or dropping out of school.
 C02a00050013
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-So it was Fukunaga Koharu... I wonder if she's fulfilling\nher role as the breakwater.
+So it was Fukunaga Koharu... I wonder if she's fulfilling her role as the\nbreakwater.
 C01a00050010
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30372F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-That's true. However, excessive contact is prohibited, so\nit's difficult to determine how much her influence is\naffecting the situation.
+That's true. However、 excessive contact is prohibited、 so it's difficult to\ndetermine how much her influence is affecting the situation.
 C02a00050014
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-It's fine. Even if it's just for peace of mind, since he's\njust a pawn, there's no need to make big changes in our\nactions.
+It's fine. Even if it's just for peace of mind、 since he's just a pawn、 there's\nno need to make big changes in our actions.
 C01a00050011
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Yes. In any case, the first stage of infiltration is\nsufficient, and it won't be long before we can transition to\nthe second stage.
+Yes. In any case、 the first stage of infiltration is sufficient、 and it won't be\nlong before we can transition to the second stage.
 C02a00050015
 
 00003000
 Yuriko
-If that happens, it seems we will be able to gather a decent\nnumber of excellent pawns for us.
+If that happens、 it seems we will be able to gather a decent number of excellent\npawns for us.
 C02a00050016
 
 00003000
@@ -311,10 +311,10 @@ Takumi
 W-What is this...
 
 00000000
-Just the fact that Kisshouji-san is the chairman is already\nsurprising, but my head starts spinning from the subsequent\nconversation.
+Just the fact that Kisshouji-san is the chairman is already surprising、 but my\nhead starts spinning from the subsequent conversation.
 
 00000000
-And then, Kisshouji-san calmly took out something from her\nbag that looked like a small box.
+And then、 Kisshouji-san calmly took out something from her bag that looked like\na small box.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
@@ -327,38 +327,38 @@ C01a00050013
 
 00003000
 Yuriko
-Yes... This music box contains the power of our mother. With\nthis, we can definitely fulfill Arisa's greatest wish.
+Yes... This music box contains the power of our mother. With this、 we can\ndefinitely fulfill Arisa's greatest wish.
 C02a00050018
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Hehe... When I first heard about it, I was skeptical... No, \nI didn't really believe it at all...
+Hehe... When I first heard about it、 I was skeptical... No、  I didn't really\nbelieve it at all...
 C01a00050014
 
 00003000
 Yuriko
-It is something that has been passed down through\ngenerations in the Elbert family, created by gathering the\nessence of magic. If we actually use it, its effects will\nbecome clear right away.
+It is something that has been passed down through generations in the Elbert\nfamily、 created by gathering the essence of magic. If we actually use it、 its\neffects will become clear right away.
 C02a00050019
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Yes... To think that such a large-scale hypnosis could be\ncast... She left behind something incredible.
+Yes... To think that such a large-scale hypnosis could be cast... She left\nbehind something incredible.
 C01a00050015
 
 00003000
 Yuriko
-Ah, and I have something to report. The replica arrived\nearlier... Here it is.
+Ah、 and I have something to report. The replica arrived earlier... Here it is.
 C02a00050020
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Oh... this is it. Wow... it's exactly the same design. Let's\nsee...
+Oh... this is it. Wow... it's exactly the same design. Let's see...
 C01a00050016
 
 02006F100900
@@ -371,14 +371,14 @@ C01a00050016
 
 00003000
 Yuriko
-The melody it plays is also the same. Of course, this music\nbox doesn't possess any power.
+The melody it plays is also the same. Of course、 this music box doesn't possess\nany power.
 C02a00050021
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Well, just in case... That's the idea. No matter when, \nwhere, or who notices it, we won't be able to use this as\nevidence...
+Well、 just in case... That's the idea. No matter when、  where、 or who notices\nit、 we won't be able to use this as evidence...
 C01a00050017
 
 02007F10
@@ -389,12 +389,12 @@ C01a00050017
 
 00003000
 Yuriko
-Yes. For now, can you tell the difference by looking at the\nline of this craftsmanship... Do you understand?
+Yes. For now、 can you tell the difference by looking at the line of this\ncraftsmanship... Do you understand?
 C02a00050022
 
 00003000
 Arisa
-I see... I understand. It's fine. We're steadily making\npreparations... There shouldn't be any problems up to this\npoint...
+I see... I understand. It's fine. We're steadily making preparations... There\nshouldn't be any problems up to this point...
 C01a00050018
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30342F2D3236302F302E37352F302E3735
@@ -408,47 +408,47 @@ C02a00050023
 
 00003000
 Arisa
-Yes, it seems like I wholeheartedly believe and enjoy this\nschool life.
+Yes、 it seems like I wholeheartedly believe and enjoy this school life.
 C01a00050019
 
 00000000
-Arisa showed a stern expression while shrugging her\nshoulders slightly.
+Arisa showed a stern expression while shrugging her shoulders slightly.
 
 00003000
 Arisa
-Those incompetent fools who not only refuse to acknowledge\nme just because I am a woman, but also desperately cling to\ntheir own self-interest, unable to grasp the times and\nwastefully squandering our ancestors' assets...
+Those incompetent fools who not only refuse to acknowledge me just because I am\na woman、 but also desperately cling to their own self-interest、 unable to grasp\nthe times and wastefully squandering our ancestors' assets...
 C01a00050020
 
 00003000
 Arisa
-They're probably delighted that they were able to\nconveniently get rid of me by throwing me into this\nschool... but that's only for now.
+They're probably delighted that they were able to conveniently get rid of me by\nthrowing me into this school... but that's only for now.
 C01a00050021
 
 00003000
 Arisa
-Women who possess the unique power to create life should\nstand at the pinnacle of this world...
+Women who possess the unique power to create life should stand at the pinnacle\nof this world...
 C01a00050022
 
 00003000
 Arisa
-It is my mission to utilize the results of this experiment\nin the school and create a superior world where women are in\na dominant position.
+It is my mission to utilize the results of this experiment in the school and\ncreate a superior world where women are in a dominant position.
 C01a00050023
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30312F2D3236302F302E37352F302E3735
 
 00003000
 Yuriko
-Yes, Arisa's noble purpose must be fulfilled without fail.
+Yes、 Arisa's noble purpose must be fulfilled without fail.
 C02a00050024
 
 00000000
-Yuriko-san agreed without any doubt to Arisa's ambitious\nwords.
+Yuriko-san agreed without any doubt to Arisa's ambitious words.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Well... for now, it's still days of experimentation. That\nman needs to work a little harder too.
+Well... for now、 it's still days of experimentation. That man needs to work a\nlittle harder too.
 C01a00050024
 
 0200BC000100022C2D2C666D5F433032615F30335F305F305F305F30382F2D3236302F302E37352F302E3735
@@ -460,14 +460,14 @@ C02a00050025
 
 00003000
 Arisa
-I chose someone from a subsidiary of the Kisshouji Group who\nseemed disposable without any issues...
+I chose someone from a subsidiary of the Kisshouji Group who seemed disposable\nwithout any issues...
 C01a00050025
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-After all, men are just men. They're mediocre and\ninsignificant... That's why they might be suitable as\n"slaves".
+After all、 men are just men. They're mediocre and insignificant... That's why\nthey might be suitable as "slaves".
 C01a00050026
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
@@ -481,53 +481,53 @@ C01a00050027
 The arrogant and one-sided words were devoid of any emotion.
 
 00000000
-"Slave... She certainly said that. Through some kind of\ngroup hypnosis, what exactly is she aiming for..."
+"Slave... She certainly said that. Through some kind of group hypnosis、 what\nexactly is she aiming for..."
 
 00000000
-One thing I can say is that the persecution towards me was\nindeed orchestrated by them, and it seems they intend to\ncontinue it in the future.
+One thing I can say is that the persecution towards me was indeed orchestrated\nby them、 and it seems they intend to continue it in the future.
 
 00003000
 Arisa
-Yuriko, how is the work going?
+Yuriko、 how is the work going?
 C01a00050028
 
 00003000
 Yuriko
-Yes, I have finished making the list. I will submit it to\nthe principal.
+Yes、 I have finished making the list. I will submit it to the principal.
 C02a00050026
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30322F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Nice to meet you. Well then, shall we go?
+Nice to meet you. Well then、 shall we go?
 C01a00050029
 
 00000000
-As she stood up from her seat, Kisshouji-san placed the\nmusic box she had in her hand into the safe on the desk.
+As she stood up from her seat、 Kisshouji-san placed the music box she had in her\nhand into the safe on the desk.
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-December 8th... It's the anniversary of my mother's death...\nBy then, I will definitely settle any regrets...
+December 8th... It's the anniversary of my mother's death... By then、 I will\ndefinitely settle any regrets...
 C01a00050030
 
 00003000
 Yuriko
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C02a00050027
 
 0200BC000100022C666D5F433031615F30335F305F305F305F30312F2D3235352F302E37352F302E37352C2D
 
 00003000
 Arisa
-Well then, Yuriko, you go to the principal's office. I'll go\nback first.
+Well then、 Yuriko、 you go to the principal's office. I'll go back first.
 C01a00050031
 
 00003000
 Yuriko
-Yes, I'll be back later.
+Yes、 I'll be back later.
 C02a00050028
 
 0100200002026566666563742C65666665637420736974656E5F6B6972696B6165
@@ -535,32 +535,32 @@ C02a00050028
 0200000001004247303530305F63
 
 00000000
-They both left the room together, leaving me behind alone.
+They both left the room together、 leaving me behind alone.
 
 0300000000000F2742474D3130
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-What is this feeling... My stomach feels queasy and my body\nis trembling unconsciously.
+What is this feeling... My stomach feels queasy and my body is trembling\nunconsciously.
 
 00000000
-That's right... it's anger. This feeling that I had long\nforgotten, it was a reaction to all the unjust feelings that\nI had unconsciously accepted as inevitable.
+That's right... it's anger. This feeling that I had long forgotten、 it was a\nreaction to all the unjust feelings that I had unconsciously accepted as\ninevitable.
 
 00000000
-Unforgivable... This is absolutely unforgivable... Amidst\nthe urge to go wild, strangely, my body calmly moved towards\nthe desk.
+Unforgivable... This is absolutely unforgivable... Amidst the urge to go wild、 \nstrangely、 my body calmly moved towards the desk.
 
 00002000
 Takumi
-If I remember correctly, it should be here...
+If I remember correctly、 it should be here...
 
 00000000
-I approached the safe that was installed on the desk and\npondered in front of the four-digit passcode.
+I approached the safe that was installed on the desk and pondered in front of\nthe four-digit passcode.
 
 00000000
-In the next moment, a flash of inspiration ran through my\nmind as if guided.
+In the next moment、 a flash of inspiration ran through my mind as if guided.
 
 0100200002026566666563742C656666656374206B6169736F75
 
@@ -570,7 +570,7 @@ In the next moment, a flash of inspiration ran through my\nmind as if guided.
 
 00003000
 Arisa
-December 8th... Mother's death anniversary... By then, I\nwill definitely settle this regret...
+December 8th... Mother's death anniversary... By then、 I will definitely settle\nthis regret...
 C01a00050030
 
 0100200002026566666563742C656666656374206B6169736F75
@@ -580,28 +580,28 @@ C01a00050030
 0200000001004247303530305F63
 
 00000000
-Without hesitation, I aligned the numbers to 1208 and the\ndoor opened with a dry sound, surprisingly easily.
+Without hesitation、 I aligned the numbers to 1208 and the door opened with a dry\nsound、 surprisingly easily.
 
 02006F100900
 
 0200E6000000090000000000000000006400640064006400E803E803F40166696C746572303031
 
 00000000
-And then, in my hands... no, the music box that is said to\nhave dominated not only me, but the entire school.
+And then、 in my hands... no、 the music box that is said to have dominated not\nonly me、 but the entire school.
 
 00002000
 Takumi
 This is...
 
 00000000
-It looks ordinary... However, it's as if I've been waiting\nfor it to come into my hands for a long time... I'm\nenveloped in such a strange sensation.
+It looks ordinary... However、 it's as if I've been waiting for it to come into\nmy hands for a long time... I'm enveloped in such a strange sensation.
 
 00002000
 Takumi
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 
 00000000
-When I was mesmerized by the music box, I couldn't help but\nbe speechless and gaze at it.
+When I was mesmerized by the music box、 I couldn't help but be speechless and\ngaze at it.
 
 02007F10
 
@@ -617,24 +617,24 @@ Takumi
 ......!
 
 00000000
-Startled, I flinched and turned around as a voice called out\nfrom behind me.
+Startled、 I flinched and turned around as a voice called out from behind me.
 
 00003000
 Arisa
-Oh, you surprised me... What do you think you're doing, \nsneaking into the principal's office without permission as a\nregular student?
+Oh、 you surprised me... What do you think you're doing、  sneaking into the\nprincipal's office without permission as a regular student?
 C01a00050033
 
 00000000
-The gaze that pierces through me is as cold as ever - no, \neven colder than usual.
+The gaze that pierces through me is as cold as ever - no、  even colder than\nusual.
 
 00000000
-As soon as I noticed the music box in my hands, those eyes\nglared at me even more intensely.
+As soon as I noticed the music box in my hands、 those eyes glared at me even\nmore intensely.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-And on top of that, with the added bonus of theft... What on\nearth are you thinking?
+And on top of that、 with the added bonus of theft... What on earth are you\nthinking?
 C01a00050034
 
 00002000
@@ -643,33 +643,33 @@ Th-That...that's my line!
 
 00003000
 Arisa
-...What? Are you trying to talk back to me, you piece of\ntrash?
+...What? Are you trying to talk back to me、 you piece of trash?
 C01a00050035
 
 00000000
-With an expression that clearly shows no intention of\nentertaining my rebuttal, Kisshouji-san remains unyielding.
+With an expression that clearly shows no intention of entertaining my rebuttal、 \nKisshouji-san remains unyielding.
 
 00000000
-The intensity of her presence makes a cold sweat slowly\nform, but I can't afford to lose here.
+The intensity of her presence makes a cold sweat slowly form、 but I can't afford\nto lose here.
 
 00002000
 Takumi
-I-I heard everything... Your scheme... What you're trying to\ndo at this school...
+I-I heard everything... Your scheme... What you're trying to do at this\nschool...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a00050036
 
 00002000
 Takumi
-Brainwashing everyone in the class... Making me be\nrecognized as a slave and using me as an outlet for\nstress...!
+Brainwashing everyone in the class... Making me be recognized as a slave and\nusing me as an outlet for stress...!
 
 00002000
 Takumi
-How dare you... do such inhumane things... without my\nconsent...!
+How dare you... do such inhumane things... without my consent...!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
@@ -684,12 +684,12 @@ Ngh...
 
 00003000
 Arisa
-If a piece of trash like you wants to be of any use in this\nworld, being a slave is probably the only thing you're good\nfor.
+If a piece of trash like you wants to be of any use in this world、 being a slave\nis probably the only thing you're good for.
 C01a00050038
 
 00003000
 Arisa
-I gave you that role, you know. It's much better than just\nwasting your time doing nothing, isn't it?
+I gave you that role、 you know. It's much better than just wasting your time\ndoing nothing、 isn't it?
 C01a00050039
 
 00002000
@@ -700,81 +700,81 @@ Takumi
 
 00003000
 Arisa
-What's that? You're trying to condemn me, a slave? Don't\nmake me laugh.
+What's that? You're trying to condemn me、 a slave? Don't make me laugh.
 C01a00050040
 
 00000000
-I was completely overwhelmed by her unapologetic and\nconfident attitude.
+I was completely overwhelmed by her unapologetic and confident attitude.
 
 00000000
-I thought she would try to come up with some excuse when\nconfronted, but instead she completely turned the tables and\ntried to defeat me with a defiant attitude.
+I thought she would try to come up with some excuse when confronted、 but instead\nshe completely turned the tables and tried to defeat me with a defiant attitude.
 
 00000000
-What she's saying is absurd. Even though I can understand it\nlogically, somewhere deep in my heart, it feels like she\nmight be right.
+What she's saying is absurd. Even though I can understand it logically、 \nsomewhere deep in my heart、 it feels like she might be right.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Hmph... It seems like Yuriko messed up, huh... Well, I had\ncalculated the possibility of someone noticing, but I never\nexpected it to be you...
+Hmph... It seems like Yuriko messed up、 huh... Well、 I had calculated the\npossibility of someone noticing、 but I never expected it to be you...
 C01a00050041
 
 00003000
 Arisa
-I understand. In light of your recklessness, I will make\nspecial arrangements for how you will be treated from now\non.
+I understand. In light of your recklessness、 I will make special arrangements\nfor how you will be treated from now on.
 C01a00050042
 
 00003000
 Arisa
-So, just hand it over already. Even if you have it, it's\nsomething that won't be of any use to you.
+So、 just hand it over already. Even if you have it、 it's something that won't be\nof any use to you.
 C01a00050043
 
 00000000
-Taking a step forward, Kisshouji-san reaches out her hand.
+Taking a step forward、 Kisshouji-san reaches out her hand.
 
 00000000
-Those sweet words of making special arrangements momentarily\nshake my heart.
+Those sweet words of making special arrangements momentarily shake my heart.
 
 00000000
-If I do that, will I finally be released from the state of\nbeing trapped in that classroom...?
+If I do that、 will I finally be released from the state of being trapped in that\nclassroom...?
 
 00000000
-No... but if I hand this over, there's no doubt that such a\nverbal promise will be easily broken...
+No... but if I hand this over、 there's no doubt that such a verbal promise will\nbe easily broken...
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-I'll say it again. Even if you have it, it's something that\nwon't be of any use to you.
+I'll say it again. Even if you have it、 it's something that won't be of any use\nto you.
 C01a00050044
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30382F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-A mere mortal who does not possess the blood of a magician\nwill only get hurt by holding onto a discarded toy... No, I\ncan't even guarantee your life.
+A mere mortal who does not possess the blood of a magician will only get hurt by\nholding onto a discarded toy... No、 I can't even guarantee your life.
 C01a00050045
 
 00003000
 Arisa
-If you understand, resign yourself and hand it over.
+If you understand、 resign yourself and hand it over.
 C01a00050046
 
 00000000
 Kisshouji-san takes a step forward and approaches me.
 
 00000000
-There is a small sense of unease there... I unconsciously\nfelt it.
+There is a small sense of unease there... I unconsciously felt it.
 
 00006000
 Takumi
-I have my trump card in my hand... It's a gamble... I have\nno choice but to try...
+I have my trump card in my hand... It's a gamble... I have no choice but to\ntry...
 
 00000000
-I press the button in my pocket and increase the volume of\nthe music flowing from my earphones.
+I press the button in my pocket and increase the volume of the music flowing\nfrom my earphones.
 
 00000000
-And then, I took a step back and without saying anything, \nsuddenly opened the lid of the music box.
+And then、 I took a step back and without saying anything、  suddenly opened the\nlid of the music box.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
@@ -793,16 +793,16 @@ Arisa notices my movement and quickly covers her ears.
 03008C0000000F2753455F6130385F30323034
 
 00000000
-However, before that, the music box played a brief moment\nwith a lower tone.
+However、 before that、 the music box played a brief moment with a lower tone.
 
 00000000
-I hear a faint sound in my own ears, causing me to feel\ndizzy.
+I hear a faint sound in my own ears、 causing me to feel dizzy.
 
 00000000
-However, the loud music drowned out that dizziness, and I\nmanaged to maintain consciousness.
+However、 the loud music drowned out that dizziness、 and I managed to maintain\nconsciousness.
 
 00000000
-And then, as for Kisshouji-san...
+And then、 as for Kisshouji-san...
 
 02007F10
 
@@ -812,7 +812,7 @@ And then, as for Kisshouji-san...
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a00050048
 
 00002000
@@ -820,33 +820,33 @@ Takumi
 ...D-Did it...start playing...?
 
 00000000
-It was an organ I tried to use in a half-hearted manner, but\nit perfectly recreated the figure of that moment when I\nabsentmindedly looked up at the sky.
+It was an organ I tried to use in a half-hearted manner、 but it perfectly\nrecreated the figure of that moment when I absentmindedly looked up at the sky.
 
 00002000
 Takumi
-So, it turns out the magician's blood was just a bluff...\nbecause I didn't notice that I was wearing earphones...
+So、 it turns out the magician's blood was just a bluff... because I didn't\nnotice that I was wearing earphones...
 
 00000000
-If the music playing in my left ear didn't interfere, would\nI have ended up in the same state as well?
+If the music playing in my left ear didn't interfere、 would I have ended up in\nthe same state as well?
 
 00000000
-It's a terrifying tool with no boundaries, but anyway, will\nI be able to make them listen with this?
+It's a terrifying tool with no boundaries、 but anyway、 will I be able to make\nthem listen with this?
 
 00000000
-I turned back to Kisshouji-san and decided to try it out\nright away.
+I turned back to Kisshouji-san and decided to try it out right away.
 
 00002000
 Takumi
-Um... From now on, Kisshouji-san will not oppose anything I\nsay... and naturally come to believe that obeying is the\nright thing to do...
+Um... From now on、 Kisshouji-san will not oppose anything I say... and naturally\ncome to believe that obeying is the right thing to do...
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a00050049
 
 00002000
 Takumi
-I-Is this the right feeling? If you understand... nod once, \nvertically.
+I-Is this the right feeling? If you understand... nod once、  vertically.
 
 0200BC000100012C666D5F433031625F30335F305F305F305F30342F2D3234352F302E37352F302E3735
 
@@ -856,17 +856,17 @@ Arisa
 C01a00050050
 
 00000000
-Kisshouji-san nodded firmly and vertically without any\nhesitation.
+Kisshouji-san nodded firmly and vertically without any hesitation.
 
 00002000
 Takumi
 Did that just... have an effect...?
 
 00000000
-I still don't feel it at all. But it's true that I did as\nKisshouji-san said, and my expression right now is\ndefinitely absent-minded.
+I still don't feel it at all. But it's true that I did as Kisshouji-san said、 \nand my expression right now is definitely absent-minded.
 
 00000000
-As a precaution, I took a step back and closed the music\nbox, observing Kisshouji-san's condition.
+As a precaution、 I took a step back and closed the music box、 observing\nKisshouji-san's condition.
 
 0300AC00
 
@@ -878,18 +878,18 @@ Mmm... Mmm... Ah...
 C01a00050051
 
 00000000
-After a while, Kisshouji-san regained consciousness and\nshook her head slightly. Then, as if nothing had happened, \nshe began to make more demands.
+After a while、 Kisshouji-san regained consciousness and shook her head slightly.\nThen、 as if nothing had happened、  she began to make more demands.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30332F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Come on, stop bothering me. Just hurry up and...
+Come on、 stop bothering me. Just hurry up and...
 C01a00050052
 
 00002000
 Takumi
-D-Don't speak with such an insolent mouth. Answer with "yes"\nand be careful there!
+D-Don't speak with such an insolent mouth. Answer with "yes" and be careful\nthere!
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -899,31 +899,31 @@ Yes!
 C01a00050053
 
 00000000
-In an instant, Kisshouji-san responded vigorously with an\nupright and immovable posture.
+In an instant、 Kisshouji-san responded vigorously with an upright and immovable\nposture.
 
 00000000
-Originally, at that moment, one would have questioned the\nunintended actions and wondered what they were doing.
+Originally、 at that moment、 one would have questioned the unintended actions and\nwondered what they were doing.
 
 00003000
 Arisa
-�c�c�c�c�c�c
+�c�c�c�c�c�c
 C01a00050054
 
 00000000
-However, I started to think that it was only natural to\nfollow my actions... Perhaps it was the influence of those\nwords.
+However、 I started to think that it was only natural to follow my actions...\nPerhaps it was the influence of those words.
 
 00000000
-Kisshouji-san maintained an upright and immovable posture\nwithout any doubt about her actions.
+Kisshouji-san maintained an upright and immovable posture without any doubt\nabout her actions.
 
 00002000
 Takumi
 ...Is it working...
 
 00000000
-I carefully observed Kisshouji-san, who was standing still.
+I carefully observed Kisshouji-san、 who was standing still.
 
 00000000
-It's not like I was forced into that pose. I'm being careful\nof my own accord.
+It's not like I was forced into that pose. I'm being careful of my own accord.
 
 00000000
 However--
@@ -932,44 +932,44 @@ However--
 
 00003000
 Arisa
-Geez, how long are you going to take? That's why I hate\nincompetence.
+Geez、 how long are you going to take? That's why I hate incompetence.
 C01a00050055
 
 00000000
-And yet, the fact that her attitude towards me hadn't\nchanged at all created a rather unnatural situation.
+And yet、 the fact that her attitude towards me hadn't changed at all created a\nrather unnatural situation.
 
 00006000
 Takumi
-So... even if she thinks it's only natural to follow my\norders, it doesn't mean her feelings towards me have\nchanged, huh...
+So... even if she thinks it's only natural to follow my orders、 it doesn't mean\nher feelings towards me have changed、 huh...
 
 00000000
-However, I became convinced with this.
+However、 I became convinced with this.
 
 00000000
-Kisshouji-san is undoubtedly under the control of mind\nmanipulation, and at the very least, the words I spoke have\nbecome something she should listen to.
+Kisshouji-san is undoubtedly under the control of mind manipulation、 and at the\nvery least、 the words I spoke have become something she should listen to.
 
 00000000
-On the contrary, if I were in the opposite situation, no\nmatter what was done to me, I would have accepted it as\ninevitable.
+On the contrary、 if I were in the opposite situation、 no matter what was done to\nme、 I would have accepted it as inevitable.
 
 00000000
-In addition to feeling a chilling sensation, in front of the\ndefenseless Kisshouji-san, a feeling of revenge towards her\nup until now welled up within me.
+In addition to feeling a chilling sensation、 in front of the defenseless\nKisshouji-san、 a feeling of revenge towards her up until now welled up within\nme.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30342F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-What are you staring at so intently? Such a perverted gaze\nfrom a loser... Men truly are despicable creatures.
+What are you staring at so intently? Such a perverted gaze from a loser... Men\ntruly are despicable creatures.
 C01a00050056
 
 00000000
-The unchanged words of disgust ignite an even darker flame\nin my heart.
+The unchanged words of disgust ignite an even darker flame in my heart.
 
 00000000
-If you're going to say that, then let's go all the way and\nbecome even more despicable...
+If you're going to say that、 then let's go all the way and become even more\ndespicable...
 
 00002000
 Takumi
-Yeah... I'm despicable, so let me give you a command as you\nplease. Kisshouji-san, unbutton your uniform and show me\nyour breasts.
+Yeah... I'm despicable、 so let me give you a command as you please. Kisshouji-\nsan、 unbutton your uniform and show me your breasts.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30352F2D3235352F302E37352F302E3735
 
@@ -979,17 +979,17 @@ Arisa
 C01a00050057
 
 00000000
-Kisshouji-san's eyebrows twitched for a moment at my\ncommand.
+Kisshouji-san's eyebrows twitched for a moment at my command.
 
 0200BC000100012C666D5F433031615F30335F305F305F305F30372F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-Fine... I understand. So all I have to do is show you my\nbreasts, right?
+Fine... I understand. So all I have to do is show you my breasts、 right?
 C01a00050058
 
 00000000
-However, that hesitation lasted only a moment. Kisshouji-san\nnodded slightly and gently began to put her hand on her\nuniform.
+However、 that hesitation lasted only a moment. Kisshouji-san nodded slightly and\ngently began to put her hand on her uniform.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 

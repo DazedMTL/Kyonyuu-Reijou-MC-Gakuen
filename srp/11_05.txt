@@ -7,7 +7,7 @@
 020000000100626C
 
 00000000
-Everyone except for one person who I was concerned about has\nbeen under my control for several days.
+Everyone except for one person who I was concerned about has been under my\ncontrol for several days.
 
 05008200D0070000
 
@@ -20,14 +20,14 @@ Takumi
 Phew... This place doesn't get used much anymore...
 
 00000000
-This is the livestock shed that was used until recently to\nrestrain and force the troublesome individuals.
+This is the livestock shed that was used until recently to restrain and force\nthe troublesome individuals.
 
 00000000
-This facility, which has fallen into disuse in its current\nform, was now only functioning to accommodate a single\nstudent.
+This facility、 which has fallen into disuse in its current form、 was now only\nfunctioning to accommodate a single student.
 
 00002000
 Takumi
-Arisa, this kind of place is not good for the baby in your\nbelly anymore.
+Arisa、 this kind of place is not good for the baby in your belly anymore.
 
 0300000000000F2742474D3038
 
@@ -35,7 +35,7 @@ Arisa, this kind of place is not good for the baby in your\nbelly anymore.
 
 00003000
 Arisa
-Shut up! It would be better to starve to death than to give\nbirth to a child like yours, you scum!
+Shut up! It would be better to starve to death than to give birth to a child\nlike yours、 you scum!
 C01a11050001
 
 00000000
@@ -43,17 +43,17 @@ Arisa continues to hurl abusive words at me as usual.
 
 00002000
 Takumi
-Sigh... Rather than being haughty, stubbornness is more like\nArisa's style, I guess.
+Sigh... Rather than being haughty、 stubbornness is more like Arisa's style、 I\nguess.
 
 00000000
-Yes... Even now, Arisa is the only one in this school who\ncontinues to show a spirit of resistance against me.
+Yes... Even now、 Arisa is the only one in this school who continues to show a\nspirit of resistance against me.
 
 00000000
-"Even though she carries within her womb a new life that\nshares blood with me."
+"Even though she carries within her womb a new life that shares blood with me."
 
 00003000
 Arisa
-You have no regard for my will, and the numerous acts of\nmistreatment... It's unforgivable, isn't it...
+You have no regard for my will、 and the numerous acts of mistreatment... It's\nunforgivable、 isn't it...
 C01a11050002
 
 00002000
@@ -64,12 +64,12 @@ I don't really care if you don't forgive me.
 
 00003000
 Arisa
-Oh, have you given up? You really are a stupid man... In the\nend, you can't capture my heart, can you?
+Oh、 have you given up? You really are a stupid man... In the end、 you can't\ncapture my heart、 can you?
 C01a11050003
 
 00002000
 Takumi
-�c�c�c�c
+�c�c�c�c
 
 0200BC000100012C666D5F433031615F30365F305F305F315F30342F2D3235352F302E37352F302E3735
 
@@ -80,13 +80,13 @@ C01a11050004
 
 00002000
 Takumi
-How about you give in already? You're going to become a\nmother, after all.
+How about you give in already? You're going to become a mother、 after all.
 
 0200BC000100012C666D5F433031615F30365F305F305F315F30332F2D3235352F302E37352F302E3735
 
 00003000
 Arisa
-No matter how much you try to persuade me or leave your mark\non my body, it's all in vain...!
+No matter how much you try to persuade me or leave your mark on my body、 it's\nall in vain...!
 C01a11050005
 
 00003000
@@ -96,7 +96,7 @@ C01a11050006
 
 00002000
 Takumi
-Even if it means disregarding the life growing inside your\nbody? ...Arisa, you're not the only one with a life anymore.
+Even if it means disregarding the life growing inside your body? ...Arisa、 \nyou're not the only one with a life anymore.
 
 0200BC000100012C666D5F433031615F30365F305F305F315F30372F2D3235352F302E37352F302E3735
 
@@ -106,17 +106,17 @@ Ugh...
 C01a11050007
 
 00000000
-Arisa was forced to confront the evidence of being violated, \nand she averted her gaze from me while struggling to find\nher words.
+Arisa was forced to confront the evidence of being violated、  and she averted\nher gaze from me while struggling to find her words.
 
 00000000
-Arisa isn't refusing. It's just that the complexes nurtured\nin her repressive environment are getting in the way, \npreventing her from being honest.
+Arisa isn't refusing. It's just that the complexes nurtured in her repressive\nenvironment are getting in the way、  preventing her from being honest.
 
 00002000
 Takumi
-I don't want to leave Arisa, who is trying to become a\nmother, in a place like this.
+I don't want to leave Arisa、 who is trying to become a mother、 in a place like\nthis.
 
 00000000
-As I said that and took a step towards Arisa, she averted\nher gaze from me as if she was scared of something.
+As I said that and took a step towards Arisa、 she averted her gaze from me as if\nshe was scared of something.
 
 0100200002026566666563742C656666656374207363656E655F656E64
 
